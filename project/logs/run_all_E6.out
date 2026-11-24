@@ -122,3 +122,95 @@
 [2026-11-24T23:24:19+00:00] started E6_confirm__lgbm__harm__B_MICU__s103__test (pid 23918, attempt 1)
 [2026-11-24T23:24:34+00:00] done E6_confirm__lgbm__harm__A_SICU__s103__test
 [2026-11-24T23:24:34+00:00] started E6_confirm__lgbm__harm__B_SICU__s103__test (pid 23961, attempt 1)
+[2026-11-24T23:24:54+00:00] done E6_confirm__lgbm__harm__B_MICU__s103__test
+[2026-11-24T23:24:54+00:00] started E6_confirm__lgbm__harm__A_MICU__s104__test (pid 24029, attempt 1)
+[2026-11-24T23:25:09+00:00] done E6_confirm__lgbm__harm__B_SICU__s103__test
+[2026-11-24T23:25:09+00:00] started E6_confirm__lgbm__harm__A_SICU__s104__test (pid 24040, attempt 1)
+[2026-11-24T23:25:24+00:00] done E6_confirm__lgbm__harm__A_MICU__s104__test
+[2026-11-24T23:25:24+00:00] started E6_confirm__lgbm__harm__B_MICU__s104__test (pid 24053, attempt 1)
+[2026-11-24T23:25:34+00:00] done E6_confirm__lgbm__harm__A_SICU__s104__test
+[2026-11-24T23:25:34+00:00] started E6_confirm__lgbm__harm__B_SICU__s104__test (pid 24064, attempt 1)
+[2026-11-24T23:25:54+00:00] done E6_confirm__lgbm__harm__B_MICU__s104__test
+[2026-11-24T23:25:54+00:00] started E6_confirm__lgbm__harm_noproc__A_MICU__s100__test (pid 24079, attempt 1)
+[2026-11-24T23:26:09+00:00] done E6_confirm__lgbm__harm__B_SICU__s104__test
+[2026-11-24T23:26:09+00:00] started E6_confirm__lgbm__harm_noproc__A_SICU__s100__test (pid 24090, attempt 1)
+[2026-11-24T23:26:14+00:00] done E6_confirm__lgbm__harm_noproc__A_MICU__s100__test
+[2026-11-24T23:26:14+00:00] started E6_confirm__lgbm__harm_noproc__B_MICU__s100__test (pid 24101, attempt 1)
+[2026-11-24T23:26:29+00:00] done E6_confirm__lgbm__harm_noproc__A_SICU__s100__test
+[2026-11-24T23:26:29+00:00] started E6_confirm__lgbm__harm_noproc__B_SICU__s100__test (pid 24114, attempt 1)
+[2026-11-24T23:26:39+00:00] done E6_confirm__lgbm__harm_noproc__B_MICU__s100__test
+[2026-11-24T23:26:39+00:00] started E6_confirm__lgbm__harm_noproc__A_MICU__s101__test (pid 24125, attempt 1)
+[2026-11-24T23:26:54+00:00] done E6_confirm__lgbm__harm_noproc__B_SICU__s100__test
+[2026-11-24T23:26:54+00:00] started E6_confirm__lgbm__harm_noproc__A_SICU__s101__test (pid 24140, attempt 1)
+[2026-11-24T23:26:59+00:00] done E6_confirm__lgbm__harm_noproc__A_MICU__s101__test
+[2026-11-24T23:26:59+00:00] started E6_confirm__lgbm__harm_noproc__B_MICU__s101__test (pid 24150, attempt 1)
+[2026-11-24T23:27:15+00:00] done E6_confirm__lgbm__harm_noproc__A_SICU__s101__test
+[2026-11-24T23:27:15+00:00] started E6_confirm__lgbm__harm_noproc__B_SICU__s101__test (pid 24162, attempt 1)
+[2026-11-24T23:27:20+00:00] done E6_confirm__lgbm__harm_noproc__B_MICU__s101__test
+[2026-11-24T23:27:20+00:00] started E6_confirm__lgbm__harm_noproc__A_MICU__s102__test (pid 24175, attempt 1)
+[2026-11-24T23:27:40+00:00] done E6_confirm__lgbm__harm_noproc__B_SICU__s101__test
+[2026-11-24T23:27:40+00:00] done E6_confirm__lgbm__harm_noproc__A_MICU__s102__test
+[2026-11-24T23:27:40+00:00] started E6_confirm__lgbm__harm_noproc__A_SICU__s102__test (pid 24185, attempt 1)
+[2026-11-24T23:27:40+00:00] started E6_confirm__lgbm__harm_noproc__B_MICU__s102__test (pid 24186, attempt 1)
+[2026-11-24T23:28:00+00:00] done E6_confirm__lgbm__harm_noproc__A_SICU__s102__test
+[2026-11-24T23:28:00+00:00] done E6_confirm__lgbm__harm_noproc__B_MICU__s102__test
+[2026-11-24T23:28:00+00:00] started E6_confirm__lgbm__harm_noproc__B_SICU__s102__test (pid 24211, attempt 1)
+[2026-11-24T23:28:00+00:00] started E6_confirm__lgbm__harm_noproc__A_MICU__s103__test (pid 24212, attempt 1)
+[2026-11-24T23:28:20+00:00] done E6_confirm__lgbm__harm_noproc__A_MICU__s103__test
+[2026-11-24T23:28:20+00:00] started E6_confirm__lgbm__harm_noproc__A_SICU__s103__test (pid 24235, attempt 1)
+[2026-11-24T23:28:25+00:00] done E6_confirm__lgbm__harm_noproc__B_SICU__s102__test
+[2026-11-24T23:28:25+00:00] started E6_confirm__lgbm__harm_noproc__B_MICU__s103__test (pid 24245, attempt 1)
+[2026-11-24T23:28:40+00:00] done E6_confirm__lgbm__harm_noproc__A_SICU__s103__test
+[2026-11-24T23:28:40+00:00] started E6_confirm__lgbm__harm_noproc__B_SICU__s103__test (pid 24255, attempt 1)
+[2026-11-24T23:28:50+00:00] done E6_confirm__lgbm__harm_noproc__B_MICU__s103__test
+[2026-11-24T23:28:50+00:00] started E6_confirm__lgbm__harm_noproc__A_MICU__s104__test (pid 24270, attempt 1)
+[2026-11-24T23:29:05+00:00] done E6_confirm__lgbm__harm_noproc__B_SICU__s103__test
+[2026-11-24T23:29:05+00:00] started E6_confirm__lgbm__harm_noproc__A_SICU__s104__test (pid 24280, attempt 1)
+[2026-11-24T23:29:10+00:00] done E6_confirm__lgbm__harm_noproc__A_MICU__s104__test
+[2026-11-24T23:29:10+00:00] started E6_confirm__lgbm__harm_noproc__B_MICU__s104__test (pid 24291, attempt 1)
+[2026-11-24T23:29:25+00:00] done E6_confirm__lgbm__harm_noproc__A_SICU__s104__test
+[2026-11-24T23:29:25+00:00] started E6_confirm__lgbm__harm_noproc__B_SICU__s104__test (pid 24304, attempt 1)
+[2026-11-24T23:29:35+00:00] done E6_confirm__lgbm__harm_noproc__B_MICU__s104__test
+[2026-11-24T23:29:35+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_MICU__s100__test (pid 24316, attempt 1)
+[2026-11-24T23:29:50+00:00] done E6_confirm__lgbm__harm_noproc__B_SICU__s104__test
+[2026-11-24T23:29:50+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_SICU__s100__test (pid 24331, attempt 1)
+[2026-11-24T23:30:05+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_MICU__s100__test
+[2026-11-24T23:30:05+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_MICU__s100__test (pid 24341, attempt 1)
+[2026-11-24T23:30:20+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_SICU__s100__test
+[2026-11-24T23:30:20+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_SICU__s100__test (pid 24356, attempt 1)
+[2026-11-24T23:30:40+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_MICU__s100__test
+[2026-11-24T23:30:40+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_MICU__s101__test (pid 24368, attempt 1)
+[2026-11-24T23:30:55+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_SICU__s100__test
+[2026-11-24T23:30:55+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_SICU__s101__test (pid 24383, attempt 1)
+[2026-11-24T23:31:10+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_MICU__s101__test
+[2026-11-24T23:31:10+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_MICU__s101__test (pid 24394, attempt 1)
+[2026-11-24T23:31:25+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_SICU__s101__test
+[2026-11-24T23:31:25+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_SICU__s101__test (pid 24407, attempt 1)
+[2026-11-24T23:31:45+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_MICU__s101__test
+[2026-11-24T23:31:45+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_MICU__s102__test (pid 24417, attempt 1)
+[2026-11-24T23:32:00+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_SICU__s101__test
+[2026-11-24T23:32:00+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_SICU__s102__test (pid 24433, attempt 1)
+[2026-11-24T23:32:15+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_MICU__s102__test
+[2026-11-24T23:32:15+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_MICU__s102__test (pid 24444, attempt 1)
+[2026-11-24T23:32:30+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_SICU__s102__test
+[2026-11-24T23:32:30+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_SICU__s102__test (pid 24458, attempt 1)
+[2026-11-24T23:32:45+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_MICU__s102__test
+[2026-11-24T23:32:45+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_MICU__s103__test (pid 24469, attempt 1)
+[2026-11-24T23:33:05+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_SICU__s102__test
+[2026-11-24T23:33:05+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_SICU__s103__test (pid 24484, attempt 1)
+[2026-11-24T23:33:15+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_MICU__s103__test
+[2026-11-24T23:33:15+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_MICU__s103__test (pid 24494, attempt 1)
+[2026-11-24T23:33:30+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_SICU__s103__test
+[2026-11-24T23:33:30+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_SICU__s103__test (pid 24508, attempt 1)
+[2026-11-24T23:33:50+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_MICU__s103__test
+[2026-11-24T23:33:50+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_MICU__s104__test (pid 24524, attempt 1)
+[2026-11-24T23:34:05+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_SICU__s103__test
+[2026-11-24T23:34:05+00:00] started E6_confirm__lgbm__harm_noproc_norm__A_SICU__s104__test (pid 24535, attempt 1)
+[2026-11-24T23:34:20+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_MICU__s104__test
+[2026-11-24T23:34:20+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_MICU__s104__test (pid 24548, attempt 1)
+[2026-11-24T23:34:35+00:00] done E6_confirm__lgbm__harm_noproc_norm__A_SICU__s104__test
+[2026-11-24T23:34:35+00:00] started E6_confirm__lgbm__harm_noproc_norm__B_SICU__s104__test (pid 24559, attempt 1)
+[2026-11-24T23:34:55+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_MICU__s104__test
+[2026-11-24T23:35:10+00:00] done E6_confirm__lgbm__harm_noproc_norm__B_SICU__s104__test
+[2026-11-24T23:35:10+00:00] queue drained: {'done': 160}
+/usr/local/bin/python3: can't open file '/home/user/p_c1_16/project/scripts/final_report.py': [Errno 2] No such file or directory
