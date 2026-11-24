@@ -4287,9 +4287,1554 @@
      "cites": null
     }
    ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "diagnosing model performance under distribution shift covariate concept decomposition",
+   "date": "2026-11-24T21:26:45",
+   "openalex_count": 3846,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3171613114",
+     "doi": "https://doi.org/10.48550/arxiv.2107.00643",
+     "title": "Mandoline: Model Evaluation under Distribution Shift",
+     "year": 2021,
+     "venue": "International Conference on Machine Learning",
+     "cites": 75
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4307001602",
+     "doi": "https://doi.org/10.48550/arxiv.2210.10769",
+     "title": "\"Why did the Model Fail?\": Attributing Model Performance Changes to Distribution Shifts",
+     "year": 2023,
+     "venue": "International Conference on Machine Learning",
+     "cites": 37
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3170718858",
+     "doi": "https://doi.org/10.48550/arxiv.2106.07171",
+     "title": "Examining and Combating Spurious Features under Distribution Shift",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 87
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4376270104",
+     "doi": "https://doi.org/10.1007/s00521-023-08622-w",
+     "title": "A domain-region based evaluation of ML performance robustness to covariate shift",
+     "year": 2023,
+     "venue": "Neural Computing and Applications",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7223995249",
+     "doi": "https://doi.org/10.48550/arxiv.2610.33594",
+     "title": "Counterfactual Model Testing Under Distribution Shift",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7118396004",
+     "doi": "https://doi.org/10.48550/arxiv.2601.00908",
+     "title": "Diagnosing Conformal Prediction Failures Under Distribution Shift: A COVID-19 Case Study",
+     "year": 2026,
+     "venue": "Uncertainty in Artificial Intelligence",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7128698137",
+     "doi": "https://doi.org/10.48550/arxiv.2602.10588",
+     "title": "TRACE: Theoretical Risk Attribution under Covariate-shift Effects",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133219428",
+     "doi": "https://doi.org/10.52202/068431-1537",
+     "title": "Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models Under Realistic Distribution Shifts",
+     "year": 2022,
+     "venue": "neural information processing systems",
+     "cites": 34
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4396987295",
+     "doi": "https://doi.org/10.48550/arxiv.2405.09331",
+     "title": "Multi-Source Conformal Inference Under Distribution Shift",
+     "year": 2024,
+     "venue": "PubMed",
+     "cites": 41
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7214906168",
+     "doi": "https://doi.org/10.32628/ijsrst25126427",
+     "title": "ShiftSI: Diagnose Before You Adapt - System Identification of Failure Mechanisms under Compound Distribution Shift",
+     "year": 2024,
+     "venue": "International Journal of Scientific Research in Science and Technology",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4327526462",
+     "doi": "https://doi.org/10.48550/arxiv.2303.08081",
+     "title": "Explanation Shift: How Did the Distribution Shift Impact the Model?",
+     "year": 2025,
+     "venue": "Transactions on machine learning research",
+     "cites": 13
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415823580",
+     "doi": "https://doi.org/10.1073/pnas.2427181122",
+     "title": "Beyond reweighting: On the predictive role of covariate shift in effect generalization",
+     "year": 2025,
+     "venue": "Proceedings of the National Academy of Sciences",
+     "cites": 14
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.05796v1",
+     "doi": null,
+     "title": "Estimating Test Performance for AI Medical Devices under Distribution Shift with Conformal Prediction",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2206.02435v2",
+     "doi": null,
+     "title": "Tackling covariate shift with node-based Bayesian neural networks",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.11486v1",
+     "doi": null,
+     "title": "Time Series Prediction under Distribution Shift using Differentiable Forgetting",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2110.15231v2",
+     "doi": null,
+     "title": "Exploring Covariate and Concept Shift for Detection and Calibration of Out-of-Distribution Data",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.13875v1",
+     "doi": null,
+     "title": "Performance of Genetic Algorithms in the Context of Software Model Refactoring",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1809.09702v1",
+     "doi": null,
+     "title": "The Origins Space Telescope (OST) Mission Concept Study Interim Report",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2401.08348v5",
+     "doi": null,
+     "title": "Estimating Model Performance Under Covariate Shift Without Labels",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.22787v2",
+     "doi": null,
+     "title": "Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "attributing performance drop to distribution shift clinical prediction external validation",
+   "date": "2026-11-24T21:26:48",
+   "openalex_count": 25094,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417466101",
+     "doi": "https://doi.org/10.1287/opre.2023.0217",
+     "title": "Diagnosing Model Performance Under Distribution Shift",
+     "year": 2025,
+     "venue": "Operations Research",
+     "cites": 75
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4307001602",
+     "doi": "https://doi.org/10.48550/arxiv.2210.10769",
+     "title": "\"Why did the Model Fail?\": Attributing Model Performance Changes to Distribution Shifts",
+     "year": 2023,
+     "venue": "International Conference on Machine Learning",
+     "cites": 37
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2996234883",
+     "doi": "https://doi.org/10.1371/journal.pone.0226672",
+     "title": "External validation of clinical prediction rules for complications and mortality following Clostridioides difficile infection",
+     "year": 2019,
+     "venue": "PLoS ONE",
+     "cites": 9
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3112486745",
+     "doi": "https://doi.org/10.48550/arxiv.2012.07421",
+     "title": "WILDS: A Benchmark of in-the-Wild Distribution Shifts",
+     "year": 2021,
+     "venue": "International Conference on Machine Learning",
+     "cites": 771
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4414934271",
+     "doi": "https://doi.org/10.1109/tbme.2025.3618080",
+     "title": "External Validation Complexities: A Comparative Study of Late-Onset Sepsis Prediction Models Across Multiple Clinical Environments",
+     "year": 2025,
+     "venue": "IEEE Transactions on Biomedical Engineering",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7162039252",
+     "doi": "https://doi.org/10.1109/cipher70417.2026.11523789",
+     "title": "Comprehensive Evaluation of Machine Learning for Type 2 Diabetes Risk Prediction: Large-Scale External Validation and Fairness Analysis",
+     "year": 2026,
+     "venue": "International Conference on Intelligent Processing, Hardware, Electronics, and Radio Systems (CIPHER)",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7172516745",
+     "doi": "https://doi.org/10.48550/arxiv.2608.02663",
+     "title": "Variable-aware representation, not relation typing, explains the performance of an event-graph model for ICU mortality prediction: temporal and external validation",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3023773746",
+     "doi": "https://doi.org/10.1016/j.media.2020.101714",
+     "title": "The reliability of a deep learning model in clinical out-of-distribution MRI data: A multicohort study",
+     "year": 2020,
+     "venue": "Medical Image Analysis",
+     "cites": 214
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415711177",
+     "doi": "https://doi.org/10.1097/ms9.0000000000004166",
+     "title": "Assessing the generalizability of artificial intelligence in radiology: a systematic review of performance across different clinical settings",
+     "year": 2025,
+     "venue": "Annals of Medicine and Surgery",
+     "cites": 109
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4283654808",
+     "doi": "https://doi.org/10.3390/ijms23137132",
+     "title": "Outcome Prediction in Critically-Ill Patients with Venous Thromboembolism and/or Cancer Using Machine Learning Algorithms: External Validation and Comparison with Scoring Systems",
+     "year": 2022,
+     "venue": "International Journal of Molecular Sciences",
+     "cites": 34
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7221849386",
+     "doi": "https://doi.org/10.3389/fdgth.2026.1874296",
+     "title": "Multi-environment evaluation and decision-level analysis of clinical prediction models under dataset shift",
+     "year": 2026,
+     "venue": "Frontiers in Digital Health",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7214157344",
+     "doi": "https://doi.org/10.1038/s41746-026-03293-y",
+     "title": "Multi-criterion uncertainty estimation improves skin cancer distribution shift detection and malignancy prediction",
+     "year": 2026,
+     "venue": "npj Digital Medicine",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.05796v1",
+     "doi": null,
+     "title": "Estimating Test Performance for AI Medical Devices under Distribution Shift with Conformal Prediction",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.11486v1",
+     "doi": null,
+     "title": "Time Series Prediction under Distribution Shift using Differentiable Forgetting",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1002.1144v1",
+     "doi": null,
+     "title": "A CHAID Based Performance Prediction Model in Educational Data Mining",
+     "year": "2010",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2011.09625v2",
+     "doi": null,
+     "title": "Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical NLP",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.04725v1",
+     "doi": null,
+     "title": "Lightweight Transformers for Clinical Natural Language Processing",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2210.09440v2",
+     "doi": null,
+     "title": "Using Bottleneck Adapters to Identify Cancer in Clinical Notes under Low-Resource Constraints",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.13875v1",
+     "doi": null,
+     "title": "Performance of Genetic Algorithms in the Context of Software Model Refactoring",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1206.0021v1",
+     "doi": null,
+     "title": "Clinical Productivity System - A Decision Support Model",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "unsupervised domain adaptation fails sepsis prediction hospital conditional shift",
+   "date": "2026-11-24T21:26:50",
+   "openalex_count": 179,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133348849",
+     "doi": "https://doi.org/10.1038/s41746-026-02364-4",
+     "title": "Evaluating deep learning sepsis prediction models in ICUs under distribution shift: a multi-centre retrospective cohort study",
+     "year": 2026,
+     "venue": "npj Digital Medicine",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7211896334",
+     "doi": "https://doi.org/10.68159/m155506526",
+     "title": "Meta-Learning Framework for Rapid Adaptation of Sepsis Prediction Models across Different Intensive Care Units with Varying Data Availability and Patient Demographics",
+     "year": 2023,
+     "venue": "Journal of Artificial Intelligence for Healthcare Systems",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4414687022",
+     "doi": "https://doi.org/10.1038/s41598-025-17593-y",
+     "title": "An infection prediction model developed from inpatient data can predict out-of-hospital COVID-19 infections from wearable data when controlled for dataset shift",
+     "year": 2025,
+     "venue": "Scientific Reports",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3135964538",
+     "doi": "https://doi.org/10.1109/bigdata50022.2020.9378058",
+     "title": "An Adversarial Domain Separation Framework for Septic Shock Early Prediction Across EHR Systems",
+     "year": 2020,
+     "venue": "IEEE International Conference on Big Data (BigData)",
+     "cites": 18
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3124833072",
+     "doi": "https://doi.org/10.1145/3442188.3445865",
+     "title": "Fairness Violations and Mitigation under Covariate Shift",
+     "year": 2021,
+     "venue": "ACM Conference on Fairness, Accountability, and Transparency (FAccT)",
+     "cites": 113
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417466101",
+     "doi": "https://doi.org/10.1287/opre.2023.0217",
+     "title": "Diagnosing Model Performance Under Distribution Shift",
+     "year": 2025,
+     "venue": "Operations Research",
+     "cites": 75
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7164759920",
+     "doi": "https://doi.org/10.3390/diagnostics16121827",
+     "title": "Artificial Intelligence in Infectious Disease Care: Selected Applications in Tuberculosis, Sepsis, and Antimicrobial Stewardship",
+     "year": 2026,
+     "venue": "Diagnostics",
+     "cites": 5
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7221715790",
+     "doi": "https://doi.org/10.1007/s10278-026-02353-9",
+     "title": "Mitigating Domain Shift and Dataset Bias in Deep Learning Models for Cancer Diagnostics",
+     "year": 2026,
+     "venue": "Journal of Imaging Informatics in Medicine",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7155608044",
+     "doi": "https://doi.org/10.66238/ijcbs74",
+     "title": "ClassShift-Clinical: Benchmarking Clinical Prediction Models under Class Imbalance and Distribution Shift",
+     "year": 2026,
+     "venue": "International Journal of Computational and Biological Sciences",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7155205100",
+     "doi": "https://doi.org/10.1007/s10753-026-02512-8",
+     "title": "The Dual Role of Interleukin-10 in Sepsis: Research Progress and Therapeutic Prospects",
+     "year": 2026,
+     "venue": "Inflammation",
+     "cites": 8
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7213297827",
+     "doi": "https://doi.org/10.70070/d6qtne84",
+     "title": "ACCURACY OF ARTIFICIAL INTELLIGENCE IN PREDICTING SEPSIS FROM EMERGENCY LABORATORY PARAMETERS : A SYSTEMATIC REVIEW OF RANDOMISED CONTROLLED TRIALS AND PRIMARY STUDIES",
+     "year": 2026,
+     "venue": "The Indonesian Journal of General Medicine",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4283801824",
+     "doi": "https://doi.org/10.1038/s41551-022-00898-y",
+     "title": "Shifting machine learning for healthcare from development to deployment and from models to data",
+     "year": 2022,
+     "venue": "Nature Biomedical Engineering",
+     "cites": 536
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2307.12837v1",
+     "doi": null,
+     "title": "EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge: Mixed Sequences Prediction",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2107.00337v1",
+     "doi": null,
+     "title": "PoliTO-IIT Submission to the EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.13515v5",
+     "doi": null,
+     "title": "Robust Core-Periphery Constrained Transformer for Domain Adaptation",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2211.10412v3",
+     "doi": null,
+     "title": "Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2209.04525v1",
+     "doi": null,
+     "title": "PoliTO-IIT-CINI Submission to the EPIC-KITCHENS-100 Unsupervised Domain Adaptation Challenge for Action Recognition",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2208.07360v4",
+     "doi": null,
+     "title": "Three New Validators and a Large-Scale Benchmark Ranking for Unsupervised Domain Adaptation",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2409.18340v1",
+     "doi": null,
+     "title": "DRL-STNet: Unsupervised Domain Adaptation for Cross-modality Medical Image Segmentation via Disentangled Representation Learning",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2407.21311v2",
+     "doi": null,
+     "title": "Efficient unsupervised domain adaptation via self-supervised vision transformer and synergistic cross-domain alignment",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "label-free performance estimation external validation clinical model unlabeled target",
+   "date": "2026-11-24T21:26:52",
+   "openalex_count": 4438,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2795974822",
+     "doi": "https://doi.org/10.1109/tcyb.2018.2816984",
+     "title": "AdaSampling for Positive-Unlabeled and Label Noise Learning With Bioinformatics Applications",
+     "year": 2018,
+     "venue": "IEEE Transactions on Cybernetics",
+     "cites": 57
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3128981305",
+     "doi": "https://doi.org/10.1145/3448112",
+     "title": "SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data",
+     "year": 2021,
+     "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+     "cites": 205
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7220537715",
+     "doi": null,
+     "title": "Source Free Pose Adaptation for Clinical Gait Videos Without Patient Labels with Privacy",
+     "year": 2026,
+     "venue": "International Research Journal of Advanced Science",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163396829",
+     "doi": "https://doi.org/10.1016/j.compbiomed.2026.111788",
+     "title": "Robust cross-domain generalization using unlabeled target data with source-domain supervision",
+     "year": 2026,
+     "venue": "Computers in Biology and Medicine",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4386952174",
+     "doi": "https://doi.org/10.1109/tmi.2023.3318364",
+     "title": "UPL-SFDA: Uncertainty-Aware Pseudo Label Guided Source-Free Domain Adaptation for Medical Image Segmentation",
+     "year": 2023,
+     "venue": "IEEE Transactions on Medical Imaging",
+     "cites": 96
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7223011745",
+     "doi": "https://doi.org/10.21203/rs.3.rs-10940907/v1",
+     "title": "Measuring Model Durability under Progressive Tabular Distribution Shift:Absolute Performance, Operational Failure, and Label- Free Monitoring",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417443625",
+     "doi": "https://doi.org/10.2196/69996",
+     "title": "Exploiting Unsupervised Free-Living Data for Cardiorespiratory Fitness Estimation: Systematic Review and Meta-Analysis",
+     "year": 2026,
+     "venue": "JMIR mhealth and uhealth",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7223185132",
+     "doi": "https://doi.org/10.3390/nano16201334",
+     "title": "Empirical Validation of SNR-Dependent Deep Learning Architectures for Label-Free Super-Resolution in Optical Microscopy",
+     "year": 2026,
+     "venue": "Nanomaterials",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1964906547",
+     "doi": "https://doi.org/10.1115/1.4024004",
+     "title": "Nanocarrier Hydrodynamics and Binding in Targeted Drug Delivery: Challenges in Numerical Modeling and Experimental Validation",
+     "year": 2013,
+     "venue": "Journal of Nanotechnology in Engineering and Medicine",
+     "cites": 30
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4398205298",
+     "doi": "https://doi.org/10.1039/d4lc00197d",
+     "title": "Deep learning unlocks label-free viability assessment of cancer spheroids in microfluidics",
+     "year": 2024,
+     "venue": "Lab on a Chip",
+     "cites": 27
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7171523960",
+     "doi": "https://doi.org/10.48550/arxiv.2607.24519",
+     "title": "A Negative-Control Protocol for Clinical EEG Foundation-Model Benchmarks: Dataset Identity and External-Cohort Stress Testing",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4396919954",
+     "doi": "https://doi.org/10.1016/j.media.2024.103207",
+     "title": "MONAI Label: A framework for AI-assisted interactive labeling of 3D medical images",
+     "year": 2024,
+     "venue": "Medical Image Analysis",
+     "cites": 251
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.04725v1",
+     "doi": null,
+     "title": "Lightweight Transformers for Clinical Natural Language Processing",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2011.09625v2",
+     "doi": null,
+     "title": "Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical NLP",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.13875v1",
+     "doi": null,
+     "title": "Performance of Genetic Algorithms in the Context of Software Model Refactoring",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.08226v1",
+     "doi": null,
+     "title": "Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1206.0021v1",
+     "doi": null,
+     "title": "Clinical Productivity System - A Decision Support Model",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2210.09440v2",
+     "doi": null,
+     "title": "Using Bottleneck Adapters to Identify Cancer in Clinical Notes under Low-Resource Constraints",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2412.11704v4",
+     "doi": null,
+     "title": "Adapting Chat Language Models Using Only Target Unlabeled Language Data",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2507.22776v1",
+     "doi": null,
+     "title": "Label-free estimation of clinically relevant performance metrics under distribution shifts",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "importance weighting external validation clinical prediction model case-mix",
+   "date": "2026-11-24T21:26:55",
+   "openalex_count": 7142,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4238788310",
+     "doi": "https://doi.org/10.1002/sim.9025",
+     "title": "Minimum sample size for external validation of a clinical prediction model with a binary outcome",
+     "year": 2021,
+     "venue": "Statistics in Medicine",
+     "cites": 541
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4312141008",
+     "doi": "https://doi.org/10.1186/s41512-022-00136-8",
+     "title": "Targeted validation: validating clinical prediction models in their intended population and setting",
+     "year": 2022,
+     "venue": "Diagnostic and Prognostic Research",
+     "cites": 136
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4220836183",
+     "doi": "https://doi.org/10.1161/circoutcomes.121.008487",
+     "title": "Generalizability of Cardiovascular Disease Clinical Prediction Models: 158 Independent External Validations of 104 Unique Models",
+     "year": 2022,
+     "venue": "Circulation Cardiovascular Quality and Outcomes",
+     "cites": 77
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4412822345",
+     "doi": "https://doi.org/10.1186/s12874-025-02621-2",
+     "title": "Correcting for case-mix shift when developing clinical prediction models",
+     "year": 2025,
+     "venue": "BMC Medical Research Methodology",
+     "cites": 8
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7204499109",
+     "doi": "https://doi.org/10.3389/fmed.2026.1941626",
+     "title": "Hemoptysis risk in hospitalized patients with bronchiectasis: development and external validation of a clinical prediction model",
+     "year": 2026,
+     "venue": "Frontiers in Medicine",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3017224170",
+     "doi": "https://doi.org/10.1007/s10654-020-00636-1",
+     "title": "Prediction meets causal inference: the role of treatment in clinical prediction models",
+     "year": 2020,
+     "venue": "European Journal of Epidemiology",
+     "cites": 172
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2498993605",
+     "doi": "https://doi.org/10.1177/0962280215626466",
+     "title": "A review of statistical updating methods for clinical prediction models",
+     "year": 2016,
+     "venue": "Statistical Methods in Medical Research",
+     "cites": 182
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2913997948",
+     "doi": "https://doi.org/10.1016/j.jclinepi.2019.02.004",
+     "title": "A systematic review shows no performance benefit of machine learning over logistic regression for clinical prediction models",
+     "year": 2019,
+     "venue": "Journal of Clinical Epidemiology",
+     "cites": 2645
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3128749085",
+     "doi": "https://doi.org/10.1101/2021.01.31.21250871",
+     "title": "Clinical Prediction Models for Primary Prevention of Cardiovascular Disease: Validity in Independent Cohorts",
+     "year": 2021,
+     "venue": "medRxiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7169773926",
+     "doi": "https://doi.org/10.1002/bimj.70166",
+     "title": "Comparison of Methods for Incorporating Related Data When Developing Clinical Prediction Models: A Simulation Study",
+     "year": 2026,
+     "venue": "Biometrical Journal",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4414149493",
+     "doi": "https://doi.org/10.1101/2025.09.03.25334979",
+     "title": "Comprehensive, Transparent, and Fair Machine Learning Models for Hypertension Risk Prediction: Benchmarking With Framingham, External Validation, Individual-Level Analysis, and Equitable Clinical Utility",
+     "year": 2025,
+     "venue": "medRxiv",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4380537639",
+     "doi": "https://doi.org/10.1002/sim.9817",
+     "title": "Propensity\u2010based standardization to enhance the validation and interpretation of prediction model discrimination for a target population",
+     "year": 2023,
+     "venue": "Statistics in Medicine",
+     "cites": 11
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.04725v1",
+     "doi": null,
+     "title": "Lightweight Transformers for Clinical Natural Language Processing",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2011.09625v2",
+     "doi": null,
+     "title": "Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical NLP",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.08226v1",
+     "doi": null,
+     "title": "Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2210.09440v2",
+     "doi": null,
+     "title": "Using Bottleneck Adapters to Identify Cancer in Clinical Notes under Low-Resource Constraints",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2010.04757v1",
+     "doi": null,
+     "title": "Predictive Modeling of Anatomy with Genetic and Clinical Data",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2404.17576v1",
+     "doi": null,
+     "title": "Enhancing Longitudinal Clinical Trial Efficiency with Digital Twins and Prognostic Covariate-Adjusted Mixed Models for Repeated Measures (PROCOVA-MMRM)",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1002.1144v1",
+     "doi": null,
+     "title": "A CHAID Based Performance Prediction Model in Educational Data Mining",
+     "year": "2010",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2409.01444v3",
+     "doi": null,
+     "title": "A causal viewpoint on prediction model performance under changes in case-mix: discrimination and calibration respond differently for prognosis and diagnosis predictions",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "case-mix versus predictor effects external validation membership model",
+   "date": "2026-11-24T21:26:58",
+   "openalex_count": 36110,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4401431270",
+     "doi": "https://doi.org/10.1186/s12874-024-02280-9",
+     "title": "Pitfalls of single-study external validation illustrated with a model predicting functional outcome after aneurysmal subarachnoid hemorrhage",
+     "year": 2024,
+     "venue": "BMC Medical Research Methodology",
+     "cites": 14
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2793334647",
+     "doi": "https://doi.org/10.1093/ndt/gfy019",
+     "title": "Prediction models for delayed graft function: external validation on The Dutch Prospective Renal Transplantation Registry",
+     "year": 2018,
+     "venue": "Nephrology Dialysis Transplantation",
+     "cites": 33
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7222943143",
+     "doi": "https://doi.org/10.64898/2026.10.17.26365769",
+     "title": "External Validation of a Brain Imaging Model for Predicting Psychosis in Clinical High-Risk Cohorts",
+     "year": 2026,
+     "venue": "medRxiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2799446353",
+     "doi": "https://doi.org/10.7717/peerj.5096",
+     "title": "Analyzing mixing systems using a new generation of Bayesian tracer mixing models",
+     "year": 2018,
+     "venue": "PeerJ",
+     "cites": 1820
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7161047658",
+     "doi": "https://doi.org/10.48550/arxiv.2605.11284",
+     "title": "Rethinking external validation for the target population: Capturing patient-level similarity with a generative model",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4378365315",
+     "doi": "https://doi.org/10.2139/ssrn.4460186",
+     "title": "The Career Effects of Union Membership",
+     "year": 2023,
+     "venue": "SSRN Electronic Journal",
+     "cites": 15
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W64893914",
+     "doi": null,
+     "title": "A Psychological Approach to Predicting Membership Retentionin the Fitness Industry",
+     "year": 2012,
+     "venue": "Worcester Research and Publications (University of Worcester)",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4240657623",
+     "doi": "https://doi.org/10.1093/ndt/gfy353",
+     "title": "Prediction models for delayed graft function: external validation on The Dutch Prospective Renal Transplantation Registry",
+     "year": 2018,
+     "venue": "Nephrology Dialysis Transplantation",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1522972352",
+     "doi": null,
+     "title": "Multiple Team Membership: A Theoretical Model of Its Effects on Productivity and Learning for Individuals, Teams, and Organizations",
+     "year": 2009,
+     "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2336254838",
+     "doi": "https://doi.org/10.1080/10705511.2016.1158655",
+     "title": "Modeling Predictors of Latent Classes in Regression Mixture Models",
+     "year": 2016,
+     "venue": "Structural Equation Modeling A Multidisciplinary Journal",
+     "cites": 82
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3136807982",
+     "doi": "https://doi.org/10.1002/wat2.1520",
+     "title": "Challenges in modeling and predicting floods and droughts: A review",
+     "year": 2021,
+     "venue": "Wiley Interdisciplinary Reviews Water",
+     "cites": 588
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7203480048",
+     "doi": "https://doi.org/10.48550/arxiv.2608.12885",
+     "title": "Distinguishing case-mix from context heterogeneity in prognostic regression model synthesis settings",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2101.02307v4",
+     "doi": null,
+     "title": "Directed mixed membership stochastic blockmodel",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2410.06914v2",
+     "doi": null,
+     "title": "On Subgroup Separability and Membership Problems in Twisted Right-Angled Artin Groups",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.13236v2",
+     "doi": null,
+     "title": "Inferring the density and membership of stellar streams with flexible models: The GD-1 stream in Gaia Data Release 3",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1504.02035v1",
+     "doi": null,
+     "title": "Set Membership with a Few Bit Probes",
+     "year": "2015",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2610.24919v1",
+     "doi": null,
+     "title": "The pattern of consistency strength for membership in a computably enumerable set",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1612.08468v2",
+     "doi": null,
+     "title": "Visualizing the Effects of Predictor Variables in Black Box Supervised Learning Models",
+     "year": "2016",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.00306v2",
+     "doi": null,
+     "title": "Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1907.09258v1",
+     "doi": null,
+     "title": "Effects of external mechanical loading on stress generation during lithiation in Li-ion battery electrodes",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "sepsis prediction cross-hospital distribution shift label definition Sepsis-3 suspicion of infection practice",
+   "date": "2026-11-24T21:27:01",
+   "openalex_count": 725,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3196930108",
+     "doi": "https://doi.org/10.1038/s41746-021-00504-6",
+     "title": "Artificial intelligence sepsis prediction algorithm learns to say \u201cI don\u2019t know\u201d",
+     "year": 2021,
+     "venue": "npj Digital Medicine",
+     "cites": 176
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3171007518",
+     "doi": "https://doi.org/10.3389/fmed.2021.607952",
+     "title": "Early Prediction of Sepsis in the ICU Using Machine Learning: A Systematic Review",
+     "year": 2021,
+     "venue": "Frontiers in Medicine",
+     "cites": 317
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4206809756",
+     "doi": "https://doi.org/10.1186/s12967-022-03228-7",
+     "title": "Ground truth labels challenge the validity of sepsis consensus definitions in critical illness",
+     "year": 2022,
+     "venue": "Journal of Translational Medicine",
+     "cites": 31
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3212015263",
+     "doi": "https://doi.org/10.5772/intechopen.94701",
+     "title": "Infections and Sepsis Development",
+     "year": 2021,
+     "venue": "IntechOpen eBooks",
+     "cites": 17
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133348849",
+     "doi": "https://doi.org/10.1038/s41746-026-02364-4",
+     "title": "Evaluating deep learning sepsis prediction models in ICUs under distribution shift: a multi-centre retrospective cohort study",
+     "year": 2026,
+     "venue": "npj Digital Medicine",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4394793199",
+     "doi": "https://doi.org/10.1101/2024.02.22.24303211",
+     "title": "Development and Validation of the VIOSync Sepsis Prediction Index: A Novel Machine Learning Model for Sepsis Prediction in ICU Patients",
+     "year": 2024,
+     "venue": "medRxiv",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4233054072",
+     "doi": "https://doi.org/10.22489/cinc.2019.082",
+     "title": "A Recurrent Neural Network for the Prediction of Vital Sign Evolution and Sepsis in ICU",
+     "year": 2019,
+     "venue": "Computing in cardiology",
+     "cites": 10
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2226127884",
+     "doi": null,
+     "title": "Early mucosal colonisation and its role in prediction of invasive infection in neonates at risk of early onset sepsis",
+     "year": 2012,
+     "venue": "DSpace repository (University of Tartu)",
+     "cites": 12
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3012084409",
+     "doi": "https://doi.org/10.1007/978-3-030-03143-5",
+     "title": "Sepsis Management in Resource-limited Settings",
+     "year": 2019,
+     "venue": "Springer eBooks",
+     "cites": 42
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4405409746",
+     "doi": "https://doi.org/10.1186/s40779-024-00581-0",
+     "title": "Viral sepsis: diagnosis, clinical features, pathogenesis, and clinical considerations",
+     "year": 2024,
+     "venue": "Military Medical Research",
+     "cites": 75
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7140225029",
+     "doi": "https://doi.org/10.2196/72083",
+     "title": "The Impact of Evaluation Strategy on Sepsis Prediction Model Performance Metrics in Intensive Care Data: Retrospective Cohort Study",
+     "year": 2026,
+     "venue": "Journal of Medical Internet Research",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7203904259",
+     "doi": "https://doi.org/10.64898/2026.08.18.26360666",
+     "title": "Local retraining mitigates domain shift in sepsis prediction: Lessons from translating a neonatal model to mixed intensive care data",
+     "year": 2026,
+     "venue": "medRxiv",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1908.09038v1",
+     "doi": null,
+     "title": "Identification of Pediatric Sepsis Subphenotypes for Enhanced Machine Learning Predictive Performance: A Latent Profile Analysis",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1609.07214v1",
+     "doi": null,
+     "title": "The Evolving Definition of Sepsis",
+     "year": "2016",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.05702v1",
+     "doi": null,
+     "title": "Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2107.05230v1",
+     "doi": null,
+     "title": "Predicting sepsis in multi-site, multi-national intensive care cohorts using deep learning",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.24500v1",
+     "doi": null,
+     "title": "MIMIC-Sepsis: A Curated Benchmark for Modeling and Learning from Sepsis Trajectories in the ICU",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.11486v1",
+     "doi": null,
+     "title": "Time Series Prediction under Distribution Shift using Differentiable Forgetting",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2112.08224v1",
+     "doi": null,
+     "title": "Disparities in Social Determinants among Performances of Mortality Prediction with Machine Learning for Sepsis Patients",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.05796v1",
+     "doi": null,
+     "title": "Estimating Test Performance for AI Medical Devices under Distribution Shift with Conformal Prediction",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C3_conditional_shift",
+   "query": "domain generalization tabular healthcare ERM baseline distribution shift benchmark",
+   "date": "2026-11-24T21:27:03",
+   "openalex_count": 124,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133246522",
+     "doi": "https://doi.org/10.52202/075280-2324",
+     "title": "Benchmarking Distribution Shift in Tabular Data with TableShift",
+     "year": 2023,
+     "venue": "neural information processing systems",
+     "cites": 125
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4389364104",
+     "doi": "https://doi.org/10.48550/arxiv.2312.01792",
+     "title": "Wild-Tab: A Benchmark For Out-Of-Distribution Generalization In Tabular Regression",
+     "year": 2023,
+     "venue": "arXiv",
+     "cites": 5
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133241986",
+     "doi": "https://doi.org/10.52202/068431-0749",
+     "title": "Wild-Time: A Benchmark of in-The-Wild Distribution Shift Over Time",
+     "year": 2022,
+     "venue": "neural information processing systems",
+     "cites": 187
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7213956228",
+     "doi": "https://doi.org/10.2139/ssrn.7485698",
+     "title": "Improving Generalization of Tabular Machine Learning Models across Temporal and Geographic Distribution Shifts",
+     "year": 2026,
+     "venue": "SSRN Electronic Journal",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415796422",
+     "doi": "https://doi.org/10.52202/079017-3134",
+     "title": "Drift-Resilient TabPFN: In-Context Learning Temporal Distribution Shifts on Tabular Data",
+     "year": 2024,
+     "venue": "neural information processing systems",
+     "cites": 67
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3136873846",
+     "doi": "https://doi.org/10.1145/3450439.3451878",
+     "title": "An empirical framework for domain generalization in clinical settings",
+     "year": 2021,
+     "venue": "ACM Conference on Health, Inference, and Learning (CHIL)",
+     "cites": 86
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4384112337",
+     "doi": "https://doi.org/10.1287/mnsc.2024.08298",
+     "title": "Rethinking Distribution Shifts: Empirical Analysis and Modeling for Tabular Data",
+     "year": 2026,
+     "venue": "Management Science",
+     "cites": 18
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3196850540",
+     "doi": "https://doi.org/10.48550/arxiv.2108.13624",
+     "title": "Towards Out-Of-Distribution Generalization: A Survey",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 924
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3119689247",
+     "doi": "https://doi.org/10.48550/arxiv.2007.10653",
+     "title": "Accounting for Unobserved Confounding in Domain Generalization",
+     "year": 2020,
+     "venue": "arXiv",
+     "cites": 41
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4366503836",
+     "doi": "https://doi.org/10.1109/access.2023.3268704",
+     "title": "Failure to Achieve Domain Invariance With Domain Generalization Algorithms: An Analysis in Medical Imaging",
+     "year": 2023,
+     "venue": "IEEE Access",
+     "cites": 20
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406458718",
+     "doi": "https://doi.org/10.1109/bigdata62323.2024.10825892",
+     "title": "FEED: Fairness-Enhanced Meta-Learning for Domain Generalization",
+     "year": 2024,
+     "venue": "IEEE International Conference on Big Data (BigData)",
+     "cites": 8
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4401302944",
+     "doi": "https://doi.org/10.48550/arxiv.2407.21028",
+     "title": "Antibody DomainBed: Out-of-Distribution Generalization in Therapeutic Protein Design",
+     "year": 2024,
+     "venue": "arXiv",
+     "cites": 9
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2304.01973v4",
+     "doi": null,
+     "title": "ERM++: An Improved Baseline for Domain Generalization",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2312.07577v3",
+     "doi": null,
+     "title": "Benchmarking Distribution Shift in Tabular Data with TableShift",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2307.05284v6",
+     "doi": null,
+     "title": "Rethinking Distribution Shifts: Empirical Analysis and Modeling for Tabular Data",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2303.15563v1",
+     "doi": null,
+     "title": "Privacy-preserving machine learning for healthcare: open challenges and future perspectives",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2309.13184v1",
+     "doi": null,
+     "title": "Document Understanding for Healthcare Referrals",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2211.07893v2",
+     "doi": null,
+     "title": "Federated Learning for Healthcare Domain - Pipeline, Applications and Challenges",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.15297v2",
+     "doi": null,
+     "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2311.10051v1",
+     "doi": null,
+     "title": "Tabular Few-Shot Generalization Across Heterogeneous Feature Spaces",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    }
+   ]
   }
  ],
- "papers_opened": [],
+ "papers_opened": [
+  {
+   "id": "doi:10.1109/jbhi.2023.3253208",
+   "claim": "C2",
+   "read": "abstract (OpenAlex)",
+   "date": "2026-11-24",
+   "does": "SPSSOT: semi-supervised optimal-transport transfer, source hospital to label-scarce target; MIMIC-III + Challenge data; +1\u20133% AUC over transfer baselines",
+   "does_not": "Does not decompose the shift or test whether unlabelled remedies can work without target labels; method paper, abstract only"
+  },
+  {
+   "id": "doi:10.1145/3543507.3583989",
+   "claim": "C2",
+   "read": "abstract (OpenAlex)",
+   "date": "2026-11-24",
+   "does": "SofaNet: cross-centre collaborative learning with SOFA auxiliary task and hidden-space alignment for data-scarce hospitals; MIMIC-III + Challenge",
+   "does_not": "No diagnosis of the shift type; no label-count learning curve in the abstract"
+  },
+  {
+   "id": "doi:10.64898/2026.08.18.26360666",
+   "claim": "C2",
+   "read": "abstract (OpenAlex)",
+   "date": "2026-11-24",
+   "does": "Local retraining recovers discrimination after CHOP\u2192GOSH sepsis model transfer (GB 0.86 vs 0.87)",
+   "does_not": "Paediatric, private data; no decomposition; retraining with full local data"
+  },
+  {
+   "id": "doi:10.1038/s41746-026-02364-4",
+   "claim": "C2/C3",
+   "read": "abstract (OpenAlex)",
+   "date": "2026-11-24",
+   "does": "Compares generalisation, fine-tuning, retraining, target training, supervised DA and fusion training over 4 target sizes on HiRID/MIMIC-IV/eICU; fine-tuning worst",
+   "does_not": "Makes candidate #2 crowded. Does NOT decompose covariate vs conditional shift and does NOT test unsupervised remedies or label-free performance estimation"
+  },
+  {
+   "id": "doi:10.20944/preprints202610.1449.v1",
+   "claim": "C1/C3",
+   "read": "abstract (OpenAlex)",
+   "date": "2026-11-24",
+   "does": "Missingness identifies the hospital; XGBoost 0.725\u21920.608 A\u2192B on PhysioNet 2019; ablation without observation indicators",
+   "does_not": "Focus on missingness and explanation transport; does not show vitals-only failure, pooled recoverability, IW failure or harmonisation artefacts (from abstract)"
+  }
+ ],
  "claims": [],
  "scores": []
 }

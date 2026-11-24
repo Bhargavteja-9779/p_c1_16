@@ -7,10 +7,11 @@ _Last updated: 2026-11-24 (cycle 1, Phase 3 — diagnosis done, topic choice in 
 - **NEXT ACTION (do in this order):**
   1. If data is missing: `bash scripts/download_physionet2019.sh` (until `DONE bad=0`), then `python3 scripts/diagnose_baseline.py` rebuilds features and splits (cached results in results/diagnosis are kept; it skips finished variants).
   2. DONE: D9 diagnosis (journal 007; results/diagnosis/*). DONE: topic/candidates.md (12 candidates).
-  3. Open the closest prior art for candidates #2 and #3 (topic/candidates.md) and log them as opened in state/novelty_ledger.json. Then write topic/selected_topic.md. Current lean: #3 (cross-hospital failure is conditional shift; unsupervised remedies fail) plus #2 (label-efficient local update) as the remedy.
+  3. DONE: closest prior art for #2/#3 opened (5 abstracts in the ledger); #2 rejected as crowded (D14); draft topic in topic/selected_topic.md. NEXT: prior-art check for H3 (prediction-powered inference / control-variate AUROC estimation with few labels; DISDE applied to healthcare) with ≥8 phrasings via scripts/prior_art.py C4_..., open ≥5 papers. Then finalise selected_topic.md (or drop H3).
   4. Then experiments/plan_v1.yaml, src/jobs.py, scripts/final_report.py, scripts/audit_numbers.py.
 - **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535) — verified median Accepted−Received 66 d (full articles, n=318), JIF 11.4 (2025). JCR quartile UNVERIFIED.
-- **Topic:** not yet selected; leaning to candidate #3/#2 (see topic/candidates.md). First idea (missingness patterns = hospital shortcut on PhysioNet 2019) is a DEAD END: already published Oct 2026 (see journal entry 004).
+- **Topic (draft):** why sepsis models fail in a new hospital: conditional shift, failure of unlabelled fixes and label-free estimates, minimal local verification sample (topic/selected_topic.md).
+- **Hypothesis (draft):** H1 most of the A↔B drop is conditional shift; H2 label-free estimates err > 0.03; H3 control-variate local estimate needs fewer labels. First idea (missingness patterns = hospital shortcut on PhysioNet 2019) is a DEAD END: already published Oct 2026 (see journal entry 004).
 - **Hypothesis:** —
 
 ## Running right now
@@ -24,7 +25,7 @@ _Last updated: 2026-11-24 (cycle 1, Phase 3 — diagnosis done, topic choice in 
 | Gate | Status | Evidence |
 |---|---|---|
 | G1 Journal | PASS on ≤72 d + publisher; **JCR Q1 UNVERIFIED** | journal_selection/selected_journal.md |
-| G2 Prior art | in progress (queries logged) | state/novelty_ledger.json |
+| G2 Prior art | in progress: 31 queries, 5 papers opened (abstracts), need ≥30 | state/novelty_ledger.json |
 | G3 Novelty | unknown | — |
 | G4 Baselines | unknown | — |
 | G5 Main result | unknown | — |
