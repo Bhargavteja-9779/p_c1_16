@@ -1,7 +1,9 @@
-[2026-11-24T22:26:47+00:00] mode=full plan=plan_v2.yaml jobs_total=160 added=100
-[2026-11-24T22:26:47+00:00] started E6_confirm__lgbm__none__A_MICU__s100__test (pid 2141, attempt 1)
-[2026-11-24T22:26:47+00:00] started E6_confirm__lgbm__none__A_SICU__s100__test (pid 2142, attempt 1)
-[2026-11-24T22:27:12+00:00] done E6_confirm__lgbm__none__A_SICU__s100__test
-[2026-11-24T22:27:12+00:00] started E6_confirm__lgbm__none__B_MICU__s100__test (pid 2171, attempt 1)
-[2026-11-24T22:27:17+00:00] done E6_confirm__lgbm__none__A_MICU__s100__test
-[2026-11-24T22:27:17+00:00] started E6_confirm__lgbm__none__B_SICU__s100__test (pid 2188, attempt 1)
+[2026-11-24T23:02:20+00:00] recovered interrupted job E6_confirm__lgbm__none__B_MICU__s100__test -> pending (resumes from checkpoint)
+[2026-11-24T23:02:20+00:00] recovered interrupted job E6_confirm__lgbm__none__B_SICU__s100__test -> pending (resumes from checkpoint)
+[2026-11-24T23:02:20+00:00] mode=full plan=plan_v2.yaml jobs_total=160 added=0
+[2026-11-24T23:02:20+00:00] started E6_confirm__lgbm__none__B_MICU__s100__test (pid 22211, attempt 2)
+[2026-11-24T23:02:20+00:00] started E6_confirm__lgbm__none__B_SICU__s100__test (pid 22212, attempt 2)
+[2026-11-24T23:02:25+00:00] failed E6_confirm__lgbm__none__B_MICU__s100__test rc=1; will retry (attempt 2/3)
+[2026-11-24T23:02:25+00:00] failed E6_confirm__lgbm__none__B_SICU__s100__test rc=1; will retry (attempt 2/3)
+[2026-11-24T23:02:25+00:00] started E6_confirm__lgbm__none__B_MICU__s100__test (pid 22223, attempt 3)
+[2026-11-24T23:02:25+00:00] started E6_confirm__lgbm__none__B_SICU__s100__test (pid 22224, attempt 3)

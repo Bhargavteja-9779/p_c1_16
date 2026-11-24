@@ -1884,10 +1884,11 @@
       ],
       "threads": 2,
       "status": "running",
-      "attempts": 1,
+      "attempts": 3,
       "plan": "plan_v2.yaml",
       "added": "2026-11-24T22:26:47+00:00",
-      "started": "2026-11-24T22:27:12+00:00"
+      "started": "2026-11-24T23:02:25+00:00",
+      "last_rc": 1
     },
     {
       "id": "E6_confirm__lgbm__none__B_SICU__s100__test",
@@ -1913,10 +1914,11 @@
       ],
       "threads": 2,
       "status": "running",
-      "attempts": 1,
+      "attempts": 3,
       "plan": "plan_v2.yaml",
       "added": "2026-11-24T22:26:47+00:00",
-      "started": "2026-11-24T22:27:17+00:00"
+      "started": "2026-11-24T23:02:25+00:00",
+      "last_rc": 1
     },
     {
       "id": "E6_confirm__lgbm__none__A_MICU__s101__test",
