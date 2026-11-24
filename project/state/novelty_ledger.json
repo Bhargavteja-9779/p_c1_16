@@ -2595,6 +2595,650 @@
      "cites": null
     }
    ]
+  },
+  {
+   "claim": "ICULOS_SHORTCUT",
+   "query": "ICULOS shortcut sepsis prediction PhysioNet 2019",
+   "date": "2026-11-24T19:05:16",
+   "openalex_count": 0,
+   "hits": [
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1909.04938v1",
+     "doi": null,
+     "title": "MAGIC and MWL monitoring of the blazar TXS 0506+056 in the 2018/2019 season",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1910.01795v2",
+     "doi": null,
+     "title": "SMP Challenge: An Overview of Social Media Prediction Challenge 2019",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2505.22840v1",
+     "doi": null,
+     "title": "Development and Validation of SXI++ LNM Algorithm for Sepsis Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1908.09038v1",
+     "doi": null,
+     "title": "Identification of Pediatric Sepsis Subphenotypes for Enhanced Machine Learning Predictive Performance: A Latent Profile Analysis",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1907.09854v1",
+     "doi": null,
+     "title": "Overview and Results: CL-SciSumm Shared Task 2019",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1910.06792v1",
+     "doi": null,
+     "title": "Early Prediction of Sepsis From Clinical Datavia Heterogeneous Event Aggregation",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1905.10831v1",
+     "doi": null,
+     "title": "ABCD Neurocognitive Prediction Challenge 2019: Predicting individual fluid intelligence scores from structural MRI using probabilistic segmentation and kernel ridge regression",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1910.11493v2",
+     "doi": null,
+     "title": "The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "ICULOS_SHORTCUT",
+   "query": "time in ICU feature leakage sepsis early prediction",
+   "date": "2026-11-24T19:05:19",
+   "openalex_count": 3042,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7166662813",
+     "doi": "https://doi.org/10.3390/biomedinformatics6040040",
+     "title": "DeepTemporal-Sepsis: A Calibrated Transformer Framework for Early ICU Sepsis Prediction with Grad-CAM Temporal Phenotyping",
+     "year": 2026,
+     "venue": "BioMedInformatics",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417328945",
+     "doi": "https://doi.org/10.1186/s12911-025-03274-3",
+     "title": "Early prediction of vasopressor initiation in ICU sepsis patients using an interpretable EHR-based ML model",
+     "year": 2025,
+     "venue": "BMC Medical Informatics and Decision Making",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4221152015",
+     "doi": "https://doi.org/10.48550/arxiv.2203.14469",
+     "title": "Integrating Physiological Time Series and Clinical Notes with Transformer for Early Prediction of Sepsis",
+     "year": 2022,
+     "venue": "arXiv",
+     "cites": 38
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4416011472",
+     "doi": "https://doi.org/10.21203/rs.3.rs-7583009/v1",
+     "title": "Sequential Learning for Sepsis Prediction: LSTM and Transformer Architectures on ICU Time Series Data",
+     "year": 2025,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7128597113",
+     "doi": "https://doi.org/10.1177/20552076261422630",
+     "title": "Machine learning for the early prediction of sepsis patients in the intensive care unit (ICU) based on clinical data",
+     "year": 2026,
+     "venue": "Digital Health",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7164049297",
+     "doi": "https://doi.org/10.17780/ksujes.1898877",
+     "title": "DECISION-AWARE TWO-STAGE CLASSIFICATION FOR EARLY SEPSIS PREDICTION IN IMBALANCED ICU DATA",
+     "year": 2026,
+     "venue": "Kahramanmara\u015f S\u00fct\u00e7\u00fc \u0130mam \u00dcniversitesi M\u00fchendislik Bilimleri Dergisi",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7214334928",
+     "doi": "https://doi.org/10.51483/ijaiml.6.10s.2026.1810-1821",
+     "title": "A Unified Weighted Ensemble Framework for Simultaneous Early Sepsis Prediction and ICU Intervention Requirement Forecasting",
+     "year": 2026,
+     "venue": "International Journal of Artificial Intelligence and Machine Learning",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4366987332",
+     "doi": "https://doi.org/10.3390/microorganisms11051119",
+     "title": "Multi-Omics Endotypes in ICU Sepsis-Induced Immunosuppression",
+     "year": 2023,
+     "venue": "Microorganisms",
+     "cites": 47
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4411242846",
+     "doi": "https://doi.org/10.3390/biomedicines13061449",
+     "title": "Machine Learning-Augmented Triage for Sepsis: Real-Time ICU Mortality Prediction Using SHAP-Explained Meta-Ensemble Models",
+     "year": 2025,
+     "venue": "Biomedicines",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4411006812",
+     "doi": "https://doi.org/10.1186/s40635-025-00765-5",
+     "title": "Explainable machine learning models for mortality prediction in patients with sepsis in tertiary care hospital ICU in low- to middle-income countries",
+     "year": 2025,
+     "venue": "Intensive Care Medicine Experimental",
+     "cites": 24
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7222477827",
+     "doi": "https://doi.org/10.47857/irjms.2026.v07i04.010543",
+     "title": "Multimodal Deep Learning Framework for Early Sepsis Prediction Using ICU Physiological and Clinical Data",
+     "year": 2026,
+     "venue": "International Research Journal of Multidisciplinary Scope",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4398167886",
+     "doi": "https://doi.org/10.1007/s10729-024-09673-8",
+     "title": "A machine learning framework for interpretable predictions in patient pathways: The case of predicting ICU admission for patients with symptoms of sepsis",
+     "year": 2024,
+     "venue": "Health Care Management Science",
+     "cites": 34
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.15985v2",
+     "doi": null,
+     "title": "MEET-Sepsis: Multi-Endogenous-View Enhanced Time-Series Representation Learning for Early Sepsis Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2304.12737v3",
+     "doi": null,
+     "title": "NPRL: Nightly Profile Representation Learning for Early Sepsis Onset Prediction in ICU Trauma Patients",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2203.14469v1",
+     "doi": null,
+     "title": "Integrating Physiological Time Series and Clinical Notes with Transformer for Early Prediction of Sepsis",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.24500v1",
+     "doi": null,
+     "title": "MIMIC-Sepsis: A Curated Benchmark for Modeling and Learning from Sepsis Trajectories in the ICU",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2505.22840v1",
+     "doi": null,
+     "title": "Development and Validation of SXI++ LNM Algorithm for Sepsis Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2107.11094v1",
+     "doi": null,
+     "title": "Improving Early Sepsis Prediction with Multi Modal Learning",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1908.04759v1",
+     "doi": null,
+     "title": "DeepAISE -- An End-to-End Development and Deployment of a Recurrent Neural Survival Model for Early Prediction of Sepsis",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2512.24253v1",
+     "doi": null,
+     "title": "Early Prediction of Sepsis using Heart Rate Signals and Genetic Optimized LSTM Algorithm",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "ICULOS_SHORTCUT",
+   "query": "PhysioNet Computing in Cardiology 2019 sepsis label timing hospital differences",
+   "date": "2026-11-24T19:05:21",
+   "openalex_count": 102,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7160380365",
+     "doi": "https://doi.org/10.1136/bmjhci-2025-101762",
+     "title": "Early sepsis prediction using a hybrid LSTM-GAT model: a study on the PhysioNet 2019 dataset",
+     "year": 2026,
+     "venue": "BMJ Health & Care Informatics",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7130361739",
+     "doi": "https://doi.org/10.1088/1361-6579/ae92e7",
+     "title": "From PhysioNet to foundation models\u2014a history and potential futures",
+     "year": 2026,
+     "venue": "Physiological Measurement",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4386615065",
+     "doi": "https://doi.org/10.1371/journal.pdig.0000324",
+     "title": "Heart murmur detection from phonocardiogram recordings: The George B. Moody PhysioNet Challenge 2022",
+     "year": 2023,
+     "venue": "PLOS Digital Health",
+     "cites": 167
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4394793199",
+     "doi": "https://doi.org/10.1101/2024.02.22.24303211",
+     "title": "Development and Validation of the VIOSync Sepsis Prediction Index: A Novel Machine Learning Model for Sepsis Prediction in ICU Patients",
+     "year": 2024,
+     "venue": "medRxiv",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3185017517",
+     "doi": "https://doi.org/10.48550/arxiv.2107.11094",
+     "title": "Improving Early Sepsis Prediction with Multi Modal Learning",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 12
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4235545163",
+     "doi": "https://doi.org/10.22489/cinc.2019.297",
+     "title": "An Ensemble LSTM Architecture for Clinical Sepsis Detection",
+     "year": 2019,
+     "venue": "Computing in cardiology",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4413741073",
+     "doi": "https://doi.org/10.3390/diagnostics15172169",
+     "title": "The Potential of Artificial Intelligence in the Diagnosis and Prognosis of Sepsis: A Narrative Review",
+     "year": 2025,
+     "venue": "Diagnostics",
+     "cites": 24
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3196930108",
+     "doi": "https://doi.org/10.1038/s41746-021-00504-6",
+     "title": "Artificial intelligence sepsis prediction algorithm learns to say \u201cI don\u2019t know\u201d",
+     "year": 2021,
+     "venue": "npj Digital Medicine",
+     "cites": 176
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3082461687",
+     "doi": "https://doi.org/10.1109/embc44109.2020.9176323",
+     "title": "Practical Machine Learning-Based Sepsis Prediction",
+     "year": 2020,
+     "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+     "cites": 15
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7233582942",
+     "doi": "https://doi.org/10.64898/2026.11.12.26367959",
+     "title": "Effect of Data Preprocessing Decisions on Sepsis-3 Labels in MIMIC-III and eICU-CRD: A Sensitivity Analysis",
+     "year": 2026,
+     "venue": "medRxiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4321612076",
+     "doi": "https://doi.org/10.1038/s41598-023-30091-3",
+     "title": "Exploring a global interpretation mechanism for deep learning networks when predicting sepsis",
+     "year": 2023,
+     "venue": "Scientific Reports",
+     "cites": 31
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406170188",
+     "doi": "https://doi.org/10.3390/make7010006",
+     "title": "AI Advances in ICU with an Emphasis on Sepsis Prediction: An Overview",
+     "year": 2025,
+     "venue": "Machine Learning and Knowledge Extraction",
+     "cites": 36
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2602.15371v2",
+     "doi": null,
+     "title": "From PhysioNet to Foundation Models -- A History and Potential Futures",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2603.15603v1",
+     "doi": null,
+     "title": "Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1909.04938v1",
+     "doi": null,
+     "title": "MAGIC and MWL monitoring of the blazar TXS 0506+056 in the 2018/2019 season",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1907.09854v1",
+     "doi": null,
+     "title": "Overview and Results: CL-SciSumm Shared Task 2019",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1907.12698v1",
+     "doi": null,
+     "title": "EVO* 2019 -- Late-Breaking Abstracts Volume",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1908.09038v1",
+     "doi": null,
+     "title": "Identification of Pediatric Sepsis Subphenotypes for Enhanced Machine Learning Predictive Performance: A Latent Profile Analysis",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1910.11493v2",
+     "doi": null,
+     "title": "The SIGMORPHON 2019 Shared Task: Morphological Analysis in Context and Cross-Lingual Transfer for Inflection",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1910.06792v1",
+     "doi": null,
+     "title": "Early Prediction of Sepsis From Clinical Datavia Heterogeneous Event Aggregation",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "ICULOS_SHORTCUT",
+   "query": "sepsis onset time distribution differs between hospitals prediction model",
+   "date": "2026-11-24T19:05:24",
+   "openalex_count": 15284,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2141151213",
+     "doi": "https://doi.org/10.1126/scitranslmed.3005893",
+     "title": "An Integrated Clinico-Metabolomic Model Improves Prediction of Death in Sepsis",
+     "year": 2013,
+     "venue": "Science Translational Medicine",
+     "cites": 559
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4317036095",
+     "doi": "https://doi.org/10.3390/microorganisms11020235",
+     "title": "Early Diagnosis of Late-Onset Neonatal Sepsis Using a Sepsis Prediction Score",
+     "year": 2023,
+     "venue": "Microorganisms",
+     "cites": 39
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4285083289",
+     "doi": "https://doi.org/10.3389/fmed.2022.915224",
+     "title": "In-Hospital Mortality of Sepsis Differs Depending on the Origin of Infection: An Investigation of Predisposing Factors",
+     "year": 2022,
+     "venue": "Frontiers in Medicine",
+     "cites": 51
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2558286900",
+     "doi": "https://doi.org/10.1016/j.jcrc.2016.11.037",
+     "title": "Sepsis as 2 problems: Identifying sepsis at admission and predicting onset in the hospital using an electronic medical record\u2013based acuity score",
+     "year": 2016,
+     "venue": "Journal of Critical Care",
+     "cites": 69
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4409204375",
+     "doi": "https://doi.org/10.1038/s41746-025-01587-1",
+     "title": "A methodological systematic review of validation and performance of sepsis real-time prediction models",
+     "year": 2025,
+     "venue": "npj Digital Medicine",
+     "cites": 37
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2896652973",
+     "doi": "https://doi.org/10.3389/fped.2018.00285",
+     "title": "Culture-Negative Early-Onset Neonatal Sepsis \u2014 At the Crossroad Between Efficient Sepsis Care and Antimicrobial Stewardship",
+     "year": 2018,
+     "venue": "Frontiers in Pediatrics",
+     "cites": 365
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4403133164",
+     "doi": "https://doi.org/10.36632/csi/2024.13.1.8",
+     "title": "The Utility of Early Onset Sepsis Calculator and Procalcitonin in Prediction of Early Onset Neonatal Sepsis",
+     "year": 2024,
+     "venue": "Current Science International",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3125024173",
+     "doi": "https://doi.org/10.1097/cce.0000000000000302",
+     "title": "Prediction of Late-Onset Sepsis in Preterm Infants Using Monitoring Signals and Machine Learning",
+     "year": 2021,
+     "venue": "Critical Care Explorations",
+     "cites": 72
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7151591252",
+     "doi": "https://doi.org/10.1001/jamanetworkopen.2026.5599",
+     "title": "Performance of a Sepsis Prediction Model Across Different Sepsis Definitions",
+     "year": 2026,
+     "venue": "JAMA Network Open",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1989415069",
+     "doi": "https://doi.org/10.1371/journal.pone.0006642",
+     "title": "Continuous Multi-Parameter Heart Rate Variability Analysis Heralds Onset of Sepsis in Adults",
+     "year": 2009,
+     "venue": "PLoS ONE",
+     "cites": 337
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3016555942",
+     "doi": "https://doi.org/10.1007/s00134-017-4683-6",
+     "title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016",
+     "year": 2017,
+     "venue": "Intensive Care Medicine",
+     "cites": 7984
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3045454797",
+     "doi": "https://doi.org/10.1097/ccm.0000000000002255",
+     "title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016",
+     "year": 2017,
+     "venue": "Critical Care Medicine",
+     "cites": 4167
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/gr-qc/9810059v1",
+     "doi": null,
+     "title": "Space-time distributions",
+     "year": "1998",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1908.09038v1",
+     "doi": null,
+     "title": "Identification of Pediatric Sepsis Subphenotypes for Enhanced Machine Learning Predictive Performance: A Latent Profile Analysis",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2505.22840v1",
+     "doi": null,
+     "title": "Development and Validation of SXI++ LNM Algorithm for Sepsis Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2509.20885v1",
+     "doi": null,
+     "title": "Improving Early Sepsis Onset Prediction Through Federated Learning",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2304.12737v3",
+     "doi": null,
+     "title": "NPRL: Nightly Profile Representation Learning for Early Sepsis Onset Prediction in ICU Trauma Patients",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2402.03486v1",
+     "doi": null,
+     "title": "Early prediction of onset of sepsis in Clinical Setting",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2408.01612v2",
+     "doi": null,
+     "title": "Data-Driven Machine Learning Approaches for Predicting In-Hospital Sepsis Mortality",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.05702v1",
+     "doi": null,
+     "title": "Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    }
+   ]
   }
  ],
  "papers_opened": [],
