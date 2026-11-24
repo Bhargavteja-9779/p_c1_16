@@ -1,1 +1,10 @@
-{"unit": "compute seconds (CPU; no GPU available on this machine)", "per_cycle": {}, "global_seconds": 0, "cycle_ceiling_h": 15, "global_ceiling_h": 120}
+{
+  "unit": "compute seconds (CPU; no GPU available on this machine)",
+  "per_cycle": {
+    "1": 600
+  },
+  "global_seconds": 600,
+  "cycle_ceiling_h": 15,
+  "global_ceiling_h": 120,
+  "note": "cycle1: ~600 s machine time for feature build + D9 diagnostic (estimate from logs, rounded up)"
+}
