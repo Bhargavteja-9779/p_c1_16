@@ -161,3 +161,11 @@
 [2026-11-24T23:14:43+00:00] done E6_confirm__lgbm__none__A_SICU__s101__test
 [2026-11-24T23:14:43+00:00] started E6_confirm__lgbm__none__B_MICU__s101__test (pid 22870, attempt 1)
 [2026-11-24T23:14:43+00:00] started E6_confirm__lgbm__none__B_SICU__s101__test (pid 22871, attempt 1)
+[2026-11-24T23:15:13+00:00] done E6_confirm__lgbm__none__B_MICU__s101__test
+[2026-11-24T23:15:13+00:00] started E6_confirm__lgbm__none__A_MICU__s102__test (pid 22944, attempt 1)
+[2026-11-24T23:15:18+00:00] done E6_confirm__lgbm__none__B_SICU__s101__test
+[2026-11-24T23:15:18+00:00] started E6_confirm__lgbm__none__A_SICU__s102__test (pid 22966, attempt 1)
+[2026-11-24T23:15:43+00:00] done E6_confirm__lgbm__none__A_MICU__s102__test
+[2026-11-24T23:15:43+00:00] done E6_confirm__lgbm__none__A_SICU__s102__test
+[2026-11-24T23:15:43+00:00] started E6_confirm__lgbm__none__B_MICU__s102__test (pid 22986, attempt 1)
+[2026-11-24T23:15:43+00:00] started E6_confirm__lgbm__none__B_SICU__s102__test (pid 22987, attempt 1)
