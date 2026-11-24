@@ -11,7 +11,7 @@ _Last updated: 2026-11-24 23:20 UTC (cycle 1, E6 confirmation running — resume
      `python3 scripts/analyze_transport.py --experiment E6_confirm --split test --fix-exp E6_confirm --nboot 2000`
      and `python3 scripts/e5_estimators.py --experiment E6_confirm --split test`.
   3. Write a RESULT journal entry, update gates G5–G8, the novelty score and variants_tried.
-  4. Then: G4 (compare reproduced numbers with published A/B results), the G7 breadth decision (eICU demo, plan_v3), scripts/final_report.py, scripts/audit_numbers.py, and prior art to ≥30 opened papers.
+  4. Then: G4 (compare reproduced numbers with published A/B results), the G7 breadth decision (eICU demo, plan_v3), scripts/final_report.py, scripts/audit_numbers.py, (prior art ≥30 opened: done, D20).
 - **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535). Verified median Accepted−Received 66 d; JIF 11.4; JCR quartile UNVERIFIED.
 - **Topic (v2):** factorial ICU-unit × hospital transport analysis of sepsis early warning on PhysioNet 2019 (topic/selected_topic.md).
 - **Hypotheses (plan_v2):**
@@ -35,7 +35,7 @@ _Last updated: 2026-11-24 23:20 UTC (cycle 1, E6 confirmation running — resume
 | Gate | Status | Evidence |
 |---|---|---|
 | G1 Journal | PASS on ≤72 d + publisher; **JCR Q1 UNVERIFIED** | journal_selection/selected_journal.md |
-| G2 Prior art | in progress: 40 queries, 5 papers opened (abstracts) + 17 journal papers (Phase 2); need ≥30 opened for the claim | state/novelty_ledger.json |
+| G2 Prior art | **count met**: 82 queries, 48 papers opened (≥8 queries/claim for P1–P3); claim table done; P1 design appears novel, P2/P3 partly done (D20). Re-check before writing. | state/novelty_ledger.json, literature/claim_table_v2.md |
 | G3 Novelty | unknown | — |
 | G4 Baselines | unknown | — |
 | G5 Main result | unknown | — |

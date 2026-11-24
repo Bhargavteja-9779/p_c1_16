@@ -2127,11 +2127,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v2.yaml",
       "added": "2026-11-24T22:26:47+00:00",
-      "started": "2026-11-24T23:15:43+00:00"
+      "started": "2026-11-24T23:15:43+00:00",
+      "finished": "2026-11-24T23:16:18+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__B_SICU__s102__test",
@@ -2156,11 +2157,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v2.yaml",
       "added": "2026-11-24T22:26:47+00:00",
-      "started": "2026-11-24T23:15:43+00:00"
+      "started": "2026-11-24T23:15:43+00:00",
+      "finished": "2026-11-24T23:16:18+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__A_MICU__s103__test",
@@ -2185,10 +2187,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:16:18+00:00",
+      "finished": "2026-11-24T23:16:48+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__A_SICU__s103__test",
@@ -2213,10 +2217,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:16:18+00:00",
+      "finished": "2026-11-24T23:16:43+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__B_MICU__s103__test",
@@ -2241,10 +2247,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:16:43+00:00",
+      "finished": "2026-11-24T23:17:13+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__B_SICU__s103__test",
@@ -2269,10 +2277,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:16:48+00:00",
+      "finished": "2026-11-24T23:17:23+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__A_MICU__s104__test",
@@ -2297,10 +2307,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:17:13+00:00",
+      "finished": "2026-11-24T23:17:39+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__A_SICU__s104__test",
@@ -2325,10 +2337,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:17:24+00:00",
+      "finished": "2026-11-24T23:17:49+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__B_MICU__s104__test",
@@ -2353,10 +2367,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:17:39+00:00",
+      "finished": "2026-11-24T23:18:09+00:00"
     },
     {
       "id": "E6_confirm__lgbm__none__B_SICU__s104__test",
@@ -2381,10 +2397,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:17:49+00:00",
+      "finished": "2026-11-24T23:18:24+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_MICU__s100__test",
@@ -2409,10 +2427,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:18:09+00:00",
+      "finished": "2026-11-24T23:18:24+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_SICU__s100__test",
@@ -2437,10 +2457,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:18:24+00:00",
+      "finished": "2026-11-24T23:18:44+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_MICU__s100__test",
@@ -2465,10 +2487,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:18:24+00:00",
+      "finished": "2026-11-24T23:18:44+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_SICU__s100__test",
@@ -2493,10 +2517,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:18:44+00:00",
+      "finished": "2026-11-24T23:19:04+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_MICU__s101__test",
@@ -2521,10 +2547,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:18:44+00:00",
+      "finished": "2026-11-24T23:18:59+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_SICU__s101__test",
@@ -2549,10 +2577,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:18:59+00:00",
+      "finished": "2026-11-24T23:19:14+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_MICU__s101__test",
@@ -2577,10 +2607,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:04+00:00",
+      "finished": "2026-11-24T23:19:19+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_SICU__s101__test",
@@ -2605,10 +2637,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:14+00:00",
+      "finished": "2026-11-24T23:19:29+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_MICU__s102__test",
@@ -2633,10 +2667,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:19+00:00",
+      "finished": "2026-11-24T23:19:34+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_SICU__s102__test",
@@ -2661,10 +2697,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:29+00:00",
+      "finished": "2026-11-24T23:19:44+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_MICU__s102__test",
@@ -2689,10 +2727,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:34+00:00",
+      "finished": "2026-11-24T23:19:49+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_SICU__s102__test",
@@ -2717,10 +2757,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:44+00:00",
+      "finished": "2026-11-24T23:19:59+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_MICU__s103__test",
@@ -2745,10 +2787,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:49+00:00",
+      "finished": "2026-11-24T23:20:04+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_SICU__s103__test",
@@ -2773,10 +2817,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:19:59+00:00",
+      "finished": "2026-11-24T23:20:14+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_MICU__s103__test",
@@ -2801,10 +2847,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:20:04+00:00",
+      "finished": "2026-11-24T23:20:19+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_SICU__s103__test",
@@ -2829,10 +2877,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:20:14+00:00",
+      "finished": "2026-11-24T23:20:34+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_MICU__s104__test",
@@ -2857,10 +2907,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:20:19+00:00",
+      "finished": "2026-11-24T23:20:34+00:00"
     },
     {
       "id": "E6_confirm__lr__none__A_SICU__s104__test",
@@ -2885,10 +2937,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:20:34+00:00",
+      "finished": "2026-11-24T23:20:54+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_MICU__s104__test",
@@ -2913,10 +2967,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:20:34+00:00",
+      "finished": "2026-11-24T23:20:54+00:00"
     },
     {
       "id": "E6_confirm__lr__none__B_SICU__s104__test",
@@ -2941,10 +2997,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:20:54+00:00",
+      "finished": "2026-11-24T23:21:14+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_MICU__s100__test",
@@ -2969,10 +3027,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:20:54+00:00",
+      "finished": "2026-11-24T23:21:24+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_SICU__s100__test",
@@ -2997,10 +3057,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:21:14+00:00",
+      "finished": "2026-11-24T23:21:39+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__B_MICU__s100__test",
@@ -3025,10 +3087,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:21:24+00:00",
+      "finished": "2026-11-24T23:21:54+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__B_SICU__s100__test",
@@ -3053,10 +3117,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:21:39+00:00",
+      "finished": "2026-11-24T23:22:09+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_MICU__s101__test",
@@ -3081,10 +3147,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:21:54+00:00",
+      "finished": "2026-11-24T23:22:19+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_SICU__s101__test",
@@ -3109,10 +3177,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:22:09+00:00",
+      "finished": "2026-11-24T23:22:34+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__B_MICU__s101__test",
@@ -3137,10 +3207,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:22:19+00:00",
+      "finished": "2026-11-24T23:22:49+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__B_SICU__s101__test",
@@ -3165,10 +3237,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:22:34+00:00",
+      "finished": "2026-11-24T23:23:09+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_MICU__s102__test",
@@ -3193,10 +3267,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:22:49+00:00",
+      "finished": "2026-11-24T23:23:19+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_SICU__s102__test",
@@ -3221,10 +3297,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:23:09+00:00",
+      "finished": "2026-11-24T23:23:34+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__B_MICU__s102__test",
@@ -3249,10 +3327,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:23:19+00:00",
+      "finished": "2026-11-24T23:23:49+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__B_SICU__s102__test",
@@ -3277,10 +3357,12 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:23:34+00:00",
+      "finished": "2026-11-24T23:24:09+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_MICU__s103__test",
@@ -3305,10 +3387,11 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:23:49+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__A_SICU__s103__test",
@@ -3333,10 +3416,11 @@
         "E6_confirm"
       ],
       "threads": 2,
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v2.yaml",
-      "added": "2026-11-24T22:26:47+00:00"
+      "added": "2026-11-24T22:26:47+00:00",
+      "started": "2026-11-24T23:24:09+00:00"
     },
     {
       "id": "E6_confirm__lgbm__harm__B_MICU__s103__test",
