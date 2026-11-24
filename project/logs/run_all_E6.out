@@ -118,3 +118,7 @@
 [2026-11-24T23:23:49+00:00] started E6_confirm__lgbm__harm__A_MICU__s103__test (pid 23803, attempt 1)
 [2026-11-24T23:24:09+00:00] done E6_confirm__lgbm__harm__B_SICU__s102__test
 [2026-11-24T23:24:09+00:00] started E6_confirm__lgbm__harm__A_SICU__s103__test (pid 23875, attempt 1)
+[2026-11-24T23:24:19+00:00] done E6_confirm__lgbm__harm__A_MICU__s103__test
+[2026-11-24T23:24:19+00:00] started E6_confirm__lgbm__harm__B_MICU__s103__test (pid 23918, attempt 1)
+[2026-11-24T23:24:34+00:00] done E6_confirm__lgbm__harm__A_SICU__s103__test
+[2026-11-24T23:24:34+00:00] started E6_confirm__lgbm__harm__B_SICU__s103__test (pid 23961, attempt 1)
