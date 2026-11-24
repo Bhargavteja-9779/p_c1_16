@@ -1,1 +1,5 @@
 variant_id,cycle,date,description,config_id,evaluated_on,metric,value,outcome,notes
+diag_lgb_full_A_s0_source_val,1,2026-11-24,D9 diagnostic LightGBM full trained on A,diag_lgb_full_A_s0,A-val,auroc_hour,0.8137,diagnostic,patient AUROC 0.8284
+diag_lgb_full_A_s0_target_val,1,2026-11-24,D9 diagnostic LightGBM full trained on A,diag_lgb_full_A_s0,B-val,auroc_hour,0.7628,diagnostic,patient AUROC 0.7626
+diag_lgb_no_process_A_s0_source_val,1,2026-11-24,D9 diagnostic LightGBM no_process trained on A,diag_lgb_no_process_A_s0,A-val,auroc_hour,0.7868,diagnostic,patient AUROC 0.8077
+diag_lgb_no_process_A_s0_target_val,1,2026-11-24,D9 diagnostic LightGBM no_process trained on A,diag_lgb_no_process_A_s0,B-val,auroc_hour,0.7753,diagnostic,patient AUROC 0.7773
