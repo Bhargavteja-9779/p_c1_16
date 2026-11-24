@@ -1,31 +1,32 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-24 (cycle 1, Phase 3 — PAUSED for account switch)_
+_Last updated: 2026-11-24 (cycle 1, Phase 3 — per-variable diagnostic running)_
 
 ## Where we are
-- **Cycle:** 1 **Phase:** PHASE3_TOPIC (Phase 1 journal ✔, Phase 2 literature ✔)
-- **NEXT ACTION (do in this order):**
-  1. Re-download data (git-ignored): `bash scripts/download_physionet2019.sh` (expect 20336 A + 20000 B files, ends with `DONE bad=0`; re-run until bad=0). Also 2012 challenge and eICU demo: see "Data" below.
-  2. Build the table: `python3 -c "from src.data_physionet2019 import load; load()"` (writes `data/processed/physionet2019.parquet`).
-  3. **Diagnostic baseline (decision D9):** features via `src/features.py` (value / trend / process / context groups), splits via `src/splits.py` (fixed SPLIT_SEED=2026, 60/20/20 by patient within hospital). Train LightGBM on A-train, select on A-val, evaluate on A-val and B-val (NOT test) and vice versa, with and without the `process` group and with/without ICULOS. Log every variant in `state/variants_tried.csv`. Write a DIAGNOSIS journal entry.
-  4. From the diagnosis, write `topic/candidates.md` (≥10 candidates) and `topic/selected_topic.md`; then `experiments/plan_v1.yaml`, `src/jobs.py` (needed by `run_all.py`), `scripts/final_report.py`, `scripts/audit_numbers.py`.
-  5. Run prior-art queries for the chosen claim (≥8 phrasings) with `python3 scripts/prior_art.py <CLAIM_ID> "q1" ...`.
-- **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535) — verified median Accepted−Received 66 d (full articles, n=318), JIF 11.4 (2025). JCR quartile UNVERIFIED.
-- **Topic:** not yet selected (diagnosis pending). First idea (missingness patterns = hospital shortcut on PhysioNet 2019) is a DEAD END: already published Oct 2026 (see journal entry 004).
-- **Hypothesis:** —
+- **Cycle:** 1 **Phase:** PHASE3_TOPIC (Phase 1 journal ✔, Phase 2 literature ✔, D9 diagnosis ✔)
+- **Branch for persistence:** `claude/pensive-galileo-vgrn1b` (D11).
+- **NEXT ACTION (in order):**
+  1. If `results/diagnosis/pervar_{A,B}_s0.csv` are missing, run `python3 -m src.diagnose_pervar --seed 0` (≈20 min; validation only). Data must exist first (see Data).
+  2. Analyse per-variable results: does the label-free policy-shift score (rate_logratio, policy_auc_src−policy_auc_tgt) predict which variables' process features help vs hurt on the target (d_tgt)? Write a DIAGNOSIS journal entry (008). If yes → write `topic/selected_topic.md` for candidate 3 with a label-free selection method; if no → candidate 4 (local updating) as backup.
+  3. Then `experiments/plan_v1.yaml`, `src/jobs.py`, `scripts/final_report.py`, `scripts/audit_numbers.py`; quick run; launch.
+  4. Second dataset for G7: PhysioNet 2012 (ICU type as site) and/or eICU demo (hospital as site).
+- **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535) — verified median Accepted−Received 66 d (n=318), JIF 11.4 (2025). JCR quartile UNVERIFIED.
+- **Topic (tentative, D14):** which measurement-process signals transport across hospitals, and can a label-free per-variable policy-shift criterion choose them (topic/candidates.md #3).
+- **Hypothesis (draft):** the transfer effect of a variable's process features is predicted by how much its measurement policy shifts between sites, measurable without target labels.
+- **Key findings so far:** journal 006 (diagnosis), 007 (septic records truncated at onset+3 h → ICULOS excluded, D13; process-feature effect flips sign with transfer direction in 3/3 seeds *when ICULOS is included*; without ICULOS process features help both directions at seed 0 — the asymmetry is entangled with ICULOS, to be resolved).
 
 ## Running right now
-- Nothing is running. Raw data is not in git; re-download (step 1).
+- `python3 -m src.diagnose_pervar --seed 0` (nohup; log `logs/pervar_s0.log`). If the session died, just re-run (idempotent, skips finished CSVs).
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
-- Used: 0.00 h of 15 h (cycle 1); 0.00 h of 120 h (global).
+- Used: ≈0.3 h of 15 h (cycle 1); ≈0.3 h of 120 h (global) (state/budget.json; diagnostics only).
 
 ## Gate status
 | Gate | Status | Evidence |
 |---|---|---|
 | G1 Journal | PASS on ≤72 d + publisher; **JCR Q1 UNVERIFIED** | journal_selection/selected_journal.md |
-| G2 Prior art | in progress (queries logged) | state/novelty_ledger.json |
+| G2 Prior art | in progress: 38 queries logged (LANDSCAPE, C1–C3); ~10 abstracts read; claim table not yet written | state/novelty_ledger.json |
 | G3 Novelty | unknown | — |
 | G4 Baselines | unknown | — |
 | G5 Main result | unknown | — |
@@ -37,7 +38,7 @@ _Last updated: 2026-11-24 (cycle 1, Phase 3 — PAUSED for account switch)_
 | G11 Integrity audit | unknown | — |
 
 ## Last decisions (full log: state/decisions.md)
-D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4 Critical Care selected; D5 no browser scraping of ScienceDirect; D6 budget = machine-occupied hours; D7 literature via sub-agent, spot-checked; D8 Frontiers allowed by user — Frontiers in Medicine 69.5 d (n=40) is fallback #2; D9 diagnose before choosing a method; D10 paused for account switch.
+D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4 Critical Care selected; D5 no browser scraping of ScienceDirect; D6 budget = machine-occupied hours; D7 literature via sub-agent, spot-checked; D8 Frontiers allowed by user — Frontiers in Medicine 69.5 d (n=40) is fallback #2; D9 diagnose before choosing a method; D10 paused for account switch; D11 new persistence branch; D12 fixed diagnostic hyperparameters; D13 ICULOS excluded (truncation); D14 tentative topic = candidate 3.
 
 ## Last failures
 - PhysioNet 2019 zip URL 404 → switched to parallel per-file download.
@@ -57,13 +58,13 @@ D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4
 - Agent supervisor (Layer B): `nohup setsid bash scripts/supervisor.sh >/dev/null 2>&1 &` ; stop: `touch state/STOP_SUPERVISOR`
 
 ## Known problems
-- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/serene-newton-bylqpn`.
+- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/pensive-galileo-vgrn1b`.
 - **Layer B auto-restart is not active.** The `claude` CLI exists here, but running a nested agent inside this live session would create two agents editing the same repo. On your own machine, run `scripts/supervisor.sh` (it detects the CLI). Otherwise: open a new session on this repo/branch and paste `BOOTSTRAP_PROMPT.txt`.
 - Raw data (`data/`) is git-ignored; re-download with `scripts/download_physionet2019.sh` (2019 sepsis, CC BY 4.0); 2012 challenge and eICU demo download commands are in decisions/journal (PhysioNet open files).
 
 ## Moving to a new account
 1. Make sure the latest work is pushed (`git push`).
-2. In the new session, check out branch `claude/serene-newton-bylqpn` of `p_c1_16`.
+2. In the new session, check out branch `claude/pensive-galileo-vgrn1b` of `p_c1_16`.
 3. Paste the contents of `project/BOOTSTRAP_PROMPT.txt`.
 
 ## Where things are
