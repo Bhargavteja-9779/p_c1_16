@@ -126,3 +126,10 @@
 [2026-11-24T21:58:03+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_MICU__s2__val
 [2026-11-24T21:58:28+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val
 [2026-11-24T21:58:28+00:00] queue drained: {'done': 60}
+[2026-11-24T22:26:47+00:00] mode=full plan=plan_v2.yaml jobs_total=160 added=100
+[2026-11-24T22:26:47+00:00] started E6_confirm__lgbm__none__A_MICU__s100__test (pid 2141, attempt 1)
+[2026-11-24T22:26:47+00:00] started E6_confirm__lgbm__none__A_SICU__s100__test (pid 2142, attempt 1)
+[2026-11-24T22:27:12+00:00] done E6_confirm__lgbm__none__A_SICU__s100__test
+[2026-11-24T22:27:12+00:00] started E6_confirm__lgbm__none__B_MICU__s100__test (pid 2171, attempt 1)
+[2026-11-24T22:27:17+00:00] done E6_confirm__lgbm__none__A_MICU__s100__test
+[2026-11-24T22:27:17+00:00] started E6_confirm__lgbm__none__B_SICU__s100__test (pid 2188, attempt 1)

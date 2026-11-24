@@ -1,9 +1,9 @@
 {
  "cycle": 1,
- "phase": "PHASE3_TOPIC",
- "step": "diagnosis_done_candidates_written",
+ "phase": "CYCLE1_E6_CONFIRM",
+ "step": "E6 running (test, seeds 100-104)",
  "status": "RUNNING",
  "pivots": 0,
- "last_action": "D9 diagnosis + topic candidates; prior-art for #2/#3 next",
+ "last_action": "E1/E2 explore done; plan_v2; analysis frozen 641c403; E6 launched",
  "updated": "2026-11-24"
 }

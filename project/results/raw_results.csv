@@ -239,3 +239,11 @@ E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,E2_fixes,lgbm,harm_noproc_norm
 E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,E2_fixes,lgbm,harm_noproc_norm,2,val,B_SICU,A_SICU,0.74660,0.05422,0.69029,0.9276,-0.0088
 E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,E2_fixes,lgbm,harm_noproc_norm,2,val,B_SICU,B_MICU,0.77953,0.09404,0.77738,0.8569,0.1003
 E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,E2_fixes,lgbm,harm_noproc_norm,2,val,B_SICU,B_SICU,0.85005,0.12050,0.87861,1.0077,-0.1117
+E6_confirm__lgbm__none__A_SICU__s100__test,E6_confirm,lgbm,none,100,test,A_SICU,A_MICU,0.71686,0.08520,0.72532,0.6206,0.7296
+E6_confirm__lgbm__none__A_SICU__s100__test,E6_confirm,lgbm,none,100,test,A_SICU,A_SICU,0.84202,0.09665,0.84221,0.8960,0.1749
+E6_confirm__lgbm__none__A_SICU__s100__test,E6_confirm,lgbm,none,100,test,A_SICU,B_MICU,0.71738,0.03982,0.72117,0.6791,0.0292
+E6_confirm__lgbm__none__A_SICU__s100__test,E6_confirm,lgbm,none,100,test,A_SICU,B_SICU,0.79232,0.05823,0.80275,0.6488,-0.0392
+E6_confirm__lgbm__none__A_MICU__s100__test,E6_confirm,lgbm,none,100,test,A_MICU,A_MICU,0.80310,0.12792,0.83095,1.0419,-0.1207
+E6_confirm__lgbm__none__A_MICU__s100__test,E6_confirm,lgbm,none,100,test,A_MICU,A_SICU,0.80843,0.07756,0.79555,1.2135,-0.9650
+E6_confirm__lgbm__none__A_MICU__s100__test,E6_confirm,lgbm,none,100,test,A_MICU,B_MICU,0.78045,0.05185,0.78706,0.7731,-0.7084
+E6_confirm__lgbm__none__A_MICU__s100__test,E6_confirm,lgbm,none,100,test,A_MICU,B_SICU,0.78506,0.07072,0.78051,0.8085,-0.8379

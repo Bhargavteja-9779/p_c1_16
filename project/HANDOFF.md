@@ -3,29 +3,38 @@
 _Last updated: 2026-11-24 (cycle 1, Phase 3 — diagnosis done, topic choice in progress)_
 
 ## Where we are
-- **Cycle:** 1 **Phase:** PHASE3_TOPIC (Phase 1 journal ✔, Phase 2 literature ✔)
-- **NEXT ACTION (do in this order):**
-  1. If data is missing: `bash scripts/download_physionet2019.sh` (until `DONE bad=0`), then `python3 scripts/diagnose_baseline.py` rebuilds features and splits (cached results in results/diagnosis are kept; it skips finished variants).
-  2. DONE: D9 diagnosis (journal 007; results/diagnosis/*). DONE: topic/candidates.md (12 candidates).
-  3. DONE: closest prior art for #2/#3 opened (5 abstracts in the ledger); #2 rejected as crowded (D14); draft topic in topic/selected_topic.md. NEXT: prior-art check for H3 (prediction-powered inference / control-variate AUROC estimation with few labels; DISDE applied to healthcare) with ≥8 phrasings via scripts/prior_art.py C4_..., open ≥5 papers. Then finalise selected_topic.md (or drop H3).
-  4. Then experiments/plan_v1.yaml, src/jobs.py, scripts/final_report.py, scripts/audit_numbers.py.
-- **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535) — verified median Accepted−Received 66 d (full articles, n=318), JIF 11.4 (2025). JCR quartile UNVERIFIED.
-- **Topic (draft):** why sepsis models fail in a new hospital: conditional shift, failure of unlabelled fixes and label-free estimates, minimal local verification sample (topic/selected_topic.md).
-- **Hypothesis (draft):** H1 most of the A↔B drop is conditional shift; H2 label-free estimates err > 0.03; H3 control-variate local estimate needs fewer labels. First idea (missingness patterns = hospital shortcut on PhysioNet 2019) is a DEAD END: already published Oct 2026 (see journal entry 004).
-- **Hypothesis:** —
+- **Cycle:** 1 **Phase:** E6 confirmation running (Phases 1–4 done; E1/E2 exploration done)
+- **NEXT ACTION:**
+  1. `python3 scripts/status.py`. If E6 is not finished: `nohup setsid python3 run_all.py --mode full --resume --workers 2 --only E6_confirm > logs/run_all_E6.out 2>&1 < /dev/null &` (idempotent).
+  2. When 100/100 E6 jobs are done, run the FROZEN analysis (commit 641c403):
+     `python3 scripts/analyze_transport.py --experiment E6_confirm --split test --fix-exp E6_confirm --nboot 2000`
+     and `python3 scripts/e5_estimators.py --experiment E6_confirm --split test`.
+  3. Write a RESULT journal entry, update gates G5–G8, the novelty score and variants_tried.
+  4. Then: G4 (compare reproduced numbers with published A/B results), the G7 breadth decision (eICU demo, plan_v3), scripts/final_report.py, scripts/audit_numbers.py, and prior art to ≥30 opened papers.
+- **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535). Verified median Accepted−Received 66 d; JIF 11.4; JCR quartile UNVERIFIED.
+- **Topic (v2):** factorial ICU-unit × hospital transport analysis of sepsis early warning on PhysioNet 2019 (topic/selected_topic.md).
+- **Hypotheses (plan_v2):**
+  - H1: site gap > unit gap.
+  - H2: estimate the share of the site component removed by unlabelled fixes.
+  - H3: label-free AUROC estimates err > 0.03 in ≥ 50% of transfers.
+- **Validation results (exploration):**
+  - H1: D = 0.043 [0.021, 0.066] for LightGBM; 0.066 for LR.
+  - H2: about 0.61 of the site component is removable.
+  - H3: label-free estimates miss in 64–92% of transfers.
+  - See journal 010.
 
 ## Running right now
-- Nothing is running. Raw data is not in git; re-download (step 1).
+- `run_all.py --only E6_confirm` (detached, setsid; 2 workers × 2 threads). Logs: logs/run_all.log, logs/jobs/E6_confirm__*.log.
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
-- Used: 0.25 h of 15 h (cycle 1); 0.25 h of 120 h (global) — see state/budget.json.
+- Used: ~0.75 h of 15 h (cycle 1); ~0.75 h of 120 h (global); E6 adds ~0.5 h — see state/budget.json.
 
 ## Gate status
 | Gate | Status | Evidence |
 |---|---|---|
 | G1 Journal | PASS on ≤72 d + publisher; **JCR Q1 UNVERIFIED** | journal_selection/selected_journal.md |
-| G2 Prior art | in progress: 31 queries, 5 papers opened (abstracts), need ≥30 | state/novelty_ledger.json |
+| G2 Prior art | in progress: 40 queries, 5 papers opened (abstracts) + 17 journal papers (Phase 2); need ≥30 opened for the claim | state/novelty_ledger.json |
 | G3 Novelty | unknown | — |
 | G4 Baselines | unknown | — |
 | G5 Main result | unknown | — |
