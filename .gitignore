@@ -1,0 +1,11 @@
+project/checkpoints/*
+!project/checkpoints/.gitkeep
+project/backups/
+project/data/
+project/logs/jobs/
+project/state/*.lock
+project/state/STOP_SUPERVISOR
+__pycache__/
+*.pyc
+*.tmp
+.env
