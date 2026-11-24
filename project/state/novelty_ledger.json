@@ -5791,6 +5791,1698 @@
      "cites": null
     }
    ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "prediction-powered inference AUROC estimation",
+   "date": "2026-11-24T21:38:10",
+   "openalex_count": 5788,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7139068573",
+     "doi": "https://doi.org/10.48550/arxiv.2603.16041",
+     "title": "Power Analysis for Prediction-Powered Inference",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4389692358",
+     "doi": "https://doi.org/10.1109/tpami.2023.3342285",
+     "title": "Revisiting Confidence Estimation: Towards Reliable Failure Prediction",
+     "year": 2023,
+     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+     "cites": 49
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7125602806",
+     "doi": "https://doi.org/10.3390/math14030398",
+     "title": "CUES: A Multiplicative Composite Metric for Evaluating Clinical Prediction Models Theory, Inference, and Properties",
+     "year": 2026,
+     "venue": "Mathematics",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3010735201",
+     "doi": "https://doi.org/10.3390/s20061723",
+     "title": "Optimizing an Adaptive Neuro-Fuzzy Inference System for Spatial Prediction of Landslide Susceptibility Using Four State-of-the-art Metaheuristic Techniques",
+     "year": 2020,
+     "venue": "Sensors",
+     "cites": 104
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7165261403",
+     "doi": null,
+     "title": "Statistical Inference for Image Classification, Language Reasoning, and Counterfactual Estimation",
+     "year": 2026,
+     "venue": "VTechWorks (Virginia Tech)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7220712097",
+     "doi": "https://doi.org/10.21203/rs.3.rs-10718552/v1",
+     "title": "Subgroup AUROC-gap tests are not evidence of unfairness in clinical prediction models: case-mix differences make the equal-discrimination null false",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7235309621",
+     "doi": "https://doi.org/10.48550/arxiv.2611.19762",
+     "title": "When Does an AUROC Comparison Survive a Change in Population Mix?",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4387171981",
+     "doi": "https://doi.org/10.3233/faia230323",
+     "title": "Exploiting Epistemic Uncertainty at Inference Time for Early-Exit Power Saving",
+     "year": 2023,
+     "venue": "Frontiers in artificial intelligence and applications",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4405993769",
+     "doi": "https://doi.org/10.3390/s25010217",
+     "title": "Uncertainty-Aware Multimodal Trajectory Prediction via a Single Inference from a Single Model",
+     "year": 2025,
+     "venue": "Sensors",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163355117",
+     "doi": "https://doi.org/10.48550/arxiv.2606.03211",
+     "title": "Optimized Labeling Resource Allocation for Prediction-Assisted Inference via OPAL",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 5
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4385650131",
+     "doi": "https://doi.org/10.36001/ijphm.2023.v14i2.3486",
+     "title": "Fault Prognosis of Turbofan Engines: Eventual Failure Prediction and Remaining Useful Life Estimation",
+     "year": 2023,
+     "venue": "International Journal of Prognostics and Health Management",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7220751577",
+     "doi": null,
+     "title": "Graphical models for high-dimensional stochastic processes: Estimation and inference",
+     "year": 2024,
+     "venue": "Illinois Digital Environment for Access to Learning and Scholarship (University of Illinois at Urbana-Champaign)",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2104.06667v2",
+     "doi": null,
+     "title": "Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2301.09633v4",
+     "doi": null,
+     "title": "Prediction-Powered Inference",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.16166v1",
+     "doi": null,
+     "title": "Extending Prediction-Powered Inference through Conformal Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2602.10464v1",
+     "doi": null,
+     "title": "Do More Predictions Improve Statistical Inference? Filtered Prediction-Powered Inference",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2511.08303v2",
+     "doi": null,
+     "title": "Semi-Supervised Treatment Effect Estimation with Unlabeled Covariates for Prediction-Powered Causal Inference",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/0907.3503v5",
+     "doi": null,
+     "title": "Intersection Bounds: Estimation and Inference",
+     "year": "2009",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2509.20634v3",
+     "doi": null,
+     "title": "Recidivism Prediction, Peer Effect Estimation, and Prediction-Powered Inference with LLM Text Measures",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.27892v1",
+     "doi": null,
+     "title": "Prediction-powered Inference by Mixture of Experts",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "prediction-powered inference clinical model evaluation few labels",
+   "date": "2026-11-24T21:38:12",
+   "openalex_count": 72555,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7126027345",
+     "doi": "https://doi.org/10.1162/99608f92.f95a1dd2",
+     "title": "Demystifying Prediction-Powered Inference",
+     "year": 2026,
+     "venue": "Harvard Data Science Review",
+     "cites": 20
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7160953785",
+     "doi": "https://doi.org/10.48550/arxiv.2605.08429",
+     "title": "Active Multiple-Prediction-Powered Inference",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7165653351",
+     "doi": "https://doi.org/10.48550/arxiv.2606.21232",
+     "title": "Multi-Source Prediction-Powered Inference",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7214757388",
+     "doi": "https://doi.org/10.48550/arxiv.2609.34156",
+     "title": "Transfer Calibrated Prediction Powered Inference",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7197018894",
+     "doi": "https://doi.org/10.52202/085713-2479",
+     "title": "Prediction-Powered Causal Inferences",
+     "year": 2025,
+     "venue": "neural information processing systems",
+     "cites": 12
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7134267372",
+     "doi": "https://doi.org/10.48550/arxiv.2603.05575",
+     "title": "Prediction-Powered Conditional Inference",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4414588259",
+     "doi": "https://doi.org/10.48550/arxiv.2505.20178",
+     "title": "No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference",
+     "year": 2026,
+     "venue": "International Conference on Machine Learning",
+     "cites": 18
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4402955153",
+     "doi": "https://doi.org/10.48550/arxiv.2409.01730",
+     "title": "Federated Prediction-Powered Inference from Decentralized Data",
+     "year": 2024,
+     "venue": "arXiv",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2033422410",
+     "doi": "https://doi.org/10.1007/s00429-012-0475-5",
+     "title": "Predictions not commands: active inference in the motor system",
+     "year": 2012,
+     "venue": "Brain Structure and Function",
+     "cites": 902
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163048233",
+     "doi": "https://doi.org/10.48550/arxiv.2605.31278",
+     "title": "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4405105409",
+     "doi": "https://doi.org/10.1371/journal.pdig.0000680",
+     "title": "CPLLM: Clinical prediction with large language models",
+     "year": 2024,
+     "venue": "PLOS Digital Health",
+     "cites": 114
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406053297",
+     "doi": "https://doi.org/10.7302/6912",
+     "title": "Data, Model, Inference: Evaluating Glioma MRI Models on Clinically Informed Axes",
+     "year": 2022,
+     "venue": "Deep Blue (University of Michigan)",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.04725v1",
+     "doi": null,
+     "title": "Lightweight Transformers for Clinical Natural Language Processing",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2210.09440v2",
+     "doi": null,
+     "title": "Using Bottleneck Adapters to Identify Cancer in Clinical Notes under Low-Resource Constraints",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2011.09625v2",
+     "doi": null,
+     "title": "Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical NLP",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2603.10027v1",
+     "doi": null,
+     "title": "A Governance and Evaluation Framework for Deterministic, Rule-Based Clinical Decision Support in Empiric Antibiotic Prescribing",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.08226v1",
+     "doi": null,
+     "title": "Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.05351v1",
+     "doi": null,
+     "title": "Are pathologist-defined labels reproducible? Comparison of the TUPAC16 mitotic figure dataset with an alternative set of labels",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2606.19637v1",
+     "doi": null,
+     "title": "Before the Labels: How Dataset Construction Shapes Suicidality Detection in Clinical Text",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2104.06667v2",
+     "doi": null,
+     "title": "Double Robust Semi-Supervised Inference for the Mean: Selection Bias under MAR Labeling with Decaying Overlap",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "label-efficient model evaluation active testing AUC estimation",
+   "date": "2026-11-24T21:38:15",
+   "openalex_count": 30808,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4396780592",
+     "doi": "https://doi.org/10.1038/s41598-024-58633-3",
+     "title": "Towards optimal model evaluation: enhancing active testing with actively improved estimators",
+     "year": 2024,
+     "venue": "Scientific Reports",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7207617764",
+     "doi": "https://doi.org/10.48550/arxiv.2609.02304",
+     "title": "Bayes-Optimal BER and AUC: Estimation and Evaluation of Estimators",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417490996",
+     "doi": "https://doi.org/10.1109/iccv51701.2025.00385",
+     "title": "To Label or Not to Label: PALM - a Predictive Model for Evaluating Sample Efficiency in Active Learning Models",
+     "year": 2025,
+     "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7238613146",
+     "doi": null,
+     "title": "Efficient Model Performance Evaluation Using a Combination of Expert and Crowd-sourced Labels",
+     "year": 2026,
+     "venue": "International Conference on Artificial Intelligence and Statistics",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7208758802",
+     "doi": "https://doi.org/10.21203/rs.3.rs-11434316/v1",
+     "title": "ABEL: an active-learning behavior estimation and labeling platform",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7140091464",
+     "doi": "https://doi.org/10.48550/arxiv.2603.19264",
+     "title": "Generative Active Testing: Efficient LLM Evaluation via Proxy Task Adaptation",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1942925359",
+     "doi": "https://doi.org/10.1023/b:mach.0000011806.12374.c3",
+     "title": "Active Sampling for Class Probability Estimation and Ranking",
+     "year": 2004,
+     "venue": "Machine Learning",
+     "cites": 217
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3212934118",
+     "doi": "https://doi.org/10.48550/arxiv.2111.08861",
+     "title": "A label-efficient two-sample test",
+     "year": 2022,
+     "venue": "Uncertainty in Artificial Intelligence",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2618438111",
+     "doi": null,
+     "title": "Active evaluation of predictive models",
+     "year": 2012,
+     "venue": "publish.UP (University of Potsdam)",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2942346399",
+     "doi": "https://doi.org/10.1371/journal.pone.0215426",
+     "title": "An Adaptive Moment estimation method for online AUC maximization",
+     "year": 2019,
+     "venue": "PLoS ONE",
+     "cites": 17
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4412827352",
+     "doi": "https://doi.org/10.1145/3744340",
+     "title": "AcTracer: Active Testing of Large Language Model via Multi-Stage Sampling",
+     "year": 2026,
+     "venue": "ACM Transactions on Software Engineering and Methodology",
+     "cites": 25
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406612055",
+     "doi": "https://doi.org/10.1109/wsc63780.2024.10838628",
+     "title": "Advanced Tutorial: Label-Efficient Two-Sample Tests",
+     "year": 2024,
+     "venue": "Winter Simulation Conference",
+     "cites": 3
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2202.06881v2",
+     "doi": null,
+     "title": "Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2507.16734v4",
+     "doi": null,
+     "title": "Testing and estimation in orthosymmetric Gaussian sequence model",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2103.05331v2",
+     "doi": null,
+     "title": "Active Testing: Sample-Efficient Model Evaluation",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2107.10804v2",
+     "doi": null,
+     "title": "Active Learning in Incomplete Label Multiple Instance Multiple Label Learning",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2005.14124v2",
+     "doi": null,
+     "title": "Active Fuzzing for Testing and Securing Cyber-Physical Systems",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2202.12139v1",
+     "doi": null,
+     "title": "Testing Deep Learning Models: A First Comparative Study of Multiple Testing Techniques",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2405.13786v1",
+     "doi": null,
+     "title": "Towards Explainable Test Case Prioritisation with Learning-to-Rank Models",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2608.11985v3",
+     "doi": null,
+     "title": "Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "control variates estimation of classifier performance small labeled sample",
+   "date": "2026-11-24T21:38:18",
+   "openalex_count": 9157,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3036375792",
+     "doi": "https://doi.org/10.48550/arxiv.2006.10287",
+     "title": "A Framework for Sample Efficient Interval Estimation with Control Variates",
+     "year": 2020,
+     "venue": "International Conference on Artificial Intelligence and Statistics",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2806367298",
+     "doi": "https://doi.org/10.48550/arxiv.1806.00159",
+     "title": "Neural Control Variates for Variance Reduction",
+     "year": 2018,
+     "venue": "arXiv",
+     "cites": 18
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2955477424",
+     "doi": "https://doi.org/10.1007/s11222-021-10011-z",
+     "title": "Control variate selection for Monte Carlo integration",
+     "year": 2021,
+     "venue": "Statistics and Computing",
+     "cites": 22
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2963095760",
+     "doi": "https://doi.org/10.1080/01621459.2018.1429275",
+     "title": "Joint Mean and Covariance Estimation with Unreplicated Matrix-Variate Data",
+     "year": 2018,
+     "venue": "Journal of the American Statistical Association",
+     "cites": 22
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4400278764",
+     "doi": "https://doi.org/10.1214/24-ba1449",
+     "title": "Bayesian Covariance Estimation for Multi-group Matrix-variate Data",
+     "year": 2024,
+     "venue": "Bayesian Analysis",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4295760318",
+     "doi": "https://doi.org/10.1111/biom.13753",
+     "title": "Simultaneous Cluster Structure Learning and Estimation of Heterogeneous Graphs for Matrix-Variate fMRI Data",
+     "year": 2022,
+     "venue": "Biometrics",
+     "cites": 13
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3127840511",
+     "doi": "https://doi.org/10.48550/arxiv.2102.06164",
+     "title": "Sample Efficient Learning of Image-Based Diagnostic Classifiers Using Probabilistic Labels",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2781660332",
+     "doi": "https://doi.org/10.1145/3152123",
+     "title": "Robust Multi-Variate Temporal Features of Multi-Variate Time Series",
+     "year": 2018,
+     "venue": "ACM Transactions on Multimedia Computing Communications and Applications",
+     "cites": 14
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2512288612",
+     "doi": "https://doi.org/10.1016/j.patcog.2016.08.008",
+     "title": "Designing multi-label classifiers that maximize F measures: State of the art",
+     "year": 2016,
+     "venue": "Pattern Recognition",
+     "cites": 86
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4316372785",
+     "doi": "https://doi.org/10.3390/machines11010115",
+     "title": "Ensemble Classifier for Recognition of Small Variation in X-Bar Control Chart Patterns",
+     "year": 2023,
+     "venue": "Machines",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2144443458",
+     "doi": "https://doi.org/10.5194/nhess-13-53-2013",
+     "title": "Multi-variate flood damage assessment: a tree-based data-mining approach",
+     "year": 2013,
+     "venue": "Natural hazards and earth system sciences",
+     "cites": 269
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4225272944",
+     "doi": "https://doi.org/10.1007/s00521-022-07241-1",
+     "title": "A multi-variate heart disease optimization and recognition framework",
+     "year": 2022,
+     "venue": "Neural Computing and Applications",
+     "cites": 54
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2305.07875v3",
+     "doi": null,
+     "title": "On $\\ell_2$-performance of weakly-hard real-time control systems",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.12343v2",
+     "doi": null,
+     "title": "Mitigating the noise of DESI mocks using analytic control variates",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2303.17963v4",
+     "doi": null,
+     "title": "Learning-Based Optimal Control with Performance Guarantees for Unknown Systems with Latent States",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1906.01824v1",
+     "doi": null,
+     "title": "CCMI : Classifier based Conditional Mutual Information Estimation",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2006.04361v3",
+     "doi": null,
+     "title": "Neural Contraction Metrics for Robust Estimation and Control: A Convex Optimization Approach",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1904.12660v1",
+     "doi": null,
+     "title": "Tracking Performance Limitations of MIMO Networked Control Systems with Multiple Communication Constraints",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2103.03677v2",
+     "doi": null,
+     "title": "Control Barrier Functions in Sampled-Data Systems",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2212.03225v1",
+     "doi": null,
+     "title": "Robust Local Stabilization of Nonlinear Systems with Controller-Dependent Norm Bounds: A Convex Approach with Input-Output Sampling",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "stratified sampling estimate AUC of deployed model limited labels",
+   "date": "2026-11-24T21:38:20",
+   "openalex_count": 14747,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3159873172",
+     "doi": "https://doi.org/10.48550/arxiv.2104.12231",
+     "title": "Model-based metrics: Sample-efficient estimates of predictive model subpopulation performance",
+     "year": 2021,
+     "venue": "Proceedings of Machine Learning Research",
+     "cites": 17
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4380320435",
+     "doi": "https://doi.org/10.1145/3593013.3594100",
+     "title": "The Misuse of AUC: What High Impact Risk Assessment Gets Wrong",
+     "year": 2023,
+     "venue": "ACM Conference on Fairness, Accountability, and Transparency (FAccT)",
+     "cites": 29
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4306247857",
+     "doi": "https://doi.org/10.1371/journal.pone.0273262",
+     "title": "Deploying deep learning models on unseen medical imaging using adversarial domain adaptation",
+     "year": 2022,
+     "venue": "PLoS ONE",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7125632905",
+     "doi": "https://doi.org/10.63125/9hd4e011",
+     "title": "Quantitative Benchmarking of Machine Learning Models for Risk Prediction: A Comparative Study Using AUC/F1 Metrics and Robustness Testing",
+     "year": 2022,
+     "venue": null,
+     "cites": 42
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7151568016",
+     "doi": "https://doi.org/10.21203/rs.3.rs-9199652/v1",
+     "title": "An Optimized EfficientNet-B3 Based Lung Cancer Detection Framework with Stratified Splitting and Deployment-Ready Torch Script Integration",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7167852722",
+     "doi": "https://doi.org/10.1093/ehjdh/ztag107",
+     "title": "Systematic reviews of medical machine learning: limitations of pooling AUCs",
+     "year": 2026,
+     "venue": "European Heart Journal - Digital Health",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7162437910",
+     "doi": "https://doi.org/10.48550/arxiv.2605.24417",
+     "title": "Do You Even Need More Data? Rethinking LLM Deployment for Label-Scarce Tabular Classification with TabLens",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7212114981",
+     "doi": "https://doi.org/10.48550/arxiv.2609.10495",
+     "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7123340711",
+     "doi": "https://doi.org/10.3390/biomedicines14010159",
+     "title": "Screen, Sample, Stratify: Biomarkers and Machine Learning Compress Dementia Pathways",
+     "year": 2026,
+     "venue": "Biomedicines",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4386547087",
+     "doi": "https://doi.org/10.3390/sym15091719",
+     "title": "Application of GA-WELM Model Based on Stratified Cross-Validation in Intrusion Detection",
+     "year": 2023,
+     "venue": "Symmetry",
+     "cites": 9
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7168124259",
+     "doi": "https://doi.org/10.1038/s41598-026-61912-w",
+     "title": "Environmental space similarity model maps dry red soil under limited samples in the Yuanmou Dry Hot Valley",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7223008769",
+     "doi": "https://doi.org/10.37284/eajit.9.3.6047",
+     "title": "Deep Learning Model for Wi-Fi Attack Detection in Tanzanian Higher Learning Institution",
+     "year": 2026,
+     "venue": "East African Journal of Information Technology",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1801.04624v2",
+     "doi": null,
+     "title": "Enhancing Stratified Graph Sampling Algorithms based on Approximate Degree Distribution",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1309.3034v1",
+     "doi": null,
+     "title": "Some improved estimators for estimating population mean in stratified random sampling",
+     "year": "2013",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.05351v1",
+     "doi": null,
+     "title": "Are pathologist-defined labels reproducible? Comparison of the TUPAC16 mitotic figure dataset with an alternative set of labels",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1906.11289v2",
+     "doi": null,
+     "title": "Near Optimal Stratified Sampling",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1404.2608v1",
+     "doi": null,
+     "title": "Exponential ratio-product type estimators under second order approximation in stratified random sampling",
+     "year": "2014",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.22326v1",
+     "doi": null,
+     "title": "Label-Efficient Monitoring of Classification Models via Stratified Importance Sampling",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2009.03185v4",
+     "doi": null,
+     "title": "Short Axiomatization of Stratified Comprehension",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2406.16966v1",
+     "doi": null,
+     "title": "Mitigating Noisy Supervision Using Synthetic Samples with Soft Labels",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "external validation sample size AUROC precision new hospital local verification",
+   "date": "2026-11-24T21:38:23",
+   "openalex_count": 2357,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7222994892",
+     "doi": "https://doi.org/10.21203/rs.3.rs-11417231/v1",
+     "title": "Beyond AUROC: External Validation, Calibration, and Explainability of Machine Learning Models for 30-Day Hospital Readmission Using Electronic Health Records\u2014A Rapid Systematic Review",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7225224785",
+     "doi": "https://doi.org/10.48550/arxiv.2611.05011",
+     "title": "Can saliency maps flag chest radiograph classifier errors at a new hospital? An external validation study",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7203989283",
+     "doi": "https://doi.org/10.1038/s41598-026-67468-z",
+     "title": "Immune-inflammatory biomarkers for in-hospital mortality risk stratification in older patients with sepsis: a multicentre leave-one-hospital-out validation study",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7236028267",
+     "doi": "https://doi.org/10.3389/fdgth.2026.1960268",
+     "title": "Beyond AUROC: linking predictions to clinical workflows in deployed decision support systems",
+     "year": 2026,
+     "venue": "Frontiers in Digital Health",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7224834445",
+     "doi": "https://doi.org/10.1093/eurheartj/ehag816",
+     "title": "AI algorithms and external validation: promises, pitfalls, and a practical blueprint",
+     "year": 2026,
+     "venue": "European Heart Journal",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4220924972",
+     "doi": "https://doi.org/10.1016/s2589-7500(21)00272-7",
+     "title": "Real-world evaluation of rapid and laboratory-free COVID-19 triage for emergency care: external validation and pilot deployment of artificial intelligence driven screening",
+     "year": 2022,
+     "venue": "The Lancet Digital Health",
+     "cites": 70
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7169809066",
+     "doi": "https://doi.org/10.1186/s12879-026-13954-8",
+     "title": "Machine learning-based prediction of sepsis-induced myocardial injury: external validation and SHAP interpretation",
+     "year": 2026,
+     "venue": "BMC Infectious Diseases",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4254590558",
+     "doi": "https://doi.org/10.1186/cc13254",
+     "title": "Predicting outcomes after blunt chest wall trauma: development and external validation of a new prognostic model",
+     "year": 2014,
+     "venue": "Critical Care",
+     "cites": 22
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7172011463",
+     "doi": "https://doi.org/10.64898/2026.07.30.26359086",
+     "title": "Interpretable machine learning prediction of in-hospital mortality in ICU patients with cancer and sepsis using first-day data: Development using MIMIC-IV and external validation in eICU-CRD",
+     "year": 2026,
+     "venue": "medRxiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7165642750",
+     "doi": "https://doi.org/10.3389/fnagi.2026.1855864",
+     "title": "Interpretable machine learning models for identifying cognitive impairment in middle-aged and older adults with mild and severe insomnia: development, temporal validation, and clinical external validation",
+     "year": 2026,
+     "venue": "Frontiers in Aging Neuroscience",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2807280338",
+     "doi": "https://doi.org/10.1016/j.jmb.2018.05.037",
+     "title": "Patient Similarity Networks for Precision Medicine",
+     "year": 2018,
+     "venue": "Journal of Molecular Biology",
+     "cites": 184
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7225227390",
+     "doi": "https://doi.org/10.2196/92856",
+     "title": "Development and Validation of a Mixture-of-Experts\u2013Based Model for Postoperative In-Hospital Mortality Risk Assessment: Multicenter Retrospective Study",
+     "year": 2026,
+     "venue": "Journal of Medical Internet Research",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/cs/0609119v2",
+     "doi": null,
+     "title": "Verification, Validation and Integrity of Distributed and Interchanged Rule Based Policies and Contracts in the Semantic Web",
+     "year": "2006",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.05011v1",
+     "doi": null,
+     "title": "Can saliency maps flag chest radiograph classifier errors at a new hospital? An external validation study",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2103.09899v3",
+     "doi": null,
+     "title": "Verification and Validation: the Path to Predictive Scale-Resolving Simulations of Turbulence",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2301.00073v2",
+     "doi": null,
+     "title": "Fluid Antenna System: New Insights on Outage Probability and Diversity Gain",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1809.00626v1",
+     "doi": null,
+     "title": "Deductive Verification of Unmodified Linux Kernel Library Functions",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2508.14747v1",
+     "doi": null,
+     "title": "Challenges of Virtual Validation and Verification for Automotive Functions",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2504.15923v2",
+     "doi": null,
+     "title": "Bayesian sample size calculations for external validation studies of risk prediction models",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.12696v1",
+     "doi": null,
+     "title": "Global maps of travel time to emergency and tertiary hospitals",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "semi-supervised evaluation of classifier performance unlabeled data AUC",
+   "date": "2026-11-24T21:38:25",
+   "openalex_count": 10224,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2611891615",
+     "doi": "https://doi.org/10.1007/s10994-017-5678-9",
+     "title": "Semi-supervised AUC optimization based on positive-unlabeled learning",
+     "year": 2017,
+     "venue": "Machine Learning",
+     "cites": 77
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2788393964",
+     "doi": "https://doi.org/10.1609/aaai.v32i1.11812",
+     "title": "Semi-Supervised AUC Optimization Without Guessing Labels of Unlabeled Data",
+     "year": 2018,
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "cites": 25
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1968817125",
+     "doi": "https://doi.org/10.1007/s13042-015-0328-7",
+     "title": "Semi-supervised self-training for decision tree classifiers",
+     "year": 2015,
+     "venue": "International Journal of Machine Learning and Cybernetics",
+     "cites": 311
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2055630880",
+     "doi": "https://doi.org/10.1016/j.patcog.2014.07.025",
+     "title": "Optimizing area under the ROC curve using semi-supervised learning",
+     "year": 2014,
+     "venue": "Pattern Recognition",
+     "cites": 60
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2997832723",
+     "doi": "https://doi.org/10.1609/aaai.v34i04.5846",
+     "title": "Semi-Supervised Learning for Maximizing the Partial AUC",
+     "year": 2020,
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "cites": 14
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2587621812",
+     "doi": "https://doi.org/10.1609/aaai.v31i1.10937",
+     "title": "Recovering True Classifier Performance in Positive-Unlabeled Learning",
+     "year": 2017,
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "cites": 57
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4391953434",
+     "doi": "https://doi.org/10.1109/access.2024.3367772",
+     "title": "Application of Semi-Supervised Learning in Image Classification: Research on Fusion of Labeled and Unlabeled Data",
+     "year": 2024,
+     "venue": "IEEE Access",
+     "cites": 105
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2111773950",
+     "doi": "https://doi.org/10.48550/arxiv.1506.05790",
+     "title": "Scalable Semi-Supervised Aggregation of Classifiers",
+     "year": 2015,
+     "venue": "neural information processing systems",
+     "cites": 17
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406745202",
+     "doi": "https://doi.org/10.52202/085713-1029",
+     "title": "Evaluating multiple models using labeled and unlabeled data",
+     "year": 2025,
+     "venue": "neural information processing systems",
+     "cites": 10
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2939325949",
+     "doi": "https://doi.org/10.1109/iiai-aai.2018.00202",
+     "title": "An AUC-based Active Learning Algorithm via LogitBoost for Binary Classification",
+     "year": 2018,
+     "venue": "IIAI International Congress on Advanced Applied Informatics (IIAI-AAI)",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4319748040",
+     "doi": "https://doi.org/10.1186/s12859-023-05141-2",
+     "title": "Model performance and interpretability of semi-supervised generative adversarial networks to predict oncogenic variants with unlabeled data",
+     "year": 2023,
+     "venue": "BMC Bioinformatics",
+     "cites": 10
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2964011081",
+     "doi": "https://doi.org/10.48550/arxiv.1702.00518",
+     "title": "Recovering True Classifier Performance in Positive-Unlabeled Learning",
+     "year": 2017,
+     "venue": "arXiv",
+     "cites": 8
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2403.10658v1",
+     "doi": null,
+     "title": "InterLUDE: Interactions between Labeled and Unlabeled Data to Enhance Semi-Supervised Learning",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2512.13228v2",
+     "doi": null,
+     "title": "ModSSC: A Modular Framework for Semi-Supervised Classification on Heterogeneous Data",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1705.01708v3",
+     "doi": null,
+     "title": "Semi-Supervised AUC Optimization based on Positive-Unlabeled Learning",
+     "year": "2017",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1912.10364v3",
+     "doi": null,
+     "title": "Learning to Impute: A General Framework for Semi-supervised Learning",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1907.02664v2",
+     "doi": null,
+     "title": "Data Encoding for Byzantine-Resilient Distributed Optimization",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2005.07866v1",
+     "doi": null,
+     "title": "Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2411.15497v3",
+     "doi": null,
+     "title": "AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1110.5626v1",
+     "doi": null,
+     "title": "Constraints on dark energy from H II starburst galaxy apparent magnitude versus redshift data",
+     "year": "2011",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "efficient estimation of model performance with surrogate scores and few labels medical",
+   "date": "2026-11-24T21:38:28",
+   "openalex_count": 12155,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4403586041",
+     "doi": "https://doi.org/10.1093/jrsssb/qkae099",
+     "title": "On the role of surrogates in the efficient estimation of treatment effects with limited outcome data",
+     "year": 2024,
+     "venue": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+     "cites": 124
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2908541468",
+     "doi": "https://doi.org/10.1016/j.jcp.2019.05.024",
+     "title": "Physics-constrained deep learning for high-dimensional surrogate modeling and uncertainty quantification without labeled data",
+     "year": 2019,
+     "venue": "Journal of Computational Physics",
+     "cites": 1278
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4200352784",
+     "doi": "https://doi.org/10.3390/electronics10233045",
+     "title": "Estimation and Interpretation of Machine Learning Models with Customized Surrogate Model",
+     "year": 2021,
+     "venue": "Electronics",
+     "cites": 18
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7129059365",
+     "doi": "https://doi.org/10.48550/arxiv.2602.12992",
+     "title": "Stratified Sampling for Model-Assisted Estimation with Surrogate Outcomes",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4409187888",
+     "doi": "https://doi.org/10.1016/j.ress.2025.111059",
+     "title": "Surrogate modeling for probability distribution estimation: Uniform or adaptive design?",
+     "year": 2025,
+     "venue": "Reliability Engineering & System Safety",
+     "cites": 20
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7234514303",
+     "doi": "https://doi.org/10.5753/eniac.2026.31160",
+     "title": "Surrogate Models for Pipeline Recommendation in Multi-Label Classification",
+     "year": 2026,
+     "venue": null,
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2604765399",
+     "doi": "https://doi.org/10.1016/j.jedc.2018.03.011",
+     "title": "Agent-based model calibration using machine learning surrogates",
+     "year": 2018,
+     "venue": "Journal of Economic Dynamics and Control",
+     "cites": 354
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3194082517",
+     "doi": "https://doi.org/10.48550/arxiv.2108.10566",
+     "title": "sigmoidF1: A Smooth F1 Score Surrogate Loss for Multilabel Classification",
+     "year": 2022,
+     "venue": "Transactions on machine learning research",
+     "cites": 51
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415220943",
+     "doi": "https://doi.org/10.1145/3787490",
+     "title": "wa-hls4ml: A Benchmark and Surrogate Models for hls4ml Resource and Latency Estimation",
+     "year": 2025,
+     "venue": "ACM Transactions on Reconfigurable Technology and Systems",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3172129812",
+     "doi": "https://doi.org/10.48550/arxiv.2010.02433",
+     "title": "Active Feature Acquisition with Generative Surrogate Models",
+     "year": 2020,
+     "venue": "arXiv",
+     "cites": 81
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4292512861",
+     "doi": "https://doi.org/10.1007/s41019-022-00193-5",
+     "title": "Dimensionality Reduction in Surrogate Modeling: A Review of Combined Methods",
+     "year": 2022,
+     "venue": "Data Science and Engineering",
+     "cites": 183
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2993749937",
+     "doi": "https://doi.org/10.1093/biomet/asz059",
+     "title": "Regularized calibrated estimation of propensity scores with model misspecification and high-dimensional data",
+     "year": 2019,
+     "venue": "Biometrika",
+     "cites": 130
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.05351v1",
+     "doi": null,
+     "title": "Are pathologist-defined labels reproducible? Comparison of the TUPAC16 mitotic figure dataset with an alternative set of labels",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2304.10517v3",
+     "doi": null,
+     "title": "Segment Anything Model for Medical Image Analysis: an Experimental Study",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2202.06881v2",
+     "doi": null,
+     "title": "Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.08937v1",
+     "doi": null,
+     "title": "Surrogate Quality Score: A Novel Composite Performance Metric for Model Selection",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.13875v1",
+     "doi": null,
+     "title": "Performance of Genetic Algorithms in the Context of Software Model Refactoring",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.11197v3",
+     "doi": null,
+     "title": "MedP-CLIP: Medical CLIP with Region-Aware Prompt Integration",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2212.08228v2",
+     "doi": null,
+     "title": "SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2310.15371v1",
+     "doi": null,
+     "title": "Vicinal Feature Statistics Augmentation for Federated 3D Medical Volume Segmentation",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "C4_label_efficient_verification",
+   "query": "active label acquisition for model evaluation under distribution shift",
+   "date": "2026-11-24T21:38:31",
+   "openalex_count": 303561,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3171613114",
+     "doi": "https://doi.org/10.48550/arxiv.2107.00643",
+     "title": "Mandoline: Model Evaluation under Distribution Shift",
+     "year": 2021,
+     "venue": "International Conference on Machine Learning",
+     "cites": 75
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7236505036",
+     "doi": "https://doi.org/10.1007/s40747-026-02584-x",
+     "title": "Validation-guided active learning for scientific machine learning under hidden distribution shift",
+     "year": 2026,
+     "venue": "Complex & Intelligent Systems",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7238555810",
+     "doi": null,
+     "title": "Domain-wise Data Acquisition to Improve Performance under Distribution Shift",
+     "year": 2024,
+     "venue": "International Conference on Machine Learning",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3112486745",
+     "doi": "https://doi.org/10.48550/arxiv.2012.07421",
+     "title": "WILDS: A Benchmark of in-the-Wild Distribution Shifts",
+     "year": 2021,
+     "venue": "International Conference on Machine Learning",
+     "cites": 771
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7169847256",
+     "doi": "https://doi.org/10.48550/arxiv.2607.18088",
+     "title": "The Label Complexity of Useful Class-Conditional Prediction Sets under Distribution Shift",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133183158",
+     "doi": "https://doi.org/10.52202/068431-1783",
+     "title": "Active Surrogate Estimators: An Active Learning Approach to Label-Efficient Model Evaluation",
+     "year": 2022,
+     "venue": "neural information processing systems",
+     "cites": 43
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3215013410",
+     "doi": "https://doi.org/10.48550/arxiv.2106.11719",
+     "title": "Test Distribution-Aware Active Learning: A Principled Approach Against Distribution Shift and Outliers",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 30
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7214736480",
+     "doi": "https://doi.org/10.48550/arxiv.2609.31637",
+     "title": "FIDAL: Diversity-Aware Federated Active Learning Under Real-World Distribution Shifts",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4408105661",
+     "doi": "https://doi.org/10.1162/tacl_a_00734",
+     "title": "A Confidence-based Acquisition Model for Self-supervised Active Learning and Label Correction",
+     "year": 2025,
+     "venue": "Transactions of the Association for Computational Linguistics",
+     "cites": 10
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4403322273",
+     "doi": "https://doi.org/10.48550/arxiv.2410.03915",
+     "title": "Distribution Guided Active Feature Acquisition",
+     "year": 2024,
+     "venue": "arXiv",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4403344243",
+     "doi": "https://doi.org/10.48550/arxiv.2410.05952",
+     "title": "Active Evaluation Acquisition for Efficient LLM Benchmarking",
+     "year": 2025,
+     "venue": "International Conference on Machine Learning",
+     "cites": 25
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3180750393",
+     "doi": "https://doi.org/10.48550/arxiv.2107.07455",
+     "title": "Shifts: A Dataset of Real Distributional Shift Across Multiple Large-Scale Tasks",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 176
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2107.10804v2",
+     "doi": null,
+     "title": "Active Learning in Incomplete Label Multiple Instance Multiple Label Learning",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.11486v1",
+     "doi": null,
+     "title": "Time Series Prediction under Distribution Shift using Differentiable Forgetting",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.05796v1",
+     "doi": null,
+     "title": "Estimating Test Performance for AI Medical Devices under Distribution Shift with Conformal Prediction",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.08479v3",
+     "doi": null,
+     "title": "Active Learning under Label Shift",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2209.11233v2",
+     "doi": null,
+     "title": "Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.27976v2",
+     "doi": null,
+     "title": "Conformal Bayes under Continuous Label Shift: Sensitivity Analysis and the Limits of Exact Validity",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2610.26325v2",
+     "doi": null,
+     "title": "Typed Decision Models under Prevalence Shift and Label Budgets: Decision Training, Calibration, and Implicit Priors",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.06209v2",
+     "doi": null,
+     "title": "Active Learning under Simulated Class Imbalance and Label Shift in Binary Semantic Segmentation",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
   }
  ],
  "papers_opened": [

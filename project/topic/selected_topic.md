@@ -1,54 +1,40 @@
-# Selected topic (cycle 1), DRAFT v1, 2026-11-24
+# Selected topic (cycle 1), v2, 2026-11-24 (v1 kept in selected_topic_v1.md)
 
-**Working title:** Why sepsis early-warning models fail in a new hospital: the shift is in the outcome–feature relationship, so unlabelled fixes do not help and label-free performance estimates mislead.
+**Working title:** How much of a sepsis model's failure in a new hospital is about the hospital? A factorial (ICU unit × hospital) transport analysis on open multi-site ICU data.
 
 ## Problem
-A hospital receiving an externally developed sepsis early-warning model needs to know two things: (i) how well it will work locally, and (ii) whether the drop can be fixed without labelling local patients. Critical Care's recent ML papers keep reporting internal→external drops (literature/reported_results.md, C1), but none explains where the drop comes from.
+Critical Care's recent ML papers report internal→external drops but cannot say where they come from (literature/reported_results.md C1). For a hospital adopting a model, two things are different:
+- a *population* difference (different case mix, as between a medical and a surgical ICU in the same hospital);
+- a *site* difference (charting resolution, measurement process, coding, label-generating practice).
+
+Only the population part is expected to shrink by choosing a model trained on similar patients. The site part needs local data.
 
 ## Gap
-- **WHAT EXISTS:**
-  - Audits showing that missingness identifies the hospital (preprints202610.1449).
-  - Comparisons of supervised adaptation strategies by target-data size (npj Digit Med 2026, doi:10.1038/s41746-026-02364-4).
-  - Semi-supervised OT/alignment methods (JBHI 2023, WWW 2023).
-  - General-ML shift-attribution methods: Cai, Namkoong & Yadlowsky, Oper Res 2025 (DISDE); Zhang et al., ICML 2023.
-- **WHAT IS MISSING:** A demonstration, on open multi-site ICU data, of *which kind* of shift drives the sepsis transport failure. Is it case mix P(x), the measurement process, encoding/harmonisation, or P(y|x)? And the consequence: whether unlabelled-data remedies and label-free performance estimators can work at all.
-- **WHY IT MATTERS:** If the shift is in P(y|x), a hospital cannot avoid labelling a local sample. The practical question becomes how small a labelled sample suffices to *verify* the model before go-live.
+- **WHAT EXISTS:** missingness-identifies-hospital audits (preprints202610.1449); supervised adaptation comparisons by target size (npj Digit Med 2026); general-ML attribution methods (DISDE, Oper Res 2025; Zhang et al., ICML 2023). The general-ML methods rely on covariate overlap.
+- **WHAT IS MISSING:** an overlap-free estimate of the site component of transport loss. Here overlap does not exist: domain AUC 0.9996, and even vitals-only gives 0.978. Also missing: a test of which site ingredients unlabelled fixes can remove.
+- **WHY IT MATTERS:** it tells adopters whether a "similar-population" model will do, or whether local labelled data is unavoidable.
 
-## Hypothesis (stated before the test)
-H1: Most of the A↔B AUROC drop on PhysioNet 2019 is attributable to conditional shift. Unsupervised remedies close < 25% of the gap that pooled training closes.
-H2: Label-free estimators of external AUROC have errors larger than the clinically relevant margin of 0.03 when sites are near-separable:
-- internal validation
-- importance weighting
-- ATC
-- DoC
-
-H3: A small, stratified local labelled sample combined with a control-variate estimator built on the source model's scores gives external-AUROC estimates within ±0.03 at fewer labelled patients than naive local estimation.
+## Hypotheses (fixed before confirmation)
+- H1 (primary): the transport gap for a different hospital and the same unit exceeds the gap for the same hospital and a different unit. Paired over transfer pairs, CI excludes 0, Holm-corrected.
+- H2: unlabelled site fixes together remove less than half of the site component:
+  - harmonisation repair
+  - removal of process features
+  - per-site quantile normalisation
+- H3: label-free estimates of transported AUROC have absolute error > 0.03 in most off-diagonal transfers. Estimators: internal AUROC, importance weighting, ATC, DoC.
 
 ## Research questions
-- RQ1: How much of the drop is covariate/case-mix vs conditional shift? Answered with a decomposition (DISDE-style) plus the pooled-training bound.
-- RQ2: Which unsupervised remedies help, and by how much?
-  - drop process features
-  - per-site normalisation
-  - harmonisation repair
-  - importance weighting
-  - OT-style alignment
-- RQ3: How wrong are label-free performance estimates?
-- RQ4: How many labelled local patients does a reliable pre-deployment check need?
-- RQ5: Does all of this replicate in another shift condition? Options: ICU unit (MICU↔SICU) within each hospital; eICU-CRD demo hospitals (mortality task); PhysioNet 2012 ICU types.
+- RQ1: size of the population (unit) and site components, overall and by direction.
+- RQ2: which site ingredients unlabelled fixes can remove.
+- RQ3: reliability of label-free estimates, and how many labelled local patients existing estimators (classical, PPI-style) need for ±0.03.
+- RQ4: does it hold for two model classes (LightGBM, logistic regression), patient-level metrics, AUPRC and calibration?
+- RQ5 (breadth): a second dataset if feasible (eICU-CRD demo; mortality; hospital × unit-type). Otherwise stated as a limitation.
 
-## Data (all open)
-- PhysioNet/CinC 2019 (CC BY 4.0).
-- eICU-CRD demo 2.0.1 (ODbL).
-- PhysioNet 2012 challenge. Its license is still to be verified.
+## Data
+- PhysioNet/CinC 2019, hospital systems A and B, units MICU and SICU (CC BY 4.0). Patients with unknown unit are excluded from cell analyses.
+- eICU-CRD demo 2.0.1 (ODbL) for RQ5.
 
-## Models and baselines
-LightGBM, which matches the journal's dominant model class, plus logistic regression. Label-free estimators: internal AUROC, IW-AUROC, ATC, DoC. Local-label estimators: naive local AUROC vs the proposed estimator.
+## Contribution type
+A (failure mode demonstrated with data) + D (factorial transport protocol, released with code). **G5 interpretation (logged as D16):** this is not a method-beats-baseline paper. The G5 standard (confirmation seeds, Holm p < 0.05, effect size, CI excluding 0) is applied to H1.
 
-## Metrics
-AUROC and AUPRC at hour and patient level; calibration slope and citl; for estimators, absolute error and coverage.
-
-## Compute estimate
-Each LightGBM fit takes about 1 min on 4 cores. About 400 fits ≈ 6–7 h, which is ≤ 15 h per cycle.
-
-## Status
-Novelty is NOT yet earned. RQ1/RQ3 need the closest DISDE-in-healthcare papers opened, and H3's estimator needs a prior-art check: "control variates AUROC estimation small labelled sample", "prediction-powered inference AUROC" (PPI, Angelopoulos et al. 2023, is close and must be checked).
+## Compute
+4 cells × 2 model classes × 5 confirmation seeds = 40 fits for the main matrix, plus ablations (~120 fits) and the estimator study (cheap). That is about 3–4 h of CPU.

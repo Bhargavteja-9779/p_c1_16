@@ -1,0 +1,22 @@
+{
+ "A_MICU": {
+  "internal": 0.7771092106660726,
+  "other_unit_same_hosp": 0.7746129874862784,
+  "same_unit_other_hosp": 0.7766491534942468
+ },
+ "A_SICU": {
+  "internal": 0.7931373407552932,
+  "other_unit_same_hosp": 0.734834950432163,
+  "same_unit_other_hosp": 0.7336386547786494
+ },
+ "B_MICU": {
+  "internal": 0.8563826117623135,
+  "other_unit_same_hosp": 0.8208106104849094,
+  "same_unit_other_hosp": 0.7093784921945683
+ },
+ "B_SICU": {
+  "internal": 0.8608699461205898,
+  "other_unit_same_hosp": 0.8021393035146046,
+  "same_unit_other_hosp": 0.7298605625675759
+ }
+}
