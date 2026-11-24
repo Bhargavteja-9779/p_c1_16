@@ -1,0 +1,877 @@
+{
+ "issn": "2523-3246",
+ "journal": "Cybersecurity",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:11.842158",
+ "source": "https://api.crossref.org/journals/2523-3246/works",
+ "articles": [
+  {
+   "doi": "10.1186/s42400-025-00375-4",
+   "title": "EGRTE: adversarially training a self-explaining smoothed classifier for certified robustness",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s42400-024-00351-4",
+   "title": "Shorter lattice-based verifiable encryption using bimodal Gaussian",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s42400-024-00312-x",
+   "title": "Cryptanalysis of IAR-CTR and IAR-CFB and a fixing method",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "7 July 2024",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s42400-024-00353-2",
+   "title": "Clean-label backdoor attack on link prediction task",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s42400-024-00345-2",
+   "title": "Unitanony: a fine-grained and practical anonymization framework for better data utility",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s42400-025-00396-z",
+   "title": "DEFENDIFY: defense amplified with transfer learning for obfuscated malware framework",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 305
+  },
+  {
+   "doi": "10.1186/s42400-024-00334-5",
+   "title": "An efficient video slice encryption scheme and its application",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s42400-024-00303-y",
+   "title": "MAT-FHE: arbitrary dimension matrix multiplication scheme for floating point over fully homomorphic encryption",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "25 June 2024",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s42400-024-00327-4",
+   "title": "Improved machine learning-aided linear cryptanalysis: application to DES",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s42400-024-00325-6",
+   "title": "Speedup signing: pre-rejection sampling towards dilithium",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s42400-024-00299-5",
+   "title": "A Robust joint coverless image steganography scheme based on two independent modules",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "26 September 2024",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s42400-024-00287-9",
+   "title": "Enabling per-file data recovery from ransomware attacks via file system forensics and flash translation layer data extraction",
+   "received": "22 January 2024",
+   "revised": null,
+   "accepted": "1 September 2024",
+   "days": 223
+  },
+  {
+   "doi": "10.1186/s42400-025-00356-7",
+   "title": "Communication-efficient public key encryption with (fine-grained delegated) equality test",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s42400-024-00310-z",
+   "title": "The SEIRS-NIMFA epidemiological model for malware propagation analysis in IoT networks",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "9 July 2024",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s42400-024-00336-3",
+   "title": "Building a large, realistic and labeled HTTP URI dataset for anomaly-based intrusion detection systems: Biblio-US17",
+   "received": "7 March 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 242
+  },
+  {
+   "doi": "10.1186/s42400-024-00322-9",
+   "title": "Pbaeg: combine-vulnerabilities AEG to defeat protection mechanisms",
+   "received": "20 December 2023",
+   "revised": null,
+   "accepted": "19 June 2024",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s42400-024-00328-3",
+   "title": "A novel Smishing defense approach based on meta-heuristic optimization algorithms",
+   "received": "11 May 2024",
+   "revised": null,
+   "accepted": "16 October 2024",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s42400-024-00352-3",
+   "title": "Image encryption scheme based on compressed sensing and fractional quantum logistic-tent map",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s42400-024-00341-6",
+   "title": "HP_FLAP: homomorphic and polymorphic federated learning aggregation of parameters framework",
+   "received": "21 February 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 279
+  },
+  {
+   "doi": "10.1186/s42400-024-00317-6",
+   "title": "Reversible generative steganography with distribution-preserving",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "7 August 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s42400-024-00249-1",
+   "title": "Renyi entropy-driven network traffic anomaly detection with dynamic threshold",
+   "received": "11 January 2024",
+   "revised": null,
+   "accepted": "28 April 2024",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s42400-025-00369-2",
+   "title": "Intrusion detection in the internet of things using convolutional neural networks: an explainable AI approach",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s42400-024-00321-w",
+   "title": "Insider threat detection for specific threat scenarios",
+   "received": "1 May 2024",
+   "revised": null,
+   "accepted": "25 August 2024",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s42400-025-00379-0",
+   "title": "A new robust PKC encryption method based on invertible matrix multiplication for HIE in medical IoT systems",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s42400-024-00290-0",
+   "title": "A novel oversampling method based on Wasserstein CGAN for imbalanced classification",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "9 September 2024",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s42400-024-00293-x",
+   "title": "Fedrtid: an efficient shuffle federated learning via random participation and adaptive time constraint",
+   "received": "7 June 2024",
+   "revised": null,
+   "accepted": "13 September 2024",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s42400-024-00292-y",
+   "title": "Bag2image: a multi-instance network traffic representation for network security event prediction",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "11 September 2024",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s42400-024-00301-0",
+   "title": "Enmob: Unveil the Behavior with Multi-flow Analysis of Encrypted App Traffic",
+   "received": "5 February 2024",
+   "revised": null,
+   "accepted": "26 June 2024",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s42400-024-00319-4",
+   "title": "Enhanced logistic map with infinite chaos and its applicability in lightweight and high-speed pseudo-random bit generation",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "15 August 2024",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s42400-024-00323-8",
+   "title": "Privacy-preserving attribute-based access control using homomorphic encryption",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "12 June 2024",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s42400-024-00320-x",
+   "title": "Zero-trust based dynamic access control for cloud computing",
+   "received": "3 January 2024",
+   "revised": null,
+   "accepted": "21 August 2024",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s42400-024-00354-1",
+   "title": "A hot-repair method for the running software with zero suspends",
+   "received": "11 May 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 228
+  },
+  {
+   "doi": "10.1186/s42400-025-00385-2",
+   "title": "A compact hardware STBCS design by using stochastic computation",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s42400-025-00378-1",
+   "title": "Multi-layer DDoS attacks detection with mitigation in IoT-enabled sensor network",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 317
+  },
+  {
+   "doi": "10.1186/s42400-024-00335-4",
+   "title": "LLM4TDG: test-driven generation of large language models based on enhanced constraint reasoning",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s42400-024-00349-y",
+   "title": "XFP-recognizer: detecting cross-file browser fingerprinting",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s42400-025-00377-2",
+   "title": "CAFLnet: a network protocol fuzzing framework based on selection algorithm with enhanced contextual information",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s42400-024-00308-7",
+   "title": "Deep neural network modeling attacks on arbiter-PUF-based designs",
+   "received": "1 November 2023",
+   "revised": null,
+   "accepted": "15 July 2024",
+   "days": 257
+  },
+  {
+   "doi": "10.1186/s42400-025-00359-4",
+   "title": "IL-IDS: an incremental learning approach with confined data streams for intrusion detection",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s42400-025-00386-1",
+   "title": "Classifying encrypted traffic using quad-directional convolution on pulse sequences",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s42400-025-00390-5",
+   "title": "E-DoH: elegantly detecting the depths of open DoH service on the internet",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s42400-024-00314-9",
+   "title": "Mi-maml: classifying few-shot advanced malware using multi-improved model-agnostic meta-learning",
+   "received": "18 October 2023",
+   "revised": null,
+   "accepted": "30 July 2024",
+   "days": 286
+  },
+  {
+   "doi": "10.1186/s42400-024-00337-2",
+   "title": "An efficient multi-key BFV fully homomorphic encryption scheme with optimized relinearization",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s42400-024-00324-7",
+   "title": "A survey on the application of blockchain in cryptographic protocols",
+   "received": "7 January 2024",
+   "revised": null,
+   "accepted": "19 June 2024",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s42400-025-00373-6",
+   "title": "A face template protection scheme based on chaotic map, error correction code and locality sensitive hashing",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s42400-025-00380-7",
+   "title": "Cocoon: certificateless blockchain wallet supporting both stealth address and revocation",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s42400-024-00315-8",
+   "title": "Private, efficient, and flexible: protecting names based on message-derived encryption in named data networking",
+   "received": "2 May 2024",
+   "revised": null,
+   "accepted": "7 August 2024",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s42400-025-00374-5",
+   "title": "Electronic music assassin: towards imperceptible physical adversarial attacks against black-box automatic speech recognitions",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s42400-024-00252-6",
+   "title": "UDAP: ultra-lightweight dot product-based authentication protocol for RFID systems",
+   "received": "14 March 2024",
+   "revised": null,
+   "accepted": "8 May 2024",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s42400-025-00364-7",
+   "title": "A network intrusion detection method based on contrastive learning and Bayesian Gaussian Mixture Model",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s42400-024-00346-1",
+   "title": "Evaluation framework for deepfake speech detection: a comparative study of state-of-the-art deepfake speech detectors",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s42400-024-00296-8",
+   "title": "BS-GAT: a network intrusion detection system based on graph neural network for edge computing",
+   "received": "29 May 2024",
+   "revised": null,
+   "accepted": "26 September 2024",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s42400-024-00350-5",
+   "title": "Towards enhancing security for upcoming 6G-ready smart grids through federated learning and cloud solutions",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s42400-024-00316-7",
+   "title": "Quantum commitments from structured one-way quantum state generators, and more",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "11 August 2024",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s42400-024-00257-1",
+   "title": "The quantum circuit implementation and feasibility analysis of quantum public-key cryptosystem based on the $$QSCD_{ff}$$ problem",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "24 May 2024",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s42400-025-00362-9",
+   "title": "Grouped Byzantine fault tolerant consensus algorithm based on aggregated signatures",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s42400-024-00228-6",
+   "title": "Double-sided: tight proofs for guessing games in the quantum random oracle model",
+   "received": "11 January 2024",
+   "revised": null,
+   "accepted": "29 February 2024",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s42400-024-00330-9",
+   "title": "Unveiling the veil: high-frequency components as the key to understanding medical DNNs\u2019 vulnerability to adversarial examples",
+   "received": "10 May 2024",
+   "revised": null,
+   "accepted": "17 October 2024",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s42400-024-00309-6",
+   "title": "A combined feature selection approach for malicious email detection based on a comprehensive email dataset",
+   "received": "11 November 2023",
+   "revised": null,
+   "accepted": "24 July 2024",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s42400-024-00326-5",
+   "title": "Detection to false data for smart grid",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s42400-025-00370-9",
+   "title": "SEAC: dynamic searchable symmetric encryption with lightweight update-search permission control",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s42400-024-00305-w",
+   "title": "A graph backdoor detection method for data collection scenarios",
+   "received": "27 November 2023",
+   "revised": null,
+   "accepted": "8 July 2024",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s42400-024-00256-2",
+   "title": "Designated confirmer threshold signature and its applications in blockchains",
+   "received": "24 August 2023",
+   "revised": null,
+   "accepted": "24 April 2024",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s42400-025-00372-7",
+   "title": "Shadowkube: enhancing Kubernetes security with behavioral monitoring and honeypot integration",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s42400-024-00226-8",
+   "title": "An efficient and versatile e-voting scheme on blockchain",
+   "received": "23 November 2023",
+   "revised": null,
+   "accepted": "26 February 2024",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s42400-024-00304-x",
+   "title": "Efficient inner product arguments with sublogarithmic proof and sub-square-root verifier",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "25 June 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s42400-024-00295-9",
+   "title": "Privacy preserving federated learning with convolutional variational bottlenecks",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "18 September 2024",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s42400-024-00343-4",
+   "title": "Efficient and secure multi-party computation protocol supporting deep learning",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s42400-024-00329-2",
+   "title": "Federated two-stage transformer-based network for intrusion detection in non-IID data of controller area networks",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "16 October 2024",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s42400-024-00342-5",
+   "title": "An Unsupervised Fake News Detection Framework Based on Structural Contrastive Learning",
+   "received": "12 February 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 288
+  },
+  {
+   "doi": "10.1186/s42400-025-00357-6",
+   "title": "Upper bounds of differential branch number of $$n$$-bit permutations",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s42400-025-00376-3",
+   "title": "A network flow fingerprinting method with adaptive embedding strength",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s42400-024-00331-8",
+   "title": "Key committing attack on Tiaoxin-346 algorithm",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "27 October 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s42400-025-00358-5",
+   "title": "Androfim: few-shot android malware family detection based on image representation",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1186/s42400-025-00381-6",
+   "title": "Development and application of new 2D Cubic-Sine hyperchaotic map",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s42400-024-00318-5",
+   "title": "Transferable adversarial attacks for multi-model systems coupling image fusion with classification models",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "7 August 2024",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s42400-025-00355-8",
+   "title": "A Blockchain-based cross-platform authentication scheme for EV aggregate charging platform",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s42400-025-00371-8",
+   "title": "Faster threshold-SM2 with identifiable abort and non-interactive online signing",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s42400-024-00294-w",
+   "title": "Reusable and robust fuzzy extractor for CRS-dependent sources",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "18 September 2024",
+   "days": 13
+  },
+  {
+   "doi": "10.1186/s42400-024-00338-1",
+   "title": "Ctta: a novel chain-of-thought transfer adversarial attacks framework for large language models",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s42400-025-00360-x",
+   "title": "LP-HENN: fully homomorphic encryption accelerator with high energy efficiency",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s42400-024-00347-0",
+   "title": "$$e$$-CM: A novel approach to advancing chaotic dynamics in discrete one-dimensional maps for secure IoT applications",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 40
+  },
+  {
+   "doi": "10.1186/s42400-024-00348-z",
+   "title": "IRMAOC: an interpretable role mining algorithm based on overlapping clustering",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s42400-024-00333-6",
+   "title": "A multi-image steganography: ISS",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s42400-024-00258-0",
+   "title": "Improved integral neural distinguisher model for lightweight cipher PRESENT",
+   "received": "4 January 2024",
+   "revised": null,
+   "accepted": "22 May 2024",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s42400-024-00298-6",
+   "title": "Dual-verification-based model fingerprints against ambiguity attacks",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "26 September 2024",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s42400-024-00307-8",
+   "title": "A privacy-enhanced framework with deep learning for botnet detection",
+   "received": "25 September 2023",
+   "revised": null,
+   "accepted": "22 July 2024",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s42400-024-00311-y",
+   "title": "Angus: efficient active learning strategies for provenance based intrusion detection",
+   "received": "4 March 2024",
+   "revised": null,
+   "accepted": "29 July 2024",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s42400-025-00365-6",
+   "title": "CGTS: graph transformer-based anomaly detection in controller area networks",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s42400-025-00361-w",
+   "title": "When LLMs meet cybersecurity: a systematic literature review",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1186/s42400-024-00302-z",
+   "title": "Integral cryptanalysis on reduce-round SAILFISH-I",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "26 June 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s42400-024-00313-w",
+   "title": "Spammer group detection based on cascading and clustering of core figures",
+   "received": "5 April 2024",
+   "revised": null,
+   "accepted": "9 July 2024",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s42400-024-00339-0",
+   "title": "An improved BKW algorithm on the learning with rounding problem",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s42400-024-00300-1",
+   "title": "The secret behind instant messaging: video identification attack against complex protocols",
+   "received": "4 February 2024",
+   "revised": null,
+   "accepted": "11 June 2024",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s42400-024-00332-7",
+   "title": "A lightweight vulnerability detection method for long smart contracts based on bimodal feature fusion",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s42400-024-00306-9",
+   "title": "Analysis on dendritic deep learning model for AMR task",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "8 July 2024",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s42400-025-00363-8",
+   "title": "Understanding security risks in mobile-to-PC screen mirroring: an empirical study",
+   "received": "3 August 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s42400-025-00383-4",
+   "title": "AMMF: cross-architectures vulnerability detection based on attention mechanism and multi-feature fusion",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s42400-025-00367-4",
+   "title": "A novel CLWE-based attribute-based encryption scheme from lattices with privacy preserving",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s42400-024-00344-3",
+   "title": "Adaptively secure, splittable, and robust threshold unsigncryption",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s42400-024-00288-8",
+   "title": "Efficient network attack path optimization method based on prior knowledge-based PPO algorithm",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "3 September 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s42400-025-00366-5",
+   "title": "A correlation analysis-based federated learning framework for defending against collusion-free-riding attacks",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s42400-024-00242-8",
+   "title": "A novel approach for detecting malicious hosts based on RE-GCN in intranet",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "11 April 2024",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s42400-025-00421-1",
+   "title": "SPPsolver: a SAT-based algorithm for solving any stable paths problem correctly",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1186/s42400-025-00368-3",
+   "title": "Efficient shortest distance approximate query on large scale encrypted graph data",
+   "received": "15 December 2023",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 398
+  },
+  {
+   "doi": "10.1186/s42400-024-00289-7",
+   "title": "Lattice-based cryptanalysis of RSA-type cryptosystems: a bibliometric analysis",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "3 September 2024",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s42400-024-00291-z",
+   "title": "SCAN-C: a lightweight cryptographic algorithm to secure CAN communications in modern vehicles",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "12 September 2024",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s42400-024-00340-7",
+   "title": "Preimage and collision attacks on reduced Ascon using algebraic strategies",
+   "received": "23 April 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 215
+  }
+ ]
+}

@@ -1,0 +1,3671 @@
+{
+ "issn": "1475-2840",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:14:32.289540",
+ "source": "https://api.crossref.org/journals/1475-2840/works",
+ "articles_in_window": 479,
+ "all_with_dates": {
+  "n": 454,
+  "median": 62.0,
+  "p25": 46.0,
+  "p75": 85.25,
+  "min": 0,
+  "max": 300,
+  "share_le_72": 0.637
+ },
+ "full_articles_refs_ge_25": {
+  "n": 443,
+  "median": 62,
+  "p25": 46.0,
+  "p75": 86.0,
+  "min": 0,
+  "max": 300,
+  "share_le_72": 0.63
+ },
+ "short_items_refs_lt_25": {
+  "n": 11,
+  "median": 28,
+  "p25": 5.0,
+  "p75": 48.0,
+  "min": 0,
+  "max": 85,
+  "share_le_72": 0.909
+ },
+ "articles": [
+  {
+   "doi": "10.1186/s12933-024-02521-7",
+   "title": "Prognostic value of glycaemic variability for mortality in critically ill atrial fibrillation patients and mortality prediction model using machine learning",
+   "received": "18 September 2024",
+   "accepted": "20 November 2024",
+   "days": 63,
+   "refs": 59
+  },
+  {
+   "doi": "10.1186/s12933-024-02519-1",
+   "title": "New insights into FGF21 alleviates diabetic cardiomyopathy by suppressing ferroptosis: a commentary",
+   "received": "13 November 2024",
+   "accepted": "18 November 2024",
+   "days": 5,
+   "refs": 14
+  },
+  {
+   "doi": "10.1186/s12933-024-02512-8",
+   "title": "Urinary metabolomics provide insights into coronary artery disease in individuals with type 1 diabetes",
+   "received": "27 September 2024",
+   "accepted": "13 November 2024",
+   "days": 47,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-024-02518-2",
+   "title": "The interaction between triglyceride-glucose index and visceral adiposity in cardiovascular disease risk: findings from a nationwide Chinese cohort",
+   "received": "6 October 2024",
+   "accepted": "18 November 2024",
+   "days": 43,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-024-02507-5",
+   "title": "ASGR1 deficiency improves atherosclerosis but alters liver metabolism in ApoE-/- mice",
+   "received": "5 September 2024",
+   "accepted": "7 November 2024",
+   "days": 63,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-024-02526-2",
+   "title": "Adipsin improves diabetic hindlimb ischemia through SERPINE1 dependent angiogenesis",
+   "received": "10 October 2024",
+   "accepted": "25 November 2024",
+   "days": 46,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-024-02513-7",
+   "title": "Elevated whole blood viscosity is associated with an impaired insulin-stimulated myocardial glucose metabolism",
+   "received": "21 September 2024",
+   "accepted": "14 November 2024",
+   "days": 54,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-024-02514-6",
+   "title": "PACS2/CPT1A/DHODH signaling promotes cardiomyocyte ferroptosis in diabetic cardiomyopathy",
+   "received": "9 August 2024",
+   "accepted": "17 November 2024",
+   "days": 100,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-024-02520-8",
+   "title": "SGLT2 inhibitor downregulates ANGPTL4 to mitigate pathological aging of cardiomyocytes induced by type 2 diabetes",
+   "received": "16 October 2024",
+   "accepted": "20 November 2024",
+   "days": 35,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-024-02531-5",
+   "title": "ApoC-III proteoforms are associated with better lipid, inflammatory, and glucose profiles independent of total apoC-III",
+   "received": "17 October 2024",
+   "accepted": "29 November 2024",
+   "days": 43,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-024-02524-4",
+   "title": "Diabetes does not increase in-hospital or short-term mortality in patients undergoing surgical repair for type A aortic dissection: insight from the national re",
+   "received": "22 September 2024",
+   "accepted": "22 November 2024",
+   "days": 61,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-024-02532-4",
+   "title": "The relationship between atherogenic index of plasma and plaque vulnerabilities: an optical coherence tomography study",
+   "received": "26 July 2024",
+   "accepted": "29 November 2024",
+   "days": 126,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s12933-024-02527-1",
+   "title": "Unravelling the cardio-renal-metabolic-foot connection in people with diabetes-related foot ulceration: a narrative review",
+   "received": "14 September 2024",
+   "accepted": "26 November 2024",
+   "days": 73,
+   "refs": 175
+  },
+  {
+   "doi": "10.1186/s12933-024-02533-3",
+   "title": "A comparison between lipid-based vs. glycemic-based insulin sensitivity indices for the association with abnormal ECG findings and 20-year mortality among older",
+   "received": "12 October 2024",
+   "accepted": "21 November 2024",
+   "days": 40,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-024-02534-2",
+   "title": "Adjustment of the ACEF score by the triglyceride glucose index improves the prediction of clinical outcomes in patients undergoing percutaneous coronary interve",
+   "received": "17 October 2024",
+   "accepted": "2 December 2024",
+   "days": 46,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-024-02535-1",
+   "title": "Metabolomic studies reveal and validate potential biomarkers of diabetic retinopathy in two Chinese datasets with type 2 diabetes: a cross-sectional study",
+   "received": "19 August 2024",
+   "accepted": "2 December 2024",
+   "days": 105,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s12933-024-02538-y",
+   "title": "Exploring the prognostic impact of triglyceride-glucose index in critically ill patients with first-ever stroke: insights from traditional methods and machine l",
+   "received": "3 October 2024",
+   "accepted": "5 December 2024",
+   "days": 63,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-024-02536-0",
+   "title": "Relationships among Helicobacter pylori seropositivity, the triglyceride-glucose index, and cardiovascular disease: a cohort study using the NHANES database",
+   "received": "28 October 2024",
+   "accepted": "5 December 2024",
+   "days": 38,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-024-02530-6",
+   "title": "Pericoronary adipose tissue radiomics features as imaging markers for coronary artery disease risk assessment: insights from gene expression analysis",
+   "received": "23 August 2024",
+   "accepted": "27 November 2024",
+   "days": 96,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s12933-024-02505-7",
+   "title": "Sphingolipid profiling as a biomarker of type 2 diabetes risk: evidence from the MIDUS and PREDIMED studies",
+   "received": "12 August 2024",
+   "accepted": "5 November 2024",
+   "days": 85,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-024-02542-2",
+   "title": "Association and predictive ability between significant perioperative cardiovascular adverse events and stress glucose rise in patients undergoing non-cardiac su",
+   "received": "8 October 2024",
+   "accepted": "10 December 2024",
+   "days": 63,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-024-02517-3",
+   "title": "Increased epicardial adipose tissue is associated with left ventricular reverse remodeling in dilated cardiomyopathy",
+   "received": "8 September 2024",
+   "accepted": "18 November 2024",
+   "days": 71,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-024-02525-3",
+   "title": "Hemoglobin A1c and abdominal obesity as predictors of diabetes and ASCVD in individuals with prediabetes in UK Biobank: a prospective observational study",
+   "received": "19 August 2024",
+   "accepted": "25 November 2024",
+   "days": 98,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s12933-024-02539-x",
+   "title": "SGLT2 inhibition and adipose tissue metabolism: current outlook and perspectives",
+   "received": "18 October 2024",
+   "accepted": "9 December 2024",
+   "days": 52,
+   "refs": 125
+  },
+  {
+   "doi": "10.1186/s12933-024-02490-x",
+   "title": "L-Arginine supplementation as mitochondrial therapy in diabetic cardiomyopathy",
+   "received": "2 March 2024",
+   "accepted": "23 October 2024",
+   "days": 235,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-024-02545-z",
+   "title": "ANXA1-FPR2 axis mitigates the susceptibility to atrial fibrillation in obesity via rescuing AMPK activity in response to lipid overload",
+   "received": "11 May 2024",
+   "accepted": "11 December 2024",
+   "days": 214,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-024-02546-y",
+   "title": "Estimated potassium intake and major adverse cardiovascular events in individuals with type 2 diabetes: a prospective cohort study with trans-ethnic validation",
+   "received": "15 October 2024",
+   "accepted": "13 December 2024",
+   "days": 59,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-024-02544-0",
+   "title": "Genetic predisposition to nephropathy and associated cardiovascular disease in people with type 1 diabetes: role of the angiotensinI-converting enzyme (ACE), an",
+   "received": "21 October 2024",
+   "accepted": "11 December 2024",
+   "days": 51,
+   "refs": 93
+  },
+  {
+   "doi": "10.1186/s12933-024-02549-9",
+   "title": "Perivascular adipose tissue: a central player in the triad of diabetes, obesity, and cardiovascular health",
+   "received": "14 September 2024",
+   "accepted": "17 December 2024",
+   "days": 94,
+   "refs": 207
+  },
+  {
+   "doi": "10.1186/s12933-024-02565-9",
+   "title": "Evaluating sex-specific responses to western diet across the lifespan: impact on cardiac function and transcriptomic signatures in C57BL/6J mice at 530 and 640/",
+   "received": "3 December 2024",
+   "accepted": "24 December 2024",
+   "days": 21,
+   "refs": 110
+  },
+  {
+   "doi": "10.1186/s12933-024-02547-x",
+   "title": "Visceral adipose tissue mediates the relationship between left ventricular global longitudinal strain and insulin resistance among adults living with type 2 dia",
+   "received": "23 October 2024",
+   "accepted": "16 December 2024",
+   "days": 54,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-024-02564-w",
+   "title": "Deep-learning prediction of cardiovascular outcomes from routine retinal images in individuals with type 2 diabetes",
+   "received": "22 August 2024",
+   "accepted": "24 December 2024",
+   "days": 124,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-024-02556-w",
+   "title": "Longitudinal changes in remnant cholesterol and the risk of cardiovascular disease",
+   "received": "28 October 2024",
+   "accepted": "23 December 2024",
+   "days": 56,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-024-02548-w",
+   "title": "Long-term prognostic impact of glucagon-like peptide-1 receptor agonist before ST-segment elevation myocardial infarction in patients with type 2 diabetes: a na",
+   "received": "31 October 2024",
+   "accepted": "16 December 2024",
+   "days": 46,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-024-02567-7",
+   "title": "The additive effect of the stress hyperglycemia ratio on type 2 diabetes: a population-based cohort study",
+   "received": "28 September 2024",
+   "accepted": "28 December 2024",
+   "days": 91,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s12933-024-02541-3",
+   "title": "NLRP3 inflammasome-modulated angiogenic function of EPC via PI3K/ Akt/mTOR pathway in diabetic myocardial infarction",
+   "received": "20 September 2024",
+   "accepted": "10 December 2024",
+   "days": 81,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-024-02569-5",
+   "title": "Joint association of triglyceride glucose index (TyG) and a body shape index (ABSI) with stroke incidence: a nationwide prospective cohort study",
+   "received": "23 September 2024",
+   "accepted": "29 December 2024",
+   "days": 97,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-024-02537-z",
+   "title": "Impact of remnant cholesterol on short-term and long-term prognosis in patients with prediabetes or diabetes undergoing coronary artery bypass grafting: a large",
+   "received": "22 October 2024",
+   "accepted": "5 December 2024",
+   "days": 44,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-024-02571-x",
+   "title": "Inflammatory markers link triglyceride-glucose index and obesity indicators with adverse cardiovascular events in patients with hypertension: insights from thre",
+   "received": "3 November 2024",
+   "accepted": "31 December 2024",
+   "days": 58,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02577-z",
+   "title": "Predicting 28-day all-cause mortality in patients admitted to intensive care units with pre-existing chronic heart failure using the stress hyperglycemia ratio:",
+   "received": "7 November 2024",
+   "accepted": "3 January 2025",
+   "days": 57,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-024-02553-z",
+   "title": "Triglyceride-independent associations between circulating levels of apolipoprotein C-III and biomarkers of inflammation",
+   "received": "21 October 2024",
+   "accepted": "19 December 2024",
+   "days": 59,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-024-02572-w",
+   "title": "Association between triglyceride-glucose (TyG) related indices and cardiovascular diseases and mortality among individuals with metabolic dysfunction-associated",
+   "received": "29 October 2024",
+   "accepted": "31 December 2024",
+   "days": 63,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-024-02570-y",
+   "title": "Association between estimated glucose disposal rate and cardiovascular diseases in patients with diabetes or prediabetes: a cross-sectional study",
+   "received": "9 October 2024",
+   "accepted": "30 December 2024",
+   "days": 82,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02574-2",
+   "title": "Triglyceride-glucose index: carotid intima-media thickness and cardiovascular risk in a European population",
+   "received": "22 October 2024",
+   "accepted": "2 January 2025",
+   "days": 72,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02581-3",
+   "title": "Improving 10-year cardiovascular risk prediction in patients with type 2 diabetes with metabolomics",
+   "received": "28 August 2024",
+   "accepted": "4 January 2025",
+   "days": 129,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-024-02554-y",
+   "title": "Echocardiographic phenotypes of diabetic myocardial disorder: evolution over 15\u00a0months follow-up in the ARISE-HF trial",
+   "received": "27 October 2024",
+   "accepted": "19 December 2024",
+   "days": 53,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s12933-024-02568-6",
+   "title": "Longitudinal DNA methylation profiles in saliva of offspring from mothers with gestational diabetes: associations with early childhood growth patterns",
+   "received": "8 November 2024",
+   "accepted": "29 December 2024",
+   "days": 51,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02573-3",
+   "title": "ICAM1 blockade improves ischemic muscle reperfusion in diabetic mice",
+   "received": "23 October 2024",
+   "accepted": "1 January 2025",
+   "days": 70,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02589-9",
+   "title": "Association between atherogenic index of plasma and future risk of cardiovascular disease in individuals with cardiovascular-kidney-metabolic syndrome stages 0\u2013",
+   "received": "8 November 2024",
+   "accepted": "9 January 2025",
+   "days": 62,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s12933-024-02566-8",
+   "title": "Caloric restriction and its mimetics in heart failure with preserved ejection fraction: mechanisms and therapeutic potential",
+   "received": "25 November 2024",
+   "accepted": "26 December 2024",
+   "days": 31,
+   "refs": 258
+  },
+  {
+   "doi": "10.1186/s12933-024-02551-1",
+   "title": "Diabetes mellitus risk in post-myocardial infarction patients: FINDRISC versus self-assessment\u2014a cross sectional study",
+   "received": "31 October 2024",
+   "accepted": "18 December 2024",
+   "days": 48,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s12933-025-02598-8",
+   "title": "Advances in cardiac organoid research: implications for cardiovascular disease treatment",
+   "received": "19 November 2024",
+   "accepted": "13 January 2025",
+   "days": 55,
+   "refs": 124
+  },
+  {
+   "doi": "10.1186/s12933-024-02558-8",
+   "title": "Longitudinal association between DNA methylation and type 2 diabetes: findings from the KORA F4/FF4 study",
+   "received": "16 October 2024",
+   "accepted": "23 December 2024",
+   "days": 68,
+   "refs": 59
+  },
+  {
+   "doi": "10.1186/s12933-025-02594-y",
+   "title": "The additional impact of metabolic syndrome on left ventricular deformation and myocardial energetic efficiency impairment in ischemia with nonobstructive coron",
+   "received": "18 October 2024",
+   "accepted": "11 January 2025",
+   "days": 85,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02597-9",
+   "title": "Association between non-insulin-based insulin resistance indicators and frailty progression: a national cohort study and mendelian randomization analysis",
+   "received": "26 November 2024",
+   "accepted": "13 January 2025",
+   "days": 48,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02576-0",
+   "title": "Association of different insulin resistance surrogates with all-cause and cardiovascular mortality among the population with cardiometabolic multimorbidity",
+   "received": "24 November 2024",
+   "accepted": "2 January 2025",
+   "days": 39,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02595-x",
+   "title": "Association between insulin resistance indices and outcomes in patients with heart failure with preserved ejection fraction",
+   "received": "16 October 2024",
+   "accepted": "11 January 2025",
+   "days": 87,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02584-0",
+   "title": "Triglyceride-glucose-body mass index and the incidence of cardiovascular diseases: a meta-analysis of cohort studies",
+   "received": "29 October 2024",
+   "accepted": "7 January 2025",
+   "days": 70,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02578-y",
+   "title": "Impact of diabetes remission or progression on the incidence of cardiovascular disease in Japan: historical cohort study using a nationwide claims database",
+   "received": "1 November 2024",
+   "accepted": "3 January 2025",
+   "days": 63,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02582-2",
+   "title": "Atherogenic index of plasma and coronary artery disease: a systematic review and meta-analysis of observational studies",
+   "received": "22 November 2024",
+   "accepted": "6 January 2025",
+   "days": 45,
+   "refs": 75
+  },
+  {
+   "doi": "10.1186/s12933-025-02599-7",
+   "title": "Association of estimated glucose disposal rate with metabolic syndrome prevalence and mortality risks: a population-based study",
+   "received": "8 December 2024",
+   "accepted": "13 January 2025",
+   "days": 36,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-024-02557-9",
+   "title": "Age-dependent effects of SGLT2 inhibitors on stroke risk in geriatric patients with diabetes and atrial fibrillation",
+   "received": "29 September 2024",
+   "accepted": "23 December 2024",
+   "days": 85,
+   "refs": 21
+  },
+  {
+   "doi": "10.1186/s12933-025-02592-0",
+   "title": "Association of sodium\u2013glucose cotransporter-2 inhibitors with mortality across the spectrum of myocardial infarction: a systematic review and meta-analysis",
+   "received": "12 November 2024",
+   "accepted": "10 January 2025",
+   "days": 59,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02588-w",
+   "title": "Clonal hematopoiesis of indeterminate potential and type 2 diabetes mellitus among patients with STEMI: from a prospective cohort study combing bidirectional Me",
+   "received": "10 December 2024",
+   "accepted": "8 January 2025",
+   "days": 29,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02602-1",
+   "title": "A new kid in town: Cardiovascular Diabetology\u2014Endocrinology Reports",
+   "received": "17 January 2025",
+   "accepted": "17 January 2025",
+   "days": 0,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s12933-025-02586-y",
+   "title": "N\u03b5-carboxyethyl-lysin influences atherosclerotic plaque stability through ZKSCAN3 acetylation-regulated macrophage autophagy via the RAGE/LKB1/AMPK1/SIRT1 pathw",
+   "received": "31 July 2024",
+   "accepted": "7 January 2025",
+   "days": 160,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s12933-025-02593-z",
+   "title": "Correlation between atherogenic index of plasma and cardiovascular disease risk across Cardiovascular\u2013kidney\u2013metabolic syndrome stages 0\u20133: a nationwide prospec",
+   "received": "23 November 2024",
+   "accepted": "11 January 2025",
+   "days": 49,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02596-w",
+   "title": "Obesity-induced mesenteric PVAT remodelling is sexually dimorphic, but not driven by ovarian hormones",
+   "received": "12 November 2024",
+   "accepted": "13 January 2025",
+   "days": 62,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02590-2",
+   "title": "Proteinuria and the risk of Incident atrial fibrillation according to glycemic stages: a nationwide population-based cohort study",
+   "received": "1 November 2024",
+   "accepted": "9 January 2025",
+   "days": 69,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s12933-025-02585-z",
+   "title": "Does diabetes modify the triglyceride\u2013glucose index associated with cardiovascular events and mortality? A meta-analysis of 50 cohorts involving 7,239,790 parti",
+   "received": "8 October 2024",
+   "accepted": "7 January 2025",
+   "days": 91,
+   "refs": 74
+  },
+  {
+   "doi": "10.1186/s12933-025-02608-9",
+   "title": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) and cardiometabolic protection: historical development and future challenges",
+   "received": "22 January 2025",
+   "accepted": "22 January 2025",
+   "days": 0,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02591-1",
+   "title": "The triglyceride\u2013glucose index and its obesity-related derivatives as predictors of all-cause and cardiovascular mortality in hypertensive patients: insights fr",
+   "received": "15 November 2024",
+   "accepted": "10 January 2025",
+   "days": 56,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s12933-025-02603-0",
+   "title": "Bone marrow mesenchymal stem cell-derived extracellular vesicles alleviate diabetes-exacerbated atherosclerosis via AMPK/mTOR pathway-mediated autophagy-related",
+   "received": "29 September 2024",
+   "accepted": "17 January 2025",
+   "days": 110,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02579-x",
+   "title": "Association between triglyceride-glucose-body mass index and risk of aortic stenosis progression in patients with non-severe aortic stenosis: a retrospective co",
+   "received": "23 October 2024",
+   "accepted": "4 January 2025",
+   "days": 73,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-024-02555-x",
+   "title": "Triglyceride-glucose index predicts adverse cardiovascular events in patients with H-type hypertension combined with coronary heart disease: a retrospective coh",
+   "received": "14 September 2024",
+   "accepted": "23 December 2024",
+   "days": 100,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02605-y",
+   "title": "Association between the atherogenic index of plasma and long-term risk of type 2 diabetes: a 12-year cohort study based on the Japanese population",
+   "received": "18 November 2024",
+   "accepted": "20 January 2025",
+   "days": 63,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02575-1",
+   "title": "Association between the cumulative estimated glucose disposal rate and incident cardiovascular disease in individuals over the age of 50 years and without diabe",
+   "received": "15 October 2024",
+   "accepted": "2 January 2025",
+   "days": 79,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-025-02616-9",
+   "title": "Association of triglyceride-glucose related indices with mortality among individuals with MASLD combined with prediabetes or diabetes",
+   "received": "23 November 2024",
+   "accepted": "27 January 2025",
+   "days": 65,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02621-y",
+   "title": "The association of triglyceride-glucose and triglyceride-glucose related indices with the risk of heart disease in a national cohort study",
+   "received": "11 December 2024",
+   "accepted": "28 January 2025",
+   "days": 48,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s12933-025-02618-7",
+   "title": "Assessment of six insulin resistance surrogate indexes for predicting stroke incidence in Chinese middle-aged and elderly populations with abnormal glucose meta",
+   "received": "25 November 2024",
+   "accepted": "27 January 2025",
+   "days": 63,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02580-4",
+   "title": "Associations of carbohydrate quality and cardiovascular risk factors vary among diabetes subtypes",
+   "received": "17 October 2024",
+   "accepted": "4 January 2025",
+   "days": 79,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02610-1",
+   "title": "The association between stress-induced hyperglycemia ratio and cardiovascular events as well as all-cause mortality in patients with chronic kidney disease and ",
+   "received": "20 December 2024",
+   "accepted": "23 January 2025",
+   "days": 34,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s12933-025-02613-y",
+   "title": "Assessment of stress hyperglycemia ratio to predict all-cause mortality in patients with critical cerebrovascular disease: a retrospective cohort study from the",
+   "received": "27 December 2024",
+   "accepted": "24 January 2025",
+   "days": 28,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s12933-025-02619-6",
+   "title": "Baseline atherogenic index of plasma and its trajectory predict onset of type 2 diabetes in a health screened adult population: a large longitudinal study",
+   "received": "25 December 2024",
+   "accepted": "28 January 2025",
+   "days": 34,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02623-w",
+   "title": "Mural cell dysfunction contributes to diastolic heart failure by promoting endothelial dysfunction and vessel remodelling",
+   "received": "18 November 2024",
+   "accepted": "29 January 2025",
+   "days": 72,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s12933-025-02614-x",
+   "title": "Ferroptosis: mechanism and role in diabetes-related cardiovascular diseases",
+   "received": "6 November 2024",
+   "accepted": "24 January 2025",
+   "days": 79,
+   "refs": 189
+  },
+  {
+   "doi": "10.1186/s12933-025-02622-x",
+   "title": "Association of baseline and trajectory of triglyceride-glucose index with the incidence of cardiovascular autonomic neuropathy in type 2 diabetes mellitus",
+   "received": "2 December 2024",
+   "accepted": "29 January 2025",
+   "days": 58,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02601-2",
+   "title": "Roxadustat improves diabetic myocardial injury by upregulating HIF-1\u03b1/UCP2 against oxidative stress",
+   "received": "11 October 2024",
+   "accepted": "17 January 2025",
+   "days": 98,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s12933-025-02604-z",
+   "title": "The synergistic effect of the triglyceride-glucose index and a body shape index on cardiovascular mortality: the construction of a novel cardiovascular risk mar",
+   "received": "19 September 2024",
+   "accepted": "20 January 2025",
+   "days": 123,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02607-w",
+   "title": "The role of glucagon-like peptide-1 receptor (GLP-1R) agonists in enhancing endothelial function: a potential avenue for improving heart failure with preserved ",
+   "received": "11 September 2024",
+   "accepted": "21 January 2025",
+   "days": 132,
+   "refs": 94
+  },
+  {
+   "doi": "10.1186/s12933-025-02612-z",
+   "title": "Challenges in the diagnosis of heart failure with preserved ejection fraction in individuals with obesity",
+   "received": "18 November 2024",
+   "accepted": "23 January 2025",
+   "days": 66,
+   "refs": 101
+  },
+  {
+   "doi": "10.1186/s12933-025-02600-3",
+   "title": "The protective role of SGLT2 inhibitors on aortic aneurysm mediated by oxidative stress and inflammation in type 2 diabetes mellitus",
+   "received": "18 November 2024",
+   "accepted": "16 January 2025",
+   "days": 59,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s12933-024-02552-0",
+   "title": "A sex-disaggregated analysis of the prognostic value of lean type 2 diabetes mellitus in the adult population with acute myocardial infarction",
+   "received": "22 October 2024",
+   "accepted": "19 December 2024",
+   "days": 58,
+   "refs": 81
+  },
+  {
+   "doi": "10.1186/s12933-025-02611-0",
+   "title": "Predicting cardiovascular outcomes in Chinese patients with type 2 diabetes by combining risk factor trajectories and machine learning algorithm: a cohort study",
+   "received": "12 November 2024",
+   "accepted": "23 January 2025",
+   "days": 72,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s12933-025-02606-x",
+   "title": "Cardiac magnetic resonance quantified epicardial fat volume is associated with complex coronary artery disease among diabetics",
+   "received": "20 November 2024",
+   "accepted": "20 January 2025",
+   "days": 61,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02620-z",
+   "title": "The association between TyG index and cardiovascular mortality is modified by antidiabetic or lipid-lowering agent: a prospective cohort study",
+   "received": "16 October 2024",
+   "accepted": "28 January 2025",
+   "days": 104,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-024-02550-2",
+   "title": "Defining patient-reported outcomes in diabetes, obesity, cardiovascular disease, and chronic kidney disease for clinical practice guidelines - perspectives of t",
+   "received": "8 November 2024",
+   "accepted": "17 December 2024",
+   "days": 39,
+   "refs": 103
+  },
+  {
+   "doi": "10.1186/s12933-024-02540-4",
+   "title": "Impact of sodium\u2012glucose cotransporter\u20102 inhibitors in patients with recent versus previous myocardial infarction: a systematic review and meta-analysis",
+   "received": "4 October 2024",
+   "accepted": "9 December 2024",
+   "days": 66,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02626-7",
+   "title": "Clonal hematopoiesis of indeterminate potential, health indicators, and risk of cardiovascular diseases among patients with diabetes: a prospective cohort study",
+   "received": "25 October 2024",
+   "accepted": "3 February 2025",
+   "days": 101,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02635-6",
+   "title": "Cardiac autonomic neuropathy is associated with ectopic fat distribution in autoimmune but not in type 2 diabetes",
+   "received": "21 November 2024",
+   "accepted": "5 February 2025",
+   "days": 76,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s12933-025-02637-4",
+   "title": "Association between the GMI/HbA1c ratio and preclinical carotid atherosclerosis in type 1 diabetes: impact of the fast-glycator phenotype across age groups",
+   "received": "6 December 2024",
+   "accepted": "6 February 2025",
+   "days": 62,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02615-w",
+   "title": "Predicting major adverse cardiac events in diabetes and chronic kidney disease: a machine learning study from the Silesia Diabetes-Heart Project",
+   "received": "20 October 2024",
+   "accepted": "26 January 2025",
+   "days": 98,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02644-5",
+   "title": "Stress hyperglycemia ratio and machine learning model for prediction of all-cause mortality in patients undergoing cardiac surgery",
+   "received": "27 December 2024",
+   "accepted": "11 February 2025",
+   "days": 46,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s12933-025-02629-4",
+   "title": "Association between the systemic immune-inflammation index and metabolic syndrome and its components: results from the multi-ethnic study of atherosclerosis (ME",
+   "received": "30 November 2024",
+   "accepted": "4 February 2025",
+   "days": 66,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-025-02639-2",
+   "title": "Association of body composition with left ventricular remodeling and outcomes in diabetic heart failure with reduced ejection fraction: assessment of sarcopenic",
+   "received": "18 November 2024",
+   "accepted": "7 February 2025",
+   "days": 81,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s12933-025-02640-9",
+   "title": "Development and validation of prediction models for stroke and myocardial infarction in type 2 diabetes based on health insurance claims: does machine learning ",
+   "received": "15 November 2024",
+   "accepted": "8 February 2025",
+   "days": 85,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02650-7",
+   "title": "Associations of estimated glucose disposal rate with frailty progression: results from two prospective cohorts",
+   "received": "31 December 2024",
+   "accepted": "14 February 2025",
+   "days": 45,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02630-x",
+   "title": "Association of insulin resistance surrogates with disease severity and adverse outcomes in chronic thromboembolic pulmonary hypertension: a multicenter cohort s",
+   "received": "26 November 2024",
+   "accepted": "4 February 2025",
+   "days": 70,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02617-8",
+   "title": "Phenotype-based clusters, inflammation and cardiometabolic complications in older people before the diagnosis of type 2 diabetes: KORA F4/FF4 cohort study",
+   "received": "9 December 2024",
+   "accepted": "27 January 2025",
+   "days": 49,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02628-5",
+   "title": "Impaired microcirculation in the skin and subclinical atherosclerosis in individuals with dysglycaemia in a large population-based cohort",
+   "received": "25 October 2024",
+   "accepted": "3 February 2025",
+   "days": 101,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02649-0",
+   "title": "Association of glucagon-like peptide-1 receptor agonists with cardiovascular and kidney outcomes in type 2 diabetic kidney transplant recipients",
+   "received": "3 January 2025",
+   "accepted": "13 February 2025",
+   "days": 41,
+   "refs": 68
+  },
+  {
+   "doi": "10.1186/s12933-025-02624-9",
+   "title": "Inverse relationship between circulating sphingosine-1-phosphate and precursor species and coronary artery calcification score in type 2 diabetes",
+   "received": "27 November 2024",
+   "accepted": "31 January 2025",
+   "days": 65,
+   "refs": 62
+  },
+  {
+   "doi": "10.1186/s12933-025-02636-5",
+   "title": "Advanced serum lipoprotein and glycoprotein profiling for cardiovascular event prediction in type 2 diabetes mellitus: the LIPOCAT study",
+   "received": "30 November 2024",
+   "accepted": "6 February 2025",
+   "days": 68,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02633-8",
+   "title": "Deficiency in nucleoside diphosphate kinase B leads to endothelial activation of the hexosamine biosynthesis pathway and cardiac dysfunction",
+   "received": "17 September 2024",
+   "accepted": "5 February 2025",
+   "days": 141,
+   "refs": 73
+  },
+  {
+   "doi": "10.1186/s12933-025-02627-6",
+   "title": "Sacubitril/Valsartan partially alleviates myocardial infarction injury by activating the FGF21 signaling pathway via PPARs",
+   "received": "29 September 2024",
+   "accepted": "3 February 2025",
+   "days": 127,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s12933-025-02655-2",
+   "title": "Cellular crosstalk in organotypic vasculature: mechanisms of diabetic cardiorenal complications and SGLT2i responses",
+   "received": "16 January 2025",
+   "accepted": "18 February 2025",
+   "days": 33,
+   "refs": 79
+  },
+  {
+   "doi": "10.1186/s12933-025-02583-1",
+   "title": "Associations of triglyceride glucose-body mass index with short-term mortality in critically ill patients with ischemic stroke",
+   "received": "11 November 2024",
+   "accepted": "6 January 2025",
+   "days": 56,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s12933-025-02642-7",
+   "title": "Association between triglyceride-glucose related indices and all-cause and cardiovascular mortality among the population with cardiovascular-kidney-metabolic sy",
+   "received": "6 January 2025",
+   "accepted": "10 February 2025",
+   "days": 35,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-025-02657-0",
+   "title": "Insights into the complex relationship between triglyceride glucose-waist height ratio index, mean arterial pressure, and cardiovascular disease: a nationwide p",
+   "received": "2 January 2025",
+   "accepted": "19 February 2025",
+   "days": 48,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02587-x",
+   "title": "The association between novel metabolic parameters and all-cause/cardiovascular mortality in patients with metabolic syndrome is modified by age",
+   "received": "31 October 2024",
+   "accepted": "7 January 2025",
+   "days": 68,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02654-3",
+   "title": "Relationship between atherogenic index of plasma and length of stay in critically ill patients with atherosclerotic cardiovascular disease: a retrospective coho",
+   "received": "13 January 2025",
+   "accepted": "18 February 2025",
+   "days": 36,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02660-5",
+   "title": "Comprehensive evaluation of diabetes subtypes in a European cohort reveals stronger differences of lifestyle, education and psychosocial parameters compared to ",
+   "received": "8 November 2024",
+   "accepted": "20 February 2025",
+   "days": 104,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02631-w",
+   "title": "Association between triglyceride glucose index and biological aging in U.S. adults: National Health and Nutrition Examination Survey",
+   "received": "11 October 2024",
+   "accepted": "5 February 2025",
+   "days": 117,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02646-3",
+   "title": "BDH1 overexpression alleviates diabetic cardiomyopathy through inhibiting H3K9bhb-mediated transcriptional activation of LCN2",
+   "received": "3 October 2024",
+   "accepted": "12 February 2025",
+   "days": 132,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02648-1",
+   "title": "Lipid-lowering therapy and LDL target attainment in type 2 diabetes: trends from the Italian Associations of Medical Diabetologists database",
+   "received": "22 December 2024",
+   "accepted": "13 February 2025",
+   "days": 53,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02643-6",
+   "title": "The impact of metformin on kidney disease progression and mortality in diabetic patients using SGLT2 inhibitors: a real-world cohort study",
+   "received": "21 December 2024",
+   "accepted": "11 February 2025",
+   "days": 52,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02662-3",
+   "title": "Comparison of triglyceride glucose index and modified triglyceride glucose indices in predicting cardiovascular diseases incidence among populations with cardio",
+   "received": "13 January 2025",
+   "accepted": "21 February 2025",
+   "days": 39,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-025-02652-5",
+   "title": "Associations of triglyceride glucose-body mass index and the combination of sedentary behavior and physical activity with risks of all-cause mortality and myoca",
+   "received": "18 December 2024",
+   "accepted": "17 February 2025",
+   "days": 61,
+   "refs": 71
+  },
+  {
+   "doi": "10.1186/s12933-025-02634-7",
+   "title": "Aortic valve calcification across stages of dysglycemia in middle-aged individuals from the general population",
+   "received": "22 November 2024",
+   "accepted": "5 February 2025",
+   "days": 75,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s12933-025-02656-1",
+   "title": "Circulating mitochondrial DNA signature in cardiometabolic patients",
+   "received": "27 November 2024",
+   "accepted": "18 February 2025",
+   "days": 83,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02653-4",
+   "title": "Atherogenic index of plasma, high sensitivity C-reactive protein and incident diabetes among middle-aged and elderly adults in China: a national cohort study",
+   "received": "23 December 2024",
+   "accepted": "17 February 2025",
+   "days": 56,
+   "refs": 73
+  },
+  {
+   "doi": "10.1186/s12933-025-02632-9",
+   "title": "Long-term trajectory of estimated glomerular filtration rate in ambulatory patients with type 2 diabetes and heart failure: clinical insights and prognostic imp",
+   "received": "10 November 2024",
+   "accepted": "5 February 2025",
+   "days": 87,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-025-02658-z",
+   "title": "A one-week reduced-carbohydrate diet to mitigate iatrogenic peripheral hyperinsulinemia does not improve insulin sensitivity or endothelial function in a random",
+   "received": "18 December 2024",
+   "accepted": "19 February 2025",
+   "days": 63,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02641-8",
+   "title": "Triglyceride-glucose index correlates with the incidences and prognoses of cardiac arrest following acute myocardial infarction: data from two large-scale cohor",
+   "received": "18 December 2024",
+   "accepted": "10 February 2025",
+   "days": 54,
+   "refs": 70
+  },
+  {
+   "doi": "10.1186/s12933-025-02667-y",
+   "title": "Joint assessment of abdominal obesity and non-traditional lipid parameters for primary prevention of cardiometabolic multimorbidity: insights from the China hea",
+   "received": "16 January 2025",
+   "accepted": "26 February 2025",
+   "days": 41,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-024-02543-1",
+   "title": "Potential benefits of GLP-1 receptor agonist in dialysis patients with type 2 diabetes: the need for comprehensive pharmacokinetic and hemodialysis analyses",
+   "received": "24 November 2024",
+   "accepted": "10 December 2024",
+   "days": 16,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s12933-025-02609-8",
+   "title": "Echocardiographic and biomarker characteristics in diabetes, coronary artery disease or both: insights from HOMAGE trial",
+   "received": "22 October 2024",
+   "accepted": "23 January 2025",
+   "days": 93,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02651-6",
+   "title": "Assessing the impact of insulin resistance trajectories on cardiovascular disease risk using longitudinal targeted maximum likelihood estimation",
+   "received": "22 November 2024",
+   "accepted": "17 February 2025",
+   "days": 87,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02674-z",
+   "title": "Can cardiovascular health and its modifiable healthy lifestyle offset the increased risk of all-cause and cardiovascular deaths associated with insulin resistan",
+   "received": "10 January 2025",
+   "accepted": "5 March 2025",
+   "days": 54,
+   "refs": 97
+  },
+  {
+   "doi": "10.1186/s12933-025-02671-2",
+   "title": "Triglyceride glucose index predicts long-term mortality and major adverse cardiovascular events in patients with type 2 diabetes",
+   "received": "22 January 2025",
+   "accepted": "3 March 2025",
+   "days": 40,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02669-w",
+   "title": "Additive association of blood group A allele with 15 cardiometabolic diseases: a UK Biobank life-course study",
+   "received": "12 January 2025",
+   "accepted": "26 February 2025",
+   "days": 45,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02675-y",
+   "title": "Cholesterol, high-density lipoprotein, and glucose index versus triglyceride\u2013glucose index in predicting cardiovascular disease risk: a cohort study",
+   "received": "13 January 2025",
+   "accepted": "6 March 2025",
+   "days": 52,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02668-x",
+   "title": "Association between the triglyceride glucose-Chinese visceral adiposity index and new-onset stroke risk: a national cohort study",
+   "received": "7 December 2024",
+   "accepted": "26 February 2025",
+   "days": 81,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s12933-024-02561-z",
+   "title": "Cardiometabolic risk factors and disease trends for atrial fibrillation in individuals with type 1 diabetes: a nationwide registry study",
+   "received": "18 November 2024",
+   "accepted": "23 December 2024",
+   "days": 35,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s12933-025-02670-3",
+   "title": "Proteomic signatures of type 2 diabetes predict the incidence of coronary heart disease",
+   "received": "19 January 2025",
+   "accepted": "3 March 2025",
+   "days": 43,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02638-3",
+   "title": "GPR30-driven fatty acid oxidation targeted by ginsenoside Rd maintains mitochondrial redox homeostasis to restore vascular barrier in diabetic retinopathy",
+   "received": "20 November 2024",
+   "accepted": "7 February 2025",
+   "days": 79,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-025-02664-1",
+   "title": "Higher hemoglobin levels are associated with impaired left ventricular global strains in metabolic syndrome: a 3.0 T CMR feature tracking study",
+   "received": "18 January 2025",
+   "accepted": "25 February 2025",
+   "days": 38,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02677-w",
+   "title": "Association of atherogenic index of plasma trajectory with the incidence of cardiovascular disease over a 12-year follow-up: findings from the ELSA cohort study",
+   "received": "20 January 2025",
+   "accepted": "8 March 2025",
+   "days": 47,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02645-4",
+   "title": "Metabolomic profiling reveals early biomarkers of gestational diabetes mellitus and associated hepatic steatosis",
+   "received": "24 December 2024",
+   "accepted": "11 February 2025",
+   "days": 49,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02625-8",
+   "title": "Piezo1 deletion mitigates diabetic cardiomyopathy by maintaining mitochondrial dynamics via ERK/Drp1 pathway",
+   "received": "16 December 2024",
+   "accepted": "3 February 2025",
+   "days": 49,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02683-y",
+   "title": "Evaluation of glycemic status and subclinical atherosclerosis in familial hypercholesterolemia subjects with or without LDL receptor mutation",
+   "received": "8 February 2025",
+   "accepted": "12 March 2025",
+   "days": 32,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02690-z",
+   "title": "The adverse effect of metabolic syndrome on left ventricular global strains and myocardial energetic efficiency in non-ischemic dilated cardiomyopathy patients:",
+   "received": "18 February 2025",
+   "accepted": "15 March 2025",
+   "days": 25,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02691-y",
+   "title": "Dysglycaemia is associated with the pattern of valvular calcification in micro-computed tomography analysis: an observational study in patients with severe aort",
+   "received": "23 January 2025",
+   "accepted": "15 March 2025",
+   "days": 51,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s12933-025-02693-w",
+   "title": "Association between triglyceride glucose-body mass index and the trajectory of cardio-renal-metabolic multimorbidity: insights from multi-state modelling",
+   "received": "10 March 2025",
+   "accepted": "17 March 2025",
+   "days": 7,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02676-x",
+   "title": "Accelerometer-derived \u201cweekend warrior\u201d physical activity pattern and incident type 2 diabetes",
+   "received": "26 November 2024",
+   "accepted": "6 March 2025",
+   "days": 100,
+   "refs": 29
+  },
+  {
+   "doi": "10.1186/s12933-025-02687-8",
+   "title": "Association of triglyceride-glucose index trajectories with the risk of worsening heart failure in elderly patients with chronic heart failure and type 2 diabet",
+   "received": "19 January 2025",
+   "accepted": "13 March 2025",
+   "days": 53,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02680-1",
+   "title": "The impact of hypercortisolism beyond metabolic syndrome on left ventricular performance: a myocardial work analysis",
+   "received": "4 December 2024",
+   "accepted": "10 March 2025",
+   "days": 96,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-025-02684-x",
+   "title": "Impact of glycemic control metrics on short- and long-term mortality in transcatheter aortic valve replacement patients: a retrospective cohort study from the M",
+   "received": "30 November 2024",
+   "accepted": "12 March 2025",
+   "days": 102,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-025-02688-7",
+   "title": "Exploring the impact of metabolic comorbidities on epicardial adipose tissue in heart failure with preserved ejection fraction",
+   "received": "17 November 2024",
+   "accepted": "13 March 2025",
+   "days": 116,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02659-y",
+   "title": "Eplerenone, diabetes, and chronic kidney disease in patients hospitalized for acute heart failure: findings from the EARLIER trial",
+   "received": "23 December 2024",
+   "accepted": "20 February 2025",
+   "days": 59,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02689-6",
+   "title": "The prognostic significance of stress hyperglycemia ratio in evaluating all-cause and cardiovascular mortality risk among individuals across stages 0\u20133 of cardi",
+   "received": "4 March 2025",
+   "accepted": "14 March 2025",
+   "days": 10,
+   "refs": 76
+  },
+  {
+   "doi": "10.1186/s12933-025-02697-6",
+   "title": "Association between triglyceride\u2013glucose index and mortality in critically ill patients with atrial fibrillation: a retrospective cohort study",
+   "received": "13 January 2025",
+   "accepted": "19 March 2025",
+   "days": 65,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-025-02665-0",
+   "title": "Cardiovascular abnormalities already occurred in newly-diagnosed patients with early-onset type 2 diabetes",
+   "received": "31 December 2024",
+   "accepted": "25 February 2025",
+   "days": 56,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02686-9",
+   "title": "Association between C-reactive protein-triglyceride glucose index and stroke risk in different glycemic status: insights from the China Health and Retirement Lo",
+   "received": "4 February 2025",
+   "accepted": "13 March 2025",
+   "days": 37,
+   "refs": 73
+  },
+  {
+   "doi": "10.1186/s12933-025-02685-w",
+   "title": "BMI-residualized data uncovers a cluster of people with type 2 diabetes and increased serum ferritin protected from cardiovascular disease",
+   "received": "23 December 2024",
+   "accepted": "12 March 2025",
+   "days": 79,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02699-4",
+   "title": "Early hemodynamic impact of SGLT2 inhibitors in overweight cardiometabolic heart failure: beyond fluid offloading to vascular adaptation\u2013 a preliminary report",
+   "received": "18 February 2025",
+   "accepted": "20 March 2025",
+   "days": 30,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s12933-025-02666-z",
+   "title": "Heart rate variability tests for diagnosing cardiovascular autonomic neuropathy in patients with type 2 diabetes mellitus in advanced stages of kidney disease",
+   "received": "22 January 2025",
+   "accepted": "25 February 2025",
+   "days": 34,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-025-02694-9",
+   "title": "Pericoronary adipose tissue attenuation predicts compositional plaque changes: a 12-month longitudinal study in individuals with type 2 diabetes without symptom",
+   "received": "3 February 2025",
+   "accepted": "17 March 2025",
+   "days": 42,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s12933-025-02698-5",
+   "title": "Oxidative stress and inflammation mediate the adverse effects of cadmium exposure on all-cause and cause-specific mortality in patients with diabetes and predia",
+   "received": "2 February 2025",
+   "accepted": "20 March 2025",
+   "days": 46,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02692-x",
+   "title": "Joint association of estimated glucose disposal rate and systemic inflammation response index with mortality in cardiovascular-kidney-metabolic syndrome stage 0",
+   "received": "9 February 2025",
+   "accepted": "15 March 2025",
+   "days": 34,
+   "refs": 29
+  },
+  {
+   "doi": "10.1186/s12933-025-02696-7",
+   "title": "Anti-CD3 monoclonal antibody in treating patients with type 1 diabetes: an updated systematic review and meta-analysis",
+   "received": "17 December 2024",
+   "accepted": "18 March 2025",
+   "days": 91,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s12933-025-02709-5",
+   "title": "Joint association of the triglyceride\u2013glucose index and stress hyperglycemia ratio with incidence and mortality risks of new-onset atrial fibrillation during se",
+   "received": "12 February 2025",
+   "accepted": "25 March 2025",
+   "days": 41,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02704-w",
+   "title": "Incremental predictive value of liver fat fraction based on spectral detector CT for major adverse cardiovascular events in T2DM patients with suspected coronar",
+   "received": "26 January 2025",
+   "accepted": "23 March 2025",
+   "days": 56,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02710-y",
+   "title": "Relationship between hemoglobin glycation index and myocardial mechano-energetic efficiency in non-diabetic individual",
+   "received": "3 February 2025",
+   "accepted": "25 March 2025",
+   "days": 50,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02712-w",
+   "title": "Elevated triglyceride-glucose index is a risk factor for cardiovascular events in adults with type 1 diabetes: a cohort study",
+   "received": "19 November 2024",
+   "accepted": "25 March 2025",
+   "days": 126,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02711-x",
+   "title": "Improved prediction and risk stratification of major adverse cardiovascular events using an explainable machine learning approach combining plasma biomarkers an",
+   "received": "8 January 2025",
+   "accepted": "25 March 2025",
+   "days": 76,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02701-z",
+   "title": "Lipidomic analysis reveals metabolism alteration associated with subclinical carotid atherosclerosis in type 2 diabetes",
+   "received": "7 January 2025",
+   "accepted": "21 March 2025",
+   "days": 73,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-025-02716-6",
+   "title": "Associations between cardiometabolic indices and the onset of metabolic dysfunction-associated steatotic liver disease as well as its progression to liver fibro",
+   "received": "7 February 2025",
+   "accepted": "27 March 2025",
+   "days": 48,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-025-02707-7",
+   "title": "Metabolic rewiring and inter-organ crosstalk in diabetic HFpEF",
+   "received": "20 February 2025",
+   "accepted": "24 March 2025",
+   "days": 32,
+   "refs": 141
+  },
+  {
+   "doi": "10.1186/s12933-025-02708-6",
+   "title": "Temporal prevalence and prognostic impact of diabetes mellitus and albuminuria in heart failure with preserved ejection fraction",
+   "received": "20 February 2025",
+   "accepted": "24 March 2025",
+   "days": 32,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02715-7",
+   "title": "AGE induced macrophage-derived exosomes induce endothelial dysfunction in diabetes via miR-22-5p/FOXP1",
+   "received": "29 November 2024",
+   "accepted": "27 March 2025",
+   "days": 118,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s12933-025-02714-8",
+   "title": "Combined effect of skeletal muscle mass loss and elevated insulin resistance on heart failure risk in older adults: a community-based longitudinal cohort study",
+   "received": "29 December 2024",
+   "accepted": "26 March 2025",
+   "days": 87,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02702-y",
+   "title": "Exercise and dietary interventions in the management of diabetic cardiomyopathy: mechanisms and implications",
+   "received": "19 November 2024",
+   "accepted": "22 March 2025",
+   "days": 123,
+   "refs": 136
+  },
+  {
+   "doi": "10.1186/s12933-025-02719-3",
+   "title": "Preeclampsia as an independent predictor of atherosclerosis progression in women with type 1 diabetes: a 5-year prospective study",
+   "received": "9 January 2025",
+   "accepted": "29 March 2025",
+   "days": 79,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02672-1",
+   "title": "Insulin resistance quantified by estimated glucose disposal rate predicts cardiovascular disease incidence: a nationwide prospective cohort study",
+   "received": "27 November 2024",
+   "accepted": "4 March 2025",
+   "days": 97,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02721-9",
+   "title": "Association between systemic inflammation biomarkers and incident cardiovascular disease in 423,701 individuals: evidence from the UK biobank cohort",
+   "received": "30 November 2024",
+   "accepted": "2 April 2025",
+   "days": 123,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s12933-025-02729-1",
+   "title": "Estimated glucose disposal rate outperforms other insulin resistance surrogates in predicting incident cardiovascular diseases in cardiovascular-kidney-metaboli",
+   "received": "2 March 2025",
+   "accepted": "7 April 2025",
+   "days": 36,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s12933-025-02724-6",
+   "title": "Joint association of triglyceride glucose index (TyG) and body roundness index (BRI) with stroke incidence: a national cohort study",
+   "received": "7 February 2025",
+   "accepted": "4 April 2025",
+   "days": 56,
+   "refs": 62
+  },
+  {
+   "doi": "10.1186/s12933-025-02725-5",
+   "title": "Impaired cardiac branched-chain amino acid metabolism in a novel model of diabetic cardiomyopathy",
+   "received": "17 July 2024",
+   "accepted": "5 April 2025",
+   "days": 262,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02732-6",
+   "title": "Association between atherogenic index of plasma and new-onset stroke in a population with cardiovascular-kidney-metabolic syndrome stages 0\u20133: insights from CHA",
+   "received": "24 February 2025",
+   "accepted": "7 April 2025",
+   "days": 42,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02713-9",
+   "title": "A different perspective on studying stroke predictors: joint models for longitudinal and time-to-event data in a type 2 diabetes mellitus cohort",
+   "received": "26 January 2025",
+   "accepted": "26 March 2025",
+   "days": 59,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-025-02718-4",
+   "title": "Integrative metabolomics and genomics reveal molecular signatures for type 2 diabetes and its cardiovascular complications",
+   "received": "17 January 2025",
+   "accepted": "29 March 2025",
+   "days": 71,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02673-0",
+   "title": "The association between the triglyceride\u2013glucose index and vulnerable plaques in patients with type 2 diabetes mellitus: insights from coronary computed tomogra",
+   "received": "28 December 2024",
+   "accepted": "5 March 2025",
+   "days": 67,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02723-7",
+   "title": "Exploring the effect of dapagliflozin on coronary inflammation in type 2 diabetes patients based on the coronary artery perivascular fat attenuation index",
+   "received": "25 January 2025",
+   "accepted": "3 April 2025",
+   "days": 68,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02681-0",
+   "title": "Chain effect of lifecourse reproductive characteristics and body fat and muscle on cardiovascular disease in women: a Mendelian randomization study",
+   "received": "8 January 2025",
+   "accepted": "11 March 2025",
+   "days": 62,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02731-7",
+   "title": "Impact of diabetes and glycemic status on ventricular\u2013arterial coupling in the general population",
+   "received": "11 February 2025",
+   "accepted": "7 April 2025",
+   "days": 55,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02717-5",
+   "title": "Sex differences in myocardial flow reserve among individuals with type 2 diabetes: insights from the DiaHeart study",
+   "received": "10 February 2025",
+   "accepted": "28 March 2025",
+   "days": 46,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02733-5",
+   "title": "Long-term impact of diabetes on mortality in patients undergoing unprotected left main PCI: a propensity score-matched analysis from the BIA-LM registry",
+   "received": "21 February 2025",
+   "accepted": "7 April 2025",
+   "days": 45,
+   "refs": 26
+  },
+  {
+   "doi": "10.1186/s12933-025-02705-9",
+   "title": "Metabolic dysfunction-associated steatotic liver disease (MASLD) biomarkers and progression of lower limb arterial calcification in patients with type 2 diabete",
+   "received": "6 January 2025",
+   "accepted": "24 March 2025",
+   "days": 77,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02737-1",
+   "title": "Real-world effectiveness of adding newer generation GLP-1RA to SGLT2i in type 2 diabetes",
+   "received": "3 February 2025",
+   "accepted": "9 April 2025",
+   "days": 65,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s12933-025-02740-6",
+   "title": "SETD7 drives diabetic endothelial dysfunction through FBXO45-mediated GPX4 ubiquitylation",
+   "received": "6 January 2025",
+   "accepted": "12 April 2025",
+   "days": 96,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02682-z",
+   "title": "Association of stress hyperglycemia ratio with short-term and long-term prognosis in patients undergoing coronary artery bypass grafting across different glucos",
+   "received": "17 January 2025",
+   "accepted": "12 March 2025",
+   "days": 54,
+   "refs": 70
+  },
+  {
+   "doi": "10.1186/s12933-025-02730-8",
+   "title": "Association between stress hyperglycemia ratio (SHR) and long-term mortality in patients with ischemic stroke: a retrospective cohort study",
+   "received": "23 February 2025",
+   "accepted": "7 April 2025",
+   "days": 43,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02695-8",
+   "title": "Dyslipidemia and aging: the non-linear association between atherogenic index of plasma (AIP) and aging acceleration",
+   "received": "23 December 2024",
+   "accepted": "17 March 2025",
+   "days": 84,
+   "refs": 88
+  },
+  {
+   "doi": "10.1186/s12933-025-02679-8",
+   "title": "The effect of empagliflozin on peripheral microvascular dysfunction in patients with heart failure with preserved ejection fraction",
+   "received": "10 December 2024",
+   "accepted": "10 March 2025",
+   "days": 90,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02742-4",
+   "title": "Association between atherogenic index of plasma with all-cause and cardiovascular mortality in individuals with Cardiovascular-Kidney-Metabolic syndrome",
+   "received": "10 March 2025",
+   "accepted": "15 April 2025",
+   "days": 36,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02678-9",
+   "title": "Cardiorenal protection with dapagliflozin in patients with type 2 diabetes mellitus and chronic coronary syndrome undergoing percutaneous coronary intervention:",
+   "received": "2 November 2024",
+   "accepted": "8 March 2025",
+   "days": 126,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02743-3",
+   "title": "Cardiomyocyte-specific NHE1 overexpression confers protection against myocardial infarction during hyperglycemia",
+   "received": "12 December 2024",
+   "accepted": "15 April 2025",
+   "days": 124,
+   "refs": 73
+  },
+  {
+   "doi": "10.1186/s12933-025-02750-4",
+   "title": "The landscape of novel antidiabetic drugs in diabetic HFpEF: relevant mechanisms and clinical implications",
+   "received": "22 January 2025",
+   "accepted": "19 April 2025",
+   "days": 87,
+   "refs": 124
+  },
+  {
+   "doi": "10.1186/s12933-025-02744-2",
+   "title": "Integrating adipsin with novel cardiometabolic and inflammatory indices for enhanced early prediction of gestational diabetes mellitus: a prospective cohort stu",
+   "received": "25 January 2025",
+   "accepted": "17 April 2025",
+   "days": 82,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s12933-025-02751-3",
+   "title": "Relationship between stress hyperglycaemic ratio (SHR) and critical illness: a systematic review",
+   "received": "28 February 2025",
+   "accepted": "21 April 2025",
+   "days": 52,
+   "refs": 149
+  },
+  {
+   "doi": "10.1186/s12933-025-02745-1",
+   "title": "Impact of baseline left ventricular ejection fraction and body mass index on the effect of 24-week Ipragliflozin treatment on left ventricular diastolic functio",
+   "received": "11 December 2024",
+   "accepted": "18 April 2025",
+   "days": 128,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02700-0",
+   "title": "CVOT summit report 2024: new cardiovascular, kidney, and metabolic outcomes",
+   "received": "18 February 2025",
+   "accepted": "21 March 2025",
+   "days": 31,
+   "refs": 130
+  },
+  {
+   "doi": "10.1186/s12933-025-02736-2",
+   "title": "Association of obesity- and insulin resistance-related indices with subclinical carotid atherosclerosis in type 1 diabetes: a cross-sectional study",
+   "received": "1 October 2024",
+   "accepted": "9 April 2025",
+   "days": 190,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-025-02720-w",
+   "title": "Epicardial Adipose Tissue and Heterogeneity Parameters Combined with Inflammatory Cells to Predict the Value of Heart Failure with Preserved Ejection Fraction P",
+   "received": "13 February 2025",
+   "accepted": "31 March 2025",
+   "days": 46,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02753-1",
+   "title": "Comparative effectiveness of angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers on cardiovascular outcomes in older adults with type ",
+   "received": "6 January 2025",
+   "accepted": "21 April 2025",
+   "days": 105,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-025-02735-3",
+   "title": "Life\u2019s Essential 8 cardiovascular health, cardiovascular-kidney-metabolic syndrome stages, and incident cardiovascular events: a nationwide 10-year prospective ",
+   "received": "8 January 2025",
+   "accepted": "8 April 2025",
+   "days": 90,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s12933-025-02761-1",
+   "title": "Long-term dual-trajectories of TyG and LAP and their association with cardiometabolic multimorbidity in midlife: the CARDIA study",
+   "received": "12 November 2024",
+   "accepted": "26 April 2025",
+   "days": 165,
+   "refs": 62
+  },
+  {
+   "doi": "10.1186/s12933-025-02758-w",
+   "title": "The association between different insulin resistance surrogates and all-cause mortality and cardiovascular mortality in patients with metabolic dysfunction-asso",
+   "received": "6 February 2025",
+   "accepted": "26 April 2025",
+   "days": 79,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02746-0",
+   "title": "Metabolic pathways mediating insulin resistance and gestational diabetes mellitus discovered by high-dimensional systematic Mendelian randomization",
+   "received": "15 January 2025",
+   "accepted": "18 April 2025",
+   "days": 93,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s12933-025-02756-y",
+   "title": "Effects of empagliflozin on functional capacity, LV filling pressure, and cardiac reserves in patients with type 2 diabetes mellitus and heart failure with pres",
+   "received": "19 February 2025",
+   "accepted": "25 April 2025",
+   "days": 65,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s12933-025-02762-0",
+   "title": "Combined assessment of stress hyperglycemia ratio and glycemic variability to predict all-cause mortality in critically ill patients with atherosclerotic cardio",
+   "received": "25 March 2025",
+   "accepted": "28 April 2025",
+   "days": 34,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-025-02738-0",
+   "title": "Circulating mediators linking cardiometabolic diseases to HFpEF: a mediation Mendelian randomization analysis",
+   "received": "18 February 2025",
+   "accepted": "10 April 2025",
+   "days": 51,
+   "refs": 73
+  },
+  {
+   "doi": "10.1186/s12933-025-02754-0",
+   "title": "Association between cumulative changes of the triglyceride glucose index and incidence of stroke in a population with cardiovascular-kidney-metabolic syndrome s",
+   "received": "12 March 2025",
+   "accepted": "23 April 2025",
+   "days": 42,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s12933-025-02748-y",
+   "title": "Diabetes mellitus aggravates myocardial inflammation and oxidative stress in aortic stenosis: a mechanistic link to HFpEF features",
+   "received": "19 February 2025",
+   "accepted": "19 April 2025",
+   "days": 59,
+   "refs": 79
+  },
+  {
+   "doi": "10.1186/s12933-025-02767-9",
+   "title": "The effects of SGLT2i on cardiac metabolism in patients with HFpEF: Fact or fiction?",
+   "received": "11 December 2024",
+   "accepted": "29 April 2025",
+   "days": 139,
+   "refs": 125
+  },
+  {
+   "doi": "10.1186/s12933-025-02747-z",
+   "title": "Use of an insulin titration protocol based on continuous glucose monitoring in postoperative cardiac surgery patients with type 2 diabetes and prediabetes: a ra",
+   "received": "15 December 2024",
+   "accepted": "18 April 2025",
+   "days": 124,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s12933-025-02770-0",
+   "title": "How does biological age acceleration mediate the associations of obesity with cardiovascular disease? Evidence from international multi-cohort studies",
+   "received": "7 February 2025",
+   "accepted": "2 May 2025",
+   "days": 84,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s12933-025-02739-z",
+   "title": "Extracellular vesicle-associated miR-515-5p from adipose tissue regulates placental metabolism and fetal growth in gestational diabetes mellitus",
+   "received": "2 October 2024",
+   "accepted": "10 April 2025",
+   "days": 190,
+   "refs": 77
+  },
+  {
+   "doi": "10.1186/s12933-025-02741-5",
+   "title": "Sacubitril/Valsartan attenuates progression of diabetic cardiomyopathy through immunomodulation properties: an opportunity to prevent progressive disease",
+   "received": "18 December 2024",
+   "accepted": "14 April 2025",
+   "days": 117,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02722-8",
+   "title": "Atherogenic lipid parameters in people with normal glucose tolerance: implications from elevated 1-hour post-load plasma glucose",
+   "received": "14 January 2025",
+   "accepted": "2 April 2025",
+   "days": 78,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02734-4",
+   "title": "Dysregulated inflammation, oxidative stress, and protein quality control in diabetic HFpEF: unraveling mechanisms and therapeutic targets",
+   "received": "19 February 2025",
+   "accepted": "7 April 2025",
+   "days": 47,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02779-5",
+   "title": "A validated multivariable machine learning model to predict cardio-kidney risk in diabetic kidney disease",
+   "received": "4 March 2025",
+   "accepted": "6 May 2025",
+   "days": 63,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s12933-025-02757-x",
+   "title": "Effect of glycemic status on myocardial deformation and microvascular function in uncomplicated pediatric type 1 diabetes mellitus: cardiac magnetic resonance i",
+   "received": "22 February 2025",
+   "accepted": "25 April 2025",
+   "days": 62,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s12933-025-02782-w",
+   "title": "The role of diabetes mellitus on delirium onset: a systematic review and meta-analysis",
+   "received": "10 March 2025",
+   "accepted": "8 May 2025",
+   "days": 59,
+   "refs": 120
+  },
+  {
+   "doi": "10.1186/s12933-025-02783-9",
+   "title": "The predictive significance of the triglyceride-glucose index in forecasting adverse cardiovascular events among type 2 diabetes mellitus patients with co-exist",
+   "received": "1 April 2025",
+   "accepted": "8 May 2025",
+   "days": 37,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-025-02775-9",
+   "title": "Association between the atherogenic index of plasma and incident hypertension across different blood pressure states: a national cohort study",
+   "received": "30 March 2025",
+   "accepted": "5 May 2025",
+   "days": 36,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02768-8",
+   "title": "Association between atherogenicity indices and prediabetes: a 5-year retrospective cohort study in a general Chinese physical examination population",
+   "received": "29 January 2025",
+   "accepted": "1 May 2025",
+   "days": 92,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-025-02765-x",
+   "title": "Perivascular adipose tissue dysfunction contributes to thoracic aortic aneurysm development",
+   "received": "23 January 2025",
+   "accepted": "29 April 2025",
+   "days": 96,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02791-9",
+   "title": "Cardiovascular disease in women with type 1 diabetes: a narrative review and insights from a population-based cohort analysis",
+   "received": "16 March 2025",
+   "accepted": "14 May 2025",
+   "days": 59,
+   "refs": 134
+  },
+  {
+   "doi": "10.1186/s12933-025-02769-7",
+   "title": "Cardiovascular risk profile in subjects with diabetes: Is SCORE2-Diabetes reliable?",
+   "received": "19 March 2025",
+   "accepted": "2 May 2025",
+   "days": 44,
+   "refs": 26
+  },
+  {
+   "doi": "10.1186/s12933-025-02773-x",
+   "title": "Impact of SGLT2-inhibitors on acute kidney injury in diabetic patients with severe aortic stenosis undergoing transcatheter aortic valve implantation (TAVI)",
+   "received": "10 March 2025",
+   "accepted": "5 May 2025",
+   "days": 56,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s12933-025-02778-6",
+   "title": "Refining the link between obesity and heart failure: insights from GLP-1 receptor agonist trials and studies adopting direct adiposity measures",
+   "received": "28 February 2025",
+   "accepted": "6 May 2025",
+   "days": 67,
+   "refs": 151
+  },
+  {
+   "doi": "10.1186/s12933-025-02776-8",
+   "title": "Metabolic profiling of frailty, associations with type 2 diabetes and interaction with genetic susceptibility",
+   "received": "4 March 2025",
+   "accepted": "5 May 2025",
+   "days": 62,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02785-7",
+   "title": "Cumulative blood pressure load as a predictor of arterial stiffness progression and incident diabetic kidney disease: a multicenter longitudinal study",
+   "received": "8 January 2025",
+   "accepted": "9 May 2025",
+   "days": 121,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-025-02777-7",
+   "title": "Impact of sodium\u2013glucose transport protein-2 (SGLT2) inhibitors on the inflammasome pathway in acute myocardial infarction in type 2 diabetes mellitus: a compre",
+   "received": "6 March 2025",
+   "accepted": "6 May 2025",
+   "days": 61,
+   "refs": 168
+  },
+  {
+   "doi": "10.1186/s12933-025-02755-z",
+   "title": "Comparison of right ventricular function and clinical outcomes in type 2 diabetes patients with and without obstructive coronary artery disease: insights from a",
+   "received": "8 March 2025",
+   "accepted": "24 April 2025",
+   "days": 47,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02764-y",
+   "title": "Increased prevalence and risk of atherosclerotic cardiovascular disease in individuals with Type 1 diabetes and metabolic dysfunction-associated steatotic liver",
+   "received": "6 March 2025",
+   "accepted": "29 April 2025",
+   "days": 54,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02800-x",
+   "title": "Epigenetic crossroads in metabolic and cardiovascular health: the role of DNA methylation in type 2 diabetes and cardiovascular diseases",
+   "received": "31 March 2025",
+   "accepted": "20 May 2025",
+   "days": 50,
+   "refs": 108
+  },
+  {
+   "doi": "10.1186/s12933-025-02796-4",
+   "title": "Effects of dapagliflozin on the progression of left ventricular dysfunction in type 2 diabetes mellitus: a randomized controlled trial",
+   "received": "8 April 2025",
+   "accepted": "19 May 2025",
+   "days": 41,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02798-2",
+   "title": "Statin-induced risk of diabetes does not reduce cardiovascular benefits in primary prevention: a 6-year propensity-score matched study in a large population",
+   "received": "1 April 2025",
+   "accepted": "20 May 2025",
+   "days": 49,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02766-w",
+   "title": "The impact of dietary interventions on cardiometabolic health",
+   "received": "13 March 2025",
+   "accepted": "29 April 2025",
+   "days": 47,
+   "refs": 187
+  },
+  {
+   "doi": "10.1186/s12933-025-02780-y",
+   "title": "Tenascin-C drives cardiovascular dysfunction in a mouse model of diabetic cardiomyopathy",
+   "received": "18 December 2024",
+   "accepted": "8 May 2025",
+   "days": 141,
+   "refs": 86
+  },
+  {
+   "doi": "10.1186/s12933-025-02797-3",
+   "title": "SREBP1 deficiency aggravates vascular calcification via iASPP-triggered ferroptosis of vascular smooth muscle cells",
+   "received": "13 January 2025",
+   "accepted": "19 May 2025",
+   "days": 126,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s12933-025-02788-4",
+   "title": "Sex-specific cardiometabolic multimorbidity, metabolic syndrome and left ventricular function in heart failure with preserved ejection fraction in the UK Bioban",
+   "received": "20 February 2025",
+   "accepted": "13 May 2025",
+   "days": 82,
+   "refs": 78
+  },
+  {
+   "doi": "10.1186/s12933-025-02799-1",
+   "title": "Pseudohypoxia caused by germline genetic alterations in the VHL gene is associated with increased diabetes and cardiovascular risk: a UK biobank study",
+   "received": "19 January 2025",
+   "accepted": "20 May 2025",
+   "days": 121,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02790-w",
+   "title": "Causal association of modifiable factors with cardiometabolic multimorbidity: an exposome-wide Mendelian randomization investigation",
+   "received": "16 February 2025",
+   "accepted": "13 May 2025",
+   "days": 86,
+   "refs": 71
+  },
+  {
+   "doi": "10.1186/s12933-025-02781-x",
+   "title": "Treatment with orforglipron, an oral glucagon like peptide-1 receptor agonist, is associated with improvements of CV risk biomarkers in participants with type 2",
+   "received": "5 March 2025",
+   "accepted": "8 May 2025",
+   "days": 64,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02771-z",
+   "title": "Type 2 diabetes worsens the outcome of ischemia/reperfusion in female STEMI patients and female db/db mice with HFpEF\u00a0cardiometabolic phenotype",
+   "received": "19 December 2024",
+   "accepted": "2 May 2025",
+   "days": 134,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02795-5",
+   "title": "Impact of steatotic liver diseases on diabetes mellitus risk in patients with atrial fibrillation: a nationwide population study",
+   "received": "31 March 2025",
+   "accepted": "17 May 2025",
+   "days": 47,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02786-6",
+   "title": "Characterizing trajectories of diabetes-related health parameters before diabetes diagnosis in diabetes subtypes: analysis of a 20-year long prospective cohort ",
+   "received": "21 March 2025",
+   "accepted": "10 May 2025",
+   "days": 50,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02814-5",
+   "title": "Vascular effects of perivascular adipose tissue-derived chemerin in obesity-associated cardiovascular disease",
+   "received": "27 January 2025",
+   "accepted": "4 June 2025",
+   "days": 128,
+   "refs": 177
+  },
+  {
+   "doi": "10.1186/s12933-025-02803-8",
+   "title": "Cumulative exposures to glycaemia and lipids are associated with coronary artery disease in type 1 diabetes: a call for action",
+   "received": "18 February 2025",
+   "accepted": "24 May 2025",
+   "days": 95,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02706-8",
+   "title": "Interleukin-1\u03b2 in circulating mononuclear cells predicts steatotic liver disease\u00a0improvement after weight loss in subjects with obesity and prediabetes or type ",
+   "received": "7 February 2025",
+   "accepted": "24 March 2025",
+   "days": 45,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s12933-025-02703-x",
+   "title": "Novel insights into beta cell ER stress CHOP and its role in HFpEF development",
+   "received": "6 January 2025",
+   "accepted": "23 March 2025",
+   "days": 76,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02784-8",
+   "title": "Association of atherogenic index of plasma and its modified indices with stroke risk in individuals with cardiovascular-kidney-metabolic syndrome stages 0\u20133: a ",
+   "received": "4 April 2025",
+   "accepted": "9 May 2025",
+   "days": 35,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02810-9",
+   "title": "Stress hyperglycemia ratio and the risk of new-onset chronic diseases: results of a national prospective longitudinal study",
+   "received": "10 February 2025",
+   "accepted": "2 June 2025",
+   "days": 112,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s12933-025-02806-5",
+   "title": "Tirzepatide, a dual GIP/GLP1-receptor co-agonist preserves cardiac function and improves survival in angiotensin II-induced heart failure model in mice: compari",
+   "received": "28 February 2025",
+   "accepted": "28 May 2025",
+   "days": 89,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-025-02804-7",
+   "title": "Impact of different hypertensive disorders of pregnancy on cardiovascular disease risk and all-cause mortality in women with type 1 diabetes",
+   "received": "25 February 2025",
+   "accepted": "26 May 2025",
+   "days": 90,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s12933-025-02789-3",
+   "title": "Beyond overweight, visceral adiposity is associated with estimation of cardiovascular risk in patients living with type 1 diabetes: findings from the SFDT1 coho",
+   "received": "14 March 2025",
+   "accepted": "13 May 2025",
+   "days": 60,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02819-0",
+   "title": "Associations of different insulin resistance-related indices with the incidence and progression trajectory of cardiometabolic multimorbidity: a prospective coho",
+   "received": "7 March 2025",
+   "accepted": "9 June 2025",
+   "days": 94,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02802-9",
+   "title": "Daily low dose aspirin halves incident type 2 diabetes in elderly subjects with prediabetes: a five-year longitudinal cohort study in a real-word population",
+   "received": "10 April 2025",
+   "accepted": "23 May 2025",
+   "days": 43,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02808-3",
+   "title": "Atrial dysfunction: a contrast-free marker for HFpEF in obese diabetics\u2014insights from comprehensive CMR and serum biomarker analyses",
+   "received": "18 February 2025",
+   "accepted": "30 May 2025",
+   "days": 101,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02749-x",
+   "title": "Inflammation-related 5-hydroxymethylation signatures as markers for clinical presentations of coronary artery disease",
+   "received": "30 January 2025",
+   "accepted": "19 April 2025",
+   "days": 79,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-025-02807-4",
+   "title": "Association of prediabetes and insulin resistance on prognosis of patients with moderate-to-severe coronary artery calcification: a prospective cohort study",
+   "received": "28 April 2025",
+   "accepted": "30 May 2025",
+   "days": 32,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02817-2",
+   "title": "The adverse effects of metabolic disorder on left ventricular myocardial mechano-energetic efficiency and dysfunction in ischemic cardiomyopathy: insight from a",
+   "received": "28 March 2025",
+   "accepted": "6 June 2025",
+   "days": 70,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02818-1",
+   "title": "Interpretable machine learning analysis of immunoinflammatory biomarkers for predicting CHD among NAFLD patients",
+   "received": "12 March 2025",
+   "accepted": "6 June 2025",
+   "days": 86,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02774-w",
+   "title": "Cardiometabolic heart failure with preserved ejection fraction: from molecular signatures to personalized treatment",
+   "received": "3 March 2025",
+   "accepted": "5 May 2025",
+   "days": 63,
+   "refs": 160
+  },
+  {
+   "doi": "10.1186/s12933-025-02820-7",
+   "title": "Human cardiac tissues produce lower contractile stress and exhibit slower cross-bridge cycling in type 2 diabetes",
+   "received": "15 January 2025",
+   "accepted": "10 June 2025",
+   "days": 146,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02832-3",
+   "title": "Determinants of temporal change in telomere length and its associations with chronic complications and mortality in type 2 diabetes: the Fremantle diabetes stud",
+   "received": "16 March 2025",
+   "accepted": "18 June 2025",
+   "days": 94,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02816-3",
+   "title": "Efficacy and safety of Tafolecimab in Chinese patients with type 2 diabetes and hypercholesterolemia: a post-hoc analysis of pooled data from three phase 3 tria",
+   "received": "21 January 2025",
+   "accepted": "6 June 2025",
+   "days": 136,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02772-y",
+   "title": "Single nuclei RNA-sequencing unveils alveolar macrophages as drivers of endothelial damage in obese HFpEF-related pulmonary hypertension",
+   "received": "7 March 2025",
+   "accepted": "3 May 2025",
+   "days": 57,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02821-6",
+   "title": "Metabotype identification via fasting and postprandial metabolomics and its association with type 2 diabetes incidence",
+   "received": "2 April 2025",
+   "accepted": "11 June 2025",
+   "days": 70,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02830-5",
+   "title": "A scoring model integrating CXCL9, GDF15, FGF21, and NfL, predicts long-term mortality in type 2 diabetes: a retrospective study",
+   "received": "30 March 2025",
+   "accepted": "16 June 2025",
+   "days": 78,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02801-w",
+   "title": "Acid sphingomyelinase promotes diabetic cardiomyopathy via disruption of mitochondrial calcium homeostasis",
+   "received": "17 March 2025",
+   "accepted": "23 May 2025",
+   "days": 67,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s12933-025-02825-2",
+   "title": "Muscle-specific miR-499-5p delivered by small extracellular vesicles impairs endothelial function and ischemic hindlimb recovery in diabetic mice",
+   "received": "15 May 2025",
+   "accepted": "13 June 2025",
+   "days": 29,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02827-0",
+   "title": "Association between modified triglyceride glucose indices and stroke risk in middle-aged and older Chinese adults: a prospective cohort study",
+   "received": "21 April 2025",
+   "accepted": "14 June 2025",
+   "days": 54,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02833-2",
+   "title": "Prognostic value of lipoprotein(a) for cardiovascular events after lower limb revascularization in diabetic patients with chronic limb-threatening ischemia",
+   "received": "3 April 2025",
+   "accepted": "18 June 2025",
+   "days": 76,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02831-4",
+   "title": "Remnant\u2013to\u2013LDL cholesterol discordance as a predictor of thromboembolic events in anticoagulated patients with atrial fibrillation: a report from the prospectiv",
+   "received": "15 May 2025",
+   "accepted": "17 June 2025",
+   "days": 33,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02805-6",
+   "title": "Prevalence and thrombotic risk of SGLT-2 inhibitor-associated erythrocytosis: a retrospective cohort study",
+   "received": "15 April 2025",
+   "accepted": "28 May 2025",
+   "days": 43,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s12933-025-02842-1",
+   "title": "Triglyceride-glucose-related indices and risk of cardiovascular disease and mortality in individuals with cardiovascular\u2013kidney\u2013metabolic (CKM) syndrome stages ",
+   "received": "17 May 2025",
+   "accepted": "25 June 2025",
+   "days": 39,
+   "refs": 64
+  },
+  {
+   "doi": "10.1186/s12933-025-02838-x",
+   "title": "Association between trajectory of triglyceride-glucose index and all-cause mortality in critically ill patients with atrial fibrillation: a retrospective cohort",
+   "received": "17 April 2025",
+   "accepted": "23 June 2025",
+   "days": 67,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-025-02809-2",
+   "title": "The triglyceride-glucose index, a marker of insulin resistance, as a predictor of thrombotic risk in atrial fibrillation",
+   "received": "25 March 2025",
+   "accepted": "31 May 2025",
+   "days": 67,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s12933-025-02793-7",
+   "title": "Combined impact of prediabetes and fatty liver index on cardiometabolic outcomes and mortality in middle aged adults: a nationwide cohort study",
+   "received": "19 November 2024",
+   "accepted": "15 May 2025",
+   "days": 177,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02841-2",
+   "title": "Preclinical atherosclerosis and prediabetes: a cross-sectional metabolic assessment in apparently healthy population",
+   "received": "13 May 2025",
+   "accepted": "25 June 2025",
+   "days": 43,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s12933-025-02811-8",
+   "title": "Maternal coronary heart disease and mortality following hypertensive disorders of pregnancy and/or diabetes",
+   "received": "27 March 2025",
+   "accepted": "2 June 2025",
+   "days": 67,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s12933-025-02823-4",
+   "title": "Glyoxalase-1 overexpression attenuates arterial wall stiffening in diabetic mice",
+   "received": "21 March 2025",
+   "accepted": "11 June 2025",
+   "days": 82,
+   "refs": 72
+  },
+  {
+   "doi": "10.1186/s12933-025-02813-6",
+   "title": "Derivatives of the triglyceride\u2013glucose index and their association with incident hypertension in prehypertensive individuals: a 4-year cohort study augmented b",
+   "received": "16 April 2025",
+   "accepted": "3 June 2025",
+   "days": 48,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-025-02840-3",
+   "title": "Glucagon-like peptide-1 receptor agonist in myocardial infarction and atherosclerotic cardiovascular disease risk reduction: a comprehensive meta-analysis of nu",
+   "received": "15 March 2025",
+   "accepted": "24 June 2025",
+   "days": 101,
+   "refs": 111
+  },
+  {
+   "doi": "10.1186/s12933-025-02812-7",
+   "title": "Stress hyperglycemia ratio as a biomarker for early mortality risk stratification in cardiovascular disease: a propensity-matched analysis",
+   "received": "30 April 2025",
+   "accepted": "3 June 2025",
+   "days": 34,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02846-x",
+   "title": "Effects of RAS and SGLT2 inhibitors alone or in combination on end-stage kidney disease and/or all-cause death in patients with both diabetes and hypertension: ",
+   "received": "9 April 2025",
+   "accepted": "3 July 2025",
+   "days": 85,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02836-z",
+   "title": "Distinct types of protein modifications in diabetic endothelial dysfunction",
+   "received": "15 April 2025",
+   "accepted": "19 June 2025",
+   "days": 65,
+   "refs": 166
+  },
+  {
+   "doi": "10.1186/s12933-025-02824-3",
+   "title": "Association of temporal MASLD with type 2 diabetes, cardiovascular disease and mortality",
+   "received": "26 March 2025",
+   "accepted": "11 June 2025",
+   "days": 77,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02843-0",
+   "title": "Impact of diabetes mellitus on myocardial function and clinical outcomes in patients with significant aortic regurgitation",
+   "received": "11 May 2025",
+   "accepted": "26 June 2025",
+   "days": 46,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02839-w",
+   "title": "Cardiac digital twins: a tool to investigate the function and treatment of the diabetic heart",
+   "received": "30 April 2025",
+   "accepted": "24 June 2025",
+   "days": 55,
+   "refs": 165
+  },
+  {
+   "doi": "10.1186/s12933-025-02829-y",
+   "title": "AI-Driven segmentation and morphogeometric profiling of epicardial adipose tissue in type 2 diabetes",
+   "received": "6 May 2025",
+   "accepted": "16 June 2025",
+   "days": 41,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02815-4",
+   "title": "C-C chemokine ligand 5 from women subcutaneous adipose tissue has a central role in vascular aging",
+   "received": "18 March 2025",
+   "accepted": "5 June 2025",
+   "days": 79,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-025-02848-9",
+   "title": "C-reactive protein-triglyceride glucose index in evaluating cardiovascular disease and all-cause mortality incidence among individuals across stages 0\u20133 of card",
+   "received": "22 May 2025",
+   "accepted": "5 July 2025",
+   "days": 44,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02844-z",
+   "title": "Low LDL particle levels associate with coronary arteries free from atherosclerosis in long-term type 1 diabetes: the Dialong study",
+   "received": "15 May 2025",
+   "accepted": "27 June 2025",
+   "days": 43,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02868-5",
+   "title": "Prognostic impact of type 2 diabetes mellitus and coronary microvascular dysfunction in patients undergoing rotational atherectomy during PCI",
+   "received": "17 April 2025",
+   "accepted": "15 July 2025",
+   "days": 89,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-025-02870-x",
+   "title": "Association between triglyceride-glucose-body mass index and adverse prognosis in elderly patients with severe heart failure and type 2 diabetes: a retrospectiv",
+   "received": "8 May 2025",
+   "accepted": "16 July 2025",
+   "days": 69,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02865-8",
+   "title": "Interpretable machine learning-guided single-cell mapping deciphers multi-lineage pancreatic dysregulation in type 2 diabetes",
+   "received": "27 March 2025",
+   "accepted": "14 July 2025",
+   "days": 109,
+   "refs": 74
+  },
+  {
+   "doi": "10.1186/s12933-025-02861-y",
+   "title": "Trace elements and risk of diabetes-related vascular complications: results from the EPIC-Potsdam cohort study",
+   "received": "10 April 2025",
+   "accepted": "11 July 2025",
+   "days": 92,
+   "refs": 62
+  },
+  {
+   "doi": "10.1186/s12933-025-02854-x",
+   "title": "Association of novel triglyceride-glucose-related indices with incident stroke in early-stage cardiovascular-kidney-metabolic syndrome",
+   "received": "6 June 2025",
+   "accepted": "10 July 2025",
+   "days": 34,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02869-4",
+   "title": "Associations of cumulative exposure and dynamic trajectories of the C-reactive protein-triglyceride-glucose index with incident cardiovascular disease in middle",
+   "received": "1 June 2025",
+   "accepted": "16 July 2025",
+   "days": 45,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02872-9",
+   "title": "Triglyceride-glucose index: a novel assessment tool for all-cause mortality in critical stroke patients\u2014a retrospective analysis of the eICU-CRD database",
+   "received": "19 June 2025",
+   "accepted": "17 July 2025",
+   "days": 28,
+   "refs": 70
+  },
+  {
+   "doi": "10.1186/s12933-025-02875-6",
+   "title": "Efficacy and safety of dapagliflozin in patients hospitalized with COVID-19 with and without type 2 diabetes: a prespecified analysis of the DARE-19 randomized ",
+   "received": "28 April 2025",
+   "accepted": "18 July 2025",
+   "days": 81,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s12933-025-02852-z",
+   "title": "Diabetic kidney disease phenotypes and the risk of cardiovascular events: The Silesia Diabetes-Heart Project",
+   "received": "18 May 2025",
+   "accepted": "9 July 2025",
+   "days": 52,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02873-8",
+   "title": "Triglyceride glucose-weight-adjusted waist index as a cardiovascular mortality predictor: incremental value beyond the establishment of TyG-related indices",
+   "received": "3 June 2025",
+   "accepted": "17 July 2025",
+   "days": 44,
+   "refs": 89
+  },
+  {
+   "doi": "10.1186/s12933-025-02862-x",
+   "title": "Hypoglycemia and glycemic variability in acute myocardial infarction: the lesser-known aspects of glycemic control",
+   "received": "26 May 2025",
+   "accepted": "12 July 2025",
+   "days": 47,
+   "refs": 75
+  },
+  {
+   "doi": "10.1186/s12933-025-02850-1",
+   "title": "Microvascular dysfunction across organs in heart failure with preserved ejection fraction: the PROSE-HFpEF case-control study",
+   "received": "20 May 2025",
+   "accepted": "7 July 2025",
+   "days": 48,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02851-0",
+   "title": "Glucokinase activator, circulating metabolites, and cardio-cerebrovascular diseases: a Mendelian randomization study",
+   "received": "24 March 2025",
+   "accepted": "9 July 2025",
+   "days": 107,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02879-2",
+   "title": "Specific targeting of adipose tissue metabolism is superior to caloric restriction in treating obesity-related HFpEF",
+   "received": "27 June 2025",
+   "accepted": "21 July 2025",
+   "days": 24,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s12933-025-02835-0",
+   "title": "Association of C-reactive protein-triglyceride glucose index with the incidence and mortality of cardiovascular disease: a retrospective cohort study",
+   "received": "8 May 2025",
+   "accepted": "19 June 2025",
+   "days": 42,
+   "refs": 81
+  },
+  {
+   "doi": "10.1186/s12933-025-02847-w",
+   "title": "Blood plasma proteome-wide association study implicates novel proteins in the pathogenesis of multiple cardiovascular diseases",
+   "received": "4 March 2025",
+   "accepted": "3 July 2025",
+   "days": 121,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s12933-025-02871-w",
+   "title": "Erythrocytosis incidence and thromboembolic risk in heart failure with reduced ejection fraction treated with SGLT2 inhibitors: a nationwide register-based coho",
+   "received": "22 May 2025",
+   "accepted": "17 July 2025",
+   "days": 56,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02881-8",
+   "title": "Metabolomic profiling reveals interindividual metabolic variability and its association with cardiovascular-kidney-metabolic syndrome risk",
+   "received": "11 June 2025",
+   "accepted": "23 July 2025",
+   "days": 42,
+   "refs": 62
+  },
+  {
+   "doi": "10.1186/s12933-025-02876-5",
+   "title": "Association between the C-reactive protein-triglyceride glucose index and new-onset coronary heart disease among metabolically heterogeneous individuals",
+   "received": "1 May 2025",
+   "accepted": "20 July 2025",
+   "days": 80,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s12933-025-02880-9",
+   "title": "Predictive value of the combined triglyceride-glucose and frailty index for cardiovascular disease and stroke in two prospective cohorts",
+   "received": "6 June 2025",
+   "accepted": "22 July 2025",
+   "days": 46,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-025-02763-z",
+   "title": "Advances and challenges of targeting epicardial adipose tissue (EAT) and perivascular adipose tissue (PVAT)",
+   "received": "16 March 2025",
+   "accepted": "28 April 2025",
+   "days": 43,
+   "refs": 219
+  },
+  {
+   "doi": "10.1186/s12933-025-02890-7",
+   "title": "Does diabetes status modify the association between the triglyceride-glucose index and major adverse cardiovascular events in patients with coronary heart disea",
+   "received": "12 June 2025",
+   "accepted": "29 July 2025",
+   "days": 47,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02855-w",
+   "title": "Biological aging and incident cardiovascular diseases in individuals with diabetes: insights from a large prospective cohort study",
+   "received": "13 April 2025",
+   "accepted": "10 July 2025",
+   "days": 88,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02853-y",
+   "title": "Longitudinal study reveals plasma glycans associations with prediabetes/type 2 diabetes in KORA study",
+   "received": "16 May 2025",
+   "accepted": "10 July 2025",
+   "days": 55,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02857-8",
+   "title": "Glucose metabolism in heterozygous familial hypercholesterolemia\u00a0with\u00a0a founder effect and\u00a0a high diabetes prevalence: a cross-sectional study",
+   "received": "25 March 2025",
+   "accepted": "10 July 2025",
+   "days": 107,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s12933-025-02891-6",
+   "title": "Acetylsalicylic acid and vorapaxar are less active, while 4-methylcatechol is more active, in type 1 diabetic patients compared to healthy controls",
+   "received": "22 May 2025",
+   "accepted": "29 July 2025",
+   "days": 68,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s12933-025-02882-7",
+   "title": "Cardiometabolic risk stratification in pediatric obesity: evaluating the clinical utility of fasting insulin and BMI-SDS",
+   "received": "14 April 2025",
+   "accepted": "23 July 2025",
+   "days": 100,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02859-6",
+   "title": "Epicardial adipose tissue volume is associated with impaired left ventricular strain in patients with metabolic syndrome: the mediating role of myocardial energ",
+   "received": "28 May 2025",
+   "accepted": "11 July 2025",
+   "days": 44,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02867-6",
+   "title": "Development and validation of a machine learning model for predicting vulnerable carotid plaques using routine blood biomarkers and derived indicators: insights",
+   "received": "25 May 2025",
+   "accepted": "14 July 2025",
+   "days": 50,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s12933-025-02878-3",
+   "title": "Global detection and management of dysglycaemic patients with coronary artery disease results from the INTERASPIRE survey from 14 countries across six WHO regio",
+   "received": "12 May 2025",
+   "accepted": "21 July 2025",
+   "days": 70,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s12933-025-02885-4",
+   "title": "Improving cardiovascular risk stratification: the role of abdominal obesity in predicting MACEs",
+   "received": "12 June 2025",
+   "accepted": "26 July 2025",
+   "days": 44,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02896-1",
+   "title": "The novel triglyceride\u2012glucose-weighted adjusted waist index as a supplementary diagnostic tool for heart failure: evidence of improved reclassification beyond ",
+   "received": "19 May 2025",
+   "accepted": "4 August 2025",
+   "days": 77,
+   "refs": 85
+  },
+  {
+   "doi": "10.1186/s12933-025-02883-6",
+   "title": "Association of triglyceride-glucose-related indices with all-cause and cause-specific mortality in individuals with prediabetes",
+   "received": "29 May 2025",
+   "accepted": "23 July 2025",
+   "days": 55,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02863-w",
+   "title": "Crosstalk between perivascular adipose tissue and adipocyte-derived peptide in the pathogenesis of diabetic cardiomyopathy",
+   "received": "29 March 2025",
+   "accepted": "14 July 2025",
+   "days": 107,
+   "refs": 169
+  },
+  {
+   "doi": "10.1186/s12933-025-02884-5",
+   "title": "Mitochondrial ultrastructural pathology in diabetic cardiomyopathy: integrated analysis via scanning electron microscopy and 3D visualization imaging",
+   "received": "27 May 2025",
+   "accepted": "24 July 2025",
+   "days": 58,
+   "refs": 100
+  },
+  {
+   "doi": "10.1186/s12933-025-02877-4",
+   "title": "The predictive value of atherogenic index of plasma and clonal hematopoiesis of indeterminate potential among patients with STEMI\u2014from a prospective cohort stud",
+   "received": "17 May 2025",
+   "accepted": "21 July 2025",
+   "days": 65,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02856-9",
+   "title": "Cardiovascular autonomic neuropathy defined by indices of heart rate variability is associated with cardiovascular disease: a longitudinal cohort study of parti",
+   "received": "3 June 2025",
+   "accepted": "10 July 2025",
+   "days": 37,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s12933-025-02849-8",
+   "title": "Association of circulating metabolites and polygenic risk score with incident type 2 diabetes: a prospective community-based cohort study",
+   "received": "7 March 2025",
+   "accepted": "7 July 2025",
+   "days": 122,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02898-z",
+   "title": "Predictive value and robustness of the stress hyperglycemia ratio combined with hypertension for stroke risk: evidence from the CHARLS cohort",
+   "received": "29 May 2025",
+   "accepted": "9 August 2025",
+   "days": 72,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s12933-025-02901-7",
+   "title": "Prognostic value of triglyceride-glucose index combined with stress hyperglycemia ratio for all-cause mortality in critically ill patients with stroke",
+   "received": "7 July 2025",
+   "accepted": "11 August 2025",
+   "days": 35,
+   "refs": 68
+  },
+  {
+   "doi": "10.1186/s12933-025-02828-z",
+   "title": "The dual GLP-1 and GIP receptor agonist tirzapetide provides an unintended interaction with the \u03b2-adrenoceptors and plays a role in glucose metabolism in hyperg",
+   "received": "7 March 2025",
+   "accepted": "14 June 2025",
+   "days": 99,
+   "refs": 88
+  },
+  {
+   "doi": "10.1186/s12933-025-02894-3",
+   "title": "Lipoprotein levels and statin treatment related to dementia and cognitive decline in individuals with type 2 diabetes: an observational analysis from the ADVANC",
+   "received": "3 June 2025",
+   "accepted": "4 August 2025",
+   "days": 62,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02895-2",
+   "title": "Heme oxygenase-1 polymorphisms associate with ischemic cardiac complications and all-cause mortality in type 1 diabetes",
+   "received": "16 June 2025",
+   "accepted": "4 August 2025",
+   "days": 49,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02899-y",
+   "title": "Unveiling biomarkers via plasma metabolome profiling for diabetic macrovascular and microvascular complications",
+   "received": "27 March 2025",
+   "accepted": "10 August 2025",
+   "days": 136,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02889-0",
+   "title": "A decline in renal function is associated with a reduction in myocardial mechano-energetic efficiency in individuals at high cardiometabolic risk",
+   "received": "18 June 2025",
+   "accepted": "29 July 2025",
+   "days": 41,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s12933-025-02892-5",
+   "title": "Comparative cardiovascular outcomes and safety of hypoglycemic drug classes in patients with type 2 diabetes and hypertension: a multicenter cohort analysis",
+   "received": "27 March 2025",
+   "accepted": "30 July 2025",
+   "days": 125,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02902-6",
+   "title": "Evaluative performance of TyG-ABSI versus traditional indices in relation to cardiovascular disease and mortality: evidence from the U.S. NHANES",
+   "received": "26 June 2025",
+   "accepted": "11 August 2025",
+   "days": 46,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-025-02904-4",
+   "title": "Effect of SGLT2 inhibitors on cardiac structure and function assessed by cardiac magnetic resonance: a systematic review and meta-analysis",
+   "received": "31 May 2025",
+   "accepted": "12 August 2025",
+   "days": 73,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s12933-025-02887-2",
+   "title": "Lipid metabolism-related inflammatory indices (LMIIs) and incident peripheral artery diseases (PAD) in patients with type 2 diabetes mellitus (T2DM): a multicoh",
+   "received": "17 February 2025",
+   "accepted": "28 July 2025",
+   "days": 161,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02866-7",
+   "title": "Impact of changes in conventional risk factors induced by once-weekly GLP-1 receptor agonist exenatide on cardiovascular outcomes: an EXSCEL post hoc analysis",
+   "received": "25 February 2025",
+   "accepted": "14 July 2025",
+   "days": 139,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s12933-025-02905-3",
+   "title": "Associations between steatotic liver disease subtypes and incident atrial fibrillation in young adults: a nationwide cohort study",
+   "received": "27 April 2025",
+   "accepted": "13 August 2025",
+   "days": 108,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02903-5",
+   "title": "Atherogenic index of plasma and its 5-year changes associated with type 2 diabetes risk: a 10-Year cohort study",
+   "received": "4 June 2025",
+   "accepted": "12 August 2025",
+   "days": 69,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02914-2",
+   "title": "The triglyceride-glucose index: updating evidence from clinical settings to molecular mechanisms in ageing-related cerebrovascular diseases",
+   "received": "24 June 2025",
+   "accepted": "20 August 2025",
+   "days": 57,
+   "refs": 231
+  },
+  {
+   "doi": "10.1186/s12933-025-02886-3",
+   "title": "Left ventricular ejection fraction reserve and its association with myocardial perfusion, coronary calcification, and strain in type 2 diabetes without overt ca",
+   "received": "11 June 2025",
+   "accepted": "27 July 2025",
+   "days": 46,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s12933-025-02912-4",
+   "title": "Coronary flow reserve increase after 4-year dapagliflozin treatment in patients with type 2 diabetes: the DAPAHEART follow-up study",
+   "received": "27 May 2025",
+   "accepted": "19 August 2025",
+   "days": 84,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02874-7",
+   "title": "SGLT2 inhibitors and GLP-1 receptor agonists: impact on mortality in diabetic patients with cardiovascular disease",
+   "received": "20 June 2025",
+   "accepted": "18 July 2025",
+   "days": 28,
+   "refs": 19
+  },
+  {
+   "doi": "10.1186/s12933-025-02918-y",
+   "title": "Nocturnal hypoxemic burden is associated with worsening prognosis of chronic kidney disease in patients with type 2 diabetes",
+   "received": "17 July 2025",
+   "accepted": "22 August 2025",
+   "days": 36,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s12933-025-02917-z",
+   "title": "Weight-independent amelioration of adipokine profile by enavogliflozin, a selective SGLT2 inhibitor, in patients with type 2 diabetes",
+   "received": "25 June 2025",
+   "accepted": "21 August 2025",
+   "days": 57,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02913-3",
+   "title": "Pericoronary adipose tissue radiomics to improve risk stratification for patients with acute coronary syndrome: a multicenter retrospective cohort study",
+   "received": "28 June 2025",
+   "accepted": "20 August 2025",
+   "days": 53,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02858-7",
+   "title": "Association between dynamic changes in the triglyceride-glucose index and prognosis in patients with acute ST-segment elevation myocardial infarction",
+   "received": "1 June 2025",
+   "accepted": "11 July 2025",
+   "days": 40,
+   "refs": 91
+  },
+  {
+   "doi": "10.1186/s12933-025-02919-x",
+   "title": "The association between triglyceride glucose-waist height ratio index and cardiometabolic multimorbidity among Chinese middle-aged and older adults: a national ",
+   "received": "9 July 2025",
+   "accepted": "22 August 2025",
+   "days": 44,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s12933-025-02916-0",
+   "title": "Effect of Empagliflozin on the plasma lipidome in patients with type 2 diabetes mellitus: results from the EmDia clinical trial",
+   "received": "20 November 2024",
+   "accepted": "21 August 2025",
+   "days": 274,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02860-z",
+   "title": "Insulin resistance assessed by estimated glucose disposal rate predicts cardiovascular disease in stages 0\u20133 of cardiovascular-kidney-metabolic syndrome: a UK b",
+   "received": "17 April 2025",
+   "accepted": "11 July 2025",
+   "days": 85,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02936-w",
+   "title": "Fixed-dose vs loose-dose combination antidiabetic therapy and cardiorenal outcomes in type 2 diabetes: a nationwide comparative effectiveness study",
+   "received": "5 July 2025",
+   "accepted": "8 September 2025",
+   "days": 65,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s12933-025-02864-9",
+   "title": "Treatment and associated outcomes of type 2 diabetes mellitus patients with a cardiovascular comorbidity and comparison with guideline recommendations: a German",
+   "received": "17 September 2024",
+   "accepted": "14 July 2025",
+   "days": 300,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02921-3",
+   "title": "Association of the triglyceride-glucose index combined with a body shape index with all-cause and cardiovascular mortality in individuals with cardiovascular-ki",
+   "received": "30 July 2025",
+   "accepted": "23 August 2025",
+   "days": 24,
+   "refs": 83
+  },
+  {
+   "doi": "10.1186/s12933-025-02826-1",
+   "title": "The association between triglyceride-glucose index and all-cause/cardiovascular mortality in patients with different glucose metabolism statuses",
+   "received": "20 March 2025",
+   "accepted": "14 June 2025",
+   "days": 86,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02944-w",
+   "title": "Association of the triglyceride-glucose index and its combination with obesity indices with cardio-renal-metabolic multimorbidity: two decades of follow-up in t",
+   "received": "21 June 2025",
+   "accepted": "13 September 2025",
+   "days": 84,
+   "refs": 93
+  },
+  {
+   "doi": "10.1186/s12933-025-02931-1",
+   "title": "Accelerated biological aging mediates the associations of stress hyperglycemia ratio (SHR) with mortality in type 2 diabetes and obesity (diabesity)",
+   "received": "22 June 2025",
+   "accepted": "1 September 2025",
+   "days": 71,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02927-x",
+   "title": "Relation of the non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio to residual risk in anticoagulated patients with atrial f",
+   "received": "24 July 2025",
+   "accepted": "26 August 2025",
+   "days": 33,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02900-8",
+   "title": "Cardiovascular and renal outcomes of dual combination therapies with glucagon-like peptide-1 receptor agonists and sodium-glucose transport protein 2 inhibitors",
+   "received": "16 July 2025",
+   "accepted": "10 August 2025",
+   "days": 25,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02924-0",
+   "title": "Type 2 diabetes, sodium-glucose cotransporter-2 inhibitors and cardiovascular outcomes: real world evidence versus a randomised clinical trial",
+   "received": "20 June 2025",
+   "accepted": "25 August 2025",
+   "days": 66,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02909-z",
+   "title": "Planetary health diet, other plant-based diets and risk of type 2 diabetes: a prospective study from the UK Biobank",
+   "received": "2 June 2025",
+   "accepted": "19 August 2025",
+   "days": 78,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s12933-025-02910-6",
+   "title": "Effect of changes in the triglyceride-glucose index on atherogenic lipid profiles in coronary artery disease patients receiving lipid-lowering therapy: a prospe",
+   "received": "9 July 2025",
+   "accepted": "19 August 2025",
+   "days": 41,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02928-w",
+   "title": "Associations of six insulin resistance-related indices with the risk and progression of cardio-renal-metabolic multimorbidity: evidence from the UK biobank",
+   "received": "19 July 2025",
+   "accepted": "27 August 2025",
+   "days": 39,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s12933-025-02911-5",
+   "title": "An ensemble machine learning-based risk stratification tool for 30-day mortality prediction in critically ill cardiovascular patients",
+   "received": "8 July 2025",
+   "accepted": "19 August 2025",
+   "days": 42,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02926-y",
+   "title": "Characterizing echocardiographic abnormalities and their associated factors in patients with type 1 diabetes: a cross-sectional study",
+   "received": "28 June 2025",
+   "accepted": "26 August 2025",
+   "days": 59,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s12933-025-02930-2",
+   "title": "Testosterone therapy is associated with reduced risk of acute kidney injury, kidney failure with renal replacement therapy, and cardiovascular events in men wit",
+   "received": "23 July 2025",
+   "accepted": "30 August 2025",
+   "days": 38,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02932-0",
+   "title": "Association between metabolic score for insulin resistance and future stroke risk in patients with cardiovascular-kidney-metabolic syndrome stages 0\u20133: a longit",
+   "received": "28 June 2025",
+   "accepted": "1 September 2025",
+   "days": 65,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02937-9",
+   "title": "Triglyceride glucose index in patients with acute coronary syndrome undergoing percutaneous coronary intervention predicts cardiovascular events: a cohort study",
+   "received": "11 July 2025",
+   "accepted": "8 September 2025",
+   "days": 59,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s12933-025-02938-8",
+   "title": "Endocrine-disrupting chemicals exposure: cardiometabolic health risk in humans",
+   "received": "18 June 2025",
+   "accepted": "8 September 2025",
+   "days": 82,
+   "refs": 219
+  },
+  {
+   "doi": "10.1186/s12933-025-02939-7",
+   "title": "Joint effects of triglyceride glucose index and its obesity-related derivatives with estimated glucose disposal rate on cardiometabolic multimorbidity in middle",
+   "received": "16 June 2025",
+   "accepted": "8 September 2025",
+   "days": 84,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s12933-025-02954-8",
+   "title": "Development and evaluation of a machine learning prediction model for short-term mortality in patients with diabetes or hyperglycemia at emergency department ad",
+   "received": "26 March 2025",
+   "accepted": "22 September 2025",
+   "days": 180,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02920-4",
+   "title": "Dual modulation of lipid and glucose metabolism by a nutraceutical combination in patients at cardiometabolic risk: results from a multicenter randomized contro",
+   "received": "23 July 2025",
+   "accepted": "23 August 2025",
+   "days": 31,
+   "refs": 70
+  },
+  {
+   "doi": "10.1186/s12933-025-02915-1",
+   "title": "Real-world cardiovascular effectiveness of sustained glucagon-like peptide 1 GLP-1 receptor agonist usage in type 2 diabetes",
+   "received": "28 April 2025",
+   "accepted": "21 August 2025",
+   "days": 115,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02945-9",
+   "title": "Associations of cumulative exposure and dynamic trajectories of the C-reactive protein-triglyceride-glucose index with incident stroke in middle-aged and older ",
+   "received": "13 August 2025",
+   "accepted": "13 September 2025",
+   "days": 31,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02897-0",
+   "title": "Association of epicardial fat volume index with coronary artery disease phenotypes based on anatomical and functional imaging: a linkage with the severity of co",
+   "received": "5 June 2025",
+   "accepted": "7 August 2025",
+   "days": 63,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02948-6",
+   "title": "Plasma ALKAL2 levels are associated with coronary atherosclerosis in patients with type 2 diabetes mellitus",
+   "received": "4 August 2025",
+   "accepted": "15 September 2025",
+   "days": 42,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02934-y",
+   "title": "Deep learning-based coronary calcium score derived from non-gated chest CT and major adverse cardiovascular events in patients with type 2 diabetes mellitus",
+   "received": "22 June 2025",
+   "accepted": "4 September 2025",
+   "days": 74,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s12933-025-02955-7",
+   "title": "Cardiometabolic HFpEF with focus on type 2 diabetes mellitus",
+   "received": "22 September 2025",
+   "accepted": "22 September 2025",
+   "days": 0,
+   "refs": 23
+  },
+  {
+   "doi": "10.1186/s12933-025-02941-z",
+   "title": "Association between atherogenic index of plasma (AIP) and all-cause and cardiovascular mortality in patients with metabolic dysfunction-associated steatotic liv",
+   "received": "25 July 2025",
+   "accepted": "10 September 2025",
+   "days": 47,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s12933-025-02947-7",
+   "title": "Prognostic value of glycaemic variability for mortality in cardiogenic shock patients: a retrospective cohort study",
+   "received": "25 May 2025",
+   "accepted": "15 September 2025",
+   "days": 113,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02906-2",
+   "title": "Association between cholesterol, high-density lipoprotein, and glucose index and risks of cardiovascular and all-cause mortality in patients with calcific aorti",
+   "received": "1 July 2025",
+   "accepted": "14 August 2025",
+   "days": 44,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s12933-025-02837-y",
+   "title": "Impact of glucometabolic status on type 4a myocardial infarction in patients with non\u2013ST-segment elevation myocardial infarction: the role of stress hyperglycem",
+   "received": "26 March 2025",
+   "accepted": "23 June 2025",
+   "days": 89,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02950-y",
+   "title": "Cardio-kidney-metabolic complexity in patients with atrial fibrillation: an analysis from the prospective GLORIA-AF registry phase III",
+   "received": "4 August 2025",
+   "accepted": "17 September 2025",
+   "days": 44,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02965-5",
+   "title": "Activated protein C ameliorates diabetes-induced atherosclerosis by sustaining macrophage efferocytosis",
+   "received": "15 May 2025",
+   "accepted": "26 September 2025",
+   "days": 134,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02888-1",
+   "title": "Genetic variation in the glucagon-like peptide-1 receptor protein encoding region is associated with higher heart rate variability, but not with neurodegenerati",
+   "received": "25 April 2025",
+   "accepted": "28 July 2025",
+   "days": 94,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02953-9",
+   "title": "The role of insulin resistance in the longitudinal progression from NAFLD to cardiovascular-kidney-metabolic disease",
+   "received": "19 June 2025",
+   "accepted": "22 September 2025",
+   "days": 95,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02929-9",
+   "title": "Safety, pharmacokinetics and pharmacodynamics of Plozasiran in Chinese healthy volunteers",
+   "received": "29 March 2025",
+   "accepted": "30 August 2025",
+   "days": 154,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s12933-025-02933-z",
+   "title": "Epicardial adipose tissue volume and arterial stiffness in people living with diabetes: the METAB-CV-PWV study",
+   "received": "3 July 2025",
+   "accepted": "3 September 2025",
+   "days": 62,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02952-w",
+   "title": "Stratifying cardiovascular benefits from GLP-1RA: a multisource analysis of patient-level CVOT and real-world data using AI-driven methods",
+   "received": "2 July 2025",
+   "accepted": "18 September 2025",
+   "days": 78,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s12933-025-02940-0",
+   "title": "Association of estimated glucose disposition rate with aging acceleration and mortality risk in individuals with cardiovascular-kidney-metabolic syndrome: evide",
+   "received": "30 July 2025",
+   "accepted": "9 September 2025",
+   "days": 41,
+   "refs": 67
+  },
+  {
+   "doi": "10.1186/s12933-025-02946-8",
+   "title": "AI-quantified epicardial adipose tissue and prediction of future myocardial infarction in patients with cardiometabolic disease: a post-hoc analysis from the SC",
+   "received": "22 May 2025",
+   "accepted": "14 September 2025",
+   "days": 115,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02957-5",
+   "title": "The prognostic value of atherogenic index of plasma and thin-cap fibroatheroma among patients with STEMI: an optical coherence tomography prospective cohort stu",
+   "received": "16 August 2025",
+   "accepted": "24 September 2025",
+   "days": 39,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02951-x",
+   "title": "High predicted cardiac event risk in youth with obesity and type 2 diabetes: a pooled cohort analysis",
+   "received": "29 July 2025",
+   "accepted": "17 September 2025",
+   "days": 50,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-025-02968-2",
+   "title": "Interplay of glycated hemoglobin and traditional risk factors for the risk of atherosclerotic cardiovascular disease and all-cause mortality in people without d",
+   "received": "22 May 2025",
+   "accepted": "30 September 2025",
+   "days": 131,
+   "refs": 111
+  },
+  {
+   "doi": "10.1186/s12933-025-02961-9",
+   "title": "Insulin resistance-related indices, genetic risk, and the risk of cardiovascular disease in individuals with preclinical or clinical obesity: a large prospectiv",
+   "received": "13 August 2025",
+   "accepted": "26 September 2025",
+   "days": 44,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s12933-025-02922-2",
+   "title": "Drug-coated balloons and diabetes: a review",
+   "received": "15 June 2025",
+   "accepted": "23 August 2025",
+   "days": 69,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02956-6",
+   "title": "Evaluation of four insulin resistance surrogate indicators for predicting short-term mortality in critically ill patients with ischemic stroke: a nationwide ret",
+   "received": "26 July 2025",
+   "accepted": "23 September 2025",
+   "days": 59,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-025-02960-w",
+   "title": "The relationship between C-reactive protein-triglyceride-glucose index and cardiovascular disease: insights from the China health and retirement longitudinal st",
+   "received": "11 August 2025",
+   "accepted": "25 September 2025",
+   "days": 45,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s12933-025-02949-5",
+   "title": "Prognostic role of sarcopenia in heart failure patients",
+   "received": "20 July 2025",
+   "accepted": "16 September 2025",
+   "days": 58,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s12933-025-02958-4",
+   "title": "Association between the stress hyperglycemia ratio and elevated blood pressure among U.S. adolescents aged 12\u201317",
+   "received": "27 August 2025",
+   "accepted": "24 September 2025",
+   "days": 28,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s12933-025-02943-x",
+   "title": "Comparison of biological properties of human adipose tissue-derived mesenchymal stem/ stromal cells from healthy and diabetic donors: consequences for cell-base",
+   "received": "23 April 2025",
+   "accepted": "11 September 2025",
+   "days": 141,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02963-7",
+   "title": "Associations between triglyceride-glucose-related indices and all-cause and cardiovascular mortality among individuals with atrial fibrillation and metabolic sy",
+   "received": "25 August 2025",
+   "accepted": "26 September 2025",
+   "days": 32,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s12933-025-02973-5",
+   "title": "Benefits of glucagon-like peptide-1 receptor agonists versus pioglitazone for cardio-hepatic outcomes: a territory-wide target trial emulation",
+   "received": "11 June 2025",
+   "accepted": "7 October 2025",
+   "days": 118,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02966-4",
+   "title": "Hunting for a coronary artery disease diagnosis in asymptomatic patients with diabetes mellitus: if, how and when",
+   "received": "28 July 2025",
+   "accepted": "26 September 2025",
+   "days": 60,
+   "refs": 156
+  },
+  {
+   "doi": "10.1186/s12933-025-02995-z",
+   "title": "HFpEF as the predominant and underrecognized heart failure phenotype in type 2 diabetes: evidence from the DIABET-IC study",
+   "received": "1 September 2025",
+   "accepted": "23 October 2025",
+   "days": 52,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s12933-025-02967-3",
+   "title": "Elevated triglyceride-glucose index and its combination with anthropometric indices as indicators of the risk of new-onset transient ischemic attack: a prospect",
+   "received": "11 August 2025",
+   "accepted": "27 September 2025",
+   "days": 47,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s12933-025-02974-4",
+   "title": "Empagliflozin-induced lipidome remodeling in type 2 diabetes: mechanistic insights and translational perspectives",
+   "received": "1 October 2025",
+   "accepted": "8 October 2025",
+   "days": 7,
+   "refs": 3
+  },
+  {
+   "doi": "10.1186/s12933-025-02969-1",
+   "title": "Stress hyperglycemia ratio modulates the impact of organ dysfunction on mortality risk in critically ill patients with atrial fibrillation: insights from the MI",
+   "received": "5 August 2025",
+   "accepted": "6 October 2025",
+   "days": 62,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s12933-025-02977-1",
+   "title": "Increased high-risk plaque burden in type 2 diabetes: a 10-year follow-up study",
+   "received": "22 July 2025",
+   "accepted": "9 October 2025",
+   "days": 79,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s12933-025-02996-y",
+   "title": "Sex differences in the prognostic value of urinary albumin-to-creatinine ratio for coronary artery disease and cardiovascular events in people with type 2 diabe",
+   "received": "5 August 2025",
+   "accepted": "23 October 2025",
+   "days": 79,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s12933-025-02962-8",
+   "title": "Neurodegeneration onset with glucagon-like peptide-1 receptor agonists in people with type 2 diabetes: a real-world multinational cohort study",
+   "received": "2 August 2025",
+   "accepted": "26 September 2025",
+   "days": 55,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-02976-2",
+   "title": "Pgk1 activation restores endothelial metabolic homeostasis to alleviate vascular aging and atherosclerosis",
+   "received": "29 July 2025",
+   "accepted": "9 October 2025",
+   "days": 72,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s12933-025-02970-8",
+   "title": "Electronic nose for detecting abnormal glucose metabolism in heart transplant recipients",
+   "received": "19 August 2025",
+   "accepted": "6 October 2025",
+   "days": 48,
+   "refs": 22
+  },
+  {
+   "doi": "10.1186/s12933-025-02982-4",
+   "title": "Artificial intelligence identifies individuals with prediabetes using single-lead electrocardiograms",
+   "received": "20 August 2025",
+   "accepted": "13 October 2025",
+   "days": 54,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s12933-025-02964-6",
+   "title": "A six-year longitudinal study identifies a statin-independent association between low LDL-cholesterol and risk of type 2 diabetes",
+   "received": "8 July 2025",
+   "accepted": "26 September 2025",
+   "days": 80,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02980-6",
+   "title": "Proteome organ aging and cardiometabolic risk in a population at risk for heart failure",
+   "received": "11 August 2025",
+   "accepted": "10 October 2025",
+   "days": 60,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s12933-025-02972-6",
+   "title": "Associations of longitudinal trajectories of triglyceride-glucose index combined with classical and novel obesity indices and cardiovascular disease: evidence f",
+   "received": "19 August 2025",
+   "accepted": "7 October 2025",
+   "days": 49,
+   "refs": 84
+  },
+  {
+   "doi": "10.1186/s12933-025-02983-3",
+   "title": "A glucose time in range of 70% attenuates the senescence-inducing and pro-inflammatory effects of hyperglycemia",
+   "received": "24 August 2025",
+   "accepted": "13 October 2025",
+   "days": 50,
+   "refs": 29
+  },
+  {
+   "doi": "10.1186/s12933-025-02992-2",
+   "title": "Favorable outcomes of SGLT2 inhibitor use in pacemaker recipients: a population-based study",
+   "received": "14 September 2025",
+   "accepted": "21 October 2025",
+   "days": 37,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s12933-025-02978-0",
+   "title": "Precision integrated identification of predictive first-trimester metabolomics signatures for early detection of gestational diabetes mellitus",
+   "received": "2 September 2025",
+   "accepted": "10 October 2025",
+   "days": 38,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02990-4",
+   "title": "Association of cumulative changes in atherogenic index of plasma and its obesity-related derivatives with cardiovascular disease: emphasis on incremental risk o",
+   "received": "12 August 2025",
+   "accepted": "21 October 2025",
+   "days": 70,
+   "refs": 87
+  },
+  {
+   "doi": "10.1186/s12933-025-02988-y",
+   "title": "Distinct immune-metabolic phenotypes underlie poor coronary collateral circulation",
+   "received": "18 August 2025",
+   "accepted": "18 October 2025",
+   "days": 61,
+   "refs": 70
+  },
+  {
+   "doi": "10.1186/s12933-025-02987-z",
+   "title": "Impact of left ventricular dilatation on biventricular function and deformation in diabetes mellitus with reduced ejection fraction: a CMR feature tracking stud",
+   "received": "28 August 2025",
+   "accepted": "18 October 2025",
+   "days": 51,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02986-0",
+   "title": "Risk of all\u2013cause death and pancreatic events following GLP-1 RA initiation in people with obesity or type 2 diabetes: observations from a federated research ne",
+   "received": "26 August 2025",
+   "accepted": "13 October 2025",
+   "days": 48,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s12933-025-02984-2",
+   "title": "Elevated triglyceride-glucose index and risk of thymoma-associated myasthenia gravis: a prospective analysis from the UK Biobank",
+   "received": "29 August 2025",
+   "accepted": "13 October 2025",
+   "days": 45,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s12933-025-02981-5",
+   "title": "Plasma metabolomics disentangles T2DM- and CAD-specific dysmetabolism and identifies potential biomarkers for CAD risk escalation in diabetic patients",
+   "received": "22 August 2025",
+   "accepted": "13 October 2025",
+   "days": 52,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s12933-025-02959-3",
+   "title": "Clinical perspectives of new insights and tools to minimize the hypoglycaemia burden connected with type 2 diabetes pharmacotherapy",
+   "received": "16 July 2025",
+   "accepted": "25 September 2025",
+   "days": 71,
+   "refs": 63
+  },
+  {
+   "doi": "10.1186/s12933-025-02993-1",
+   "title": "Comparable performance of 1,5-anhydroglucitol and continuous glucose monitoring in detecting subclinical atherosclerosis in elderly patients with type 2 diabete",
+   "received": "30 August 2025",
+   "accepted": "22 October 2025",
+   "days": 53,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s12933-025-02979-z",
+   "title": "Diabetes modifies the association between the triglyceride-glucose index and subclinical myocardial injury: A prospective cohort study",
+   "received": "26 July 2025",
+   "accepted": "10 October 2025",
+   "days": 76,
+   "refs": 72
+  },
+  {
+   "doi": "10.1186/s12933-025-03010-1",
+   "title": "Association between the atherogenic index of plasma and major adverse cardiovascular events in individuals with metabolic syndrome: findings from the UK biobank",
+   "received": "12 September 2025",
+   "accepted": "4 November 2025",
+   "days": 53,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s12933-025-03007-w",
+   "title": "Temporal and subgroup disparities in mediation effects on cardiovascular outcomes with liraglutide and semaglutide: a post-hoc analysis of LEADER and SUSTAIN-6 ",
+   "received": "5 August 2025",
+   "accepted": "4 November 2025",
+   "days": 91,
+   "refs": 26
+  },
+  {
+   "doi": "10.1186/s12933-025-02989-x",
+   "title": "Body mass index (BMI) associates with frequency of arterial hypertension and type 2 diabetes in obese patients candidates for bariatric surgery",
+   "received": "14 August 2025",
+   "accepted": "18 October 2025",
+   "days": 65,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s12933-025-02935-x",
+   "title": "The mineralocorticoid receptor antagonist finerenone enhances cardiovascular recovery upon food intake normalization in obese mice",
+   "received": "20 January 2025",
+   "accepted": "5 September 2025",
+   "days": 228,
+   "refs": 47
+  }
+ ]
+}

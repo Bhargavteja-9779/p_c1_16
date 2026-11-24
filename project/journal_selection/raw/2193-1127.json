@@ -1,0 +1,693 @@
+{
+ "issn": "2193-1127",
+ "journal": "EPJ Data Science",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:22.540404",
+ "source": "https://api.crossref.org/journals/2193-1127/works",
+ "articles": [
+  {
+   "doi": "10.1140/epjds/s13688-025-00599-x",
+   "title": "Endogenous conflict and the limits of predictive optimization",
+   "received": "30 July 2025",
+   "revised": null,
+   "accepted": "6 November 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00595-1",
+   "title": "Personalisation and profiling using algorithms and not-so-popular Colombian music: goal-directed mechanisms in music emotion recognition",
+   "received": "17 June 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00535-z",
+   "title": "Entropy-based text feature engineering approach for forecasting financial liquidity changes",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00528-y",
+   "title": "Social media warfare: investigating human-bot engagement in English, Japanese and German during the Russo-Ukrainian war on Twitter and Reddit",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00598-y",
+   "title": "Development of a fundamental patent exploration methodology based on technology knowledge flow",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00550-0",
+   "title": "Uncovering large inconsistencies between machine learning derived gridded settlement datasets",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00560-y",
+   "title": "How floods may affect the spatial spread of respiratory pathogens: the case of Emilia-Romagna, Italy in May 2023",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00541-1",
+   "title": "Whose voice matters? Word embeddings reveal identity bias in news quotes",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00573-7",
+   "title": "Bibliometric cartography of data science: a large-scale analysis on knowledge integration and diffusion",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00564-8",
+   "title": "Bitcoin transaction behavior modes exploration based on balance data",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00522-4",
+   "title": "Connectivity and community structure of online and register-based social networks",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00563-9",
+   "title": "When dialects collide: how socioeconomic mixing affects language use",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00569-3",
+   "title": "Detection of fraud in public procurement using data-driven methods: a systematic mapping study",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00538-w",
+   "title": "Using semantic similarity to measure the echo of strategic communications",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00545-x",
+   "title": "Holistic approach to analysing debates on ecological sustainability over time on X",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "22 March 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00533-1",
+   "title": "Addressing long-tailed distribution in judicial text for criminal motive classification: a balanced contrastive learning approach",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00547-9",
+   "title": "AI and the economic divide: How Artificial Intelligence could widen the divide in the U.S.",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00591-5",
+   "title": "Quantifying the risk of pastoral conflict in 4 central African countries",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00586-2",
+   "title": "Understanding rhythmic structures, novelty, and influence in classical music from data",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00556-8",
+   "title": "Journalists are most likely to receive abuse: analysing online abuse of UK public figures across sport, politics, and journalism on Twitter",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00529-x",
+   "title": "Longitudinal modularity, a modularity for link streams",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00575-5",
+   "title": "Safe spaces or toxic places? Content moderation and social dynamics of online eating disorder communities",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00553-x",
+   "title": "Garbage in garbage out? Impacts of data quality on criminal network intervention",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00548-8",
+   "title": "Scaling hermeneutics: a guide to qualitative coding with LLMs for reflexive content analysis",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 417
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00524-2",
+   "title": "Evolution of sample-based music authorship network",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00532-2",
+   "title": "Socioeconomic disparities in mobility behavior during the COVID-19 pandemic in developing countries",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00578-2",
+   "title": "Classifying social position with social media behavioral data",
+   "received": "19 January 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00568-4",
+   "title": "Measuring how computer science research translates into innovation and development",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00590-6",
+   "title": "Exploring the relationship between cancer incidence and the sustainable development goals through complex networks and machine learning",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00512-y",
+   "title": "Robustness of topological persistence in knowledge distillation for wearable sensor data",
+   "received": "13 July 2023",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 498
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00516-8",
+   "title": "Balancing specialization and adaptation in a transforming scientific landscape",
+   "received": "21 July 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 151
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00555-9",
+   "title": "Measuring biases in AI-generated co-authorship networks",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00582-6",
+   "title": "AGECovP: identifying ageism and analyzing COVID-19 discourse on older adults in YouTube",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00536-y",
+   "title": "Unmasking social bots: how confident are we?",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00525-1",
+   "title": "Correlation and autocorrelation of data on complex networks",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00519-z",
+   "title": "Resilience-oriented passenger subsidy design for taxi travel under pandemic control",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00521-5",
+   "title": "Mapping global value chains at the product level",
+   "received": "13 March 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00576-4",
+   "title": "Uncovering organisational pride and psychological safety from glassdoor reviews",
+   "received": "1 June 2024",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 411
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00518-6",
+   "title": "The microvelocity of money in Ethereum",
+   "received": "27 November 2023",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 395
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00558-6",
+   "title": "Milgram\u2019s experiment in the knowledge space: individual navigation strategies",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 388
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00517-7",
+   "title": "A hybrid stock prediction method based on periodic/non-periodic features analyses",
+   "received": "21 June 2023",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 547
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00502-0",
+   "title": "Visual political communication on Instagram: a comparative study of Brazilian presidential elections",
+   "received": "4 April 2024",
+   "revised": null,
+   "accepted": "16 October 2024",
+   "days": 195
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00589-z",
+   "title": "Feelings of insecurity as a gender-specific constraint on urban mobility",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00587-1",
+   "title": "Understanding the role of sentiment and emotion for predicting forced displacement",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00581-7",
+   "title": "Quantifying digital habits",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00542-0",
+   "title": "Assessing the complexity of a path search optimization method based on clustering for a transport graph",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00527-z",
+   "title": "Uncovering and estimating complementarity in urban lives",
+   "received": "25 May 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00580-8",
+   "title": "Timing and cross-platform presence shape the online dissemination of science",
+   "received": "18 April 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00562-w",
+   "title": "Construction and analysis of corporate greenwashing index: a deep learning approach",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00540-2",
+   "title": "Evacuation patterns and socioeconomic stratification in the context of wildfires",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00552-y",
+   "title": "User migration in the Twitter diaspora",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00544-y",
+   "title": "Unsupervised detection of coordinated information operations in the wild",
+   "received": "28 April 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 326
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00571-9",
+   "title": "Is it getting harder to make a hit? Evidence from 65 years of US music chart history",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 420
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00554-w",
+   "title": "Dream content discovery from social media using natural language processing",
+   "received": "8 June 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 325
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00572-8",
+   "title": "A novel activity space approach to discover displacement patterns via mobile phone data: an analysis of the 2023 T\u00fcrkiye-Syria earthquakes",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00539-9",
+   "title": "Endogenous labour flow networks",
+   "received": "15 February 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 386
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00593-3",
+   "title": "Simulating conversations on social media with generative agent-based models",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00531-3",
+   "title": "The impact of playlist characteristics on coherence in user-curated music playlists",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00514-w",
+   "title": "Computational reproducibility in computational social science",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 177
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00523-3",
+   "title": "Understanding stock market instability via graph auto-encoders",
+   "received": "6 October 2023",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 462
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00583-5",
+   "title": "Fusing content and social relationships: a multi-modal heterogeneous graph transformer approach for social bot detection",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00588-0",
+   "title": "A simple and explainable model for park-and-ride car park occupancy prediction",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00579-1",
+   "title": "Selective agreement, not sycophancy: investigating opinion dynamics in LLM interactions",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00566-6",
+   "title": "Quantifying interdisciplinary synergy in higher STEM education",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00574-6",
+   "title": "The robust-fragile duality of the ATLAS collaboration network",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00570-w",
+   "title": "The most influential philosophers in Wikipedia: a multicultural analysis",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00577-3",
+   "title": "The relevance of higher-order ties",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00534-0",
+   "title": "Weakly supervised veracity classification with LLM-predicted credibility signals",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00567-5",
+   "title": "Misinformation is not about bad facts: an analysis of the production and consumption of fringe content",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00513-x",
+   "title": "Disentangling degree and tie strength heterogeneity in egocentric social networks",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 238
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00537-x",
+   "title": "Assessing geographic polarisation in Britain\u2019s digital landscape through stable dynamic embedding of spatial web data",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00515-9",
+   "title": "A new approach to estimate neighborhood socioeconomic status using supermarket transactions and GNNs",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 192
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00559-5",
+   "title": "Designing transit routes based on vehicle routing behavior determined through location-based services data",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00543-z",
+   "title": "High earnings through firm influence: the role of hierarchical structures in public procurement",
+   "received": "19 February 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 394
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00551-z",
+   "title": "Exploring the spatial segmentation of housing markets from online listings",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 337
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00520-6",
+   "title": "Lost in translation: using global fact-checks to measure multilingual misinformation prevalence, spread, and evolution",
+   "received": "1 May 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00565-7",
+   "title": "The art of misclassification: too many classes, not enough points",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00585-3",
+   "title": "Analyzing news engagement on Facebook: tracking ideological segregation and news quality in the Facebook URL dataset",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00549-7",
+   "title": "Twitter-MusicPD: melody of minds - navigating user-level data on multiple mental health disorders and music preferences",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1140/epjds/s13688-024-00511-z",
+   "title": "Attitudes towards migration in a COVID-19 context: testing a behavioral immune system hypothesis with Twitter data",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 99
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00561-x",
+   "title": "Solana\u2019s transaction network: analysis, insights, and comparison",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00546-w",
+   "title": "Detection of anomalous spatio-temporal patterns of app traffic in response to catastrophic events",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00584-4",
+   "title": "A cross-social platform distributed anomaly behavior detection method",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00530-4",
+   "title": "Demographic disparity in Wikipedia coverage: a global perspective",
+   "received": "25 April 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1140/epjds/s13688-025-00592-4",
+   "title": "Conversational complexity for assessing risk in large language models",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 220
+  }
+ ]
+}

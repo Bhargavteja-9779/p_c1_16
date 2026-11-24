@@ -1,0 +1,1005 @@
+{
+ "issn": "2199-4730",
+ "journal": "Financial Innovation",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:14.767840",
+ "source": "https://api.crossref.org/journals/2199-4730/works",
+ "articles": [
+  {
+   "doi": "10.1186/s40854-024-00670-y",
+   "title": "Analyzing the barriers to blockchain adoption in supply chain finance using an integrated interval-valued Fermatean fuzzy RAFSI model",
+   "received": "18 December 2023",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 325
+  },
+  {
+   "doi": "10.1186/s40854-025-00769-w",
+   "title": "Aspiration level, probability of success, and stock returns: an empirical test",
+   "received": "23 May 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 622
+  },
+  {
+   "doi": "10.1186/s40854-024-00724-1",
+   "title": "ESG disagreement and corporate debt maturity: evidence from China",
+   "received": "12 June 2023",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 533
+  },
+  {
+   "doi": "10.1186/s40854-024-00667-7",
+   "title": "Does a non-performing assets disposal fund help control systemic risk? Evidence from an interbank financial network in China",
+   "received": "30 May 2023",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 527
+  },
+  {
+   "doi": "10.1186/s40854-024-00721-4",
+   "title": "ICOs conceptual unveiled: scholarly review of an entrepreneurial finance innovation",
+   "received": "7 August 2023",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 473
+  },
+  {
+   "doi": "10.1186/s40854-024-00693-5",
+   "title": "Does sustainability disclosure improve analysts\u2019 forecast accuracy? Evidence from European banks",
+   "received": "24 May 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 537
+  },
+  {
+   "doi": "10.1186/s40854-025-00790-z",
+   "title": "Financial product prioritization for small-scale wind turbine projects: a novel fuzzy hybrid methodology",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1186/s40854-024-00696-2",
+   "title": "The paradox of resource-richness: unraveling the effects on financial markets in natural resource abundant economies",
+   "received": "24 June 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 506
+  },
+  {
+   "doi": "10.1186/s40854-025-00770-3",
+   "title": "Unleashing the power of ChatGPT in finance research: opportunities and challenges",
+   "received": "12 September 2023",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 518
+  },
+  {
+   "doi": "10.1186/s40854-025-00768-x",
+   "title": "Forecasting cryptocurrency volatility: a novel framework based on the evolving multiscale graph neural network",
+   "received": "23 January 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 377
+  },
+  {
+   "doi": "10.1186/s40854-024-00685-5",
+   "title": "Trusting the trustless blockchain for its adoption in accounting: theorizing the mediating role of technology-organization-environment framework",
+   "received": "19 March 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 603
+  },
+  {
+   "doi": "10.1186/s40854-024-00730-3",
+   "title": "Is the green credit policy useful for improving energy intensity? Evidence from cities in China",
+   "received": "18 October 2023",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 411
+  },
+  {
+   "doi": "10.1186/s40854-025-00754-3",
+   "title": "An automated adaptive trading system for enhanced performance of emerging market portfolios",
+   "received": "9 March 2023",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 671
+  },
+  {
+   "doi": "10.1186/s40854-024-00703-6",
+   "title": "A novel fuzzy decision-making approach to pension fund investments in renewable energy",
+   "received": "27 August 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 442
+  },
+  {
+   "doi": "10.1186/s40854-024-00711-6",
+   "title": "The \u201ctwo sessions\u201d: institutional investors selloff to avoid ambiguity",
+   "received": "3 June 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 535
+  },
+  {
+   "doi": "10.1186/s40854-024-00687-3",
+   "title": "Research on the cross-contagion between international stock markets and geopolitical risks: the two-layer network perspective",
+   "received": "19 April 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 572
+  },
+  {
+   "doi": "10.1186/s40854-024-00723-2",
+   "title": "Qualitative financial modelling in fractal dimensions",
+   "received": "2 November 2023",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 386
+  },
+  {
+   "doi": "10.1186/s40854-024-00673-9",
+   "title": "The effect of fintech M&amp;As on short-term stock return in the context of macroeconomic environment",
+   "received": "26 September 2023",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 409
+  },
+  {
+   "doi": "10.1186/s40854-024-00686-4",
+   "title": "Safe havens for Bitcoin and Ethereum: evidence from high-frequency data",
+   "received": "4 April 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 587
+  },
+  {
+   "doi": "10.1186/s40854-024-00717-0",
+   "title": "Trading behavior-stock market volatility nexus among institutional and individual investors",
+   "received": "10 November 2022",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 740
+  },
+  {
+   "doi": "10.1186/s40854-024-00735-y",
+   "title": "Asymmetric risk contagion effect of the interaction between the real economy and the financial sector\u2014an analysis based on the domestic commodity pric",
+   "received": "6 May 2023",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 590
+  },
+  {
+   "doi": "10.1186/s40854-024-00702-7",
+   "title": "Copula-based trading of cointegrated cryptocurrency Pairs",
+   "received": "9 August 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 460
+  },
+  {
+   "doi": "10.1186/s40854-024-00739-8",
+   "title": "Unleashing the green potential: exploring the dynamic influence of the urban digital economy on carbon emissions",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 255
+  },
+  {
+   "doi": "10.1186/s40854-024-00682-8",
+   "title": "Forecasting stock returns: the role of VIX-based upper and lower shadow of Japanese candlestick",
+   "received": "18 January 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 663
+  },
+  {
+   "doi": "10.1186/s40854-025-00756-1",
+   "title": "Economic freedom, economic sustainability, and herding behavior: Does the ubiquity of information communication technology matter?",
+   "received": "13 February 2023",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 697
+  },
+  {
+   "doi": "10.1186/s40854-024-00734-z",
+   "title": "Cryptocurrency returns and cryptocurrency uncertainty: a time\u2013frequency analysis",
+   "received": "18 January 2023",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 691
+  },
+  {
+   "doi": "10.1186/s40854-025-00765-0",
+   "title": "Global surge: exploring cryptocurrency adoption with evidence from spatial models",
+   "received": "17 January 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 379
+  },
+  {
+   "doi": "10.1186/s40854-025-00785-w",
+   "title": "China\u2019s transition to sustainable transport assessing the impact of financial innovation, patent innovation, and bioenergy: evidence from an innovativ",
+   "received": "21 November 2023",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 630
+  },
+  {
+   "doi": "10.1186/s40854-024-00745-w",
+   "title": "Predicting financial distress in high-dimensional imbalanced datasets: a multi-heterogeneous self-paced ensemble learning framework",
+   "received": "11 October 2023",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 441
+  },
+  {
+   "doi": "10.1186/s40854-024-00694-4",
+   "title": "Dynamics of the relationship between stock markets and exchange rates during quantitative easing and tightening",
+   "received": "11 June 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 519
+  },
+  {
+   "doi": "10.1186/s40854-025-00763-2",
+   "title": "The role of technical chart patterns in the early Bitcoin market: intraday evidence from the Mt.Gox transaction dataset",
+   "received": "21 October 2023",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 458
+  },
+  {
+   "doi": "10.1186/s40854-025-00775-y",
+   "title": "Trade, financial development and the environment: analysis of BRI countries having direct connectivity with China",
+   "received": "28 February 2023",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 735
+  },
+  {
+   "doi": "10.1186/s40854-025-00789-6",
+   "title": "The power of ChatGPT in processing text: Evidence from analysis and prediction in the exchange rate markets",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 410
+  },
+  {
+   "doi": "10.1186/s40854-024-00716-1",
+   "title": "Analysing the financial innovation-based characteristics of stock market efficiency using fuzzy decision-making technique",
+   "received": "2 October 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 414
+  },
+  {
+   "doi": "10.1186/s40854-024-00726-z",
+   "title": "Revisiting the trading activity of high-frequency trading firms around ultra-fast flash events",
+   "received": "23 December 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 332
+  },
+  {
+   "doi": "10.1186/s40854-024-00714-3",
+   "title": "Option pricing mechanisms driven by backward stochastic differential equations",
+   "received": "30 August 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 447
+  },
+  {
+   "doi": "10.1186/s40854-024-00741-0",
+   "title": "Financial inclusion and fintech: a state-of-the-art systematic literature review",
+   "received": "26 December 2023",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 360
+  },
+  {
+   "doi": "10.1186/s40854-024-00692-6",
+   "title": "Monetary policy shocks and multi-scale positive and negative bubbles in an emerging country: the case of India",
+   "received": "31 May 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 530
+  },
+  {
+   "doi": "10.1186/s40854-024-00674-8",
+   "title": "Toward an ecosystem of non-fungible tokens from mapping public opinions on social media",
+   "received": "4 October 2023",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 401
+  },
+  {
+   "doi": "10.1186/s40854-024-00720-5",
+   "title": "Personalized fund recommendation with dynamic utility learning",
+   "received": "4 July 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 496
+  },
+  {
+   "doi": "10.1186/s40854-024-00700-9",
+   "title": "Angel investments of small family business entrepreneurs: cross-country evidence",
+   "received": "20 July 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 480
+  },
+  {
+   "doi": "10.1186/s40854-024-00680-w",
+   "title": "The effects of skewness and kurtosis on production and hedging decisions: a Gram-Charlier expansion approach",
+   "received": "22 November 2022",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 720
+  },
+  {
+   "doi": "10.1186/s40854-024-00706-3",
+   "title": "Is the tax calculation method for exemptions with progression contrary to EU law? Quantitative and formal\u2013analytical analysis",
+   "received": "30 August 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 439
+  },
+  {
+   "doi": "10.1186/s40854-024-00681-9",
+   "title": "Incorporating causal notions to forecasting time series: a case study",
+   "received": "28 December 2022",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 684
+  },
+  {
+   "doi": "10.1186/s40854-024-00722-3",
+   "title": "Impact of implicit government guarantee on the credit spread of urban construction investment bonds",
+   "received": "2 November 2022",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 751
+  },
+  {
+   "doi": "10.1186/s40854-025-00757-0",
+   "title": "Drivers influencing the adoption of cryptocurrency: a social network analysis approach",
+   "received": "29 March 2023",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 653
+  },
+  {
+   "doi": "10.1186/s40854-024-00701-8",
+   "title": "Discounted-likelihood valuation of variance and volatility swaps",
+   "received": "2 August 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 467
+  },
+  {
+   "doi": "10.1186/s40854-025-00752-5",
+   "title": "Active tokens and crypto-asset valuation",
+   "received": "3 April 2023",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 646
+  },
+  {
+   "doi": "10.1186/s40854-025-00787-8",
+   "title": "Revolutionizing banking services with ChatGPT: an integrated framework for user adoption",
+   "received": "21 May 2023",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 838
+  },
+  {
+   "doi": "10.1186/s40854-025-00758-z",
+   "title": "Industry return predictability using health policy uncertainty",
+   "received": "19 March 2023",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 665
+  },
+  {
+   "doi": "10.1186/s40854-025-00777-w",
+   "title": "Crypto market betas: the limits of predictability and hedging",
+   "received": "23 April 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1186/s40854-024-00699-z",
+   "title": "Quadrant categorization of spillover determinants of sovereign risk of BRICIT nations: a Bayesian approach",
+   "received": "18 July 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 482
+  },
+  {
+   "doi": "10.1186/s40854-024-00671-x",
+   "title": "Innovative financial solutions for sustainable investments using artificial intelligence-based hybrid fuzzy decision-making approach in carbon capture",
+   "received": "22 January 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 290
+  },
+  {
+   "doi": "10.1186/s40854-024-00672-w",
+   "title": "Asymmetries in factors influencing non-fungible tokens\u2019 (NFTs) returns",
+   "received": "13 February 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 268
+  },
+  {
+   "doi": "10.1186/s40854-025-00771-2",
+   "title": "Making money move: an analysis of corporate social responsibility activities in money transfer firms",
+   "received": "4 June 2023",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 621
+  },
+  {
+   "doi": "10.1186/s40854-024-00705-4",
+   "title": "Mapping the research landscape of blockchain and crowdfunding",
+   "received": "25 September 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 413
+  },
+  {
+   "doi": "10.1186/s40854-024-00712-5",
+   "title": "Modeling the significance of unified theory of acceptance and use of technology in predicting the intention and usage of eCNY",
+   "received": "13 November 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 372
+  },
+  {
+   "doi": "10.1186/s40854-025-00766-z",
+   "title": "Beyond the surface: advanced wash-trading detection in decentralized NFT markets",
+   "received": "1 September 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 521
+  },
+  {
+   "doi": "10.1186/s40854-025-00788-7",
+   "title": "Factors influencing generative artificial intelligence adoption in Vietnam\u2019s banking sector: an empirical study",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s40854-024-00675-7",
+   "title": "Investor sentiment networks: mapping connectedness in DJIA stocks",
+   "received": "6 October 2023",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 399
+  },
+  {
+   "doi": "10.1186/s40854-024-00733-0",
+   "title": "Financial integration and economic growth: impact of renewable energy investments, technology transfer, and climate change on Europe and central Asian",
+   "received": "21 February 2023",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 657
+  },
+  {
+   "doi": "10.1186/s40854-025-00784-x",
+   "title": "A pathway to local legitimacy: the impact of corporate governance on corporate social responsibility in chaebol-affiliated firms",
+   "received": "13 August 2022",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 1093
+  },
+  {
+   "doi": "10.1186/s40854-025-00779-8",
+   "title": "Stock return forecasting based on\u00a0the proxy variables of category factors",
+   "received": "29 August 2023",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 582
+  },
+  {
+   "doi": "10.1186/s40854-024-00715-2",
+   "title": "The impact of futures trade on the informational efficiency of the U.S. REIT market",
+   "received": "25 August 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 452
+  },
+  {
+   "doi": "10.1186/s40854-025-00761-4",
+   "title": "Importance of portfolio optimization in SRI and conventional pension funds",
+   "received": "26 April 2023",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 635
+  },
+  {
+   "doi": "10.1186/s40854-024-00744-x",
+   "title": "Are rare earth stocks efficient? Novel insights using asymmetric MF-DFA",
+   "received": "20 July 2023",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 524
+  },
+  {
+   "doi": "10.1186/s40854-025-00786-9",
+   "title": "Sustainable metaverse ecosystems: from ESG compliance to multilayer network scalability",
+   "received": "1 June 2023",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 812
+  },
+  {
+   "doi": "10.1186/s40854-024-00688-2",
+   "title": "How does education promote green digital finance? Evidence from China",
+   "received": "10 May 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 551
+  },
+  {
+   "doi": "10.1186/s40854-024-00709-0",
+   "title": "CEO political orientation and loan contract",
+   "received": "8 August 2023",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 464
+  },
+  {
+   "doi": "10.1186/s40854-025-00772-1",
+   "title": "How does digital finance drive energy transition? A green investment-based perspective",
+   "received": "30 January 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 381
+  },
+  {
+   "doi": "10.1186/s40854-024-00690-8",
+   "title": "Causal estimation of FTX collapse on cryptocurrency: a counterfactual prediction analysis",
+   "received": "23 May 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 538
+  },
+  {
+   "doi": "10.1186/s40854-024-00697-1",
+   "title": "Facial recognition payment is cool: coolness, inspiration, and customer continuance intention to use facial recognition payment",
+   "received": "28 June 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 502
+  },
+  {
+   "doi": "10.1186/s40854-025-00783-y",
+   "title": "Modeling ESG-driven industrial value chain dynamics using directed graph neural networks",
+   "received": "8 September 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1186/s40854-024-00738-9",
+   "title": "Microfinance for change: how financial innovation enables structural transformation",
+   "received": "1 March 2023",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 660
+  },
+  {
+   "doi": "10.1186/s40854-024-00698-0",
+   "title": "Comparison of the asymmetric multifractal behavior of green and U.S. bonds against benchmark financial assets",
+   "received": "9 July 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 491
+  },
+  {
+   "doi": "10.1186/s40854-024-00748-7",
+   "title": "Exploring\u00a0small-scale optimization coupling learning approaches for enterprises\u2019 financial health forecasts",
+   "received": "11 January 2024",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 353
+  },
+  {
+   "doi": "10.1186/s40854-025-00767-y",
+   "title": "Nonlinear impact of the coordination of IFDI and OFDI on green total factor productivity in the context of \u201cDual Circulation\u201d",
+   "received": "18 August 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 535
+  },
+  {
+   "doi": "10.1186/s40854-025-00778-9",
+   "title": "Does the housing provident fund cause housing inequality? The micromechanism and macroeffect in China",
+   "received": "19 March 2023",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 738
+  },
+  {
+   "doi": "10.1186/s40854-024-00727-y",
+   "title": "Long-term effects of institutional quality on financial inclusion in Asia\u2013Pacific countries",
+   "received": "21 February 2022",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 1015
+  },
+  {
+   "doi": "10.1186/s40854-024-00648-w",
+   "title": "Forecasting returns with machine learning and optimizing global portfolios: evidence from the Korean and U.S. stock markets",
+   "received": "12 April 2023",
+   "revised": null,
+   "accepted": "19 March 2024",
+   "days": 342
+  },
+  {
+   "doi": "10.1186/s40854-025-00762-3",
+   "title": "ETF construction on CRIX",
+   "received": "13 March 2023",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 679
+  },
+  {
+   "doi": "10.1186/s40854-024-00736-x",
+   "title": "Decoding the future: a bibliometric exploration of blockchain in logistics",
+   "received": "19 February 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s40854-024-00746-9",
+   "title": "Consumer negative opinions on stock returns: evidence from E-commerce reviews in China",
+   "received": "12 January 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s40854-025-00773-0",
+   "title": "Bitcoin as a financial asset: a survey",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1186/s40854-024-00750-z",
+   "title": "Determinants in adopting cashless payments in Europe: a multilevel analysis",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 24
+  },
+  {
+   "doi": "10.1186/s40854-024-00725-0",
+   "title": "Can the new model of shared property rights promote better corporate financial performance in China?",
+   "received": "3 January 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 329
+  },
+  {
+   "doi": "10.1186/s40854-025-00867-9",
+   "title": "Mapping innovation tools and financial inclusion: a bibliometric analysis",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "6 November 2025",
+   "days": 674
+  },
+  {
+   "doi": "10.1186/s40854-025-00755-2",
+   "title": "Extreme time\u2013frequency connectedness between oil shocks and sectoral markets in the United States",
+   "received": "7 September 2023",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 489
+  },
+  {
+   "doi": "10.1186/s40854-025-00793-w",
+   "title": "An integrated analysis for digital financial assets and artificial intelligence-based financial management using AI-based neuro quantum picture fuzzy ",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 553
+  },
+  {
+   "doi": "10.1186/s40854-025-00794-9",
+   "title": "From advantage to disadvantage: how FinTech impacts small banks?",
+   "received": "6 April 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 541
+  },
+  {
+   "doi": "10.1186/s40854-024-00737-w",
+   "title": "A blockchain and internet of things-based information infrastructure for the Chinese automotive sector carbon-credit market",
+   "received": "3 August 2023",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 501
+  },
+  {
+   "doi": "10.1186/s40854-025-00764-1",
+   "title": "Geographical distance and stock price synchronization: evidence from China",
+   "received": "20 April 2023",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 646
+  },
+  {
+   "doi": "10.1186/s40854-025-00780-1",
+   "title": "Optimal expenditure decentralization for sustainable development: evidence from a 52-country panel analysis",
+   "received": "12 July 2023",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 652
+  },
+  {
+   "doi": "10.1186/s40854-024-00740-1",
+   "title": "Adoption of digital transformation from a firm\u2019s creation to decline: the role of China\u2019s mass entrepreneur and innovation campaign",
+   "received": "29 January 2023",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 691
+  },
+  {
+   "doi": "10.1186/s40854-025-00753-4",
+   "title": "Baidu News and the return volatility of Chinese commodity futures: evidence for the sequential information arrival hypothesis",
+   "received": "27 June 2022",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 926
+  },
+  {
+   "doi": "10.1186/s40854-025-00751-6",
+   "title": "From portfolio optimization to quantum blockchain and security: a systematic review of quantum computing in finance",
+   "received": "27 June 2023",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 559
+  },
+  {
+   "doi": "10.1186/s40854-024-00668-6",
+   "title": "FinTech: a literature review of emerging financial technologies and applications",
+   "received": "24 September 2023",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 410
+  },
+  {
+   "doi": "10.1186/s40854-024-00729-w",
+   "title": "Estimation of the probability of informed trading models via an expectation-conditional maximization algorithm",
+   "received": "19 July 2023",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 502
+  },
+  {
+   "doi": "10.1186/s40854-024-00743-y",
+   "title": "Understanding price momentum, market fluctuations, and crashes: insights from the extended Samuelson model",
+   "received": "1 August 2023",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 512
+  },
+  {
+   "doi": "10.1186/s40854-024-00678-4",
+   "title": "Unlocking the diversification benefits of DeFi for ASEAN stock market portfolios: a quantile study",
+   "received": "8 March 2023",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 611
+  },
+  {
+   "doi": "10.1186/s40854-024-00689-1",
+   "title": "A dimension reduction assisted credit scoring method for big data with categorical features",
+   "received": "17 May 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 544
+  },
+  {
+   "doi": "10.1186/s40854-024-00695-3",
+   "title": "Domain adaptation-based multistage ensemble learning paradigm for credit risk evaluation",
+   "received": "15 June 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 515
+  },
+  {
+   "doi": "10.1186/s40854-024-00747-8",
+   "title": "Elasticity of ESSM stock volatility: an analysis of the collapse of U.S., European, and Chinese markets during the COVID-19 pandemic",
+   "received": "13 September 2022",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 836
+  },
+  {
+   "doi": "10.1186/s40854-024-00669-5",
+   "title": "Joint multifractality in cross-correlations between grains &amp; oilseeds indices and external uncertainties",
+   "received": "23 October 2023",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 381
+  },
+  {
+   "doi": "10.1186/s40854-024-00719-y",
+   "title": "Comparison of sectorial and financial data for ESG scoring of mutual funds with machine learning",
+   "received": "4 March 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 260
+  },
+  {
+   "doi": "10.1186/s40854-025-00863-z",
+   "title": "Predicting foreign exchange in emerging markets with a nearest neighbor approach: fundamentals versus online attention indicators",
+   "received": "31 October 2022",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 1099
+  },
+  {
+   "doi": "10.1186/s40854-025-00774-z",
+   "title": "Cross-sectional anomalies and conditional asset pricing models based on investor sentiment: evidence from the Chinese stock market",
+   "received": "31 July 2023",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 577
+  },
+  {
+   "doi": "10.1186/s40854-024-00718-z",
+   "title": "Tracing the ties that bind: navigating the static and dynamic connectedness between NFTs and equity markets in ASEAN based on QVAR-approach",
+   "received": "15 May 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 554
+  },
+  {
+   "doi": "10.1186/s40854-024-00728-x",
+   "title": "A hybrid framework for assessing Pakistani commercial bank performance using multi-criteria decision-making",
+   "received": "13 February 2023",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 658
+  },
+  {
+   "doi": "10.1186/s40854-024-00704-5",
+   "title": "Financial performance evaluation of firms in BIST 100 index with ITARA and COBRA methods",
+   "received": "25 September 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 413
+  },
+  {
+   "doi": "10.1186/s40854-024-00677-5",
+   "title": "Liquidity constraints, real estate regulation, and local government debt risks",
+   "received": "3 August 2022",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 828
+  },
+  {
+   "doi": "10.1186/s40854-024-00713-4",
+   "title": "The nexus between the financial development and CO2 emissions: fresh evidence through time\u2013frequency analyses",
+   "received": "31 May 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 538
+  },
+  {
+   "doi": "10.1186/s40854-024-00749-6",
+   "title": "Green bond, stock, cryptocurrency, and commodity markets: a multiscale analysis and portfolio implications",
+   "received": "24 October 2022",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 797
+  },
+  {
+   "doi": "10.1186/s40854-025-00791-y",
+   "title": "The dynamic linkage between fintech venture capital funding, bank credit flows, and equity market movement: evidence from a global perspective",
+   "received": "6 June 2023",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 827
+  },
+  {
+   "doi": "10.1186/s40854-024-00732-1",
+   "title": "Decoding systemic risks across commodities and emerging market stock markets",
+   "received": "27 December 2023",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 347
+  },
+  {
+   "doi": "10.1186/s40854-024-00691-7",
+   "title": "Relationship between green bonds and carbon neutrality: evidence from top five emitting countries\u2019 sectoral CO2 emissions",
+   "received": "24 May 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 537
+  },
+  {
+   "doi": "10.1186/s40854-025-00759-y",
+   "title": "Artificial intelligence in the service of entrepreneurial finance: knowledge structure and the foundational algorithmic paradigm",
+   "received": "25 November 2023",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 412
+  },
+  {
+   "doi": "10.1186/s40854-024-00710-7",
+   "title": "Investigation of the relationship between number of tweets and USDTRY exchange rate with wavelet coherence and transfer entropy analysis",
+   "received": "22 February 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 636
+  },
+  {
+   "doi": "10.1186/s40854-024-00676-6",
+   "title": "Market value of R&amp;D, patents, and CEO characteristics",
+   "received": "8 November 2023",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 366
+  },
+  {
+   "doi": "10.1186/s40854-025-00760-5",
+   "title": "The dynamics of frequency connectedness between\u00a0technology ETFs and uncertainty indices under extreme market conditions",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "19 January 2025",
+   "days": 285
+  },
+  {
+   "doi": "10.1186/s40854-024-00683-7",
+   "title": "Multivariate GARCH models with spherical parameterizations: an oil price application",
+   "received": "19 January 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 662
+  },
+  {
+   "doi": "10.1186/s40854-024-00684-6",
+   "title": "The dark side of non-fungible tokens: understanding risks in the NFT marketplace from a fraud triangle perspective",
+   "received": "1 March 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 621
+  },
+  {
+   "doi": "10.1186/s40854-024-00731-2",
+   "title": "Social media and capital markets: an interdisciplinary bibliometric analysis",
+   "received": "4 September 2023",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 461
+  },
+  {
+   "doi": "10.1186/s40854-024-00652-0",
+   "title": "Alternative data in finance and business: emerging applications and theory analysis (review)",
+   "received": "7 June 2023",
+   "revised": null,
+   "accepted": "7 April 2024",
+   "days": 305
+  }
+ ]
+}

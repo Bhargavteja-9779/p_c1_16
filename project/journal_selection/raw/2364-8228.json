@@ -1,0 +1,557 @@
+{
+ "issn": "2364-8228",
+ "journal": "Applied Network Science",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:41.743578",
+ "source": "https://api.crossref.org/journals/2364-8228/works",
+ "articles": [
+  {
+   "doi": "10.1007/s41109-025-00697-9",
+   "title": "Navigation on temporal networks",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s41109-025-00711-0",
+   "title": "FlowSeries: flow analysis on financial networks",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s41109-025-00722-x",
+   "title": "SDW2vec: learning structural representations of nodes in weighted networks",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s41109-025-00710-1",
+   "title": "Temporal dynamics of the friendship paradox in a smartphone communication network",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "4 May 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1007/s41109-025-00743-6",
+   "title": "SimNetX: tinkering with patient similarity networks to understand biomedical data",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1007/s41109-024-00683-7",
+   "title": "Regionalization and continuing globalization scenarios as a result of re-globalization: a matter of ally-familiarity proximity in multiplex financial ",
+   "received": "25 February 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 267
+  },
+  {
+   "doi": "10.1007/s41109-025-00693-z",
+   "title": "Statistically validated network for analysing textual data",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1007/s41109-025-00696-w",
+   "title": "A case study on professional skills and accredited graduate programs of marketing",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1007/s41109-025-00721-y",
+   "title": "The association of prescriber prominence in a shared-patient physician network with their patients receipt of and transitions between risky drug combi",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1007/s41109-024-00657-9",
+   "title": "Exploring systemic effects of the friendship paradox on social network participation",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "8 August 2024",
+   "days": 101
+  },
+  {
+   "doi": "10.1007/s41109-025-00709-8",
+   "title": "Influence of multiple network structures on bayesian estimation of peer effects and statistical power for generalized linear network autocorrelation m",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1007/s41109-025-00707-w",
+   "title": "Robustness assessment of urban road networks in densely populated cities",
+   "received": "2 May 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 362
+  },
+  {
+   "doi": "10.1007/s41109-025-00735-6",
+   "title": "A hypergraph analysis of the European Commission lobby network",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s41109-025-00690-2",
+   "title": "Estimation and prediction in dynamic multi-location multiplex networks",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1007/s41109-025-00718-7",
+   "title": "Optimal intervention campaign to combat anti-vaccine social contagion and contain epidemic spread: impact of network structure",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1007/s41109-024-00684-6",
+   "title": "A bipartite network analysis of international trade volatility",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s41109-025-00732-9",
+   "title": "Driving climate action: brokers as catalysts in EU policy networks",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1007/s41109-025-00739-2",
+   "title": "Disrupting road networks: a case study on the vulnerabilities of the city of Messina",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1007/s41109-025-00724-9",
+   "title": "Inherent structural vulnerabilities in power distribution networks: a longitudinal complex network analysis",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1007/s41109-024-00677-5",
+   "title": "Legislative support for environmental policy innovation: an experimental test for diffusion through a cross-state policy network",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "9 October 2024",
+   "days": 61
+  },
+  {
+   "doi": "10.1007/s41109-025-00726-7",
+   "title": "Approximate regular equivalence by partition refinement",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1007/s41109-025-00715-w",
+   "title": "Arlclustering: an R package for community detection in social networks based on user interaction and association rule learning",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s41109-024-00685-5",
+   "title": "Temporal betweenness centrality on shortest walks variants",
+   "received": "6 October 2023",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 416
+  },
+  {
+   "doi": "10.1007/s41109-025-00746-3",
+   "title": "Emergence of nestedness in the public internet peering ecosystem",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1007/s41109-025-00737-4",
+   "title": "Initialisation and network effects in decentralised federated learning",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 306
+  },
+  {
+   "doi": "10.1007/s41109-024-00674-8",
+   "title": "The dynamics of exchange traded funds: a geometrical and topological approach",
+   "received": "31 January 2024",
+   "revised": null,
+   "accepted": "3 October 2024",
+   "days": 246
+  },
+  {
+   "doi": "10.1007/s41109-025-00701-2",
+   "title": "EC-SBM synthetic network generator",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1007/s41109-025-00706-x",
+   "title": "Network growth under opportunistic attachment",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1007/s41109-025-00738-3",
+   "title": "\u201cHierarchical network\u201d structure of the urban agglomeration of the Huaihai economic zone in China based on Baidu migration data",
+   "received": "21 April 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s41109-025-00727-6",
+   "title": "Positive impact of structural asymmetries in PPI networks on protein complex detection",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s41109-025-00713-y",
+   "title": "Influence of symbolic content on recommendation bias: analyzing YouTube\u2019s algorithm during Taiwan\u2019s 2024 election",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1007/s41109-025-00699-7",
+   "title": "Using similarity network analysis to improve text similarity calculations",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "1 March 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1007/s41109-025-00694-y",
+   "title": "Accounting for contact network uncertainty in epidemic inferences with Approximate Bayesian Computation",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s41109-025-00725-8",
+   "title": "The impact factor game: an agent-based exploration of self-citation influence and interdisciplinary dynamics on impact metrics",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s41109-025-00720-z",
+   "title": "Simplicial complexes in network intrusion profiling: pattern construction through simplicial centralities",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1007/s41109-025-00703-0",
+   "title": "Harnessing network science for urban resilience: the CASA model\u2019s approach to social and environmental challenges",
+   "received": "7 June 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 293
+  },
+  {
+   "doi": "10.1007/s41109-025-00719-6",
+   "title": "Do diversity and context collapse kill an online social network?",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1007/s41109-025-00741-8",
+   "title": "Augmented visualization of class\u2013cluster match in patient similarity networks",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1007/s41109-025-00712-z",
+   "title": "Analysis of ego multi-token transfer networks: a multilayer approach",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s41109-025-00736-5",
+   "title": "On the cospectrality between graphs and pseudographs",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s41109-024-00688-2",
+   "title": "Functional switching among dynamic neuronal hub-nodes in the brain induces maintenance/transition of cognitive states",
+   "received": "18 November 2023",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 397
+  },
+  {
+   "doi": "10.1007/s41109-025-00692-0",
+   "title": "An extended analysis of approximation algorithms for k-median problems on complex networks",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 292
+  },
+  {
+   "doi": "10.1007/s41109-025-00708-9",
+   "title": "Network-based diversification of stock and cryptocurrency portfolios",
+   "received": "17 August 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1007/s41109-024-00686-4",
+   "title": "Current challenges in multilayer network engineering",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 237
+  },
+  {
+   "doi": "10.1007/s41109-025-00745-4",
+   "title": "Social dilemma in internet routing security adoption and its resolution possibility through altruism, bounded rationality",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1007/s41109-025-00742-7",
+   "title": "Social network density predicts partisan animosity",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1007/s41109-024-00673-9",
+   "title": "Leading by the nodes: a survey of film industry network analysis and datasets",
+   "received": "14 January 2024",
+   "revised": null,
+   "accepted": "3 October 2024",
+   "days": 263
+  },
+  {
+   "doi": "10.1007/s41109-025-00752-5",
+   "title": "A model for predicting the spread patterns of human and computational epidemics on complex temporal networks",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1007/s41109-025-00729-4",
+   "title": "How the use of feature selection methods influences the efficiency and accuracy of complex network simulations",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s41109-025-00734-7",
+   "title": "Iterative finetuning for image geolocalization based on proximity graph segmentation",
+   "received": "29 March 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1007/s41109-024-00687-3",
+   "title": "Detection of dynamic communities in temporal networks with sparse data",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s41109-025-00700-3",
+   "title": "Preventing eco-anxiety in orphans: the potential impact of social worker-child bonding",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s41109-025-00702-1",
+   "title": "Weirdnodes: centrality based anomaly detection on temporal networks for the anti-financial crime domain",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "23 March 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1007/s41109-025-00751-6",
+   "title": "Generic multimodal spatially graph network for spatially embedded network representation learning",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1007/s41109-025-00714-x",
+   "title": "Whom do you trust? The determinants of loyalty in a market without quality signals",
+   "received": "19 December 2023",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 532
+  },
+  {
+   "doi": "10.1007/s41109-024-00689-1",
+   "title": "Graph coarsening for fugitive interception",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s41109-025-00704-z",
+   "title": "Sampling nodes and hyperedges via random walks on large hypergraphs",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1007/s41109-025-00695-x",
+   "title": "Community detection on simplicial complexes",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s41109-025-00691-1",
+   "title": "A growth model for citations networks",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s41109-025-00698-8",
+   "title": "Modelling innovation adoption spreading in complex networks",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1007/s41109-025-00716-9",
+   "title": "Unified framework for complex graph-data: introducing the hybrid layered network model",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1007/s41109-025-00733-8",
+   "title": "Identifying obfuscated code through graph-based semantic analysis of binary code",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s41109-025-00723-w",
+   "title": "Modeling information-sharing networks on agroforestry species in rural ethnic-based communities using ERGM",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s41109-025-00731-w",
+   "title": "Community aware temporal network generation",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1007/s41109-025-00728-5",
+   "title": "Default robustness and worst-case losses in financial networks",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s41109-025-00717-8",
+   "title": "Complex network security using community structure and dynamical analysis: spectral clustering and VEIP-WQU model",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1007/s41109-025-00753-4",
+   "title": "Network-based Anomaly Detection in Waste Transportation Data with Limited Supervision",
+   "received": "31 July 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s41109-025-00705-y",
+   "title": "High and low similarity backbone extraction using similarity-based link prediction",
+   "received": "25 January 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 88
+  }
+ ]
+}

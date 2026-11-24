@@ -1,0 +1,45 @@
+{
+ "issn": "1573-773X",
+ "journal": "Neural Processing Letters",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:38.874753",
+ "source": "https://api.crossref.org/journals/1573-773X/works",
+ "articles": [
+  {
+   "doi": "10.1007/s11063-025-11809-y",
+   "title": "Design of an Integrated Model for Gait Identification Using DDPG, Sparse Group Lasso, and Stacked Generalization",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1007/s11063-025-11810-5",
+   "title": "State estimation and finite-time synchronization of fractional delayed neural network",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 404
+  },
+  {
+   "doi": "10.1007/s11063-025-11814-1",
+   "title": "A Global Attractor Guided Learning of Parts-based Representation for Image Clustering",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1007/s11063-025-11811-4",
+   "title": "A Federated Learning-Based Traffic Congestion and Fuel Monitoring",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 232
+  }
+ ]
+}

@@ -1,0 +1,781 @@
+{
+ "issn": "1573-756X",
+ "journal": "Data Mining and Knowledge Discovery",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:30.549689",
+ "source": "https://api.crossref.org/journals/1573-756X/works",
+ "articles": [
+  {
+   "doi": "10.1007/s10618-025-01130-6",
+   "title": "Trace alignment algorithm optimization",
+   "received": "9 June 2024",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 388
+  },
+  {
+   "doi": "10.1007/s10618-025-01119-1",
+   "title": "SimHawNet: a modified Hawkes process for temporal network simulation",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1007/s10618-025-01156-w",
+   "title": "JammyTS: joint attention and memory network for temporal scoping of facts",
+   "received": "25 February 2024",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 528
+  },
+  {
+   "doi": "10.1007/s10618-024-01080-5",
+   "title": "ARL: analogical reinforcement learning for knowledge graph reasoning",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 261
+  },
+  {
+   "doi": "10.1007/s10618-025-01111-9",
+   "title": "Data debiasing via causal diffusion model",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s10618-025-01095-6",
+   "title": "Ada-Context: adaptive context-aware grid-based approach for curation of data streams",
+   "received": "25 December 2023",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 433
+  },
+  {
+   "doi": "10.1007/s10618-025-01090-x",
+   "title": "Forming coordinated teams that balance task coverage and expert workload",
+   "received": "3 December 2023",
+   "revised": null,
+   "accepted": "19 January 2025",
+   "days": 413
+  },
+  {
+   "doi": "10.1007/s10618-024-01081-4",
+   "title": "Syntheval: a framework for detailed utility and privacy evaluation of tabular synthetic data",
+   "received": "15 February 2024",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 276
+  },
+  {
+   "doi": "10.1007/s10618-025-01116-4",
+   "title": "On the number of iterations of the DBA algorithm",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1007/s10618-025-01158-8",
+   "title": "Detecting and reacting to smart home novelties",
+   "received": "13 June 2023",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 797
+  },
+  {
+   "doi": "10.1007/s10618-025-01102-w",
+   "title": "Deep anomaly detection with partition contrastive learning for tabular data",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "5 April 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1007/s10618-025-01159-7",
+   "title": "Leveraging internal representations of GNNs with Shapley values",
+   "received": "1 February 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 200
+  },
+  {
+   "doi": "10.1007/s10618-024-01076-1",
+   "title": "Meta-path based proximity learning in heterogeneous information networks",
+   "received": "5 June 2022",
+   "revised": null,
+   "accepted": "4 September 2024",
+   "days": 822
+  },
+  {
+   "doi": "10.1007/s10618-025-01096-5",
+   "title": "Detecting anomalies using rotated isolation forest",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1007/s10618-025-01147-x",
+   "title": "Gradient boosted bagging for evolving data stream regression",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s10618-025-01094-7",
+   "title": "Multi-neighbor social recommendation with attentional graph convolutional network",
+   "received": "31 May 2022",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 990
+  },
+  {
+   "doi": "10.1007/s10618-025-01143-1",
+   "title": "Steering the LoCoMotif: Using domain knowledge in time series motif discovery",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 29
+  },
+  {
+   "doi": "10.1007/s10618-025-01106-6",
+   "title": "Deep graph embedding learning based on multi-variational graph autoencoders for POI recommendation",
+   "received": "18 September 2023",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 576
+  },
+  {
+   "doi": "10.1007/s10618-025-01128-0",
+   "title": "Combating confirmation bias: a unified pseudo-labeling framework for entity alignment",
+   "received": "7 July 2023",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 707
+  },
+  {
+   "doi": "10.1007/s10618-025-01125-3",
+   "title": "Adaptive interactive network component ensemble for streaming data with concept drift",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 472
+  },
+  {
+   "doi": "10.1007/s10618-025-01127-1",
+   "title": "OLIVANDER: a counterfactual-based method to generate adversarial Windows PE malware",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s10618-025-01113-7",
+   "title": "Hamming encoder: mining discriminative k-mers for discrete sequence classification",
+   "received": "21 October 2023",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 579
+  },
+  {
+   "doi": "10.1007/s10618-025-01138-y",
+   "title": "Does user-end work? User-item-aware knowledge graph convolutional networks for recommendation",
+   "received": "31 January 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 528
+  },
+  {
+   "doi": "10.1007/s10618-025-01092-9",
+   "title": "Contextualization of soccer analysis with tactical periodization and machine learning",
+   "received": "15 December 2022",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 783
+  },
+  {
+   "doi": "10.1007/s10618-025-01120-8",
+   "title": "Unpacking the trend: decomposition as a catalyst to enhance time series forecasting models",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s10618-025-01153-z",
+   "title": "Overlapping community detection with a new modularity measure in directed weighted networks",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1007/s10618-025-01097-4",
+   "title": "Proxy-enhanced cross-domain sequential recommendation",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 283
+  },
+  {
+   "doi": "10.1007/s10618-025-01129-z",
+   "title": "Spatiotemporal attention-based real-time video watermarking",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1007/s10618-025-01144-0",
+   "title": "PersAD: adversarial protection against text-based personality inference",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1007/s10618-024-01074-3",
+   "title": "Missing value replacement in strings and applications",
+   "received": "25 October 2023",
+   "revised": null,
+   "accepted": "28 September 2024",
+   "days": 339
+  },
+  {
+   "doi": "10.1007/s10618-025-01133-3",
+   "title": "Topic-aware influence maximization with deep reinforcement learning and graph attention networks",
+   "received": "21 April 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1007/s10618-025-01155-x",
+   "title": "RMIDDM: an unsupervised and interpretable concept drift detection method for data streams",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 367
+  },
+  {
+   "doi": "10.1007/s10618-025-01164-w",
+   "title": "Indexing demand response potential at multiple temporal granularity using network theory based analysis",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 288
+  },
+  {
+   "doi": "10.1007/s10618-025-01162-y",
+   "title": "Structured temporal representation in time series classification with ROCKETs and hyperdimensional computing",
+   "received": "7 December 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1007/s10618-024-01083-2",
+   "title": "Thompson sampling-based recursive block elimination for dynamic assignment under limited budget in pure-exploration",
+   "received": "7 December 2023",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 360
+  },
+  {
+   "doi": "10.1007/s10618-025-01089-4",
+   "title": "Multilayer horizontal visibility graphs for multivariate time series analysis",
+   "received": "6 February 2024",
+   "revised": null,
+   "accepted": "4 January 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1007/s10618-025-01151-1",
+   "title": "Metadata supported scale space attention networks for multivariate timeseries prediction",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "27 July 2025",
+   "days": 439
+  },
+  {
+   "doi": "10.1007/s10618-025-01175-7",
+   "title": "Fitter: post-mining user-preferred co-location patterns interactively",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 518
+  },
+  {
+   "doi": "10.1007/s10618-025-01169-5",
+   "title": "Quantitative evaluation of motif sets in time series",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 304
+  },
+  {
+   "doi": "10.1007/s10618-024-01075-2",
+   "title": "Exploring the diverse world of SAX-based methodologies",
+   "received": "7 August 2023",
+   "revised": null,
+   "accepted": "13 September 2024",
+   "days": 403
+  },
+  {
+   "doi": "10.1007/s10618-025-01104-8",
+   "title": "CSCN: an efficient snapshot ensemble learning based sparse transformer model for long-range spatial-temporal traffic flow prediction",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 346
+  },
+  {
+   "doi": "10.1007/s10618-025-01141-3",
+   "title": "Relation prediction based on the attention-enhanced fusion of graph strcuture and multi-hop neighborhood information in knowledge graphs",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1007/s10618-024-01086-z",
+   "title": "A comparative evaluation of clustering-based outlier detection",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 13
+  },
+  {
+   "doi": "10.1007/s10618-025-01105-7",
+   "title": "Knowledge graph completion based on asymmetric translation and automatic entity type representation",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1007/s10618-025-01093-8",
+   "title": "Inferring tie strength in temporal networks",
+   "received": "9 January 2023",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 758
+  },
+  {
+   "doi": "10.1007/s10618-025-01146-y",
+   "title": "Fastere: a fast framework for entity relation extractions",
+   "received": "21 April 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s10618-025-01124-4",
+   "title": "ARM-stream: active recovery of miscategorizations in clustering-based data stream classifiers",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1007/s10618-024-01078-z",
+   "title": "MIRACLE: Malware image recognition and classification by layered extraction",
+   "received": "22 December 2023",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 320
+  },
+  {
+   "doi": "10.1007/s10618-025-01167-7",
+   "title": "Online transfer learning framework for label scarcity in evolving data streams",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1007/s10618-025-01123-5",
+   "title": "Greatmeta: gradient-aware adaptive meta-learning for cold-start recommendations",
+   "received": "13 April 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1007/s10618-025-01152-0",
+   "title": "Fed-FUEL: fairness and utility enhancing agnostic federated learning framework",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "27 July 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s10618-025-01107-5",
+   "title": "Data-driven learning optimal K values for K-nearest neighbour matching in causal inference",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1007/s10618-024-01085-0",
+   "title": "Proximity forest 2.0: a new effective and scalable similarity-based classifier for time series",
+   "received": "13 May 2023",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 565
+  },
+  {
+   "doi": "10.1007/s10618-024-01088-x",
+   "title": "Domain-level relation extraction for informative taxonomy learning",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 219
+  },
+  {
+   "doi": "10.1007/s10618-025-01098-3",
+   "title": "TSRF-Dist: a novel time series distance based on extremely randomized canonical interval forests",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s10618-025-01137-z",
+   "title": "Inductive influence estimation and maximization over unseen social networks under two diffusion models",
+   "received": "24 March 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 475
+  },
+  {
+   "doi": "10.1007/s10618-025-01148-w",
+   "title": "Large language models are zero-shot point-of-interest recommenders",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1007/s10618-025-01099-2",
+   "title": "Clustering using GRASP and path relinking for the max k-cut problem",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "22 March 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1007/s10618-025-01108-4",
+   "title": "Deep unsupervised domain adaptation for time series classification: a benchmark",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1007/s10618-025-01100-y",
+   "title": "HyEED: embedding learning of knowledge graphs with entity description in hyperbolic space",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "22 March 2025",
+   "days": 359
+  },
+  {
+   "doi": "10.1007/s10618-025-01161-z",
+   "title": "Multi-relational knowledge graph contrastive learning for link prediction",
+   "received": "7 August 2023",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 749
+  },
+  {
+   "doi": "10.1007/s10618-025-01174-8",
+   "title": "Fish swarm parameter self-tuning for data streams",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "1 November 2025",
+   "days": 364
+  },
+  {
+   "doi": "10.1007/s10618-025-01126-2",
+   "title": "Fine-grained multi-prompt essay scoring with multi-level disentanglement",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1007/s10618-025-01142-2",
+   "title": "Optirefine: densest subgraphs and maximum cuts with k refinements",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "13 July 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1007/s10618-025-01115-5",
+   "title": "Towards automated self-supervised learning for truly unsupervised graph anomaly detection",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 382
+  },
+  {
+   "doi": "10.1007/s10618-025-01136-0",
+   "title": "A enhanced fuzzy clustering algorithm for probability density functions and image clustering using Inception Resnet-v2 features",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1007/s10618-025-01154-y",
+   "title": "Stable graph based decision route explanation in siamese neural networks",
+   "received": "2 December 2023",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 606
+  },
+  {
+   "doi": "10.1007/s10618-025-01149-9",
+   "title": "Crossmamba: multivariate time series forecasting model for cross-temporal and cross-dimensional dependencies with Mamba",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s10618-025-01145-z",
+   "title": "Large language models are few-shot multivariate time series classifiers",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1007/s10618-025-01110-w",
+   "title": "Sequential pattern detection: similarities and differences across various fields",
+   "received": "10 May 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 354
+  },
+  {
+   "doi": "10.1007/s10618-025-01112-8",
+   "title": "How robust is your fair model? Exploring the robustness of prominent fairness strategies",
+   "received": "17 May 2023",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 720
+  },
+  {
+   "doi": "10.1007/s10618-025-01131-5",
+   "title": "Automating mixture model fitting of task durations for process conformance checking",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 315
+  },
+  {
+   "doi": "10.1007/s10618-025-01121-7",
+   "title": "SFC: a time series decomposition attention network with continuous nature for time series analysis",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1007/s10618-025-01109-3",
+   "title": "Locality adaptive incomplete multi-view subspace clustering",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 396
+  },
+  {
+   "doi": "10.1007/s10618-025-01157-9",
+   "title": "Distilcyphergpt: enhancing large language models for knowledge graph question answering in cypher through knowledge distillation",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1007/s10618-025-01122-6",
+   "title": "tPARAFAC2: tracking evolving patterns in (incomplete) temporal data",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 257
+  },
+  {
+   "doi": "10.1007/s10618-024-01082-3",
+   "title": "A new bandit setting balancing information from state evolution and corrupted context",
+   "received": "8 November 2023",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 378
+  },
+  {
+   "doi": "10.1007/s10618-024-01077-0",
+   "title": "What do anomaly scores actually mean? Dynamic characteristics beyond accuracy",
+   "received": "26 November 2023",
+   "revised": null,
+   "accepted": "2 November 2024",
+   "days": 342
+  },
+  {
+   "doi": "10.1007/s10618-025-01176-6",
+   "title": "Structural-temporal coupling anomaly detection with dynamic graph transformer",
+   "received": "13 July 2023",
+   "revised": null,
+   "accepted": "4 November 2025",
+   "days": 845
+  },
+  {
+   "doi": "10.1007/s10618-025-01101-x",
+   "title": "Tractable probabilistic models and computational complexity",
+   "received": "14 December 2023",
+   "revised": null,
+   "accepted": "22 March 2025",
+   "days": 464
+  },
+  {
+   "doi": "10.1007/s10618-025-01170-y",
+   "title": "Deep clustering for large-scale interpretable time series segmentation",
+   "received": "7 February 2024",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 615
+  },
+  {
+   "doi": "10.1007/s10618-025-01103-9",
+   "title": "A multi-scale time series forecasting framework with temporal hierarchical information fusion and reconciliation",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1007/s10618-024-01084-1",
+   "title": "Efficient outlier detection in numerical and categorical data",
+   "received": "22 September 2023",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 433
+  },
+  {
+   "doi": "10.1007/s10618-025-01135-1",
+   "title": "Stratify: unifying multi-step forecasting strategies",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s10618-025-01139-x",
+   "title": "Adaptive multimodal graph learning for knowledge graph completion",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s10618-025-01172-w",
+   "title": "Feature selection for high-dimensional imbalanced class datasets using Harmony Search and Kullback\u2013Leibler divergence",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "31 October 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s10618-025-01168-6",
+   "title": "Temporal-Aware bicomplex embeddings with implicit attention for knowledge graph link prediction",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1007/s10618-025-01150-2",
+   "title": "HRHE: hybrid relations-guided multi-modal knowledge graph completion using hierarchical embeddings",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1007/s10618-025-01118-2",
+   "title": "Learning a consensus sub-network with polarization regularization and one pass training",
+   "received": "29 October 2023",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 588
+  },
+  {
+   "doi": "10.1007/s10618-024-01079-y",
+   "title": "A systematic review of deep learning for structural geological interpretation",
+   "received": "6 March 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 245
+  },
+  {
+   "doi": "10.1007/s10618-025-01132-4",
+   "title": "TSelect: selecting relevant and non-redundant channels for multivariate time series classification",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s10618-025-01134-2",
+   "title": "Handling new users and items: a comparative study of inductive recommenders",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s10618-025-01117-3",
+   "title": "Guiding the generation of counterfactual explanations through temporal background knowledge for predictive process monitoring",
+   "received": "7 February 2024",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 487
+  },
+  {
+   "doi": "10.1007/s10618-024-01087-y",
+   "title": "Recommending the right academic programs: an interest mining approach using BERTopic",
+   "received": "6 February 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 326
+  },
+  {
+   "doi": "10.1007/s10618-025-01140-4",
+   "title": "Detection and evaluation of clusters within sequential data",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 374
+  },
+  {
+   "doi": "10.1007/s10618-025-01091-w",
+   "title": "TED: related party transaction guided tax evasion detection on heterogeneous graph",
+   "received": "25 November 2022",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 802
+  }
+ ]
+}

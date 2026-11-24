@@ -1,0 +1,4415 @@
+{
+ "issn": "1364-8535",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:14:30.278602",
+ "source": "https://api.crossref.org/journals/1364-8535/works",
+ "articles_in_window": 565,
+ "all_with_dates": {
+  "n": 547,
+  "median": 53,
+  "p25": 16.0,
+  "p75": 76.0,
+  "min": 1,
+  "max": 260,
+  "share_le_72": 0.726
+ },
+ "full_articles_refs_ge_25": {
+  "n": 318,
+  "median": 66.0,
+  "p25": 49.0,
+  "p75": 89.25,
+  "min": 3,
+  "max": 260,
+  "share_le_72": 0.591
+ },
+ "short_items_refs_lt_25": {
+  "n": 229,
+  "median": 11,
+  "p25": 4.0,
+  "p75": 46.0,
+  "min": 1,
+  "max": 227,
+  "share_le_72": 0.913
+ },
+ "articles": [
+  {
+   "doi": "10.1186/s13054-024-05167-9",
+   "title": "Epidemiology of sepsis-associated acute kidney injury in critically ill patients: a multicenter, prospective, observational cohort study in South Korea",
+   "received": "23 September 2024",
+   "accepted": "11 November 2024",
+   "days": 49,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-024-05151-3",
+   "title": "Culture-negative sepsis may be a different entity from culture-positive sepsis: a prospective nationwide multicenter cohort study",
+   "received": "4 June 2024",
+   "accepted": "26 October 2024",
+   "days": 144,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-024-05181-x",
+   "title": "Inhaled nitric oxide clinical confusions: population types, duration, and responsiveness",
+   "received": "14 November 2024",
+   "accepted": "18 November 2024",
+   "days": 4,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-024-05148-y",
+   "title": "Cost-effectiveness of high flow nasal cannula therapy versus continuous positive airway pressure for non-invasive respiratory support in paediatric critical car",
+   "received": "14 June 2024",
+   "accepted": "26 October 2024",
+   "days": 134,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-024-05159-9",
+   "title": "Inhaled antibiotics for treating pneumonia in invasively ventilated patients in intensive care unit: a meta-analysis of randomized clinical trials with trial se",
+   "received": "16 September 2024",
+   "accepted": "4 November 2024",
+   "days": 49,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-024-05171-z",
+   "title": "Passive leg raising uncovers venous congestion: dynamic fluid intolerance and the Doppler Starling curve",
+   "received": "24 October 2024",
+   "accepted": "13 November 2024",
+   "days": 20,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-024-05123-7",
+   "title": "The renin\u2013angiotensin\u2013aldosterone-system in sepsis and its clinical modulation with exogenous angiotensin II",
+   "received": "23 August 2024",
+   "accepted": "5 October 2024",
+   "days": 43,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s13054-024-05115-7",
+   "title": "Time-dependent intervention in the database study examining the efficacy of whole blood transfusion in traumatic patients",
+   "received": "27 September 2024",
+   "accepted": "30 September 2024",
+   "days": 3,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-024-05166-w",
+   "title": "Weaning of non COPD patients at high-risk of extubation failure assessed by lung ultrasound: the WIN IN WEAN multicentre randomised controlled trial",
+   "received": "27 May 2024",
+   "accepted": "11 November 2024",
+   "days": 168,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-024-05174-w",
+   "title": "Mortality in septic patients treated with short-acting betablockers: a comprehensive meta-analysis of randomized controlled trials",
+   "received": "28 September 2024",
+   "accepted": "14 November 2024",
+   "days": 47,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s13054-024-05182-w",
+   "title": "Reply to \u201cvolatile anaesthetics for ICU sedation: beyond hypnosis?\u201d: A comment on \u201cvolatile anesthetics for lung- and diaphragm-protective sedation\u201d",
+   "received": "14 November 2024",
+   "accepted": "18 November 2024",
+   "days": 4,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-024-05129-1",
+   "title": "Intra-aortic balloon pump after VA-ECMO reduces mortality in patients with cardiogenic shock: an analysis of the Chinese extracorporeal life support registry",
+   "received": "3 September 2024",
+   "accepted": "11 October 2024",
+   "days": 38,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-024-05184-8",
+   "title": "Association between whole blood transfusion and mortality",
+   "received": "10 November 2024",
+   "accepted": "21 November 2024",
+   "days": 11,
+   "refs": 3
+  },
+  {
+   "doi": "10.1186/s13054-024-05188-4",
+   "title": "Differential effects of thiamine and ascorbic acid in clusters of septic patients identified by latent variable analysis",
+   "received": "12 September 2024",
+   "accepted": "23 November 2024",
+   "days": 72,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-024-05179-5",
+   "title": "Timing of mechanical ventilation in sepsis",
+   "received": "12 November 2024",
+   "accepted": "15 November 2024",
+   "days": 3,
+   "refs": 1
+  },
+  {
+   "doi": "10.1186/s13054-024-05164-y",
+   "title": "Angiotensinogen: a new era beyond lactate as a biomarker?",
+   "received": "5 November 2024",
+   "accepted": "8 November 2024",
+   "days": 3,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-024-05186-6",
+   "title": "Lymphocyte count trajectories are associated with the prognosis of sepsis patients",
+   "received": "15 November 2024",
+   "accepted": "22 November 2024",
+   "days": 7,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05194-6",
+   "title": "Nailfold videocapillaroscopy \u2013 a novel method for the assessment of hemodynamic incoherence on the ICU",
+   "received": "21 October 2024",
+   "accepted": "27 November 2024",
+   "days": 37,
+   "refs": 23
+  },
+  {
+   "doi": "10.1186/s13054-024-05193-7",
+   "title": "Epidemiology and outcomes of septic shock in Thai children: a nationwide retrospective study from 2015 to 2022",
+   "received": "19 October 2024",
+   "accepted": "27 November 2024",
+   "days": 39,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-024-05140-6",
+   "title": "Roadmap for the evolution of monitoring: developing and evaluating waveform-based variability-derived artificial intelligence-powered predictive clinical decisi",
+   "received": "23 September 2024",
+   "accepted": "19 October 2024",
+   "days": 26,
+   "refs": 65
+  },
+  {
+   "doi": "10.1186/s13054-024-05196-4",
+   "title": "Relationship between leukopenia and mortality among patients with hematological malignancies",
+   "received": "27 November 2024",
+   "accepted": "28 November 2024",
+   "days": 1,
+   "refs": 1
+  },
+  {
+   "doi": "10.1186/s13054-024-05177-7",
+   "title": "The effects of blood cell salvage on transfusion requirements after decannulation from veno-venous extracorporeal membrane oxygenation: an emulated trial analys",
+   "received": "13 September 2024",
+   "accepted": "15 November 2024",
+   "days": 63,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-024-05197-3",
+   "title": "Longitudinal assessment of immunoglobulin response and disease progression in critically ill patients with community acquired pneumonia",
+   "received": "11 October 2024",
+   "accepted": "29 November 2024",
+   "days": 49,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s13054-024-05175-9",
+   "title": "REmoval of cytokines during CArdiac surgery (RECCAS): a randomised controlled trial",
+   "received": "27 August 2024",
+   "accepted": "15 November 2024",
+   "days": 80,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s13054-024-05183-9",
+   "title": "Reply to: angiotensinogen: a new era beyond lactate as a biomarker?",
+   "received": "14 November 2024",
+   "accepted": "18 November 2024",
+   "days": 4,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05204-7",
+   "title": "Sex specific differences in short-term mortality after ICU-delirium",
+   "received": "29 September 2024",
+   "accepted": "5 December 2024",
+   "days": 67,
+   "refs": 20
+  },
+  {
+   "doi": "10.1186/s13054-024-05202-9",
+   "title": "Urinary proteomics identifies distinct immunological profiles of sepsis associated AKI sub-phenotypes",
+   "received": "30 July 2024",
+   "accepted": "2 December 2024",
+   "days": 125,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s13054-024-05192-8",
+   "title": "Core outcome set of daily monitoring of gastrointestinal function in adult critically ill patients: a modified Delphi consensus process (COSMOGI)",
+   "received": "22 September 2024",
+   "accepted": "27 November 2024",
+   "days": 66,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-024-05190-w",
+   "title": "Management of diabetic keto-acidosis in adult patients admitted to intensive care unit: an ESICM-endorsed international survey",
+   "received": "15 October 2024",
+   "accepted": "25 November 2024",
+   "days": 41,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-024-05191-9",
+   "title": "Baricitinib therapy in critical COVID-19: plenty of promise, but no hard evidence yet",
+   "received": "23 November 2024",
+   "accepted": "25 November 2024",
+   "days": 2,
+   "refs": 8
+  },
+  {
+   "doi": "10.1186/s13054-024-05195-5",
+   "title": "Structural, physiological or clinical outcomes to define urine output threshold in acute kidney injury",
+   "received": "25 November 2024",
+   "accepted": "27 November 2024",
+   "days": 2,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-024-05178-6",
+   "title": "Seven versus 14\u00a0days of antimicrobial therapy for severe multidrug-resistant Gram-negative bacterial infections in intensive care unit patients (OPTIMISE): a ra",
+   "received": "12 November 2024",
+   "accepted": "15 November 2024",
+   "days": 3,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-024-05201-w",
+   "title": "Associations between oxygenation status and prognosis in sepsis",
+   "received": "26 November 2024",
+   "accepted": "2 December 2024",
+   "days": 6,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-024-05208-3",
+   "title": "Timing of invasive mechanical ventilation in patients with sepsis: the impact of excluding non-intubated patients",
+   "received": "1 December 2024",
+   "accepted": "6 December 2024",
+   "days": 5,
+   "refs": 3
+  },
+  {
+   "doi": "10.1186/s13054-024-05205-6",
+   "title": "Aggressive therapies for intracranial hypertension after aneurysmal subarachnoid hemorrhage: a single-center experience",
+   "received": "30 October 2024",
+   "accepted": "5 December 2024",
+   "days": 36,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05172-y",
+   "title": "Contribution and evolution of respiratory muscles function in weaning outcome of ventilator-dependent patients",
+   "received": "8 August 2024",
+   "accepted": "13 November 2024",
+   "days": 97,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-024-05185-7",
+   "title": "Are crystalloid-based fluid expansion strategies still relevant in the first hours of trauma induced hemorrhagic shock?",
+   "received": "7 October 2024",
+   "accepted": "22 November 2024",
+   "days": 46,
+   "refs": 76
+  },
+  {
+   "doi": "10.1186/s13054-024-05206-5",
+   "title": "VExUS score in V-V ECMO: the B-wave",
+   "received": "19 November 2024",
+   "accepted": "6 December 2024",
+   "days": 17,
+   "refs": 3
+  },
+  {
+   "doi": "10.1186/s13054-024-05207-4",
+   "title": "Relationships between dyspnea, oxygenation and prognosis in hypoxemic respiratory failure",
+   "received": "1 December 2024",
+   "accepted": "6 December 2024",
+   "days": 5,
+   "refs": 1
+  },
+  {
+   "doi": "10.1186/s13054-024-05217-2",
+   "title": "Application and safety of speaking valves in tracheostomy patients",
+   "received": "8 December 2024",
+   "accepted": "14 December 2024",
+   "days": 6,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-024-05209-2",
+   "title": "Thiamine administration in septic shock: towards finding the target population",
+   "received": "24 November 2024",
+   "accepted": "6 December 2024",
+   "days": 12,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05200-x",
+   "title": "Comparison of methods to normalize urine output in critically ill patients: a multicenter cohort study",
+   "received": "24 October 2024",
+   "accepted": "2 December 2024",
+   "days": 39,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-024-05219-0",
+   "title": "Veno-venous extracorporeal membrane oxygenation as a bridge in central airway obstruction: experience from a high-volume center",
+   "received": "2 November 2024",
+   "accepted": "15 December 2024",
+   "days": 43,
+   "refs": 19
+  },
+  {
+   "doi": "10.1186/s13054-024-05211-8",
+   "title": "Intracranial multimodal monitoring in neurocritical care (Neurocore-iMMM): an open, decentralized consensus",
+   "received": "26 October 2024",
+   "accepted": "7 December 2024",
+   "days": 42,
+   "refs": 64
+  },
+  {
+   "doi": "10.1186/s13054-024-05187-5",
+   "title": "Comments on \u201cBaricitinib versus tocilizumab in mechanically ventilated patients with COVID-19: a nationwide cohort study\u201d",
+   "received": "19 November 2024",
+   "accepted": "22 November 2024",
+   "days": 3,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-024-05155-z",
+   "title": "Impact on fluid balance of an optimized restrictive strategy targeting non-resuscitative fluids in intensive care patients with septic shock: a single-blind, mu",
+   "received": "10 September 2024",
+   "accepted": "31 October 2024",
+   "days": 51,
+   "refs": 21
+  },
+  {
+   "doi": "10.1186/s13054-024-05226-1",
+   "title": "Red blood cell transfusion in brain injury: Is it solely a matter of hemoglobin threshold?",
+   "received": "13 December 2024",
+   "accepted": "19 December 2024",
+   "days": 6,
+   "refs": 8
+  },
+  {
+   "doi": "10.1186/s13054-024-05216-3",
+   "title": "Multiomic molecular patterns of lipid dysregulation in a subphenotype of sepsis with higher shock incidence and mortality",
+   "received": "1 October 2024",
+   "accepted": "14 December 2024",
+   "days": 74,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s13054-024-05220-7",
+   "title": "Use of extracorporeal blood purification therapies in sepsis: the current paradigm, available evidence, and future perspectives",
+   "received": "11 October 2024",
+   "accepted": "16 December 2024",
+   "days": 66,
+   "refs": 100
+  },
+  {
+   "doi": "10.1186/s13054-024-05198-2",
+   "title": "Family concerns in organ donor conversations: a qualitative embedded multiple-case study",
+   "received": "30 August 2024",
+   "accepted": "30 November 2024",
+   "days": 92,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s13054-024-05168-8",
+   "title": "Feasibility and safety of ultra-low volume ventilation (\u2264\u20093\u00a0ml/kg) combined with extra corporeal carbon dioxide removal (ECCO2R) in acute respiratory failure pa",
+   "received": "26 September 2024",
+   "accepted": "11 November 2024",
+   "days": 46,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-024-05215-4",
+   "title": "Definitions, epidemiology, and outcomes of persistent/chronic critical illness: a scoping review for translation to clinical practice",
+   "received": "19 October 2024",
+   "accepted": "14 December 2024",
+   "days": 56,
+   "refs": 126
+  },
+  {
+   "doi": "10.1186/s13054-024-05214-5",
+   "title": "High rates of cefiderocol plasma target attainment: results of a retrospective cohort study in 31 critically ill ICU patients",
+   "received": "18 October 2024",
+   "accepted": "12 December 2024",
+   "days": 55,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05228-z",
+   "title": "Dynamic assessment of signal entropy for prognostication and secondary brain insult detection after traumatic brain injury",
+   "received": "15 November 2024",
+   "accepted": "19 December 2024",
+   "days": 34,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-024-05229-y",
+   "title": "Hemoadsorption in cardiac surgery, limitations of low-risk patient selection and minimal cytokine levels",
+   "received": "17 December 2024",
+   "accepted": "19 December 2024",
+   "days": 2,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-024-05212-7",
+   "title": "Non-adrenergic vasopressors for vasodilatory shock or perioperative vasoplegia: a meta-analysis of randomized controlled trials",
+   "received": "4 September 2024",
+   "accepted": "8 December 2024",
+   "days": 95,
+   "refs": 82
+  },
+  {
+   "doi": "10.1186/s13054-024-05224-3",
+   "title": "The role of rapid multiplex molecular syndromic panels in the clinical management of infections in critically ill patients: an experts-opinion document",
+   "received": "19 October 2024",
+   "accepted": "19 December 2024",
+   "days": 61,
+   "refs": 194
+  },
+  {
+   "doi": "10.1186/s13054-024-05223-4",
+   "title": "Lack of up-to-date studies and data conversion may lead to biased results: a response to Wang et al",
+   "received": "24 October 2024",
+   "accepted": "19 December 2024",
+   "days": 56,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-024-05221-6",
+   "title": "Megakaryocyte in sepsis: the trinity of coagulation, inflammation and immunity",
+   "received": "6 November 2024",
+   "accepted": "18 December 2024",
+   "days": 42,
+   "refs": 110
+  },
+  {
+   "doi": "10.1186/s13054-024-05199-1",
+   "title": "Impact of lumbar cerebrospinal fluid drainage to control intracranial hypertension in patients with severe traumatic brain injury: a retrospective monocentric c",
+   "received": "8 September 2024",
+   "accepted": "2 December 2024",
+   "days": 85,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-024-05230-5",
+   "title": "Systemic inflammation and cardiac surgery: insights from the RECCAS trial",
+   "received": "17 December 2024",
+   "accepted": "19 December 2024",
+   "days": 2,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-024-05239-w",
+   "title": "Visualizing hemodynamics: innovative graphical displays and imaging techniques in anesthesia and critical care",
+   "received": "25 November 2024",
+   "accepted": "28 December 2024",
+   "days": 33,
+   "refs": 70
+  },
+  {
+   "doi": "10.1186/s13054-024-05203-8",
+   "title": "Clinical impact of healthcare-associated infections in Brazilian ICUs: a multicenter prospective cohort",
+   "received": "23 October 2024",
+   "accepted": "4 December 2024",
+   "days": 42,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-024-05084-x",
+   "title": "The development of a non-contact tachycardia and tachypnea monitoring system, a clinical trial on shock patients",
+   "received": "28 August 2024",
+   "accepted": "30 August 2024",
+   "days": 2,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05235-0",
+   "title": "Comparison of hypothermic and normothermic targeted temperature management in out-of-hospital cardiac arrest patients with acute coronary syndrome: a nationwide",
+   "received": "22 August 2024",
+   "accepted": "22 December 2024",
+   "days": 122,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-024-05240-3",
+   "title": "The elusive concept of appropriate antibiotic for septic patients when a pathogen is not detected by standard culture methods",
+   "received": "21 December 2024",
+   "accepted": "28 December 2024",
+   "days": 7,
+   "refs": 16
+  },
+  {
+   "doi": "10.1186/s13054-024-05189-3",
+   "title": "The impact of a tailored nutrition intervention delivered for the duration of hospitalisation on daily energy delivery for patients with critical illness (INTEN",
+   "received": "26 August 2024",
+   "accepted": "25 November 2024",
+   "days": 91,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-024-05241-2",
+   "title": "Limitation of life-sustaining treatments in Asian ICUs: theory versus practice",
+   "received": "24 December 2024",
+   "accepted": "29 December 2024",
+   "days": 5,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-024-05243-0",
+   "title": "Ventilation distribution during spontaneous breathing trials predicts liberation from mechanical ventilation: the VISION study",
+   "received": "4 November 2024",
+   "accepted": "31 December 2024",
+   "days": 57,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s13054-024-05247-w",
+   "title": "Intubate patients with sepsis before midnight or do it when the time comes?",
+   "received": "23 December 2024",
+   "accepted": "31 December 2024",
+   "days": 8,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-024-05218-1",
+   "title": "Response to: \u201cInhalation NO in the HFNC group may result in a meaningless extension of survival time\u201d",
+   "received": "10 December 2024",
+   "accepted": "14 December 2024",
+   "days": 4,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05234-1",
+   "title": "A tip for assessing blood flow in distal perfusion catheter during veno-arterial extracorporeal membrane oxygenation",
+   "received": "11 December 2024",
+   "accepted": "22 December 2024",
+   "days": 11,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-024-05246-x",
+   "title": "Efficacy of delivery of care with Tele-continuous EEG in critically ill patients: a multicenter randomized controlled trial (Tele-cRCT study) study",
+   "received": "22 October 2024",
+   "accepted": "31 December 2024",
+   "days": 70,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s13054-024-05236-z",
+   "title": "RECCAS, REMOVE, and SIRAKI02: discrepant outcomes and a potential explanation",
+   "received": "21 December 2024",
+   "accepted": "23 December 2024",
+   "days": 2,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-024-05248-9",
+   "title": "Development and external validation of a machine learning model for brain injury in pediatric patients on extracorporeal membrane oxygenation",
+   "received": "21 October 2024",
+   "accepted": "31 December 2024",
+   "days": 71,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-024-05238-x",
+   "title": "Changes in pulse pressure variation induced by passive leg raising test to predict preload responsiveness in mechanically ventilated patients with low tidal vol",
+   "received": "18 November 2024",
+   "accepted": "26 December 2024",
+   "days": 38,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05260-7",
+   "title": "Double cycling with breath-stacking during partial support ventilation in ARDS: Just a feature of natural variability?",
+   "received": "27 November 2024",
+   "accepted": "6 January 2025",
+   "days": 40,
+   "refs": 13
+  },
+  {
+   "doi": "10.1186/s13054-025-05261-6",
+   "title": "Revisiting the oxygen reactivity index in traumatic brain injury: the complementary value of combined focal and global autoregulation monitoring",
+   "received": "26 November 2024",
+   "accepted": "7 January 2025",
+   "days": 42,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s13054-024-05232-3",
+   "title": "A phase 2 randomized, placebo-controlled trial of inulin for the prevention of gut pathogen colonization and infection among patients admitted to the intensive ",
+   "received": "21 October 2024",
+   "accepted": "21 December 2024",
+   "days": 61,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-024-05244-z",
+   "title": "Understanding and addressing a \u2018difficult\u2019 family in ICU",
+   "received": "16 October 2024",
+   "accepted": "31 December 2024",
+   "days": 76,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-024-05222-5",
+   "title": "Creatinine production rate is an integrative indicator to monitor muscle status in critically ill patients",
+   "received": "15 October 2024",
+   "accepted": "18 December 2024",
+   "days": 64,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-024-05233-2",
+   "title": "Clinical features and factors associated with outcomes of antibody-negative autoimmune encephalitis in patients requiring intensive care",
+   "received": "12 September 2024",
+   "accepted": "22 December 2024",
+   "days": 101,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s13054-025-05258-1",
+   "title": "Metabolomic in severe traumatic brain injury: exploring primary, secondary injuries, diagnosis, and severity",
+   "received": "28 November 2024",
+   "accepted": "6 January 2025",
+   "days": 39,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s13054-025-05265-2",
+   "title": "Spectral edge frequency and dilation pupillary velocity in critically ill patients: a pilot study",
+   "received": "10 November 2024",
+   "accepted": "8 January 2025",
+   "days": 59,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05264-3",
+   "title": "Distribution of airway pressure opening in the lungs measured with electrical impedance tomography (POET): a prospective physiological study",
+   "received": "18 October 2024",
+   "accepted": "7 January 2025",
+   "days": 81,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05257-2",
+   "title": "Inhibition of Interleukin-40 prevents multi-organ damage during sepsis by blocking NETosis",
+   "received": "1 October 2024",
+   "accepted": "6 January 2025",
+   "days": 97,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s13054-025-05259-0",
+   "title": "Cardiovascular effects of lactate in healthy adults",
+   "received": "2 November 2024",
+   "accepted": "6 January 2025",
+   "days": 65,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s13054-024-05237-y",
+   "title": "Individualized PEEP titration by lung compliance during one-lung ventilation: a meta-analysis",
+   "received": "15 September 2024",
+   "accepted": "26 December 2024",
+   "days": 102,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05266-1",
+   "title": "Incidence of hospital-acquired infections due to carbapenem-resistant Enterobacterales and Pseudomonas aeruginosa in critically ill patients in Italy: a multice",
+   "received": "25 November 2024",
+   "accepted": "8 January 2025",
+   "days": 44,
+   "refs": 19
+  },
+  {
+   "doi": "10.1186/s13054-025-05253-6",
+   "title": "The role of phospholipid transfer protein in sepsis-associated acute kidney injury",
+   "received": "1 August 2024",
+   "accepted": "4 January 2025",
+   "days": 156,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05275-0",
+   "title": "In-hospital mortality of patients admitted to the intermediate care unit in hospitals with and without an intensive care unit: a nationwide inpatient database s",
+   "received": "1 November 2024",
+   "accepted": "14 January 2025",
+   "days": 74,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-024-05245-y",
+   "title": "Interpretable machine learning model for outcome prediction in patients with aneurysmatic subarachnoid hemorrhage",
+   "received": "11 November 2024",
+   "accepted": "31 December 2024",
+   "days": 50,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-024-05213-6",
+   "title": "Forty years on, why are we still publishing extracorporeal carbon dioxide removal feasibility studies?",
+   "received": "5 December 2024",
+   "accepted": "9 December 2024",
+   "days": 4,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05255-4",
+   "title": "The association of capillary refill time and return of spontaneous circulation during out-of-hospital cardiac arrest: an observational study",
+   "received": "18 September 2024",
+   "accepted": "4 January 2025",
+   "days": 108,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-024-05225-2",
+   "title": "Prehospital lactate analysis in suspected sepsis improves detection of patients with increased mortality risk: an observational study",
+   "received": "3 October 2024",
+   "accepted": "19 December 2024",
+   "days": 77,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05282-1",
+   "title": "Network of job demands-resources and depressive symptoms in critical care nurses: a nationwide cross-sectional study",
+   "received": "19 July 2024",
+   "accepted": "15 January 2025",
+   "days": 180,
+   "refs": 92
+  },
+  {
+   "doi": "10.1186/s13054-025-05271-4",
+   "title": "Renal replacement therapy in ICU: from conservative to restrictive strategy",
+   "received": "26 November 2024",
+   "accepted": "11 January 2025",
+   "days": 46,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05274-1",
+   "title": "Longitudinal analysis of in-hospital cardiac arrest: trends in the incidence, mortality, and long-term survival of a nationwide cohort",
+   "received": "13 November 2024",
+   "accepted": "14 January 2025",
+   "days": 62,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s13054-025-05262-5",
+   "title": "Sex disparities in ICU care and outcomes after cardiac arrest: a Swiss nationwide analysis",
+   "received": "13 November 2024",
+   "accepted": "7 January 2025",
+   "days": 55,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s13054-025-05278-x",
+   "title": "The role of programmed cell death in organ dysfunction induced by opportunistic pathogens",
+   "received": "30 August 2024",
+   "accepted": "15 January 2025",
+   "days": 138,
+   "refs": 180
+  },
+  {
+   "doi": "10.1186/s13054-025-05267-0",
+   "title": "Pulmonary pathology in culture-negative sepsis: a potential confounder for sepsis treatment and research",
+   "received": "6 January 2025",
+   "accepted": "8 January 2025",
+   "days": 2,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05268-z",
+   "title": "A few words of caution on blood purification in sepsis",
+   "received": "7 January 2025",
+   "accepted": "8 January 2025",
+   "days": 1,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05284-z",
+   "title": "Sorbents therapies in burn patients with septic shock on continuous kidney replacement therapy: an added value for a selected population",
+   "received": "14 January 2025",
+   "accepted": "16 January 2025",
+   "days": 2,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05279-w",
+   "title": "Solid-state esophageal pressure sensor for the estimation of pleural pressure: a bench and first-in-human validation study",
+   "received": "1 October 2024",
+   "accepted": "15 January 2025",
+   "days": 106,
+   "refs": 17
+  },
+  {
+   "doi": "10.1186/s13054-025-05273-2",
+   "title": "Early phosphate changes as potential indicator of unreadiness for artificial feeding: a secondary analysis of the EPaNIC RCT",
+   "received": "20 November 2024",
+   "accepted": "14 January 2025",
+   "days": 55,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s13054-025-05254-5",
+   "title": "Heterogeneity of treatment effect: the case for individualising oxygen therapy in critically ill patients",
+   "received": "26 November 2024",
+   "accepted": "4 January 2025",
+   "days": 39,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s13054-025-05269-y",
+   "title": "Effect of early administration of fibrinogen replacement therapy in traumatic haemorrhage: a systematic review and meta-analysis of randomised controlled trials",
+   "received": "29 October 2024",
+   "accepted": "9 January 2025",
+   "days": 72,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05287-w",
+   "title": "Association of healthy sleep patterns with incident sepsis: a large population-based prospective cohort\u00a0study",
+   "received": "23 October 2024",
+   "accepted": "18 January 2025",
+   "days": 87,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05296-9",
+   "title": "Ulinastatin treatment mitigates glycocalyx degradation and associated with lower postoperative delirium risk in patients undergoing cardiac surgery: a multicent",
+   "received": "18 October 2024",
+   "accepted": "22 January 2025",
+   "days": 96,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s13054-025-05298-7",
+   "title": "Enhancing cultural competence and communication in ICU: addressing family conflicts",
+   "received": "18 January 2025",
+   "accepted": "22 January 2025",
+   "days": 4,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05290-1",
+   "title": "Hallucinations and disturbed behaviour in the critically ill: incidence, patient characteristics, associations, trajectory, and outcomes",
+   "received": "1 December 2024",
+   "accepted": "21 January 2025",
+   "days": 51,
+   "refs": 23
+  },
+  {
+   "doi": "10.1186/s13054-025-05288-9",
+   "title": "Consistency between metagenomic next-generation sequencing versus traditional microbiological tests for infective disease: systemic review and meta-analysis",
+   "received": "17 October 2024",
+   "accepted": "18 January 2025",
+   "days": 93,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s13054-025-05285-y",
+   "title": "Relationship between skin microvascular blood flow and capillary refill time in critically ill patients",
+   "received": "21 November 2024",
+   "accepted": "16 January 2025",
+   "days": 56,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05256-3",
+   "title": "Clinical subtypes in critically ill patients with sepsis: validation and parsimonious classifier model development",
+   "received": "20 September 2024",
+   "accepted": "6 January 2025",
+   "days": 108,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05283-0",
+   "title": "\u201cThe NET effect\u201d: Neutrophil extracellular traps\u2014a potential key component of the dysregulated host immune response in sepsis",
+   "received": "4 November 2024",
+   "accepted": "16 January 2025",
+   "days": 73,
+   "refs": 189
+  },
+  {
+   "doi": "10.1186/s13054-025-05301-1",
+   "title": "Trendelenburg position is a reasonable alternative to passive leg raising for predicting volume responsiveness in mechanically ventilated patients in the ICU",
+   "received": "19 November 2024",
+   "accepted": "26 January 2025",
+   "days": 68,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05303-z",
+   "title": "Enhancing depression risk assessment in critical care nurses: a call for quantitative modeling",
+   "received": "25 January 2025",
+   "accepted": "29 January 2025",
+   "days": 4,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05281-2",
+   "title": "Effect of an intensive care unit virtual reality intervention on relatives\u00b4 mental health distress: a multicenter, randomized controlled trial",
+   "received": "22 November 2024",
+   "accepted": "15 January 2025",
+   "days": 54,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-025-05292-z",
+   "title": "Time to positivity as a predictor of catheter-related bacteremia and mortality in adults with Pseudomonas aeruginosa bloodstream infection",
+   "received": "22 November 2024",
+   "accepted": "21 January 2025",
+   "days": 60,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05263-4",
+   "title": "Assessment of recruitment from CT to the bedside: challenges and future directions",
+   "received": "15 November 2024",
+   "accepted": "7 January 2025",
+   "days": 53,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s13054-025-05277-y",
+   "title": "Potent P2Y12 inhibitors in patients with acute myocardial infarction and cardiogenic shock",
+   "received": "15 November 2024",
+   "accepted": "15 January 2025",
+   "days": 61,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-025-05276-z",
+   "title": "Postoperative sepsis and its sequential impact on dementia",
+   "received": "4 December 2024",
+   "accepted": "14 January 2025",
+   "days": 41,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05286-x",
+   "title": "Physiology and pathophysiology of mucus and mucolytic use in critically ill patients",
+   "received": "10 December 2024",
+   "accepted": "18 January 2025",
+   "days": 39,
+   "refs": 207
+  },
+  {
+   "doi": "10.1186/s13054-025-05270-5",
+   "title": "Liberal versus restrictive transfusion strategies in subarachnoid hemorrhage: a secondary analysis of the TRAIN study",
+   "received": "28 November 2024",
+   "accepted": "10 January 2025",
+   "days": 43,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-025-05293-y",
+   "title": "Noninvasive multimodal neuromonitoring in patients with post-cardiac arrest brain injury: a survey from China\u2019s intensive care units",
+   "received": "14 January 2025",
+   "accepted": "22 January 2025",
+   "days": 8,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05272-3",
+   "title": "Authors\u2019 response to: Relationship between leukopenia and mortality among patients with haematological malignancies",
+   "received": "5 January 2025",
+   "accepted": "11 January 2025",
+   "days": 6,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05302-0",
+   "title": "Comparative evaluation and performance of large language models on expert level critical care questions: a benchmark study",
+   "received": "19 December 2024",
+   "accepted": "27 January 2025",
+   "days": 39,
+   "refs": 22
+  },
+  {
+   "doi": "10.1186/s13054-025-05300-2",
+   "title": "Pertussis infection in critically ill infants: meta-analysis and validation of a mortality score",
+   "received": "28 November 2024",
+   "accepted": "26 January 2025",
+   "days": 59,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s13054-025-05307-9",
+   "title": "Death by p-value: the overreliance on p-values in critical care research",
+   "received": "20 January 2025",
+   "accepted": "1 February 2025",
+   "days": 12,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-025-05312-y",
+   "title": "The acute microbiota injury",
+   "received": "1 February 2025",
+   "accepted": "6 February 2025",
+   "days": 5,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05249-2",
+   "title": "Early high-sensitivity troponin elevation and short-term mortality in sepsis: a systematic review with meta-analysis",
+   "received": "6 November 2024",
+   "accepted": "3 January 2025",
+   "days": 58,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05306-w",
+   "title": "Urinary proteomics in sepsis-associated AKI",
+   "received": "30 January 2025",
+   "accepted": "1 February 2025",
+   "days": 2,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s13054-025-05295-w",
+   "title": "Impact of age and mean intracranial pressure on the morphology of\u00a0intracranial pressure waveform and its association with mortality in\u00a0traumatic brain injury",
+   "received": "10 December 2024",
+   "accepted": "22 January 2025",
+   "days": 43,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05305-x",
+   "title": "Individual mHLA-DR trajectories in the ICU as predictors of early infections following liver transplantation: a prospective observational study",
+   "received": "14 November 2024",
+   "accepted": "30 January 2025",
+   "days": 77,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05316-8",
+   "title": "The green ICU: how to interpret green? A multiple perspective approach",
+   "received": "17 December 2024",
+   "accepted": "9 February 2025",
+   "days": 54,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s13054-025-05311-z",
+   "title": "An index of the initial blood pressure response to angiotensin II treatment and its association with clinical outcomes in vasodilatory shock",
+   "received": "30 November 2024",
+   "accepted": "6 February 2025",
+   "days": 68,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05317-7",
+   "title": "Limitations of SpO2 / FiO2-ratio for classification and monitoring of acute respiratory distress syndrome\u2014an observational cohort study",
+   "received": "27 November 2024",
+   "accepted": "9 February 2025",
+   "days": 74,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05310-0",
+   "title": "Gaps in PLTP mechanism research in sepsis-associated acute kidney injury and improvement strategies based on new evidence",
+   "received": "31 January 2025",
+   "accepted": "6 February 2025",
+   "days": 6,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05299-6",
+   "title": "Discarded intravenous medication in the ICU: the GAME-OVER multicenter prospective observational study",
+   "received": "28 November 2024",
+   "accepted": "23 January 2025",
+   "days": 56,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-025-05294-x",
+   "title": "Assessing fluid responsiveness with central venous oxygen saturation: the complex relationship between oxygenation and perfusion",
+   "received": "18 January 2025",
+   "accepted": "22 January 2025",
+   "days": 4,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05315-9",
+   "title": "Human judgment error in the intensive care unit: a perspective on bias and noise",
+   "received": "27 September 2024",
+   "accepted": "9 February 2025",
+   "days": 135,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05318-6",
+   "title": "Tocilizumab in treating children with refractory septic shock",
+   "received": "10 February 2025",
+   "accepted": "12 February 2025",
+   "days": 2,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05291-0",
+   "title": "A narrative review on the future of ARDS: evolving definitions, pathophysiology, and tailored management",
+   "received": "26 November 2024",
+   "accepted": "21 January 2025",
+   "days": 56,
+   "refs": 64
+  },
+  {
+   "doi": "10.1186/s13054-025-05309-7",
+   "title": "A review of gut failure as a cause and consequence of critical illness",
+   "received": "3 October 2024",
+   "accepted": "5 February 2025",
+   "days": 125,
+   "refs": 346
+  },
+  {
+   "doi": "10.1186/s13054-025-05280-3",
+   "title": "Response to \u201cRelationships between dyspnea, oxygenation and prognosis in hypoxemic respiratory failure\u201d",
+   "received": "9 January 2025",
+   "accepted": "15 January 2025",
+   "days": 6,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05308-8",
+   "title": "Volume kinetics in a translational porcine model of stabilized sepsis with fluid accumulation",
+   "received": "23 October 2024",
+   "accepted": "5 February 2025",
+   "days": 105,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05313-x",
+   "title": "Effect of trunk upward verticalization on pulmonary vascular resistance in ARDS",
+   "received": "4 February 2025",
+   "accepted": "6 February 2025",
+   "days": 2,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05322-w",
+   "title": "Further considerations on the clinical applicability of time to positivity as a prognostic tool for catheter-related pseudomonas aeruginosa bloodstream infectio",
+   "received": "12 February 2025",
+   "accepted": "15 February 2025",
+   "days": 3,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05332-8",
+   "title": "Electrical impedance tomography-guided the optimal awake prone position in a moderate ARDS patient",
+   "received": "9 February 2025",
+   "accepted": "22 February 2025",
+   "days": 13,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05320-y",
+   "title": "Study on the diagnostic role of exosome-derived miRNAs in postoperative septic shock and non-septic shock patients",
+   "received": "20 December 2024",
+   "accepted": "15 February 2025",
+   "days": 57,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s13054-025-05319-5",
+   "title": "An international observational study validating gene-expression sepsis immune subgroups",
+   "received": "9 December 2024",
+   "accepted": "15 February 2025",
+   "days": 68,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05327-5",
+   "title": "Alterations in the lipid profile of critically ill children in relation to outcome",
+   "received": "13 January 2025",
+   "accepted": "21 February 2025",
+   "days": 39,
+   "refs": 22
+  },
+  {
+   "doi": "10.1186/s13054-025-05328-4",
+   "title": "Development and validation of intracranial hypertension prediction models based on radiomic features in patients with traumatic brain injury: an exploratory stu",
+   "received": "6 December 2024",
+   "accepted": "21 February 2025",
+   "days": 77,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-025-05336-4",
+   "title": "Machine learning models compared with current clinical indices to predict the outcome of high flow nasal cannula therapy in acute hypoxemic respiratory failure",
+   "received": "10 December 2024",
+   "accepted": "22 February 2025",
+   "days": 74,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-025-05335-5",
+   "title": "Standardizing persistent and chronic critical illness: impact of definitions variability on prevalence and mortality",
+   "received": "16 February 2025",
+   "accepted": "22 February 2025",
+   "days": 6,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05330-w",
+   "title": "Sodium azide (NaN3) intoxication, \u201cthe man who lived\u201d: potential effective antidote and treatment strategy",
+   "received": "18 November 2024",
+   "accepted": "22 February 2025",
+   "days": 96,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-025-05326-6",
+   "title": "Being an observer of one\u2019s own life\u2014a meta-synthesis on the experience of mechanically ventilated patients in intensive care units",
+   "received": "17 January 2025",
+   "accepted": "21 February 2025",
+   "days": 35,
+   "refs": 87
+  },
+  {
+   "doi": "10.1186/s13054-025-05323-9",
+   "title": "Net albumin leakage in patients in the ICU with suspected sepsis. A prospective analysis using mass balance calculations",
+   "received": "23 August 2024",
+   "accepted": "16 February 2025",
+   "days": 177,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-025-05325-7",
+   "title": "Individualized PEEP can improve both pulmonary hemodynamics and lung function in acute lung injury",
+   "received": "3 January 2025",
+   "accepted": "21 February 2025",
+   "days": 49,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-025-05331-9",
+   "title": "Efficacy and safety of gastrodin in preventing postoperative delirium following cardiac surgery: a randomized placebo controlled clinical trial",
+   "received": "18 November 2024",
+   "accepted": "22 February 2025",
+   "days": 96,
+   "refs": 23
+  },
+  {
+   "doi": "10.1186/s13054-025-05339-1",
+   "title": "Advancements in imaging techniques for monitoring the respiratory muscles",
+   "received": "8 January 2025",
+   "accepted": "25 February 2025",
+   "days": 48,
+   "refs": 112
+  },
+  {
+   "doi": "10.1186/s13054-025-05338-2",
+   "title": "The promise of transcranial focused ultrasound in disorders of consciousness: a narrative review",
+   "received": "6 December 2024",
+   "accepted": "25 February 2025",
+   "days": 81,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05348-0",
+   "title": "Short and long-term complications of prehospital arterial catheterisation performed by a Helicopter Emergency Medical Service in the United Kingdom",
+   "received": "24 February 2025",
+   "accepted": "27 February 2025",
+   "days": 3,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05349-z",
+   "title": "Characteristics, outcomes, and complications among nonagenarian and centenarian patients admitted to the intensive care unit: a scoping review",
+   "received": "15 December 2024",
+   "accepted": "28 February 2025",
+   "days": 75,
+   "refs": 71
+  },
+  {
+   "doi": "10.1186/s13054-025-05341-7",
+   "title": "Impact of comorbidities on management and outcomes of patients weaning from invasive mechanical ventilation: insights from the WEAN SAFE study",
+   "received": "18 December 2024",
+   "accepted": "25 February 2025",
+   "days": 69,
+   "refs": 17
+  },
+  {
+   "doi": "10.1186/s13054-025-05346-2",
+   "title": "Lactate infusion improves cardiac function in a porcine model of ischemic cardiogenic shock",
+   "received": "10 January 2025",
+   "accepted": "27 February 2025",
+   "days": 48,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s13054-025-05344-4",
+   "title": "Social media insights on sepsis management using advanced natural language processing techniques",
+   "received": "17 February 2025",
+   "accepted": "26 February 2025",
+   "days": 9,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05340-8",
+   "title": "Subphenotyping prone position responders with machine learning",
+   "received": "21 November 2024",
+   "accepted": "25 February 2025",
+   "days": 96,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05347-1",
+   "title": "Streamlining data recording through optical character recognition: a prospective multi-center study in intensive care units",
+   "received": "24 January 2025",
+   "accepted": "27 February 2025",
+   "days": 34,
+   "refs": 18
+  },
+  {
+   "doi": "10.1186/s13054-025-05355-1",
+   "title": "The sicker the patient, the higher the mortality",
+   "received": "28 February 2025",
+   "accepted": "4 March 2025",
+   "days": 4,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-025-05321-x",
+   "title": "ICU mortality of post-myocardial infarction ventricular septal defect complicated by cardiogenic shock: a retrospective multicentric cohort",
+   "received": "2 January 2025",
+   "accepted": "15 February 2025",
+   "days": 44,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-025-05297-8",
+   "title": "Early exercise therapy in patients with severe traumatic spinal cord injury: is it feasible in the ICU?",
+   "received": "18 January 2025",
+   "accepted": "22 January 2025",
+   "days": 4,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05358-y",
+   "title": "Cardiovascular effects of lactate in healthy adults: D-lactate, the forgotten enantiomer",
+   "received": "3 March 2025",
+   "accepted": "6 March 2025",
+   "days": 3,
+   "refs": 14
+  },
+  {
+   "doi": "10.1186/s13054-025-05352-4",
+   "title": "Questioning the classification of \u201chigh blood flow\u201d versus \u201clow blood flow\u201d ECCO\u2082R in ultra-low tidal volume ventilation studies: a call for functional classifi",
+   "received": "28 February 2025",
+   "accepted": "3 March 2025",
+   "days": 3,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05353-3",
+   "title": "Rethinking caution: a critical appraisal of extracorporeal blood purification in sepsis",
+   "received": "23 February 2025",
+   "accepted": "3 March 2025",
+   "days": 8,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05362-2",
+   "title": "Intraosseous versus intravenous vascular access in out-of-hospital cardiac arrest: a systematic review and meta-analysis of randomized controlled trials",
+   "received": "9 January 2025",
+   "accepted": "7 March 2025",
+   "days": 57,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s13054-025-05363-1",
+   "title": "Clinical outcomes and peripheral tissue oxygen saturation monitoring of the knee region by near-infrared spectroscopy in circulatory shock: a prospective observ",
+   "received": "21 December 2024",
+   "accepted": "7 March 2025",
+   "days": 76,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-025-05342-6",
+   "title": "Haloperidol in treating delirium, reducing mortality, and preventing delirium occurrence: Bayesian and frequentist meta-analyses",
+   "received": "28 October 2024",
+   "accepted": "26 February 2025",
+   "days": 121,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s13054-025-05351-5",
+   "title": "Epidemiology of sepsis-associated acute kidney injury in the ICU with contemporary consensus definitions",
+   "received": "23 November 2024",
+   "accepted": "3 March 2025",
+   "days": 100,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05333-7",
+   "title": "The mechanism of PLTP on sepsis-associated acute kidney injury: some hints",
+   "received": "14 February 2025",
+   "accepted": "22 February 2025",
+   "days": 8,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05354-2",
+   "title": "The novel biomarker t6A accurately identified septic patients at admission but failed to predict outcome",
+   "received": "12 February 2025",
+   "accepted": "4 March 2025",
+   "days": 20,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05343-5",
+   "title": "Ventilation-induced acute kidney injury in acute respiratory failure: Do PEEP levels matter?",
+   "received": "28 November 2024",
+   "accepted": "26 February 2025",
+   "days": 90,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s13054-025-05367-x",
+   "title": "Influence of SARS-CoV-2 variants and corticosteroid use on the effectiveness of baricitinib therapy in critical COVID-19",
+   "received": "7 March 2025",
+   "accepted": "11 March 2025",
+   "days": 4,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05357-z",
+   "title": "Detection of hypovolemia by non-invasive hemodynamic monitoring during major surgery using Ringer\u00b4s solution, 5% albumin, or 20% albumin as infusion fluid: a po",
+   "received": "10 January 2025",
+   "accepted": "6 March 2025",
+   "days": 55,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s13054-025-05382-y",
+   "title": "Elevated serum pre-arrest cathepsin D concentrations are associated with higher mortality in in-hospital cardiac arrest",
+   "received": "13 February 2025",
+   "accepted": "20 March 2025",
+   "days": 35,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05364-0",
+   "title": "Influence of alcohol on in-hospital survival rate among patients with traumatic brain injury: a nationwide cohort study",
+   "received": "21 December 2024",
+   "accepted": "9 March 2025",
+   "days": 78,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05380-0",
+   "title": "Bayesian methods as a complementary tool: balancing innovation and rigor in critical care research",
+   "received": "18 March 2025",
+   "accepted": "19 March 2025",
+   "days": 1,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s13054-025-05361-3",
+   "title": "Complementary role of transcriptomic endotyping and protein-based biomarkers for risk stratification in sepsis-associated acute kidney injury",
+   "received": "7 January 2025",
+   "accepted": "7 March 2025",
+   "days": 59,
+   "refs": 51
+  },
+  {
+   "doi": "10.1186/s13054-025-05356-0",
+   "title": "Association between mean hemodynamic variables during the first 24\u00a0h and outcomes in cardiogenic shock: identification of clinically relevant thresholds",
+   "received": "26 November 2024",
+   "accepted": "6 March 2025",
+   "days": 100,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s13054-025-05368-w",
+   "title": "Adjuvant therapies for management of hemorrhagic shock: a narrative review",
+   "received": "15 January 2025",
+   "accepted": "12 March 2025",
+   "days": 56,
+   "refs": 154
+  },
+  {
+   "doi": "10.1186/s13054-025-05360-4",
+   "title": "Unlocking the potential of high-resolution multimodality neuromonitoring for traumatic brain injury management: lessons and insights from cases, events, and pat",
+   "received": "8 January 2025",
+   "accepted": "6 March 2025",
+   "days": 57,
+   "refs": 75
+  },
+  {
+   "doi": "10.1186/s13054-025-05373-z",
+   "title": "Presence of psychologists in the French intensive care units: a gap between requirements and practice",
+   "received": "28 February 2025",
+   "accepted": "14 March 2025",
+   "days": 14,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05379-7",
+   "title": "Structural and functional alteration of the gut microbiomes in ICU staff: a cross-sectional analysis",
+   "received": "23 January 2025",
+   "accepted": "19 March 2025",
+   "days": 55,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s13054-025-05370-2",
+   "title": "Further considerations on the clinical applicability of time to positivity as a prognostic tool for catheter-related Pseudomonas aeruginosa bloodstream infectio",
+   "received": "7 March 2025",
+   "accepted": "13 March 2025",
+   "days": 6,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-025-05365-z",
+   "title": "The role of the Corsano CardioWatch in continuous vital sign monitoring for early sepsis detection",
+   "received": "28 February 2025",
+   "accepted": "9 March 2025",
+   "days": 9,
+   "refs": 1
+  },
+  {
+   "doi": "10.1186/s13054-025-05337-3",
+   "title": "Response to comments from Dr Vahedian-Azim related to our recent article Understanding and addressing a \u2018difficult\u2019 family in ICU",
+   "received": "9 February 2025",
+   "accepted": "22 February 2025",
+   "days": 13,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05376-w",
+   "title": "Prognosis of liver abscess in the intensive care unit (POLAIR), a multicentre observational study",
+   "received": "14 January 2025",
+   "accepted": "17 March 2025",
+   "days": 62,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05369-9",
+   "title": "Monitoring patients with acute respiratory failure during non-invasive respiratory support to minimize harm and identify treatment failure",
+   "received": "20 December 2024",
+   "accepted": "13 March 2025",
+   "days": 83,
+   "refs": 126
+  },
+  {
+   "doi": "10.1186/s13054-025-05350-6",
+   "title": "Incidence and risk factors of weaning-induced pulmonary oedema: results from a multicentre, observational study",
+   "received": "8 July 2024",
+   "accepted": "3 March 2025",
+   "days": 238,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s13054-025-05389-5",
+   "title": "A randomized controlled trial of catheters with different tips and lengths for patients requiring continuous renal replacement therapy in intensive care unit",
+   "received": "9 January 2025",
+   "accepted": "27 March 2025",
+   "days": 77,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05378-8",
+   "title": "Multimodal assessment of favorable neurological outcome using NSE levels and kinetics, EEG and SSEP in comatose patients after cardiac arrest",
+   "received": "14 January 2025",
+   "accepted": "18 March 2025",
+   "days": 63,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s13054-025-05372-0",
+   "title": "Hallucinations in critically ill patients: understanding the unreal",
+   "received": "13 March 2025",
+   "accepted": "14 March 2025",
+   "days": 1,
+   "refs": 8
+  },
+  {
+   "doi": "10.1186/s13054-025-05388-6",
+   "title": "Caution when analyzing zero events in both arms: reanalysis of anaphylaxis risk for gelatin solutions",
+   "received": "19 March 2025",
+   "accepted": "26 March 2025",
+   "days": 7,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05391-x",
+   "title": "Fluid balance and outcome in cardiac arrest patients admitted to intensive care unit",
+   "received": "22 January 2025",
+   "accepted": "27 March 2025",
+   "days": 64,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s13054-025-05374-y",
+   "title": "Exogenous lactate infusion (ELI) in traumatic brain injury: higher dose is better?",
+   "received": "1 February 2025",
+   "accepted": "15 March 2025",
+   "days": 42,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05390-y",
+   "title": "Clinical features and treatments of VEXAS syndrome in critical care: a scoping review",
+   "received": "5 February 2025",
+   "accepted": "27 March 2025",
+   "days": 50,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s13054-025-05392-w",
+   "title": "Peri-intubation adverse events and clinical outcomes in emergency department patients: the BARCO study",
+   "received": "11 February 2025",
+   "accepted": "27 March 2025",
+   "days": 44,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05386-8",
+   "title": "\u201cHigh blood flow\u201d versus \u201clow blood flow\u201d ECCO2R: how to classify\u2014author\u2019s reply",
+   "received": "20 March 2025",
+   "accepted": "24 March 2025",
+   "days": 4,
+   "refs": 12
+  },
+  {
+   "doi": "10.1186/s13054-025-05375-x",
+   "title": "Prevalence and incidence of cognitive impairment following acute respiratory distress syndrome of any cause: a systematic review and meta-analysis",
+   "received": "9 January 2025",
+   "accepted": "16 March 2025",
+   "days": 66,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s13054-025-05359-x",
+   "title": "Diagnostic accuracy of multi-organ point-of-care ultrasound for pulmonary embolism in critically ill patients: a systematic review and meta-analysis",
+   "received": "21 January 2025",
+   "accepted": "6 March 2025",
+   "days": 44,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05393-9",
+   "title": "Outcomes and cost-effectiveness of intermediate care units for patients discharged from the intensive care unit: a nationwide retrospective observational study",
+   "received": "24 December 2024",
+   "accepted": "28 March 2025",
+   "days": 94,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05383-x",
+   "title": "Early administration of vitamin C in patients with sepsis or septic shock in emergency departments: a multicenter, double-blind, randomized controlled trial: th",
+   "received": "9 December 2024",
+   "accepted": "23 March 2025",
+   "days": 104,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05399-3",
+   "title": "Health-related quality of life correlates with patient-reported and proxy-reported disability in critical illness survivors: a secondary analysis of the ERIC tr",
+   "received": "20 February 2025",
+   "accepted": "31 March 2025",
+   "days": 39,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s13054-025-05387-7",
+   "title": "Neurological outcomes and mortality following hyperoxemia in adult patients with acute brain injury: an updated meta-analysis and meta-regression",
+   "received": "5 February 2025",
+   "accepted": "24 March 2025",
+   "days": 47,
+   "refs": 111
+  },
+  {
+   "doi": "10.1186/s13054-025-05377-9",
+   "title": "The impact of different rates of sodium reduction on the central nervous system in acute hypernatremia in rabbits",
+   "received": "5 January 2025",
+   "accepted": "18 March 2025",
+   "days": 72,
+   "refs": 18
+  },
+  {
+   "doi": "10.1186/s13054-025-05405-8",
+   "title": "Effects of rapid chest compression technique on intracranial and cerebral perfusion pressures in acute neurocritical patients: a randomized controlled trial",
+   "received": "14 February 2025",
+   "accepted": "4 April 2025",
+   "days": 49,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05418-3",
+   "title": "Letter to the editor regarding \u201cStructural and functional alteration of the gut microbiomes in ICU staff: a cross-sectional analysis\u201d",
+   "received": "11 April 2025",
+   "accepted": "14 April 2025",
+   "days": 3,
+   "refs": 1
+  },
+  {
+   "doi": "10.1186/s13054-025-05413-8",
+   "title": "Haloperidol is not the \u201cone drug fits all\u201d solution in the treatment of delirium",
+   "received": "6 April 2025",
+   "accepted": "9 April 2025",
+   "days": 3,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05407-6",
+   "title": "Cardiovascular effects of lactate in healthy adults: d-lactate, the forgotten enantiomer\u2014authors' reply",
+   "received": "2 April 2025",
+   "accepted": "8 April 2025",
+   "days": 6,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05329-3",
+   "title": "Pyroptosis in sepsis-associated acute kidney injury: mechanisms and therapeutic perspectives",
+   "received": "18 February 2025",
+   "accepted": "21 February 2025",
+   "days": 3,
+   "refs": 141
+  },
+  {
+   "doi": "10.1186/s13054-025-05394-8",
+   "title": "Regional barriers in POCUS training",
+   "received": "16 March 2025",
+   "accepted": "28 March 2025",
+   "days": 12,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05408-5",
+   "title": "Elevated antibiotic resistance gene abundance of ICU healthcare workers, a multicentre, cross-sectional study",
+   "received": "20 February 2025",
+   "accepted": "8 April 2025",
+   "days": 47,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05414-7",
+   "title": "Procalcitonin levels in septic and nonseptic subjects with AKI and ESKD prior to and during continuous kidney replacement therapy (CKRT)",
+   "received": "3 February 2025",
+   "accepted": "11 April 2025",
+   "days": 67,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s13054-025-05409-4",
+   "title": "Lack of preload responsiveness may determine poor clinical outcomes in mechanically ventilated patients with ARDS",
+   "received": "1 February 2025",
+   "accepted": "8 April 2025",
+   "days": 66,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05395-7",
+   "title": "An urgent call to publish COVID-19 trials: a systematic search revealed ZERO studies regarding the incidence of thromboembolic events in SARS-CoV-2 Omicron-infe",
+   "received": "27 February 2025",
+   "accepted": "28 March 2025",
+   "days": 29,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05410-x",
+   "title": "Diagnosis of in-hospital mortality using admission CT perfusion in severe traumatic brain injury patients (ACT-TBI study)",
+   "received": "25 December 2024",
+   "accepted": "8 April 2025",
+   "days": 104,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05396-6",
+   "title": "The urea-to-creatinine ratio as an emerging biomarker in critical care: a scoping review and meta-analysis",
+   "received": "28 December 2024",
+   "accepted": "28 March 2025",
+   "days": 90,
+   "refs": 85
+  },
+  {
+   "doi": "10.1186/s13054-025-05416-5",
+   "title": "Erroneous calibration of esophageal pressure in case of airway closure",
+   "received": "23 March 2025",
+   "accepted": "12 April 2025",
+   "days": 20,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-025-05398-4",
+   "title": "SIGH35 and end-expiratory occlusion test for assessing fluid responsiveness in critically ill patients undergoing pressure support ventilation",
+   "received": "15 February 2025",
+   "accepted": "31 March 2025",
+   "days": 44,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05324-8",
+   "title": "Cytomegalovirus reactivation in the lower respiratory tract as an independent risk factor for mortality in critically Ill patients",
+   "received": "17 November 2024",
+   "accepted": "17 February 2025",
+   "days": 92,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05381-z",
+   "title": "Depression or anxiety and long-term mortality among adult survivors of intensive care unit: a population-based cohort study",
+   "received": "28 November 2024",
+   "accepted": "20 March 2025",
+   "days": 112,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-025-05411-w",
+   "title": "Dynamic intra-abdominal organ volume changes in patients with sepsis",
+   "received": "25 March 2025",
+   "accepted": "8 April 2025",
+   "days": 14,
+   "refs": 3
+  },
+  {
+   "doi": "10.1186/s13054-025-05397-5",
+   "title": "Liberal transfusion strategies reduce sepsis risk and improve neurological recovery in acute brain injury: an updated systematic review and meta-analysis",
+   "received": "27 January 2025",
+   "accepted": "31 March 2025",
+   "days": 63,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05400-z",
+   "title": "Early norepinephrine for patients with septic shock: an updated systematic review and meta-analysis with trial sequential analysis",
+   "received": "13 December 2024",
+   "accepted": "2 April 2025",
+   "days": 110,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05366-y",
+   "title": "Physiological comparison of noninvasive ventilation and high-flow nasal oxygen on inspiratory efforts and tidal volumes after extubation: a randomized crossover",
+   "received": "26 August 2024",
+   "accepted": "10 March 2025",
+   "days": 196,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s13054-025-05334-6",
+   "title": "Association between plasma catecholamine concentration and mortality in hospitalized adults with COVID-19: a secondary analysis of a multicenter randomized tria",
+   "received": "12 February 2025",
+   "accepted": "22 February 2025",
+   "days": 10,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05412-9",
+   "title": "Optimizing colistin dosing in patients undergoing continuous kidney replacement therapy: critical considerations for intensivists",
+   "received": "5 April 2025",
+   "accepted": "9 April 2025",
+   "days": 4,
+   "refs": 16
+  },
+  {
+   "doi": "10.1186/s13054-025-05345-3",
+   "title": "Left ventricular unloading during extracorporeal cardiopulmonary resuscitation: a target trial emulation of the ELSO registry",
+   "received": "4 January 2025",
+   "accepted": "27 February 2025",
+   "days": 54,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s13054-025-05422-7",
+   "title": "Time to administer polymyxin B hemoperfusion and hemodynamics in patients with septic shock requiring high-dose norepinephrine: a predetermined analysis of a pr",
+   "received": "4 September 2024",
+   "accepted": "19 April 2025",
+   "days": 227,
+   "refs": 22
+  },
+  {
+   "doi": "10.1186/s13054-025-05401-y",
+   "title": "Effect of early adjunctive vasopressin initiation for septic shock patients: a target trial emulation",
+   "received": "8 February 2025",
+   "accepted": "2 April 2025",
+   "days": 53,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s13054-025-05402-x",
+   "title": "The influence of electronic AKI alert on prognosis of adult hospitalized patients: a systematic review and meta-analysis",
+   "received": "12 December 2024",
+   "accepted": "2 April 2025",
+   "days": 111,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s13054-025-05436-1",
+   "title": "Diaphragmatic ultrasound and its relationship to breathing effort and load: a prospective observational study",
+   "received": "15 January 2025",
+   "accepted": "26 April 2025",
+   "days": 101,
+   "refs": 58
+  },
+  {
+   "doi": "10.1186/s13054-025-05455-y",
+   "title": "Predicting in-hospital mortality in severe traumatic brain injury patients using admission CT perfusion",
+   "received": "6 May 2025",
+   "accepted": "9 May 2025",
+   "days": 3,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05419-2",
+   "title": "Peri-intubation complications in critically ill obese patients: a secondary analysis of the international INTUBE cohort",
+   "received": "18 February 2025",
+   "accepted": "15 April 2025",
+   "days": 56,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05441-4",
+   "title": "Traditional Chinese medicine for sepsis: advancing from evidence to innovative drug discovery",
+   "received": "21 February 2025",
+   "accepted": "3 May 2025",
+   "days": 71,
+   "refs": 100
+  },
+  {
+   "doi": "10.1186/s13054-025-05385-9",
+   "title": "The \u201cmechanical paradox\u201d unveiled: a physiological study",
+   "received": "18 January 2025",
+   "accepted": "24 March 2025",
+   "days": 65,
+   "refs": 18
+  },
+  {
+   "doi": "10.1186/s13054-025-05437-0",
+   "title": "Optimum electrical impedance tomography-based PEEP and recruitment-to-inflation ratio in patients with severe ARDS on venovenous ECMO",
+   "received": "16 February 2025",
+   "accepted": "28 April 2025",
+   "days": 71,
+   "refs": 16
+  },
+  {
+   "doi": "10.1186/s13054-025-05432-5",
+   "title": "Individualized mean arterial pressure targets in critically ill patients guided by non-invasive cerebral-autoregulation: a scoping review",
+   "received": "26 February 2025",
+   "accepted": "23 April 2025",
+   "days": 56,
+   "refs": 84
+  },
+  {
+   "doi": "10.1186/s13054-025-05415-6",
+   "title": "Plasma H3.1 nucleosomes as biomarkers of infection, inflammation and organ failure",
+   "received": "7 February 2025",
+   "accepted": "11 April 2025",
+   "days": 63,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s13054-025-05444-1",
+   "title": "The personalized treatment of invasive candidiasis still has a long way to go",
+   "received": "2 May 2025",
+   "accepted": "5 May 2025",
+   "days": 3,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-025-05423-6",
+   "title": "Identifying a unique signature of sepsis in patients with pre-existing cirrhosis",
+   "received": "22 November 2024",
+   "accepted": "19 April 2025",
+   "days": 148,
+   "refs": 56
+  },
+  {
+   "doi": "10.1186/s13054-025-05431-6",
+   "title": "Reliability of pre-admission patient-reported outcome measures postoperatively assessed via proxies: a prospective, multicenter observational study",
+   "received": "16 February 2025",
+   "accepted": "23 April 2025",
+   "days": 66,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05421-8",
+   "title": "Severe listeriosis in intensive care units: insights from a retrospective multicentric study",
+   "received": "14 February 2025",
+   "accepted": "17 April 2025",
+   "days": 62,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-025-05446-z",
+   "title": "Labour market attachment before and after hospitalisation for sepsis: a Danish cohort study",
+   "received": "25 February 2025",
+   "accepted": "7 May 2025",
+   "days": 71,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05434-3",
+   "title": "Circular material flow of medication in the intensive care unit",
+   "received": "14 February 2025",
+   "accepted": "23 April 2025",
+   "days": 68,
+   "refs": 22
+  },
+  {
+   "doi": "10.1186/s13054-025-05442-3",
+   "title": "Re-evaluating the association between alcohol use and in-hospital survival: the role of collider bias",
+   "received": "27 April 2025",
+   "accepted": "4 May 2025",
+   "days": 7,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-025-05439-y",
+   "title": "Biomarkers in acute kidney injury settings to predict interventions and outcomes: the MARKISIO study",
+   "received": "24 April 2025",
+   "accepted": "28 April 2025",
+   "days": 4,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05371-1",
+   "title": "Endotoxin hemoadsorption in refractory septic shock with multiorgan dysfunction and extreme endotoxin activity",
+   "received": "14 December 2024",
+   "accepted": "14 March 2025",
+   "days": 90,
+   "refs": 20
+  },
+  {
+   "doi": "10.1186/s13054-025-05458-9",
+   "title": "Cerebral perfusion pressure targets after traumatic brain injury: a reappraisal",
+   "received": "15 April 2025",
+   "accepted": "11 May 2025",
+   "days": 26,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05445-0",
+   "title": "First dose target attainment with extended infusion regimens of piperacillin and meropenem",
+   "received": "4 February 2025",
+   "accepted": "7 May 2025",
+   "days": 92,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05456-x",
+   "title": "Detection of cytomegalovirus in the lower respiratory tract among patients with critical illness: uncovering enhanced potential benefits",
+   "received": "7 May 2025",
+   "accepted": "9 May 2025",
+   "days": 2,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05425-4",
+   "title": "Application of one-way speaking valves in adult tracheostomy patients:\u00a0the time should be earlier",
+   "received": "15 January 2025",
+   "accepted": "20 April 2025",
+   "days": 95,
+   "refs": 12
+  },
+  {
+   "doi": "10.1186/s13054-025-05454-z",
+   "title": "Computed tomography perfusion assessment of poor neurological outcome in comatose cardiac arrest patients (CANCCAP): a prospective study",
+   "received": "12 March 2025",
+   "accepted": "9 May 2025",
+   "days": 58,
+   "refs": 26
+  },
+  {
+   "doi": "10.1186/s13054-025-05457-w",
+   "title": "ORAKLE: Optimal Risk prediction for mAke30 in patients with sepsis associated AKI using deep LEarning",
+   "received": "18 January 2025",
+   "accepted": "10 May 2025",
+   "days": 112,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05451-2",
+   "title": "Novel biomarkers for predicting successful liberation of renal replacement therapy for acute kidney injury: a systematic review",
+   "received": "7 March 2025",
+   "accepted": "9 May 2025",
+   "days": 63,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05452-1",
+   "title": "Spontaneous diuresis in combination with furosemide stress test (SD-FST) as predictor for successful liberation from kidney replacement therapy: a prospective o",
+   "received": "23 February 2025",
+   "accepted": "9 May 2025",
+   "days": 75,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s13054-025-05435-2",
+   "title": "Phrenic stimulation decreases brain injury biomarkers in sedated mechanically ventilated patients: preliminary observations",
+   "received": "25 March 2025",
+   "accepted": "24 April 2025",
+   "days": 30,
+   "refs": 12
+  },
+  {
+   "doi": "10.1186/s13054-025-05447-y",
+   "title": "Trajectories of fluid management after the initiation of renal replacement therapy in critically ill patients: a secondary analysis of the STARRT-AKI trial",
+   "received": "12 February 2025",
+   "accepted": "8 May 2025",
+   "days": 85,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-025-05463-y",
+   "title": "Cardiovascular effects of hypertonic lactate solutions: acid\u2013base or metabolic cause, or both?",
+   "received": "5 May 2025",
+   "accepted": "15 May 2025",
+   "days": 10,
+   "refs": 14
+  },
+  {
+   "doi": "10.1186/s13054-025-05448-x",
+   "title": "Accuracy of the modified Global Burden of Disease International Classification of Diseases coding methods for identifying sepsis: a prospective multicentre coho",
+   "received": "10 March 2025",
+   "accepted": "8 May 2025",
+   "days": 59,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s13054-025-05403-w",
+   "title": "The value of dynamic cerebral compliance monitoring after pediatric traumatic brain injury: a STARSHIP study sub-analysis",
+   "received": "14 February 2025",
+   "accepted": "4 April 2025",
+   "days": 49,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05427-2",
+   "title": "Exploring the association between computed tomography (CT)-derived skeletal muscle mass and short- and long-term mortality in critically ill patients: a systema",
+   "received": "24 February 2025",
+   "accepted": "22 April 2025",
+   "days": 57,
+   "refs": 57
+  },
+  {
+   "doi": "10.1186/s13054-025-05453-0",
+   "title": "Diagnostic performance of the recruitment-to-inflation ratio to assess lung recruitability by PEEP in ARDS. a computed tomography study",
+   "received": "2 January 2025",
+   "accepted": "9 May 2025",
+   "days": 127,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s13054-025-05464-x",
+   "title": "Effect of initiation of invasive ventilation in acute hypoxemic respiratory failure using sequential trials: treatment efficacy instead of timing",
+   "received": "10 May 2025",
+   "accepted": "17 May 2025",
+   "days": 7,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05478-5",
+   "title": "Advancing traditional Chinese medicine for sepsis\u2014challenges beyond clinical evidence",
+   "received": "27 May 2025",
+   "accepted": "29 May 2025",
+   "days": 2,
+   "refs": 13
+  },
+  {
+   "doi": "10.1186/s13054-025-05430-7",
+   "title": "Prevalence, risk factors and consequences of early clinical deterioration under non-invasive ventilation in emergency department patients: a prospective, multic",
+   "received": "10 February 2025",
+   "accepted": "23 April 2025",
+   "days": 72,
+   "refs": 21
+  },
+  {
+   "doi": "10.1186/s13054-025-05482-9",
+   "title": "Impact of the Japanese clinical practice guidelines for management of sepsis and septic shock (J-SSCG) 2020 on real-world adherence and interhospital variation:",
+   "received": "16 April 2025",
+   "accepted": "30 May 2025",
+   "days": 44,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05470-z",
+   "title": "Performance of broad-spectrum targeted next-generation sequencing in lower respiratory tract infections in ICU patients: a prospective observational study",
+   "received": "14 March 2025",
+   "accepted": "24 May 2025",
+   "days": 71,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s13054-025-05467-8",
+   "title": "Volatile sedation in critically ill adults undergoing mechanical ventilation: a meta-analysis of randomized controlled trials",
+   "received": "23 March 2025",
+   "accepted": "20 May 2025",
+   "days": 58,
+   "refs": 60
+  },
+  {
+   "doi": "10.1186/s13054-025-05460-1",
+   "title": "The metabolic and autoregulatory profile of reversible delayed cerebral ischemia in unconscious patients after aneurysmal subarachnoid hemorrhage: a prospective",
+   "received": "16 April 2025",
+   "accepted": "15 May 2025",
+   "days": 29,
+   "refs": 50
+  },
+  {
+   "doi": "10.1186/s13054-025-05476-7",
+   "title": "Monro-Kellie 4.0: moving from intracranial pressure to intracranial dynamics",
+   "received": "10 March 2025",
+   "accepted": "29 May 2025",
+   "days": 80,
+   "refs": 92
+  },
+  {
+   "doi": "10.1186/s13054-025-05420-9",
+   "title": "Tumour necrosis factor-alpha inhibitors decrease mortality in COVID-19: a systematic review and meta-analysis",
+   "received": "31 October 2024",
+   "accepted": "15 April 2025",
+   "days": 166,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05468-7",
+   "title": "A large language model improves clinicians\u2019 diagnostic performance in complex critical illness cases",
+   "received": "25 April 2025",
+   "accepted": "24 May 2025",
+   "days": 29,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05404-9",
+   "title": "Capillary refill time as an additional triage criterion to decide ICU admission of deteriorating obstetric patients",
+   "received": "24 March 2025",
+   "accepted": "4 April 2025",
+   "days": 11,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-025-05466-9",
+   "title": "To explore the application value of modified puncture path in percutaneous coronary intervention in patients with high-risk myocardial infarction supported by E",
+   "received": "29 April 2025",
+   "accepted": "20 May 2025",
+   "days": 21,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s13054-025-05473-w",
+   "title": "Prevalence of thromboembolic events in critically-ill COVID-19 patients infected with Omicron: results from the French prospective, multicenter SEVARVIR cohort ",
+   "received": "15 May 2025",
+   "accepted": "26 May 2025",
+   "days": 11,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05479-4",
+   "title": "Primer on large language models: an educational overview for intensivists",
+   "received": "2 March 2025",
+   "accepted": "30 May 2025",
+   "days": 89,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-025-05487-4",
+   "title": "Ciprofol versus propofol sedation in ICU patients and norepinephrine requirements: a single-center prospective cohort study",
+   "received": "12 April 2025",
+   "accepted": "3 June 2025",
+   "days": 52,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05469-6",
+   "title": "Invasive group A streptococcus infections in the intensive care unit: an unsupervised cluster analysis of a multicentric retrospective cohort",
+   "received": "27 March 2025",
+   "accepted": "24 May 2025",
+   "days": 58,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-025-05384-w",
+   "title": "From indication to initiation of invasive intracranial pressure monitoring time differences between neurosurgeons and intensive care physicians: can intracrania",
+   "received": "31 January 2025",
+   "accepted": "23 March 2025",
+   "days": 51,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-025-05438-z",
+   "title": "Storage duration of packed red blood cells transfused during veno-venous extracorporeal membrane oxygenation is associated with elevated pulmonary artery pressu",
+   "received": "16 February 2025",
+   "accepted": "28 April 2025",
+   "days": 71,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s13054-025-05483-8",
+   "title": "Real-time changes in pulse pressure during a 10-second end-expiratory occlusion test reliably detect preload responsiveness",
+   "received": "6 March 2025",
+   "accepted": "31 May 2025",
+   "days": 86,
+   "refs": 23
+  },
+  {
+   "doi": "10.1186/s13054-025-05485-6",
+   "title": "Central nervous system infections rarely underlie presumed delirium in ICU admissions: insights from the Swiss ICU registry",
+   "received": "10 April 2025",
+   "accepted": "2 June 2025",
+   "days": 53,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05426-3",
+   "title": "Setting the record straight: revisiting the debate on extracorporeal therapies in sepsis",
+   "received": "14 April 2025",
+   "accepted": "22 April 2025",
+   "days": 8,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05492-7",
+   "title": "Post-extubation dysphagia in the ICU\u2212a narrative review: epidemiology, mechanisms and clinical management (Update 2025)",
+   "received": "10 March 2025",
+   "accepted": "5 June 2025",
+   "days": 87,
+   "refs": 77
+  },
+  {
+   "doi": "10.1186/s13054-025-05500-w",
+   "title": "Methodological considerations regarding cardiac arrest studies in hyperoxemia meta-analysis",
+   "received": "9 June 2025",
+   "accepted": "12 June 2025",
+   "days": 3,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05461-0",
+   "title": "Sedation and analgesia in post-cardiac arrest care: a post hoc analysis of the TTM2 trial",
+   "received": "4 March 2025",
+   "accepted": "15 May 2025",
+   "days": 72,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s13054-025-05494-5",
+   "title": "Optimizing microbiological surveillance during selective digestive decontamination in the intensive care unit: an in silico simulation study",
+   "received": "2 April 2025",
+   "accepted": "9 June 2025",
+   "days": 68,
+   "refs": 29
+  },
+  {
+   "doi": "10.1186/s13054-025-05462-z",
+   "title": "Muscle weakness after critical illness: unravelling biological mechanisms and clinical hurdles",
+   "received": "3 March 2025",
+   "accepted": "15 May 2025",
+   "days": 73,
+   "refs": 172
+  },
+  {
+   "doi": "10.1186/s13054-025-05490-9",
+   "title": "Can we reliably use pulse pressure as a surrogate for stroke volume? Physiological background and potential clinical implications for shock resuscitation",
+   "received": "26 April 2025",
+   "accepted": "5 June 2025",
+   "days": 40,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s13054-025-05417-4",
+   "title": "Association of epinephrine and outcome in cardiac arrest with refractory shockable rhythm: a population-based, propensity-score matched analysis",
+   "received": "14 December 2024",
+   "accepted": "14 April 2025",
+   "days": 121,
+   "refs": 54
+  },
+  {
+   "doi": "10.1186/s13054-025-05506-4",
+   "title": "Bayesian reanalysis reinforces the potential mortality benefit of TNF-\u03b1 inhibitors in COVID-19: a methodological perspective",
+   "received": "12 June 2025",
+   "accepted": "15 June 2025",
+   "days": 3,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-025-05474-9",
+   "title": "What is the optimal approach to analyse ventilator-free days? A simulation study",
+   "received": "25 March 2025",
+   "accepted": "26 May 2025",
+   "days": 62,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05484-7",
+   "title": "Can we predict the future of respiratory failure prediction?",
+   "received": "8 April 2025",
+   "accepted": "31 May 2025",
+   "days": 53,
+   "refs": 75
+  },
+  {
+   "doi": "10.1186/s13054-025-05496-3",
+   "title": "The Landscape of lower respiratory tract herpesviruses in severe pneumonia patients: a multicenter, retrospective study with prospective validation",
+   "received": "28 April 2025",
+   "accepted": "10 June 2025",
+   "days": 43,
+   "refs": 36
+  },
+  {
+   "doi": "10.1186/s13054-025-05495-4",
+   "title": "The effects of extracorporeal blood purification (oXiris\u00ae) in patients with cardiogenic shock who require VA-ECMO (CLEAN ECMO): a prospective, open-label, rando",
+   "received": "1 April 2025",
+   "accepted": "9 June 2025",
+   "days": 69,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05512-6",
+   "title": "Tocilizumab in improving the hemodynamics of septic children with vasoplegia shock",
+   "received": "27 May 2025",
+   "accepted": "16 June 2025",
+   "days": 20,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05486-5",
+   "title": "Critical care illness in allogeneic hematopoietic stem-cell transplantation recipients with chronic graft versus host disease",
+   "received": "12 May 2025",
+   "accepted": "2 June 2025",
+   "days": 21,
+   "refs": 19
+  },
+  {
+   "doi": "10.1186/s13054-025-05424-5",
+   "title": "Advanced serial analysis of the diaphragm surface EMG: insights into the effect of pressure support on the neuro-ventilatory response during the ICU stay",
+   "received": "14 February 2025",
+   "accepted": "20 April 2025",
+   "days": 65,
+   "refs": 21
+  },
+  {
+   "doi": "10.1186/s13054-025-05508-2",
+   "title": "Preoxygenation strategies for endotracheal intubation in resource-limited settings: reframing the basics",
+   "received": "19 April 2025",
+   "accepted": "15 June 2025",
+   "days": 57,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05289-8",
+   "title": "Effects of the urinary urea excretion index on the decision to wean ICU patients with acute kidney injury from renal replacement therapy: a before-after multice",
+   "received": "14 October 2024",
+   "accepted": "20 January 2025",
+   "days": 98,
+   "refs": 17
+  },
+  {
+   "doi": "10.1186/s13054-025-05488-3",
+   "title": "Too severe to save? Association between the timing of decompressive craniectomy and mortality in pediatric traumatic brain injury using the German hospital data",
+   "received": "22 April 2025",
+   "accepted": "3 June 2025",
+   "days": 42,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05440-5",
+   "title": "Co-existence of congestion and preload-dependence identified by pulse pressure respiratory variations: right ventricular afterload might be the key",
+   "received": "24 April 2025",
+   "accepted": "2 May 2025",
+   "days": 8,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05510-8",
+   "title": "A prospective diagnostic study investigating urinary biomarkers of AKI in major abdominal surgery (the AKI-biomas study)",
+   "received": "23 February 2025",
+   "accepted": "15 June 2025",
+   "days": 112,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s13054-025-05515-3",
+   "title": "Missing the target in target trial emulation",
+   "received": "13 June 2025",
+   "accepted": "18 June 2025",
+   "days": 5,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05489-2",
+   "title": "Cerebral autoregulation in traumatic brain injury: looking upwards",
+   "received": "22 May 2025",
+   "accepted": "3 June 2025",
+   "days": 12,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05499-0",
+   "title": "The challenges of using ultrasound to measure the trachea: a brief report",
+   "received": "7 February 2025",
+   "accepted": "11 June 2025",
+   "days": 124,
+   "refs": 21
+  },
+  {
+   "doi": "10.1186/s13054-025-05501-9",
+   "title": "Serial proteomic and metabolomic profiling for early neuroprognostication after out-of-hospital cardiac arrest: a prospective observational study",
+   "received": "9 April 2025",
+   "accepted": "13 June 2025",
+   "days": 65,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05443-2",
+   "title": "ICU capacity, ICU staffing, and postcardiotomy ECMO outcomes in China: a multilevel cross-sectional study",
+   "received": "24 February 2025",
+   "accepted": "4 May 2025",
+   "days": 69,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05514-4",
+   "title": "Respiratory effort monitoring: a novel, bedside, non-invasive, real-time method",
+   "received": "22 January 2025",
+   "accepted": "18 June 2025",
+   "days": 147,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s13054-025-05505-5",
+   "title": "Vasopressin use across shock states: international insights from an international ESICM-endorsed survey: the PRESS Survey",
+   "received": "29 April 2025",
+   "accepted": "14 June 2025",
+   "days": 46,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05429-0",
+   "title": "Noninvasive neuromodulation for disorders of consciousness: an updated systematic review and meta-analysis",
+   "received": "26 March 2025",
+   "accepted": "22 April 2025",
+   "days": 27,
+   "refs": 82
+  },
+  {
+   "doi": "10.1186/s13054-025-05522-4",
+   "title": "Improving the patency of the distal perfusion catheter in peripheral VA-ECMO",
+   "received": "18 June 2025",
+   "accepted": "22 June 2025",
+   "days": 4,
+   "refs": 3
+  },
+  {
+   "doi": "10.1186/s13054-025-05530-4",
+   "title": "Indocyanine green clearance as a test of reserve function in the septic liver",
+   "received": "17 June 2025",
+   "accepted": "24 June 2025",
+   "days": 7,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-025-05498-1",
+   "title": "Longitudinal analysis of lung microbiome, immune response, and metabolism in ventilator-associated pneumonia: a cohort study",
+   "received": "30 April 2025",
+   "accepted": "11 June 2025",
+   "days": 42,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s13054-025-05511-7",
+   "title": "Prognostic value of brainstem auditory evoked potentials (BAEPs) and middle latency auditory evoked potentials (MLAEPs) in unconscious patients after cardiac ar",
+   "received": "10 April 2025",
+   "accepted": "16 June 2025",
+   "days": 67,
+   "refs": 19
+  },
+  {
+   "doi": "10.1186/s13054-025-05406-7",
+   "title": "Limitations of SpO2-based oxygenation indices in ARDS and PARDS severity classification",
+   "received": "31 March 2025",
+   "accepted": "7 April 2025",
+   "days": 7,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05533-1",
+   "title": "Family presence policy and waiting room conditions in Japanese intensive care units: A multicentre questionnaire survey",
+   "received": "10 May 2025",
+   "accepted": "29 June 2025",
+   "days": 50,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05519-z",
+   "title": "Rezafungin: an opportunity to personalize the treatment of patients with candidemia",
+   "received": "16 June 2025",
+   "accepted": "20 June 2025",
+   "days": 4,
+   "refs": 17
+  },
+  {
+   "doi": "10.1186/s13054-025-05497-2",
+   "title": "Reply to: Co-existence of congestion and preload-dependence identified by pulse pressure respiratory variations: right ventricular afterload might be the key",
+   "received": "6 June 2025",
+   "accepted": "10 June 2025",
+   "days": 4,
+   "refs": 12
+  },
+  {
+   "doi": "10.1186/s13054-025-05541-1",
+   "title": "Computed tomography (CT)-derived skeletal muscle mass and short and long-term mortality in critically ill patients",
+   "received": "30 June 2025",
+   "accepted": "3 July 2025",
+   "days": 3,
+   "refs": 1
+  },
+  {
+   "doi": "10.1186/s13054-025-05527-z",
+   "title": "Screening, prevalence, and risk factors for secondary localization during candidemia in intensive care unit patients: the French CandidICU multicenter study",
+   "received": "29 April 2025",
+   "accepted": "24 June 2025",
+   "days": 56,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-025-05520-6",
+   "title": "Imaging and pulmonary function techniques in ARDS diagnosis and management: current insights and challenges",
+   "received": "1 April 2025",
+   "accepted": "21 June 2025",
+   "days": 81,
+   "refs": 114
+  },
+  {
+   "doi": "10.1186/s13054-025-05542-0",
+   "title": "What should be done with PEEP during weaning from mechanical ventilation?",
+   "received": "30 June 2025",
+   "accepted": "3 July 2025",
+   "days": 3,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05465-w",
+   "title": "Prehospital thrombolytic treatment of high-risk acute pulmonary embolism",
+   "received": "27 April 2025",
+   "accepted": "19 May 2025",
+   "days": 22,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05535-z",
+   "title": "Effects of different respiratory training methods on respiratory function in patients with spinal cord injury: a network meta-analysis of randomized controlled ",
+   "received": "10 May 2025",
+   "accepted": "30 June 2025",
+   "days": 51,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s13054-025-05472-x",
+   "title": "Self-extubation in critically ill patients: from the French OUTCOMEREA Network",
+   "received": "11 April 2025",
+   "accepted": "25 May 2025",
+   "days": 44,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s13054-025-05517-1",
+   "title": "Liberation from continuous renal replacement therapy due to renal recovery in adults and children: a literature review and Delphi consensus on clinical practice",
+   "received": "30 May 2025",
+   "accepted": "20 June 2025",
+   "days": 21,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s13054-025-05538-w",
+   "title": "Estimating bias from withdrawal of life sustaining treatment in clinical trials",
+   "received": "8 May 2025",
+   "accepted": "3 July 2025",
+   "days": 56,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s13054-025-05459-8",
+   "title": "Driving pressure vs. oxygenation-based PEEP titration strategies in ARDS patients: a physiological study",
+   "received": "2 January 2025",
+   "accepted": "12 May 2025",
+   "days": 130,
+   "refs": 43
+  },
+  {
+   "doi": "10.1186/s13054-025-05532-2",
+   "title": "Implementing Artificial Intelligence in Critical Care Medicine: a consensus of 22",
+   "received": "17 March 2025",
+   "accepted": "25 June 2025",
+   "days": 100,
+   "refs": 87
+  },
+  {
+   "doi": "10.1186/s13054-025-05471-y",
+   "title": "Comment on the CIBCD model for chronic critical illness",
+   "received": "16 May 2025",
+   "accepted": "25 May 2025",
+   "days": 9,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s13054-025-05518-0",
+   "title": "Association of early in-hospital endotracheal intubation with clinical outcomes in patients with traumatic coma: a multicenter observational study",
+   "received": "9 May 2025",
+   "accepted": "20 June 2025",
+   "days": 42,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05546-w",
+   "title": "Hemodynamic coherence: a metabolic perspective",
+   "received": "17 June 2025",
+   "accepted": "5 July 2025",
+   "days": 18,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05539-9",
+   "title": "Early prediction of post-intensive care syndrome in patients at general wards: development of a user-friendly screening tool",
+   "received": "4 April 2025",
+   "accepted": "3 July 2025",
+   "days": 90,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05523-3",
+   "title": "Application progress of machine learning in patient-ventilator asynchrony during mechanical ventilation: a systematic review",
+   "received": "14 May 2025",
+   "accepted": "23 June 2025",
+   "days": 40,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05561-x",
+   "title": "Beyond survival: the societal value of extracorporeal cardiopulmonary resuscitation",
+   "received": "25 June 2025",
+   "accepted": "9 July 2025",
+   "days": 14,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05534-0",
+   "title": "Effects of dapagliflozin on urinary output, fluid balance, and biochemistry in critically ill patients: a post-hoc secondary analysis of the DEFENDER trial",
+   "received": "21 April 2025",
+   "accepted": "29 June 2025",
+   "days": 69,
+   "refs": 18
+  },
+  {
+   "doi": "10.1186/s13054-025-05557-7",
+   "title": "Epidemiology, outcomes, and factors associated with mortality in pediatric acute respiratory distress syndrome in hospitalized Thai children: a nationwide retro",
+   "received": "13 May 2025",
+   "accepted": "9 July 2025",
+   "days": 57,
+   "refs": 26
+  },
+  {
+   "doi": "10.1186/s13054-025-05547-9",
+   "title": "Cardiac output monitors in septic shock: do they deliver what matters? A systematic review and meta-analysis",
+   "received": "9 June 2025",
+   "accepted": "6 July 2025",
+   "days": 27,
+   "refs": 72
+  },
+  {
+   "doi": "10.1186/s13054-025-05516-2",
+   "title": "Harnessing adiponectin for sepsis: current knowledge, clinical insights and future therapies",
+   "received": "7 April 2025",
+   "accepted": "20 June 2025",
+   "days": 74,
+   "refs": 156
+  },
+  {
+   "doi": "10.1186/s13054-025-05503-7",
+   "title": "Assessing FilmArray Pneumonia+\u2009panel dynamics during antibiotic treatment to predict clinical success in ICU patients with ventilated hospital-acquired pneumoni",
+   "received": "3 February 2025",
+   "accepted": "13 June 2025",
+   "days": 130,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05493-6",
+   "title": "Mortality and antibiotic timing in deep learning-derived surviving sepsis campaign risk groups: a multicenter study",
+   "received": "27 February 2025",
+   "accepted": "5 June 2025",
+   "days": 98,
+   "refs": 26
+  },
+  {
+   "doi": "10.1186/s13054-025-05554-w",
+   "title": "Volatile agents: when generalization doesn\u2019t help",
+   "received": "27 June 2025",
+   "accepted": "7 July 2025",
+   "days": 10,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05549-7",
+   "title": "When blood purification meets cardiogenic shock: exploring new perspectives on inflammatory clearance from CLEAN ECMO's null results",
+   "received": "21 June 2025",
+   "accepted": "6 July 2025",
+   "days": 15,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s13054-025-05513-5",
+   "title": "Cardiac index, SvO2 or pCO2 gap may determine benefit from ECMO in cardiogenic shock: post-hoc analysis of the multicenter, randomized ECMO-CS trial",
+   "received": "20 April 2025",
+   "accepted": "18 June 2025",
+   "days": 59,
+   "refs": 21
+  },
+  {
+   "doi": "10.1186/s13054-025-05551-z",
+   "title": "Reconsidering the symmetric assumption in CPP\u2013PRx modeling for traumatic brain injury",
+   "received": "11 June 2025",
+   "accepted": "6 July 2025",
+   "days": 25,
+   "refs": 8
+  },
+  {
+   "doi": "10.1186/s13054-025-05562-w",
+   "title": "Confused with confounders? Understanding the role of directed acyclic graphs in observational research",
+   "received": "1 July 2025",
+   "accepted": "9 July 2025",
+   "days": 8,
+   "refs": 14
+  },
+  {
+   "doi": "10.1186/s13054-025-05531-3",
+   "title": "Effect of blood pressure threshold on adverse outcomes in patients with acute spinal cord injury: a systematic review and meta-analysis",
+   "received": "19 June 2025",
+   "accepted": "25 June 2025",
+   "days": 6,
+   "refs": 59
+  },
+  {
+   "doi": "10.1186/s13054-025-05556-8",
+   "title": "Epidemiology and outcomes of septic shock in Japan: a nationwide retrospective cohort study from a medical claims database by the Japan Sepsis Alliance (JaSA) s",
+   "received": "17 May 2025",
+   "accepted": "9 July 2025",
+   "days": 53,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s13054-025-05528-y",
+   "title": "Diagnostic performance of Pneumonia multiplex PCR in critically ill immunocompromised patients",
+   "received": "9 May 2025",
+   "accepted": "24 June 2025",
+   "days": 46,
+   "refs": 22
+  },
+  {
+   "doi": "10.1186/s13054-025-05567-5",
+   "title": "Missing the target in target trial emulation: the authors reply",
+   "received": "7 July 2025",
+   "accepted": "12 July 2025",
+   "days": 5,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-025-05563-9",
+   "title": "Hypnosis for unplanned procedural pain in the intensive care unit: the HYPIC randomized clinical trial",
+   "received": "9 April 2025",
+   "accepted": "9 July 2025",
+   "days": 91,
+   "refs": 23
+  },
+  {
+   "doi": "10.1186/s13054-025-05564-8",
+   "title": "Association between whole blood ratio and risk of mortality in massively transfused trauma patients",
+   "received": "3 July 2025",
+   "accepted": "9 July 2025",
+   "days": 6,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05571-9",
+   "title": "Beyond feasibility: standardization and reproducibility as the next frontier for respiratory muscle ultrasound",
+   "received": "11 July 2025",
+   "accepted": "16 July 2025",
+   "days": 5,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05558-6",
+   "title": "Characteristics and outcomes of ICU patients with sepsis transmitted by cats and dogs: the PETSEPSIS multicentre retrospective observational cohort study",
+   "received": "16 May 2025",
+   "accepted": "9 July 2025",
+   "days": 54,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05575-5",
+   "title": "Sub-phenotypes in patients with out-of-hospital cardiac arrest who undergo extracorporeal cardiopulmonary resuscitation: a retrospective observational study fro",
+   "received": "1 May 2025",
+   "accepted": "16 July 2025",
+   "days": 76,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05537-x",
+   "title": "Muscle mass evaluation at lumbar level in Icu patients: a call for collaborative approach between intensivists and radiologists",
+   "received": "17 June 2025",
+   "accepted": "3 July 2025",
+   "days": 16,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05553-x",
+   "title": "Development and validation of a dynamic early warning system with time-varying machine learning models for predicting hemodynamic instability in critical care: ",
+   "received": "6 May 2025",
+   "accepted": "7 July 2025",
+   "days": 62,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05576-4",
+   "title": "Oral care for intubated patients in the intensive care unit: examination of bacterial count and microbiota",
+   "received": "12 May 2025",
+   "accepted": "16 July 2025",
+   "days": 65,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05525-1",
+   "title": "Commentary: refining patient stratification for haemoadsorption in cardiac surgery: comparative reflections on RECCAS, REMOVE, and SIRAKI02",
+   "received": "23 March 2025",
+   "accepted": "24 June 2025",
+   "days": 93,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05578-2",
+   "title": "Value of cDPP3 as a short-term prognostic biomarker in all-comers critically ill patients in the emergency department",
+   "received": "14 July 2025",
+   "accepted": "18 July 2025",
+   "days": 4,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05477-6",
+   "title": "Extracellular vesicles as biomarkers in traumatic brain injury: a systematic review of animal and clinical studies",
+   "received": "24 February 2025",
+   "accepted": "29 May 2025",
+   "days": 94,
+   "refs": 70
+  },
+  {
+   "doi": "10.1186/s13054-025-05480-x",
+   "title": "Research without prior consent procedure and intervention effect on mortality in critical care: a meta-epidemiological study of randomized controlled trials",
+   "received": "15 April 2025",
+   "accepted": "30 May 2025",
+   "days": 45,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s13054-025-05536-y",
+   "title": "CPAP improves regional lung strain rate and diaphragm velocity of relaxation in experimental self-inflicted lung injury",
+   "received": "6 March 2025",
+   "accepted": "30 June 2025",
+   "days": 116,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s13054-025-05581-7",
+   "title": "Urinary urea excretion index to guide weaning from renal replacement therapy in patients with acute kidney injury: Still haven\u2019t found what i\u2019m weaning for",
+   "received": "18 July 2025",
+   "accepted": "22 July 2025",
+   "days": 4,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05574-6",
+   "title": "Imaging in animal models: bridging experimental findings and human pathophysiology",
+   "received": "7 May 2025",
+   "accepted": "16 July 2025",
+   "days": 70,
+   "refs": 167
+  },
+  {
+   "doi": "10.1186/s13054-025-05543-z",
+   "title": "Effects of inhaled nitric oxide on ventilation/perfusion mismatch assessed by electrical impedance tomography in patients with ARDS: a prospective observational",
+   "received": "27 April 2025",
+   "accepted": "5 July 2025",
+   "days": 69,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05521-5",
+   "title": "The impact of intensive care strain on patients\u2019 outcomes\u2014a multinational observational cohort (UNITE-COVID) study",
+   "received": "14 March 2025",
+   "accepted": "22 June 2025",
+   "days": 100,
+   "refs": 29
+  },
+  {
+   "doi": "10.1186/s13054-025-05566-6",
+   "title": "Evaluation of the impact of artificial intelligence-assisted image interpretation on the diagnostic performance of clinicians in identifying endotracheal tube p",
+   "received": "6 March 2025",
+   "accepted": "12 July 2025",
+   "days": 128,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s13054-025-05555-9",
+   "title": "Gingival capillary refill time: a new approach to assess tissue perfusion",
+   "received": "23 May 2025",
+   "accepted": "9 July 2025",
+   "days": 47,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05544-y",
+   "title": "Candida auris infections in ICU patients: risk factors, outcomes, and antifungal resistance patterns",
+   "received": "23 April 2025",
+   "accepted": "5 July 2025",
+   "days": 73,
+   "refs": 29
+  },
+  {
+   "doi": "10.1186/s13054-025-05540-2",
+   "title": "Vasopressin and its analogues in patients with septic shock: holy Grail or unfulfilled promise?",
+   "received": "13 May 2025",
+   "accepted": "3 July 2025",
+   "days": 51,
+   "refs": 173
+  },
+  {
+   "doi": "10.1186/s13054-025-05504-6",
+   "title": "Use of extracorporeal membrane oxygenation in adult trauma patients with refractory acute cardiopulmonary failure: guideline from the Chinese society of extraco",
+   "received": "10 June 2025",
+   "accepted": "14 June 2025",
+   "days": 4,
+   "refs": 110
+  },
+  {
+   "doi": "10.1186/s13054-025-05565-7",
+   "title": "Climate change impacts: survival on, and of, intensive care",
+   "received": "29 June 2025",
+   "accepted": "11 July 2025",
+   "days": 12,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05570-w",
+   "title": "Effect of a generalized early mobilization and rehabilitation protocol on outcomes in trauma patients admitted to the intensive care unit: a retrospective pre\u2013p",
+   "received": "15 March 2025",
+   "accepted": "15 July 2025",
+   "days": 122,
+   "refs": 59
+  },
+  {
+   "doi": "10.1186/s13054-025-05589-z",
+   "title": "Not all pulse contour algorithms are created equal",
+   "received": "18 July 2025",
+   "accepted": "26 July 2025",
+   "days": 8,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05526-0",
+   "title": "Assessing inspiratory drive and effort in critically ill patients at the bedside",
+   "received": "3 April 2025",
+   "accepted": "24 June 2025",
+   "days": 82,
+   "refs": 179
+  },
+  {
+   "doi": "10.1186/s13054-025-05545-x",
+   "title": "Targeting high circulating dipeptidyl peptidase 3 in circulatory failure",
+   "received": "15 June 2025",
+   "accepted": "5 July 2025",
+   "days": 20,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05568-4",
+   "title": "Visualizations of autoregulatory insults in moderate-to-severe paediatric traumatic brain injury: a secondary analysis from the multicentre STARSHIP trial",
+   "received": "15 June 2025",
+   "accepted": "12 July 2025",
+   "days": 27,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s13054-025-05572-8",
+   "title": "Beyond blood-brain barrier disruption and molecular weight: compartmental kinetics of S100B and NSE for neurological prognostication after cardiac arrest",
+   "received": "20 May 2025",
+   "accepted": "16 July 2025",
+   "days": 57,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s13054-025-05593-3",
+   "title": "Beyond the ventilator-free days: review of several estimands",
+   "received": "16 June 2025",
+   "accepted": "29 July 2025",
+   "days": 43,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05582-6",
+   "title": "Infrastructure and current practice of blood culture diagnostics in patients with sepsis: teachings and recommendations from the European Sepsis Care Survey",
+   "received": "19 May 2025",
+   "accepted": "23 July 2025",
+   "days": 65,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05580-8",
+   "title": "When the surgeon becomes the patient: lessons from the brink of death",
+   "received": "11 June 2025",
+   "accepted": "20 July 2025",
+   "days": 39,
+   "refs": 0
+  },
+  {
+   "doi": "10.1186/s13054-025-05590-6",
+   "title": "A prediction model for \u2018ICU mortality or prolonged ICU stay\u2019 in critically unwell patients with acute pancreatitis: insights from a 2003\u20132020 cohort analysis us",
+   "received": "2 June 2025",
+   "accepted": "27 July 2025",
+   "days": 55,
+   "refs": 19
+  },
+  {
+   "doi": "10.1186/s13054-025-05579-1",
+   "title": "Neurofilament light chain for prognostication after cardiac arrest-first steps towards validation",
+   "received": "6 June 2025",
+   "accepted": "18 July 2025",
+   "days": 42,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05569-3",
+   "title": "Incidence, kinetics, and clinical impact of thrombocytopenia in venovenous ECMO: insights from the multicenter observational PROTECMO study",
+   "received": "13 June 2025",
+   "accepted": "14 July 2025",
+   "days": 31,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05592-4",
+   "title": "Real-world evaluation of eadyn as a predictor of vasopressor weaning success in critically ill patients: a retrospective cohort study",
+   "received": "8 July 2025",
+   "accepted": "29 July 2025",
+   "days": 21,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05585-3",
+   "title": "Effectiveness of targeted post-acute interventions and follow-up services for sepsis survivors: a systematic review",
+   "received": "29 April 2025",
+   "accepted": "24 July 2025",
+   "days": 86,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05428-1",
+   "title": "Cost-effectiveness of rapid, ICU-based, syndromic PCR in hospital-acquired pneumonia: analysis of the INHALE WP3 multi-centre RCT",
+   "received": "12 February 2025",
+   "accepted": "22 April 2025",
+   "days": 69,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-025-05605-2",
+   "title": "Tranexamic acid is associated with improved intestinal barrier function in traumatic hemorrhagic shock: A clinical prospective cohort study",
+   "received": "11 June 2025",
+   "accepted": "5 August 2025",
+   "days": 55,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05602-5",
+   "title": "Norepinephrine exacerbates LPS-induced cardiomyopathy via SIRT3/HO-1 axis-mediated ferroptosis",
+   "received": "23 April 2025",
+   "accepted": "2 August 2025",
+   "days": 101,
+   "refs": 37
+  },
+  {
+   "doi": "10.1186/s13054-025-05607-0",
+   "title": "Mind the drain: expanding TIMING-ICP discussion",
+   "received": "1 August 2025",
+   "accepted": "5 August 2025",
+   "days": 4,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-025-05603-4",
+   "title": "Volatile sedation in critically ills adults undergoing mechanical ventilation: not all inhaled sedatives are equivalent!",
+   "received": "14 July 2025",
+   "accepted": "5 August 2025",
+   "days": 22,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-025-05604-3",
+   "title": "Impact of oxygen and carbon dioxide levels on mortality in moderate to severe traumatic brain injury: a systematic review and meta-analysis",
+   "received": "27 June 2025",
+   "accepted": "5 August 2025",
+   "days": 39,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05597-z",
+   "title": "Clinical features and outcomes of peripartum obstetric patients admitted to the intensive care unit: A nationwide inpatient database in Japan",
+   "received": "11 May 2025",
+   "accepted": "1 August 2025",
+   "days": 82,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05599-x",
+   "title": "DPP4 inhibition curbs systemic inflammation",
+   "received": "12 March 2025",
+   "accepted": "2 August 2025",
+   "days": 143,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s13054-025-05548-8",
+   "title": "Composition and diversity of the pulmonary microbiome in acute respiratory distress syndrome: a systematic review",
+   "received": "8 April 2025",
+   "accepted": "6 July 2025",
+   "days": 89,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s13054-025-05606-1",
+   "title": "Liberal or restrictive transfusion for veno-arterial extracorporeal membrane oxygenation patients: a target trial emulation using the OBLEX study data",
+   "received": "12 May 2025",
+   "accepted": "5 August 2025",
+   "days": 85,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-025-05586-2",
+   "title": "Neuroimaging for neurovascular complications of traumatic brain injury",
+   "received": "14 May 2025",
+   "accepted": "25 July 2025",
+   "days": 72,
+   "refs": 92
+  },
+  {
+   "doi": "10.1186/s13054-025-05613-2",
+   "title": "Heterogeneity in association of myocardial injury and mortality in sepsis or acute respiratory distress syndrome by subphenotype: a retrospective study",
+   "received": "2 June 2025",
+   "accepted": "8 August 2025",
+   "days": 67,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05550-0",
+   "title": "Impact of systemic autoimmune disorders on in-hospital outcomes of cardiac arrest: a United States national inpatient sample cross-sectional study",
+   "received": "3 June 2025",
+   "accepted": "6 July 2025",
+   "days": 33,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05588-0",
+   "title": "Transforming sepsis management: AI-driven innovations in early detection and tailored therapies",
+   "received": "19 May 2025",
+   "accepted": "25 July 2025",
+   "days": 67,
+   "refs": 130
+  },
+  {
+   "doi": "10.1186/s13054-025-05507-3",
+   "title": "Regional sepsis care in Catalonia: comparative insights from a secondary analysis of the European Sepsis Care Survey",
+   "received": "22 April 2025",
+   "accepted": "15 June 2025",
+   "days": 54,
+   "refs": 7
+  },
+  {
+   "doi": "10.1186/s13054-025-05621-2",
+   "title": "Exercise in patients with a tracheostomy and speaking valve: a randomised crossover-controlled trial",
+   "received": "11 August 2025",
+   "accepted": "14 August 2025",
+   "days": 3,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05577-3",
+   "title": "Effects of angiotensin 2 infusion on the RAAS and alternative RAAS pathway",
+   "received": "12 June 2025",
+   "accepted": "17 July 2025",
+   "days": 35,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05449-w",
+   "title": "Higher circulating short-chain fatty acids are associated with good neurologic outcome after cardiac arrest",
+   "received": "3 April 2025",
+   "accepted": "9 May 2025",
+   "days": 36,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05524-2",
+   "title": "Demographics and outcome of Legionella pneumonia in the intensive care unit: a retrospective multicenter cohort study",
+   "received": "8 May 2025",
+   "accepted": "23 June 2025",
+   "days": 46,
+   "refs": 20
+  },
+  {
+   "doi": "10.1186/s13054-025-05595-1",
+   "title": "The semi-quantitative cardiac arrest brain ischemia (CABI) score for magnetic resonance imaging predicts functional outcome after cardiac arrest",
+   "received": "5 June 2025",
+   "accepted": "29 July 2025",
+   "days": 54,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05587-1",
+   "title": "Detecting heart failure in severe asthma patients using speckle tracking echocardiography",
+   "received": "21 January 2025",
+   "accepted": "25 July 2025",
+   "days": 185,
+   "refs": 64
+  },
+  {
+   "doi": "10.1186/s13054-025-05625-y",
+   "title": "eCPR challenge: navigating the fine line between life and burden",
+   "received": "14 August 2025",
+   "accepted": "18 August 2025",
+   "days": 4,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05591-5",
+   "title": "Evaluating the o1 reasoning large language model for cognitive bias: a vignette study",
+   "received": "5 May 2025",
+   "accepted": "28 July 2025",
+   "days": 84,
+   "refs": 42
+  },
+  {
+   "doi": "10.1186/s13054-025-05618-x",
+   "title": "Hyperoxia and acute brain injury",
+   "received": "2 July 2025",
+   "accepted": "13 August 2025",
+   "days": 42,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-025-05623-0",
+   "title": "Impact of syndromic molecular diagnostics on antimicrobial adequacy and time to therapy in critically ill patients with pneumonia: a systematic review and meta-",
+   "received": "22 June 2025",
+   "accepted": "17 August 2025",
+   "days": 56,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05600-7",
+   "title": "Healthcare costs after sepsis: a systematic review",
+   "received": "20 May 2025",
+   "accepted": "2 August 2025",
+   "days": 74,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s13054-025-05620-3",
+   "title": "Molecular diagnostic technology: beyond analytical accuracy",
+   "received": "6 August 2025",
+   "accepted": "14 August 2025",
+   "days": 8,
+   "refs": 11
+  },
+  {
+   "doi": "10.1186/s13054-025-05598-y",
+   "title": "Rethinking the clinical impact of timing in ICP monitoring initiation",
+   "received": "29 July 2025",
+   "accepted": "1 August 2025",
+   "days": 3,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05633-y",
+   "title": "Tipping the balance: early post-resuscitation fluid accumulation and outcome after cardiac arrest",
+   "received": "19 August 2025",
+   "accepted": "22 August 2025",
+   "days": 3,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05631-0",
+   "title": "Multiplex PCR panel dynamics: implications for therapy duration and methodological considerations",
+   "received": "25 July 2025",
+   "accepted": "22 August 2025",
+   "days": 28,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05612-3",
+   "title": "Impact of frailty on in-hospital outcomes in nonagenarian ICU patients: a binational multicenter analysis of 8,220 cases",
+   "received": "15 June 2025",
+   "accepted": "7 August 2025",
+   "days": 53,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05616-z",
+   "title": "Enhanced insights into immunity traits of elderly patients in the intensive care unit with infections: evidence from a multicenter, prospective observational st",
+   "received": "21 April 2025",
+   "accepted": "10 August 2025",
+   "days": 111,
+   "refs": 68
+  },
+  {
+   "doi": "10.1186/s13054-025-05627-w",
+   "title": "Factors associated with women authorship over 25\u00a0years in high-impact critical care randomized controlled trials: the pipeline is still leaking",
+   "received": "3 June 2025",
+   "accepted": "21 August 2025",
+   "days": 79,
+   "refs": 39
+  },
+  {
+   "doi": "10.1186/s13054-025-05629-8",
+   "title": "Left-digit bias in outcomes and invasive treatments among out-of-hospital cardiac arrest patients with shockable rhythm: a nationwide multicenter observational ",
+   "received": "18 August 2025",
+   "accepted": "21 August 2025",
+   "days": 3,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05628-9",
+   "title": "Cell-specific expression and signaling of glucocorticoid receptor isoforms over time in critically ill patients with a low inflammatory response",
+   "received": "6 June 2025",
+   "accepted": "21 August 2025",
+   "days": 76,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s13054-025-05641-y",
+   "title": "Pharmacokinetic/Pharmacodynamic of ceftolozane/tazobactam in critically ill patients receiving extracorporeal membrane oxygenation (ECMO): a retrospective cohor",
+   "received": "17 July 2025",
+   "accepted": "27 August 2025",
+   "days": 41,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05639-6",
+   "title": "Plasma proteomics identifies molecular subtypes in sepsis",
+   "received": "23 May 2025",
+   "accepted": "26 August 2025",
+   "days": 95,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05635-w",
+   "title": "Impact of ECPR initiation time and age on survival in out-of-hospital cardiac arrest patients: a nationwide observational study",
+   "received": "30 July 2025",
+   "accepted": "24 August 2025",
+   "days": 25,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05649-4",
+   "title": "Female first and senior authorship in high-impact critical care journals 2005\u20132024",
+   "received": "19 June 2025",
+   "accepted": "29 August 2025",
+   "days": 71,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s13054-025-05650-x",
+   "title": "A soleful insight: shoe dislocation as a marker for severe injuries in car accident victims",
+   "received": "4 July 2025",
+   "accepted": "29 August 2025",
+   "days": 56,
+   "refs": 0
+  },
+  {
+   "doi": "10.1186/s13054-025-05624-z",
+   "title": "Restrictive fluid management with early de-escalation versus usual care in critically ill patients (reduce trial): a feasibility randomized controlled trial",
+   "received": "21 May 2025",
+   "accepted": "17 August 2025",
+   "days": 88,
+   "refs": 29
+  },
+  {
+   "doi": "10.1186/s13054-025-05632-z",
+   "title": "Use of a molecular syndromic panel for the etiological diagnosis of ventilator-associated bacterial pneumonia: impact on clinical outcomes and antibiotic use fr",
+   "received": "10 July 2025",
+   "accepted": "22 August 2025",
+   "days": 43,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05646-7",
+   "title": "Ultrasound-measured brachial artery reactive hyperemia in critically ill patients: an observational study",
+   "received": "21 May 2025",
+   "accepted": "29 August 2025",
+   "days": 100,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05636-9",
+   "title": "Outcomes of transplant recipients on ECMO for COVID-19 respiratory failure: an ELSO registry study",
+   "received": "9 May 2025",
+   "accepted": "25 August 2025",
+   "days": 108,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s13054-025-05658-3",
+   "title": "Reply to: \u201ceCPR challenge: navigating the fine line between life and burden\u201d",
+   "received": "2 September 2025",
+   "accepted": "4 September 2025",
+   "days": 2,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05661-8",
+   "title": "Assessing risk of respiratory depression following initial phenobarbital loading for severe alcohol withdrawal syndrome",
+   "received": "15 August 2025",
+   "accepted": "9 September 2025",
+   "days": 25,
+   "refs": 4
+  },
+  {
+   "doi": "10.1186/s13054-025-05638-7",
+   "title": "Sepsis-induced hypocholesterolemia is linked to low cardiomyocyte membrane cholesterol and impaired catecholamine responsiveness",
+   "received": "1 May 2025",
+   "accepted": "26 August 2025",
+   "days": 117,
+   "refs": 59
+  },
+  {
+   "doi": "10.1186/s13054-025-05652-9",
+   "title": "Temporal dimensions of oxygen saturation exposure and clinical outcomes in critically ill patients: a retrospective multi-database cohort study",
+   "received": "2 July 2025",
+   "accepted": "3 September 2025",
+   "days": 63,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-025-05659-2",
+   "title": "Oropharyngeal ultrafast ultrasound measurements in mechanically ventilated critically ill patients do not identify post-extubation stridor",
+   "received": "17 June 2025",
+   "accepted": "5 September 2025",
+   "days": 80,
+   "refs": 40
+  },
+  {
+   "doi": "10.1186/s13054-025-05648-5",
+   "title": "Clinical and biological profiles associated with the time of occurrence of citrate accumulation in patients receiving continuous renal replacement therapy",
+   "received": "2 June 2025",
+   "accepted": "29 August 2025",
+   "days": 88,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05657-4",
+   "title": "Sex differences in sepsis outcomes across the lifespan: a population-based cohort study in Germany",
+   "received": "1 July 2025",
+   "accepted": "4 September 2025",
+   "days": 65,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s13054-025-05656-5",
+   "title": "Outcome and critical care resources utilised by do not attempt cardiopulmonary resuscitation (DNACPR) patients admitted to the ICU at a tertiary hospital in Sau",
+   "received": "4 June 2025",
+   "accepted": "4 September 2025",
+   "days": 92,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s13054-025-05626-x",
+   "title": "Comparison of two transpulmonary pressure-based positive end-expiratory pressure titration strategies in acute respiratory distress syndrome: a randomized cross",
+   "received": "22 May 2025",
+   "accepted": "18 August 2025",
+   "days": 88,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s13054-025-05663-6",
+   "title": "Observational studies of early versus late salvage therapies in critical care exhibit intrinsic selection bias: two meta-analyses",
+   "received": "14 May 2025",
+   "accepted": "11 September 2025",
+   "days": 120,
+   "refs": 142
+  },
+  {
+   "doi": "10.1186/s13054-025-05630-1",
+   "title": "Paradigm shift in hypomagnesemia: a prospective observational study of ionized magnesium in the ICU",
+   "received": "14 August 2025",
+   "accepted": "21 August 2025",
+   "days": 7,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05601-6",
+   "title": "Severe autoimmune hemolytic anemia in ICU: a place for emergency plasma exchange? A French multicenter retrospective study",
+   "received": "15 April 2025",
+   "accepted": "2 August 2025",
+   "days": 109,
+   "refs": 41
+  },
+  {
+   "doi": "10.1186/s13054-025-05640-z",
+   "title": "Beyond the bleed: complications after aneurysmal subarachnoid hemorrhage. Pathophysiology, clinical implications, and management strategies: a review",
+   "received": "3 June 2025",
+   "accepted": "26 August 2025",
+   "days": 84,
+   "refs": 172
+  },
+  {
+   "doi": "10.1186/s13054-025-05655-6",
+   "title": "Conventional versus pump-controlled retrograde trial off (PCRTO) weaning in V-A ECMO: exploring feasibility, physiological insights and benefits",
+   "received": "1 August 2025",
+   "accepted": "4 September 2025",
+   "days": 34,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05529-x",
+   "title": "Early detection of critical illnesses using exhaled aldehydes: a non-invasive breath analysis approach",
+   "received": "8 June 2025",
+   "accepted": "24 June 2025",
+   "days": 16,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05573-7",
+   "title": "The effects of vasopressor choice on renal outcomes in septic shock: a systematic review of randomised trials as a guide for future research",
+   "received": "6 May 2025",
+   "accepted": "16 July 2025",
+   "days": 71,
+   "refs": 66
+  },
+  {
+   "doi": "10.1186/s13054-025-05491-8",
+   "title": "Rethinking post-sepsis syndrome: linking cellular dysfunction to the clinical picture",
+   "received": "10 April 2025",
+   "accepted": "5 June 2025",
+   "days": 56,
+   "refs": 77
+  },
+  {
+   "doi": "10.1186/s13054-025-05666-3",
+   "title": "Xuebijing injection reduces 28-day mortality in patients with septic shock",
+   "received": "28 August 2025",
+   "accepted": "12 September 2025",
+   "days": 15,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05619-w",
+   "title": "Optimal cerebrovascular reactivity thresholds for the determination of individualized intracranial pressure thresholds in traumatic brain injury: a CAHR-TBI coh",
+   "received": "5 June 2025",
+   "accepted": "13 August 2025",
+   "days": 69,
+   "refs": 49
+  },
+  {
+   "doi": "10.1186/s13054-025-05634-x",
+   "title": "Post-intensive care unit clinics: models and implementation - a systematic review",
+   "received": "12 May 2025",
+   "accepted": "23 August 2025",
+   "days": 103,
+   "refs": 61
+  },
+  {
+   "doi": "10.1186/s13054-025-05699-8",
+   "title": "Letter to the authors of \u201cMind the drain: expanding TIMING-ICP discussion\u201d and to the author of \u201cRethinking the clinical impact of timing in ICP monitoring init",
+   "received": "22 September 2025",
+   "accepted": "30 September 2025",
+   "days": 8,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05662-7",
+   "title": "Beyond diabetes: harnessing the power of metformin in burn care",
+   "received": "26 July 2025",
+   "accepted": "11 September 2025",
+   "days": 47,
+   "refs": 191
+  },
+  {
+   "doi": "10.1186/s13054-025-05680-5",
+   "title": "Potential therapeutic benefit of exogenous ketone ester administration in delirium: a narrative review",
+   "received": "25 July 2025",
+   "accepted": "22 September 2025",
+   "days": 59,
+   "refs": 138
+  },
+  {
+   "doi": "10.1186/s13054-025-05704-0",
+   "title": "Distinct pathogen spectrum in immunocompromised patients with severe pneumonia",
+   "received": "22 July 2025",
+   "accepted": "29 July 2025",
+   "days": 7,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05647-6",
+   "title": "Discovery of a resistant cohort to acute kidney injury: insights from patients with septic shock",
+   "received": "23 May 2025",
+   "accepted": "29 August 2025",
+   "days": 98,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05668-1",
+   "title": "ApoA1/HDL and sepsis-associated vascular endothelial injury: a narrative review",
+   "received": "25 June 2025",
+   "accepted": "14 September 2025",
+   "days": 81,
+   "refs": 167
+  },
+  {
+   "doi": "10.1186/s13054-025-05703-1",
+   "title": "Reconsidering the urea-to-creatinine ratio as a signal of muscle catabolism in patients with cirrhosis",
+   "received": "27 September 2025",
+   "accepted": "1 October 2025",
+   "days": 4,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05667-2",
+   "title": "Tailored strategy for managing post-cardiac-arrest patients using an early stratification tool: a French university hospital experience",
+   "received": "8 September 2025",
+   "accepted": "13 September 2025",
+   "days": 5,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05502-8",
+   "title": "Rethinking PbtO\u2082 responses to hyperoxemia: laying the groundwork for a new approach to multimodal neuromonitoring",
+   "received": "8 May 2025",
+   "accepted": "13 June 2025",
+   "days": 36,
+   "refs": 6
+  },
+  {
+   "doi": "10.1186/s13054-025-05664-5",
+   "title": "Antibiotic therapy in necrotizing soft tissue infections: a\u00a0narrative review of the greater Paris SURFAST consortium",
+   "received": "12 July 2025",
+   "accepted": "12 September 2025",
+   "days": 62,
+   "refs": 85
+  },
+  {
+   "doi": "10.1186/s13054-025-05673-4",
+   "title": "Computed tomography image quality with high-flow contrast via high-pressure central venous catheter in critically ill patients",
+   "received": "31 August 2025",
+   "accepted": "18 September 2025",
+   "days": 18,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05596-0",
+   "title": "Circulating endothelial signatures correlate with worse outcomes in COVID-19, respiratory failure and ARDS",
+   "received": "21 April 2025",
+   "accepted": "1 August 2025",
+   "days": 102,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05653-8",
+   "title": "Optimal antibiotic use in the intensive care unit",
+   "received": "16 July 2025",
+   "accepted": "3 September 2025",
+   "days": 49,
+   "refs": 157
+  },
+  {
+   "doi": "10.1186/s13054-025-05681-4",
+   "title": "Is volatile sedation truly associated with increased mortality in mechanically ventilated critically ill adults compared to intravenous sedation? Moving beyond ",
+   "received": "29 June 2025",
+   "accepted": "22 September 2025",
+   "days": 85,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05637-8",
+   "title": "Patient preference predictors revisited: technically feasible, ethically desirable, yet must be clinically relevant",
+   "received": "6 July 2025",
+   "accepted": "25 August 2025",
+   "days": 50,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-025-05678-z",
+   "title": "Therapeutic target of high fresh frozen plasma to red blood cell ratio in severe blunt trauma",
+   "received": "12 July 2025",
+   "accepted": "21 September 2025",
+   "days": 71,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05660-9",
+   "title": "Resistance training and \u03b2-hydroxy-\u03b2-methylbutyrate for functional recovery in critical illness: a multicenter 2\u2009\u00d7\u20092 factorial randomized trial",
+   "received": "22 July 2025",
+   "accepted": "6 September 2025",
+   "days": 46,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05720-0",
+   "title": "Norepinephrine formulation itself does not constitute heterogeneity in shock trials",
+   "received": "6 October 2025",
+   "accepted": "11 October 2025",
+   "days": 5,
+   "refs": 8
+  },
+  {
+   "doi": "10.1186/s13054-025-05715-x",
+   "title": "Challenging ageism in eCPR: the quiet discrimination",
+   "received": "8 September 2025",
+   "accepted": "9 October 2025",
+   "days": 31,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05642-x",
+   "title": "Deep learning models for ICU readmission prediction: a systematic review and meta-analysis",
+   "received": "30 June 2025",
+   "accepted": "28 August 2025",
+   "days": 59,
+   "refs": 97
+  },
+  {
+   "doi": "10.1186/s13054-025-05669-0",
+   "title": "Adjunctive terlipressin versus placebo in the treatment of refractory septic shock: a randomized, placebo-controlled trial",
+   "received": "12 June 2025",
+   "accepted": "14 September 2025",
+   "days": 94,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05675-2",
+   "title": "Lung-protective ventilation strategy in acute respiratory distress syndrome: a critical reappraisal of current practice",
+   "received": "18 August 2025",
+   "accepted": "20 September 2025",
+   "days": 33,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s13054-025-05651-w",
+   "title": "Intraosseous access in resuscitation",
+   "received": "9 August 2025",
+   "accepted": "2 September 2025",
+   "days": 24,
+   "refs": 12
+  },
+  {
+   "doi": "10.1186/s13054-025-05674-3",
+   "title": "Diagnostic performance of a 250-ml net ultrafiltration challenge to identify risk of preload-dependence in critically ill patients undergoing continuous renal r",
+   "received": "31 July 2025",
+   "accepted": "20 September 2025",
+   "days": 51,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-025-05728-6",
+   "title": "Cardiovascular effects of hypertonic lactate solutions: acid-base or metabolic cause, or both? Authors\u2019 reply",
+   "received": "6 October 2025",
+   "accepted": "14 October 2025",
+   "days": 8,
+   "refs": 14
+  },
+  {
+   "doi": "10.1186/s13054-025-05617-y",
+   "title": "Safety and efficacy of inhaled PEG-ADM in ARDS patients: a randomised controlled trial",
+   "received": "21 March 2025",
+   "accepted": "10 August 2025",
+   "days": 142,
+   "refs": 13
+  },
+  {
+   "doi": "10.1186/s13054-025-05643-w",
+   "title": "One-year trajectory of psychological symptoms in families of out-of-hospital cardiac arrest patients",
+   "received": "8 August 2025",
+   "accepted": "28 August 2025",
+   "days": 20,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05665-4",
+   "title": "Unlocking the metabolic and anti-inflammatory therapeutic potential of lactate in critically ill patients",
+   "received": "24 July 2025",
+   "accepted": "12 September 2025",
+   "days": 50,
+   "refs": 94
+  },
+  {
+   "doi": "10.1186/s13054-025-05690-3",
+   "title": "Intestinal lactate as a crucial molecular for intestinal epithelial cell renewal in sepsis",
+   "received": "9 August 2025",
+   "accepted": "27 September 2025",
+   "days": 49,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05685-0",
+   "title": "Association between SGLT2 inhibitor use and risk of sepsis-induced cardiomyopathy in patients with type 2 diabetes: a propensity-matched cohort study",
+   "received": "11 July 2025",
+   "accepted": "26 September 2025",
+   "days": 77,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05686-z",
+   "title": "The lower limit margin: a determinant of autoregulatory sensitivity to changes in cerebral perfusion pressure",
+   "received": "11 August 2025",
+   "accepted": "26 September 2025",
+   "days": 46,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05672-5",
+   "title": "Adult patients with sepsis in the ICU in Lubumbashi, Democratic Republic of Congo",
+   "received": "30 August 2025",
+   "accepted": "17 September 2025",
+   "days": 18,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05702-2",
+   "title": "High-density lipoprotein: a biomarker and therapeutic target in sepsis",
+   "received": "31 July 2025",
+   "accepted": "1 October 2025",
+   "days": 62,
+   "refs": 186
+  },
+  {
+   "doi": "10.1186/s13054-025-05670-7",
+   "title": "Physiological effects of noninvasive respiratory support strategies in adults with acute hypoxemic respiratory failure: a systematic review and network meta-ana",
+   "received": "15 July 2025",
+   "accepted": "16 September 2025",
+   "days": 63,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s13054-025-05694-z",
+   "title": "Respiratory effects of trunk inclination in obese and non-obese patients mechanically ventilated for ARDS",
+   "received": "7 July 2025",
+   "accepted": "29 September 2025",
+   "days": 84,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05721-z",
+   "title": "Impact of ECPR initiation time and age on survival in out-of-hospital cardiac arrest patients: do not underestimate pre-hospital time!",
+   "received": "6 October 2025",
+   "accepted": "11 October 2025",
+   "days": 5,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05710-2",
+   "title": "Towards optimised nutrition therapy after critical illness: a position statement and research framework by the global research initiative on post-intensive care",
+   "received": "27 August 2025",
+   "accepted": "6 October 2025",
+   "days": 40,
+   "refs": 120
+  },
+  {
+   "doi": "10.1186/s13054-025-05692-1",
+   "title": "Reproducibility and precision of renal perfusion quantification with contrast enhanced ultrasound in critically ill patients: a prospective observational study",
+   "received": "18 July 2025",
+   "accepted": "29 September 2025",
+   "days": 73,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05560-y",
+   "title": "Therapeutic plasma exchange in amatoxin associated acute liver failure\u2013results from the multi-center Amanita-PEX study",
+   "received": "24 May 2025",
+   "accepted": "9 July 2025",
+   "days": 46,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-025-05608-z",
+   "title": "Cost-effectiveness of eCPR: accounting for organ donation",
+   "received": "4 August 2025",
+   "accepted": "6 August 2025",
+   "days": 2,
+   "refs": 9
+  },
+  {
+   "doi": "10.1186/s13054-025-05708-w",
+   "title": "Ventricular septum curvature ratio: a novel imaging marker to predict clinical deterioration in normotensive acute pulmonary embolism",
+   "received": "16 April 2025",
+   "accepted": "6 October 2025",
+   "days": 173,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05695-y",
+   "title": "Indirect calorimetry identifies hypermetabolism associated with muscle wasting and increased risk of energy deficit in ICU patients",
+   "received": "26 July 2025",
+   "accepted": "29 September 2025",
+   "days": 65,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05731-x",
+   "title": "On the future of guidelines",
+   "received": "12 October 2025",
+   "accepted": "16 October 2025",
+   "days": 4,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05698-9",
+   "title": "Association of hospital-arrival rhythm and ROSC with outcomes after ECPR for OHCA with initial shockable rhythm",
+   "received": "28 July 2025",
+   "accepted": "30 September 2025",
+   "days": 64,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05706-y",
+   "title": "Association between respiratory-related cortical activation and weaning from mechanical ventilation: a physiological study",
+   "received": "22 July 2025",
+   "accepted": "3 October 2025",
+   "days": 73,
+   "refs": 52
+  },
+  {
+   "doi": "10.1186/s13054-025-05691-2",
+   "title": "Incidence, severity, and predictors of citrate accumulation during continuous kidney replacement therapy in the critically ill",
+   "received": "24 June 2025",
+   "accepted": "27 September 2025",
+   "days": 95,
+   "refs": 27
+  },
+  {
+   "doi": "10.1186/s13054-025-05716-w",
+   "title": "New persistent opioid use among ICU survivors after discharge: incidence, predictors, and nationwide cohort analysis",
+   "received": "4 August 2025",
+   "accepted": "9 October 2025",
+   "days": 66,
+   "refs": 20
+  },
+  {
+   "doi": "10.1186/s13054-025-05689-w",
+   "title": "Use of rescue noninvasive ventilation for post-extubation respiratory failure",
+   "received": "12 June 2025",
+   "accepted": "27 September 2025",
+   "days": 107,
+   "refs": 35
+  },
+  {
+   "doi": "10.1186/s13054-025-05744-6",
+   "title": "Sevoflurane for refractory status asthmaticus: balancing bronchodilation with hepatic safety",
+   "received": "17 October 2025",
+   "accepted": "24 October 2025",
+   "days": 7,
+   "refs": 16
+  },
+  {
+   "doi": "10.1186/s13054-025-05687-y",
+   "title": "VExUS score: optimizing its use in perioperative and critical care management",
+   "received": "28 July 2025",
+   "accepted": "26 September 2025",
+   "days": 60,
+   "refs": 25
+  },
+  {
+   "doi": "10.1186/s13054-025-05754-4",
+   "title": "Beyond concordance: differential prognostic value of SpO2/FiO2 and PaO2/FiO2 ratios in ARDS severity classification",
+   "received": "6 August 2025",
+   "accepted": "3 November 2025",
+   "days": 89,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s13054-025-05707-x",
+   "title": "Protocolized natriuresis-guided diuretic therapy in acute heart failure: a systematic review and meta-analysis",
+   "received": "10 August 2025",
+   "accepted": "3 October 2025",
+   "days": 54,
+   "refs": 31
+  },
+  {
+   "doi": "10.1186/s13054-025-05712-0",
+   "title": "Effectiveness and safety of prolonged prone positioning in adult patients with acute respiratory distress syndrome (ARDS): a systematic review and meta-analysis",
+   "received": "23 August 2025",
+   "accepted": "7 October 2025",
+   "days": 45,
+   "refs": 44
+  },
+  {
+   "doi": "10.1186/s13054-025-05696-x",
+   "title": "Acquisition of respiratory surface EMG: a systematic literature review of electrode configurations and methodological reporting",
+   "received": "7 July 2025",
+   "accepted": "29 September 2025",
+   "days": 84,
+   "refs": 64
+  },
+  {
+   "doi": "10.1186/s13054-025-05718-8",
+   "title": "Persistent inspiratory muscle weakness among extubated patients after prolonged intubation is frequent and can be predicted early by maximal inspiratory pressur",
+   "received": "14 July 2025",
+   "accepted": "10 October 2025",
+   "days": 88,
+   "refs": 34
+  },
+  {
+   "doi": "10.1186/s13054-025-05729-5",
+   "title": "Handgrip strength association with weaning outcome in mechanically ventilated ICU patients: a systematic review and meta-analysis",
+   "received": "5 August 2025",
+   "accepted": "14 October 2025",
+   "days": 70,
+   "refs": 53
+  },
+  {
+   "doi": "10.1186/s13054-025-05751-7",
+   "title": "Rethinking hypomagnesemia: diagnostic thresholds and metabolic implications in critical illness",
+   "received": "11 October 2025",
+   "accepted": "29 October 2025",
+   "days": 18,
+   "refs": 15
+  },
+  {
+   "doi": "10.1186/s13054-025-05676-1",
+   "title": "Intermediate Care Unit performance being properly assessed?",
+   "received": "20 June 2025",
+   "accepted": "20 September 2025",
+   "days": 92,
+   "refs": 18
+  },
+  {
+   "doi": "10.1186/s13054-025-05683-2",
+   "title": "Toward optimal mechanical ventilation of the injured lung: the role of expiratory duration",
+   "received": "26 June 2025",
+   "accepted": "24 September 2025",
+   "days": 90,
+   "refs": 62
+  },
+  {
+   "doi": "10.1186/s13054-025-05727-7",
+   "title": "Association between controlled mechanical ventilation and systemic inflammation in acute hypoxemic respiratory failure: an observational cohort study",
+   "received": "19 August 2025",
+   "accepted": "14 October 2025",
+   "days": 56,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05654-7",
+   "title": "Epidemiology of pain, delirium, psychiatric disorders, discomfort and sedation-analgesia management in the intensive care unit: a one-day nationwide study",
+   "received": "1 July 2025",
+   "accepted": "3 September 2025",
+   "days": 64,
+   "refs": 38
+  },
+  {
+   "doi": "10.1186/s13054-025-05723-x",
+   "title": "Opportunities, challenges and future perspectives for target trial emulation in critical care clinical research",
+   "received": "30 June 2025",
+   "accepted": "12 October 2025",
+   "days": 104,
+   "refs": 46
+  },
+  {
+   "doi": "10.1186/s13054-025-05705-z",
+   "title": "Improving decision-making for prehospital Resuscitative Thoracotomy in traumatic cardiac arrest: a data-driven approach",
+   "received": "11 September 2025",
+   "accepted": "2 October 2025",
+   "days": 21,
+   "refs": 28
+  },
+  {
+   "doi": "10.1186/s13054-025-05759-z",
+   "title": "From \u201cwhen to stop\u201d to \u201cwhy continue today?\u201d: operationalizing RRT weaning with UUEI",
+   "received": "26 October 2025",
+   "accepted": "6 November 2025",
+   "days": 11,
+   "refs": 10
+  },
+  {
+   "doi": "10.1186/s13054-025-05701-3",
+   "title": "Neuromonitoring with near-infrared spectroscopy (NIRS) in aneurysmal subarachnoid hemorrhage: A systematic review and meta-analysis",
+   "received": "3 July 2025",
+   "accepted": "1 October 2025",
+   "days": 90,
+   "refs": 76
+  },
+  {
+   "doi": "10.1186/s13054-025-05671-6",
+   "title": "Volatile sedation in critically ill adults undergoing mechanical ventilation: not all sedatives are equivalent, in sustainability!",
+   "received": "8 September 2025",
+   "accepted": "16 September 2025",
+   "days": 8,
+   "refs": 14
+  },
+  {
+   "doi": "10.1186/s13054-025-05724-w",
+   "title": "Who is responsible for follow-up after critical illness? GP, ICU and patient perspectives",
+   "received": "1 September 2025",
+   "accepted": "13 October 2025",
+   "days": 42,
+   "refs": 48
+  },
+  {
+   "doi": "10.1186/s13054-025-05743-7",
+   "title": "Early mortality in patients with acute promyelocytic leukemia: a systematic review and meta-analysis",
+   "received": "16 July 2025",
+   "accepted": "24 October 2025",
+   "days": 100,
+   "refs": 24
+  },
+  {
+   "doi": "10.1186/s13054-025-05688-x",
+   "title": "Advanced non-invasive respiratory support in resource-constrained settings:\u00a0a narrative review",
+   "received": "10 January 2025",
+   "accepted": "27 September 2025",
+   "days": 260,
+   "refs": 88
+  },
+  {
+   "doi": "10.1186/s13054-025-05739-3",
+   "title": "Enhancing predictive modeling for respiratory support with LLM-driven guideline adherence",
+   "received": "28 July 2025",
+   "accepted": "20 October 2025",
+   "days": 84,
+   "refs": 19
+  },
+  {
+   "doi": "10.1186/s13054-025-05741-9",
+   "title": "Timing of ceiling lift\u2013assisted out-of-bed sitting training and outcomes in critically ill patients: a prospective cohort study",
+   "received": "8 October 2025",
+   "accepted": "22 October 2025",
+   "days": 14,
+   "refs": 32
+  },
+  {
+   "doi": "10.1186/s13054-025-05766-0",
+   "title": "Therapeutic walks beyond the ICU: a safe strategy to enhance emotional well-being in critically ill patients with prolonged hospitalization",
+   "received": "25 September 2025",
+   "accepted": "12 November 2025",
+   "days": 48,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05761-5",
+   "title": "Impact of ECPR initiation time and age on survival in out-of-hospital cardiac arrest patients: on the measurement and meaning of ECPR initiation time: author\u2019s ",
+   "received": "5 November 2025",
+   "accepted": "7 November 2025",
+   "days": 2,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05730-y",
+   "title": "A clinical guide to non-invasive respiratory support in acute respiratory failure: ventilation settings, technical optimization and clinical indications",
+   "received": "11 July 2025",
+   "accepted": "15 October 2025",
+   "days": 96,
+   "refs": 228
+  },
+  {
+   "doi": "10.1186/s13054-025-05711-1",
+   "title": "Reduced plasma levels of Copine 5 correlate with sepsis-induced vascular leakage and mortality in human patients and a murine sepsis model",
+   "received": "29 July 2025",
+   "accepted": "7 October 2025",
+   "days": 70,
+   "refs": 47
+  },
+  {
+   "doi": "10.1186/s13054-025-05717-9",
+   "title": "Association of noradrenaline dose with mortality in critically ill patients: a systematic review and dose-response meta-analysis",
+   "received": "5 May 2025",
+   "accepted": "9 July 2025",
+   "days": 65,
+   "refs": 55
+  },
+  {
+   "doi": "10.1186/s13054-025-05774-0",
+   "title": "Co-enrolment in critical care trials: a secondary analysis of the RECOVERY-RS trial",
+   "received": "11 November 2025",
+   "accepted": "16 November 2025",
+   "days": 5,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05709-9",
+   "title": "Physiology-guided management of patients with severe hypoxemia ineligible for ECMO: a multidisciplinary lung rescue team approach",
+   "received": "1 August 2025",
+   "accepted": "6 October 2025",
+   "days": 66,
+   "refs": 30
+  },
+  {
+   "doi": "10.1186/s13054-025-05726-8",
+   "title": "A systematic meta-review of interventions to prevent and manage delirium in the Intensive Care Unit: Part 2 \u2013 Non-pharmacological and multicomponent interventio",
+   "received": "16 July 2025",
+   "accepted": "13 October 2025",
+   "days": 89,
+   "refs": 69
+  },
+  {
+   "doi": "10.1186/s13054-025-05765-1",
+   "title": "Evaluating the effect of heart and respiratory rate measurement errors on the ability to predict the outcome of high flow nasal cannula therapy: a multi-centre ",
+   "received": "26 August 2025",
+   "accepted": "12 November 2025",
+   "days": 78,
+   "refs": 45
+  },
+  {
+   "doi": "10.1186/s13054-025-05769-x",
+   "title": "Mortality effect of higher versus lower blood pressure targets in vasodilatory shock: an updated systematic review and meta-analysis",
+   "received": "13 October 2025",
+   "accepted": "15 November 2025",
+   "days": 33,
+   "refs": 33
+  },
+  {
+   "doi": "10.1186/s13054-025-05777-x",
+   "title": "Prolonged prone positioning in ARDS: No mortality benefit, no increased risk\u2013But what about the reduced ICU staff workload?",
+   "received": "11 November 2025",
+   "accepted": "19 November 2025",
+   "days": 8,
+   "refs": 2
+  },
+  {
+   "doi": "10.1186/s13054-025-05737-5",
+   "title": "Pitfalls and paradoxes: blood transfusion in 5 public ICU databases",
+   "received": "28 July 2025",
+   "accepted": "20 October 2025",
+   "days": 84,
+   "refs": 5
+  },
+  {
+   "doi": "10.1186/s13054-025-05700-4",
+   "title": "Unlocking survival in traumatic cardiac arrest: global insights, innovations, and unmet needs",
+   "received": "21 July 2025",
+   "accepted": "1 October 2025",
+   "days": 72,
+   "refs": 91
+  }
+ ]
+}

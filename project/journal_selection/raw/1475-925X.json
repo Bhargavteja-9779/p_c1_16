@@ -1,0 +1,1189 @@
+{
+ "issn": "1475-925X",
+ "journal": "BioMedical Engineering OnLine",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:15.262649",
+ "source": "https://api.crossref.org/journals/1475-925X/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12938-024-01324-x",
+   "title": "In vivo imaging of adipose-derived stem cell sheets on biodegradable nonwoven fabric using X-ray CT",
+   "received": "11 May 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 214
+  },
+  {
+   "doi": "10.1186/s12938-025-01461-x",
+   "title": "Influence of m6A regulatory factor related to immune microenvironment on the prognosis of prostate cancer",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s12938-025-01409-1",
+   "title": "Performance of deep-learning models incorporating knee alignment information for predicting ground reaction force during walking",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s12938-025-01440-2",
+   "title": "Pathomics-based machine learning models for optimizing LungPro navigational bronchoscopy in peripheral lung lesion diagnosis: a retrospective study",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s12938-024-01319-8",
+   "title": "Expression of periostin in the epithelium of cholesteatoma with different degrees of ossicular chain destruction and its clinical value in predicting ",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12938-025-01355-y",
+   "title": "Development of a deep learning radiomics model combining lumbar CT, multi-sequence MRI, and clinical data to predict high-risk cage subsidence after l",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s12938-025-01365-w",
+   "title": "A finger on the pulse of cardiovascular health: estimating blood pressure with smartphone photoplethysmography-based pulse waveform analysis",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s12938-025-01357-w",
+   "title": "Integrative research on the mechanisms of acupuncture mechanics and interdisciplinary innovation",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s12938-025-01374-9",
+   "title": "Effect of nano-hydroxyapatite filling on masticatory function and gingival sulcular fluid inflammatory factor levels in periapical inflammation",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s12938-025-01346-z",
+   "title": "Advances in growth factor-containing 3D printed scaffolds in orthopedics",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12938-025-01413-5",
+   "title": "In vitro study on the osteoimmunological potential of magnesium implants (WE43MEO)",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 51
+  },
+  {
+   "doi": "10.1186/s12938-025-01351-2",
+   "title": "A review on diagnostic assessments of tracheal stenosis",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 387
+  },
+  {
+   "doi": "10.1186/s12938-025-01359-8",
+   "title": "Predictive value of CT imaging features on the risk of hemorrhagic transformation after mechanical thrombectomy for acute ischemic stroke with large v",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s12938-025-01356-x",
+   "title": "Design and validation of an alignment free adaptive joint torque measurement system",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s12938-025-01443-z",
+   "title": "Classification of colon polyps with malignant potential using statistical analysis of features extracted from ex vivo optical coherence tomography ima",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1186/s12938-025-01371-y",
+   "title": "Applications and development trend of biosensors in the detection and diagnosis of gastrointestinal tumors",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s12938-025-01415-3",
+   "title": "Health disorders in menopausal women: microbiome alterations, associated problems, and possible treatments",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s12938-025-01425-1",
+   "title": "Development and validation of a clinical prediction model for concurrent pulmonary infection in convalescent patients with intracerebral hemorrhage",
+   "received": "18 April 2024",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 447
+  },
+  {
+   "doi": "10.1186/s12938-025-01441-1",
+   "title": "Automatic position monitoring of endotracheal breathing tubes using a magnetic sensor array",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s12938-025-01394-5",
+   "title": "A KNN-based model for non-invasive prediction of hemorrhagic shock severity in prehospital settings: integrating MAP, PBUCO2, PTCO2, and PPV",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s12938-025-01348-x",
+   "title": "Diffused Multi-scale Generative Adversarial Network for low-dose PET images reconstruction",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12938-025-01396-3",
+   "title": "Facial expression deep learning algorithms in the detection of neurological disorders: a systematic review and meta-analysis",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12938-024-01323-y",
+   "title": "Specifications and functional impact of a self-triggered grasp neuroprosthesis developed to restore prehension in hemiparetic post-stroke subjects",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 257
+  },
+  {
+   "doi": "10.1186/s12938-025-01366-9",
+   "title": "Ex vivo myo-mechanical assessment of isolated rectus abdominis muscle in pregnancy-specific urinary incontinence: a cross-sectional study nested withi",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s12938-025-01382-9",
+   "title": "Music interventions and obstructive sleep apnea: a brain connectivity analysis",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 257
+  },
+  {
+   "doi": "10.1186/s12938-025-01342-3",
+   "title": "Ultramodern natural and synthetic polymer hydrogel scaffolds for articular cartilage repair and regeneration",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s12938-025-01412-6",
+   "title": "Advancing ADMET prediction for major CYP450 isoforms: graph-based models, limitations, and future directions",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s12938-025-01404-6",
+   "title": "Development of a deep learning-based MRI diagnostic model for human Brucella spondylitis",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12938-025-01389-2",
+   "title": "Reliability analysis of hospital infusion pumps: a case study",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s12938-025-01330-7",
+   "title": "Calculation of recovery coefficients for partial volume effect correction in PET/CT imaging using a customized anthropomorphic body phantom",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s12938-025-01460-y",
+   "title": "An interpretable machine learning model integrating computed tomography radiomics and clinical features for predicting the urosepsis after percutaneou",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s12938-025-01463-9",
+   "title": "Comparison of gait parameters between post-surgery ankle fracture patients and healthy individuals: a systematic review and meta-review",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 453
+  },
+  {
+   "doi": "10.1186/s12938-025-01336-1",
+   "title": "Performance and limitation of machine learning algorithms for diabetic retinopathy screening and its application in health management: a meta-analysis",
+   "received": "18 April 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1186/s12938-025-01474-6",
+   "title": "Recent advances in potential drug nanocarriers for CNS disorders: a review",
+   "received": "29 June 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12938-025-01459-5",
+   "title": "Network architecture optimization for ophthalmic ultrasound image detection based on modular ablation of multi-version YOLO",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12938-024-01318-9",
+   "title": "Albumin nanoparticles are a promising drug delivery system in dentistry",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12938-025-01368-7",
+   "title": "Application and optimization of bioengineering strategies in facilitating tendon\u2013bone healing",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1186/s12938-025-01343-2",
+   "title": "A novel corneal indentation device for comparison of corneal tangent modulus before and after FS-LASIK in vivo",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 308
+  },
+  {
+   "doi": "10.1186/s12938-025-01430-4",
+   "title": "A review of machine learning applications in heart health",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1186/s12938-025-01436-y",
+   "title": "Pulse wave-driven machine learning for the non-invasive assessment of coronary artery calcification in patients with end-stage renal disease undergoin",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s12938-025-01451-z",
+   "title": "Diagnostic ultrasound irradiation combined with microbubbles to modulate carotid body activity for the treatment of obesity-related hypertension in ra",
+   "received": "18 May 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s12938-025-01393-6",
+   "title": "Design, construction, and deployment of a multi-locus transcranial magnetic stimulation system for clinical use",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "4 May 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12938-025-01410-8",
+   "title": "Prediction of risk factors of plastic bronchitis in children with severe Mycoplasma pneumoniae pneumonia",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12938-024-01317-w",
+   "title": "Verification of a system utilizing heartbeat-induced acoustic pulse waves for estimating the time at which bladder urine increases to a level requirin",
+   "received": "13 March 2024",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s12938-025-01435-z",
+   "title": "Development of a patient-specific epicardial guide for ventricular tachycardia ablation surgery using high-consistency rubber silicone molding",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12938-025-01360-1",
+   "title": "Forecasting motion trajectories of elbow and knee joints during infant crawling based on long\u2013short-term memory (LSTM) networks",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12938-025-01390-9",
+   "title": "Concurrent vs. sequential chemoradiotherapy: a survival boost for lung cancer patients",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s12938-025-01432-2",
+   "title": "Performance assessment of a ventilator developed for emergency use in a resource-constrained ICU setting during the COVID-19 pandemic",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12938-024-01322-z",
+   "title": "A review of cardioprotective effect of ginsenosides in chemotherapy-induced cardiotoxicity",
+   "received": "7 April 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s12938-025-01452-y",
+   "title": "Evaluating cell viability assessment techniques: a comparative study of flow cytometry and fluorescence microscopy in response to bioactive glass expo",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s12938-025-01354-z",
+   "title": "Sex differences in electrical activity of the brain during sleep: a systematic review of electroencephalographic findings across the human lifespan",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s12938-025-01338-z",
+   "title": "Preclinical evaluation of a hydraulic actuation system with guide tube for robotic cochlear implant electrode insertion",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1186/s12938-025-01400-w",
+   "title": "Attention-enhanced residual U-Net: lymph node segmentation method with bimodal MRI images",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12938-025-01464-8",
+   "title": "The predictive value of circulating lymphocyte subpopulation characteristics for the prognosis of patients with stage III\u2013IV non-small cell lung cance",
+   "received": "10 July 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s12938-025-01347-y",
+   "title": "The effect of depth data and upper limb impairment on lightweight monocular RGB human pose estimation models",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s12938-025-01458-6",
+   "title": "Multimodal contrastive learning on rs-fMRI to quantify whole-brain network recovery after hypothalamic hamartoma surgery",
+   "received": "16 July 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s12938-025-01344-1",
+   "title": "The impact of a 5G-based smart nursing information system and associated mobile hardware on clinical nurses\u2019 work stress: a randomized controlled stud",
+   "received": "1 September 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s12938-025-01462-w",
+   "title": "CT radiomics-based explainable machine learning model for accurate differentiation of malignant and benign endometrial tumors: a two-center study",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s12938-024-01312-1",
+   "title": "Optimizing stent retrievers for mechanical enhancement and in vitro testing in acute ischemic stroke models",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "5 November 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s12938-025-01424-2",
+   "title": "The synergic impact of decellularized testis scaffold and extracellular vesicles derived from human semen on spermatogonial stem cell survival and dif",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s12938-025-01426-0",
+   "title": "A hybrid model for detecting motion artifacts in ballistocardiogram signals",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 278
+  },
+  {
+   "doi": "10.1186/s12938-025-01423-3",
+   "title": "Microdamage in biological hard tissues and its repair mechanisms",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s12938-025-01361-0",
+   "title": "Identification of Alzheimer\u2019s disease brain networks based on EEG phase synchronization",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1186/s12938-025-01448-8",
+   "title": "Modular eFAST tissue phantom for AI-based ultrasound triage",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12938-025-01431-3",
+   "title": "Unveiling the diagnostic power of lncRNAs in colorectal cancer: a meta-analysis",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 330
+  },
+  {
+   "doi": "10.1186/s12938-025-01429-x",
+   "title": "Cholesterol homeostasis and pathway enrichment in post-revascularization recovery",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s12938-025-01364-x",
+   "title": "Analysis of preoperative ocular optical parameters in patients with cataract",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12938-025-01427-z",
+   "title": "Special collection in association with the 2024 International Conference on Aging, Innovation and Rehabilitation",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 8
+  },
+  {
+   "doi": "10.1186/s12938-025-01333-4",
+   "title": "Deep learning-based algorithm for classifying high-resolution computed tomography features in coal workers\u2019 pneumoconiosis",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s12938-025-01421-5",
+   "title": "Odontogenic/osteogenic differentiation of dental pulp stem cells on a Biodentine-coated polymer nanofibers",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s12938-025-01373-w",
+   "title": "Investigating the correlation between smoking and blood pressure via photoplethysmography",
+   "received": "4 January 2025",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s12938-025-01422-4",
+   "title": "Alertness assessment by optical stimulation-induced brainwave entrainment through machine learning classification",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s12938-025-01419-z",
+   "title": "Predicting the perioperative transfusion risk of proximal femoral antirotation nailing (PFNA) for elderly patients with intertrochanteric fractures: a",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 288
+  },
+  {
+   "doi": "10.1186/s12938-025-01329-0",
+   "title": "Accuracy evaluation and clinical realization of digital interproximal enamel reduction for orthodontics: a case study",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s12938-025-01379-4",
+   "title": "Exploration of the effect of morphology and location on hemodynamics of small aneurysms: a variable-controlled study based on two cases with tandem an",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12938-025-01407-3",
+   "title": "A hybrid multi-instance learning-based identification of gastric adenocarcinoma differentiation on whole-slide images",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s12938-025-01420-6",
+   "title": "Assessing chronic obstructive pulmonary disease risk based on exhalation and cough sounds",
+   "received": "22 March 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s12938-024-01303-2",
+   "title": "Application effect of enhanced recovery after surgery on patients with hepatolithiasis undergoing hepatectomy",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "25 October 2024",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s12938-025-01375-8",
+   "title": "Video microscopy: an old story with a bright biological future",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s12938-025-01471-9",
+   "title": "The tolerance-related psychology and dynamic activity in the peripheral nervous system of Internet gaming disorder during playing online games",
+   "received": "22 July 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12938-025-01442-0",
+   "title": "Deep learning-based cardiac computed tomography angiography left atrial segmentation and quantification in atrial fibrillation patients: a multi-model",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12938-025-01399-0",
+   "title": "Construction of a deep learning-based predictive model to evaluate the influence of mechanical stretching stimuli on MMP-2 gene expression levels in f",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s12938-025-01352-1",
+   "title": "Feasibility and reliability of an online version of the beat alignment test in neurotypical adults and people with stroke",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s12938-025-01465-7",
+   "title": "Curcumin-incorporated edible hydrogel films based on potato starch/\u03ba-carrageenan/poly(vinyl alcohol) for cultured meat scaffolding",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s12938-025-01339-y",
+   "title": "Relationship between RSV-hospitalized children and meteorological factors: a time series analysis from 2017 to 2023",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12938-025-01397-2",
+   "title": "Investigation of bending angle algorithm and path planning for puncture needles in transjugular intrahepatic portosystemic shunt",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s12938-025-01456-8",
+   "title": "Research on drug addiction detection based on AR-TSNET with bimodal EEG\u2013NIRS",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s12938-025-01349-w",
+   "title": "Deep learning and electrocardiography: systematic review of current techniques in cardiovascular disease diagnosis and management",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1186/s12938-025-01345-0",
+   "title": "Automated orthodontic diagnosis via self-supervised learning and multi-attribute classification using lateral cephalograms",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 287
+  },
+  {
+   "doi": "10.1186/s12938-025-01350-3",
+   "title": "Comparative analysis of electrical signals in facial expression muscles",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12938-025-01428-y",
+   "title": "Postoperative outcome analysis of chronic rhinosinusitis using transfer learning with pre-trained foundation models based on endoscopic images: a mult",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12938-025-01405-5",
+   "title": "A comprehensive review of heart rate measurement using remote photoplethysmography and deep learning",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s12938-024-01320-1",
+   "title": "Development of a hydrogel-based three-dimensional (3D) glioblastoma cell lines culture as a model system for CD73 inhibitor response study",
+   "received": "15 June 2024",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12938-025-01341-4",
+   "title": "WDRIV-Net: a weighted ensemble transfer learning to improve automatic type stratification of lumbar intervertebral disc bulge, prolapse, and herniatio",
+   "received": "17 September 2023",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 491
+  },
+  {
+   "doi": "10.1186/s12938-025-01335-2",
+   "title": "Portable devices for periodic monitoring of bioelectrical impedance along meridian pathways in healthy individuals",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s12938-025-01434-0",
+   "title": "Hemodynamic characterization of spontaneous isolated superior mesenteric artery dissection revealed by patient-specific computational fluid dynamics",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s12938-025-01454-w",
+   "title": "Osteoblast dysfunction associated with mitophagy suppression under simulated microgravity",
+   "received": "17 July 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s12938-025-01433-1",
+   "title": "Effects of intensity-modulated radiotherapy (IMRT) and volumetric modulated arc therapy (VMAT) on survival benefits and poor prognostic factors in pat",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12938-025-01331-6",
+   "title": "The potential of MRI radiomics based on extrapulmonary metastases in predicting EGFR mutations: a systematic review and meta-analysis",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s12938-025-01401-9",
+   "title": "Research on automatic assessment of the severity of unilateral vocal cord paralysis based on Mel-spectrogram and convolutional neural networks",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12938-025-01332-5",
+   "title": "A review of novel methods to assist digital planning and execution of osteotomy for upper limb deformities",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12938-025-01445-x",
+   "title": "Exploring the mechanism of action of astragaloside in the treatment of osteoarthritis based on network pharmacology",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 523
+  },
+  {
+   "doi": "10.1186/s12938-025-01439-9",
+   "title": "Lesion detection in age-related macular degeneration with a multi-modal imaging and machine learning approach",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s12938-025-01370-z",
+   "title": "Antioxidant scaffolds for enhanced bone regeneration: recent advances and challenges",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s12938-025-01378-5",
+   "title": "Transcriptomic and metabolomic insights into neutrophil activity in COPD complicated by metabolic syndrome",
+   "received": "15 June 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1186/s12938-025-01385-6",
+   "title": "From gaps to guidelines: a process for providing guidance to bridge evidence gaps",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s12938-025-01384-7",
+   "title": "Modification of the toronto rehabilitation institute\u2014hand function test for integration into robot-assisted therapy: technical validation and usabilit",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s12938-025-01411-7",
+   "title": "Combining nonlinear mechanical stimulation via a chaotic mathematical model and game-based exercise for upper extremity rehabilitation in children wit",
+   "received": "25 August 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1186/s12938-024-01327-8",
+   "title": "A model-based spectral directional approach reveals the long-term impact of COVID-19 on cardiorespiratory control and baroreflex",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s12938-025-01395-4",
+   "title": "Enhancing laparoscopic visibility: efficient surgical smoke clearance innovatively using nebulization technology",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s12938-025-01369-6",
+   "title": "Detection of Alzheimer and mild cognitive impairment patients by Poincare and Entropy methods based on electroencephalography signals",
+   "received": "23 December 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 324
+  },
+  {
+   "doi": "10.1186/s12938-025-01408-2",
+   "title": "Emerging technologies in airway management: a narrative review of intubation robotics and anatomical structure recognition algorithms",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s12938-025-01444-y",
+   "title": "Meta-analysis of the effects of compressive stress on osteoblasts and osteoclasts growth",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s12938-025-01416-2",
+   "title": "Deep learning for predicting myopia severity classification method",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12938-025-01362-z",
+   "title": "Industrial-grade collaborative robots for motor rehabilitation after stroke and spinal cord injury: a systematic narrative review",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s12938-025-01367-8",
+   "title": "New considerations in selecting donors for dental pulp stem cells: a pilot study",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12938-025-01453-x",
+   "title": "Machine learning-driven microwave system for noninvasive monitoring of intracranial pressure",
+   "received": "5 August 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s12938-025-01417-1",
+   "title": "Combined therapy with contralateral controlled functional electrical stimulation and transcranial direct current stimulation for early post-stroke han",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12938-025-01372-x",
+   "title": "A review of osteoporotic vertebral fracture animal models",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12938-024-01326-9",
+   "title": "Identification of anatomical locations: its relevance for vibrotactile perception of individuals with Parkinson's disease",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12938-025-01406-4",
+   "title": "Effect of humeral rotation on rotator cuff strain, loading and kinematics: an in vitro study",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s12938-025-01446-w",
+   "title": "A hybrid method for fusion cardiac biomarkers and echocardiography videos in the experimental classification of Trypanosoma cruzi infection",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s12938-025-01418-0",
+   "title": "Clinical value of serum uric acid and homocysteine levels in predicting the occurrence of atrial fibrillation in patients with type 2 diabetes mellitu",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s12938-025-01380-x",
+   "title": "Complexity of post-concussion syndrome assessment and management: a case for customizing rehabilitation",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s12938-024-01328-7",
+   "title": "Changes in heart rate variability at rest and during exercise in patients after a stroke: a feasibility study",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12938-024-01325-w",
+   "title": "Multi-branch CNNFormer: a novel framework for predicting prostate cancer response to hormonal therapy",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12938-025-01403-7",
+   "title": "Global, regional, and national burden of acute leukemia and its risk factors from 1990 to 2021 and predictions to 2040: findings from the global burde",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s12938-025-01377-6",
+   "title": "The post-operative loading regimen influences the regenerative potential of a biomimetic osteochondral scaffold",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s12938-025-01455-9",
+   "title": "A nomogram prediction model for the risk of intra-abdominal infection after endoscopic full-thickness resection of gastric submucosal tumors",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 544
+  },
+  {
+   "doi": "10.1186/s12938-024-01321-0",
+   "title": "Experimental and computational evaluation of knee implant wear and creep under in vivo and ISO boundary conditions",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s12938-025-01388-3",
+   "title": "Keypoint localization and parameter measurement in ultrasound biomicroscopy anterior segment images based on deep learning",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12938-025-01363-y",
+   "title": "Advancements in osteoblast sourcing, isolation, and characterization for dental tissue regeneration: a review",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s12938-025-01334-3",
+   "title": "4D printing: innovative solutions and technological advances in orthopedic repair and reconstruction, personalized treatment and drug delivery",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s12938-025-01392-7",
+   "title": "Preparation and characterization of human decellularized ovarian scaffold based on supercritical carbon dioxide protocol",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12938-025-01402-8",
+   "title": "Effects of the lumbar support function of wearable robot (Bot Fit) on sitting position",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s12938-025-01386-5",
+   "title": "SS-OCT-based ocular biometric characteristics of patients with nuclear cataract",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s12938-024-01316-x",
+   "title": "Transcatheter bicuspid venous valve prostheses: fluid mechanical performance testing of artificial nonwoven leaflets",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12938-025-01476-4",
+   "title": "3D bioprinted melanoma models: a novel paradigm for the assessment of anticancer strategies combining PDT and drug delivery systems",
+   "received": "28 August 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s12938-025-01469-3",
+   "title": "3D technology facilitates transoral endoscopic precision surgery of parapharyngeal space tumors",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1186/s12938-025-01437-x",
+   "title": "The clinical efficacy and impact on fertility function of laparoscopic surgery versus methotrexate for treatment of tubal pregnancy: a meta-analysis",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s12938-025-01447-9",
+   "title": "Applications of recombinant type III collagen in tissue engineering",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12938-025-01376-7",
+   "title": "The use of a convolutional neural network to automate radiologic scoring of computed tomography of paranasal sinuses",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s12938-025-01391-8",
+   "title": "Deep learning based on ultrasound images to predict platinum resistance in patients with epithelial ovarian cancer",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s12938-025-01337-0",
+   "title": "Research progress in the regulation of endothelial cells and smooth muscle cells using a micro\u2013nanostructure",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 31
+  },
+  {
+   "doi": "10.1186/s12938-025-01353-0",
+   "title": "Cross-evaluation of wearable data for use in Parkinson\u2019s disease research: a free-living observational study on Empatica E4, Fitbit Sense, and Oura",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12938-025-01414-4",
+   "title": "Filter-type neural network-based counter-pulsation control in pulsatile ECMO: improving heartbeat-pulse discrimination and synchronization accuracy",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 441
+  },
+  {
+   "doi": "10.1186/s12938-025-01381-w",
+   "title": "Advances in 3D-printed scaffold technologies for bone defect repair: materials, biomechanics, and clinical prospects",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 103
+  }
+ ]
+}

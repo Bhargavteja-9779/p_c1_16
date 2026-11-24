@@ -1,0 +1,1493 @@
+{
+ "issn": "1572-9338",
+ "journal": "Annals of Operations Research",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:54.557970",
+ "source": "https://api.crossref.org/journals/1572-9338/works",
+ "articles": [
+  {
+   "doi": "10.1007/s10479-025-06729-y",
+   "title": "Technology innovation of key components under competitive markets with an AI service supplier",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 285
+  },
+  {
+   "doi": "10.1007/s10479-025-06912-1",
+   "title": "Inertial proximal point algorithm on Hadamard manifolds: convergence analysis and finite termination",
+   "received": "20 August 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1007/s10479-025-06813-3",
+   "title": "Revamping staffing strategy: a bottom-up approach",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 504
+  },
+  {
+   "doi": "10.1007/s10479-025-06943-8",
+   "title": "Optimizing stakeholder weights in group AHP for consensus creation, a contribution to the MAMCA methodology",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 354
+  },
+  {
+   "doi": "10.1007/s10479-024-06426-2",
+   "title": "Resilience analysis based on multi-layer network community detection of supply chain network",
+   "received": "29 June 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 151
+  },
+  {
+   "doi": "10.1007/s10479-025-06772-9",
+   "title": "Integrated berth allocation and quay crane assignment under cooperation among multiple container terminals",
+   "received": "21 November 2023",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 604
+  },
+  {
+   "doi": "10.1007/s10479-025-06933-w",
+   "title": "The effect of reducing the number of matches in round-robin tournaments with four teams: evidence from beach volleyball",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1007/s10479-025-06498-8",
+   "title": "A conceptual framework for sustainable location, inventory and transportation problems in a supply chain context",
+   "received": "25 June 2023",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 568
+  },
+  {
+   "doi": "10.1007/s10479-025-06542-7",
+   "title": "Detecting turning points in high-frequency financial data analysis",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1007/s10479-024-06383-w",
+   "title": "Efficient algorithms for the bucket wheel reclaimer scheduling problem with sequence-dependent setup times",
+   "received": "28 August 2023",
+   "revised": null,
+   "accepted": "5 November 2024",
+   "days": 435
+  },
+  {
+   "doi": "10.1007/s10479-025-06888-y",
+   "title": "Beyond conventional ratios: introducing pseudo-returns to scale in data envelopment analysis",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1007/s10479-025-06574-z",
+   "title": "Business Failure Prediction From Textual and Tabular Data With Sentence-Level Interpretations",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 371
+  },
+  {
+   "doi": "10.1007/s10479-025-06797-0",
+   "title": "Exploring the ESG-finance relationship through PROMETHEE ranking",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 399
+  },
+  {
+   "doi": "10.1007/s10479-025-06748-9",
+   "title": "Bias in the ballot: how votemandering exploits gerrymandering and campaign strategies",
+   "received": "20 August 2023",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 674
+  },
+  {
+   "doi": "10.1007/s10479-025-06475-1",
+   "title": "A note on valid inequalities for a service center location problem with a type of decision-dependent customer demand",
+   "received": "11 December 2023",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 387
+  },
+  {
+   "doi": "10.1007/s10479-025-06657-x",
+   "title": "Computing Perfect Pairwise Stable Networks",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 330
+  },
+  {
+   "doi": "10.1007/s10479-025-06637-1",
+   "title": "Location and transportation joint decisions for infectious medical waste in sustainable supply chains during a pandemic: a bi-level optimization appro",
+   "received": "7 November 2023",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 535
+  },
+  {
+   "doi": "10.1007/s10479-024-06453-z",
+   "title": "In the era of responsible artificial intelligence and digitalization: business group digitalization, operations and subsidiary performance",
+   "received": "30 July 2023",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 502
+  },
+  {
+   "doi": "10.1007/s10479-025-06871-7",
+   "title": "Swarm-optimized time-varying epidemiological model incorporating multi-dose vaccinations, vaccine efficacy and restriction policies",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1007/s10479-025-06467-1",
+   "title": "Active guidance systems in maritime evacuations: optimizing the lifeboat allocation for cruise ships",
+   "received": "6 July 2023",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 543
+  },
+  {
+   "doi": "10.1007/s10479-024-06415-5",
+   "title": "The interplay between blockchain and big data analytics for enhancing supply chain value creation in micro, small, and medium enterprises",
+   "received": "29 December 2021",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 1059
+  },
+  {
+   "doi": "10.1007/s10479-025-06465-3",
+   "title": "Robust, resilient, and responsive food supply chain redesign considering uncertainty and pandemic disruptions",
+   "received": "24 February 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 310
+  },
+  {
+   "doi": "10.1007/s10479-025-06892-2",
+   "title": "The impact of the number of preemptions in resource-constrained project scheduling problems with time-varying resources: computational experiments and",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 433
+  },
+  {
+   "doi": "10.1007/s10479-024-06423-5",
+   "title": "Nonradial plant capacity concepts: proposals and attainability",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 230
+  },
+  {
+   "doi": "10.1007/s10479-025-06766-7",
+   "title": "Timing for portfolio rebalancing: a data-driven robust optimization framework",
+   "received": "24 August 2023",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 691
+  },
+  {
+   "doi": "10.1007/s10479-025-06521-y",
+   "title": "Optimal carrier selection to improve logistics network reliability with delivery spoilage",
+   "received": "1 November 2023",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 456
+  },
+  {
+   "doi": "10.1007/s10479-025-06745-y",
+   "title": "Fuzzy Reduced $$\\mathbf {\\textit{K}}$$-Means for analyzing high-dimensional social phenomena",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1007/s10479-025-06472-4",
+   "title": "Italian investments for soil defence: retrieving and visualizing data by the PublicWorksFinanceIT R Package",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1007/s10479-024-06422-6",
+   "title": "A network-based matching design for text mining of controversial online reviews",
+   "received": "4 March 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 267
+  },
+  {
+   "doi": "10.1007/s10479-025-06676-8",
+   "title": "Impacts of investor heterogeneity and interactions on price discovery in futures markets: Based on dynamical system and stability analysis",
+   "received": "20 June 2023",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 694
+  },
+  {
+   "doi": "10.1007/s10479-025-06811-5",
+   "title": "Pattern-based survival analysis and its application to medicine",
+   "received": "3 October 2022",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 1043
+  },
+  {
+   "doi": "10.1007/s10479-025-06831-1",
+   "title": "Weak power domination",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 293
+  },
+  {
+   "doi": "10.1007/s10479-025-06735-0",
+   "title": "\u201cBad outputs as inputs\u201d, reverse outputs and extended strong disposability",
+   "received": "15 August 2023",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 679
+  },
+  {
+   "doi": "10.1007/s10479-025-06769-4",
+   "title": "An algorithm for assessing a multistate resilience supply chain network in terms of system reliability",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s10479-025-06655-z",
+   "title": "Trade off model for optimal sustainability and resilience through circular economy",
+   "received": "10 April 2023",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 758
+  },
+  {
+   "doi": "10.1007/s10479-025-06717-2",
+   "title": "Significance of predictors: revisiting stock return predictions using explainable AI",
+   "received": "1 October 2023",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 620
+  },
+  {
+   "doi": "10.1007/s10479-024-06368-9",
+   "title": "An innovative decision-making system integrating multifractal analysis and volatility forecasting",
+   "received": "28 March 2023",
+   "revised": null,
+   "accepted": "21 October 2024",
+   "days": 573
+  },
+  {
+   "doi": "10.1007/s10479-025-06688-4",
+   "title": "A purely buffer-based approach to the proactive and reactive resource-constrained project scheduling problem",
+   "received": "23 April 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 399
+  },
+  {
+   "doi": "10.1007/s10479-025-06922-z",
+   "title": "Equity risk premium forecasting: a comparative analysis of bootstrap bagging and combination forecast",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 660
+  },
+  {
+   "doi": "10.1007/s10479-025-06709-2",
+   "title": "Preference-sorting structures extending scores and ordered categories: an axiomatic distance approach in group decision making",
+   "received": "8 April 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 423
+  },
+  {
+   "doi": "10.1007/s10479-025-06845-9",
+   "title": "Bayesian network modeling for ROI simulation and scenario analysis: a case study on commercial aquaponics",
+   "received": "29 September 2023",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 706
+  },
+  {
+   "doi": "10.1007/s10479-024-06440-4",
+   "title": "Fast and reliable uncertainty quantification with neural network ensembles for industrial image classification",
+   "received": "15 March 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 266
+  },
+  {
+   "doi": "10.1007/s10479-024-06402-w",
+   "title": "Can subsidies promote electric vehicles\u2019 sustainable development? A general equilibrium perspective on substituting enterprises for government",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 210
+  },
+  {
+   "doi": "10.1007/s10479-024-06314-9",
+   "title": "Supply disruptions and the problem of pricing, advertising, and sourcing strategies in a retail duopoly market",
+   "received": "7 November 2023",
+   "revised": null,
+   "accepted": "18 September 2024",
+   "days": 316
+  },
+  {
+   "doi": "10.1007/s10479-025-06808-0",
+   "title": "The bright and dark sides of real-time delivery tracking in cross-border e-commerce",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 277
+  },
+  {
+   "doi": "10.1007/s10479-024-06431-5",
+   "title": "Hybrid combinatorial remanufacturing for PCB-based products in reversed supply chain",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 335
+  },
+  {
+   "doi": "10.1007/s10479-025-06721-6",
+   "title": "Operations research in epidemic-logistics management: from 2012 to 2025",
+   "received": "28 November 2023",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 567
+  },
+  {
+   "doi": "10.1007/s10479-025-06768-5",
+   "title": "Shadow economy and energy efficiency: utilising goal programming for sustainability assessment",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1007/s10479-025-06917-w",
+   "title": "Fair risk optimization of distributed systems",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1007/s10479-024-06381-y",
+   "title": "An integrated framework for modeling pharmaceutical supply chains with disruptions and risk mitigation",
+   "received": "18 December 2023",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 317
+  },
+  {
+   "doi": "10.1007/s10479-025-06732-3",
+   "title": "Performance estimation of a supply chain transportation with transport damage and carbon emissions",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s10479-024-06406-6",
+   "title": "Non-cooperative game theory with generative adversarial network for effective decision-making in military cyber warfare",
+   "received": "31 March 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 232
+  },
+  {
+   "doi": "10.1007/s10479-025-06649-x",
+   "title": "A reinforcement learning approach to dynamic portfolio optimization",
+   "received": "19 May 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 351
+  },
+  {
+   "doi": "10.1007/s10479-025-06516-9",
+   "title": "Investigating the impact of undersampling and bagging: an empirical investigation for customer attrition modeling",
+   "received": "11 December 2023",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 415
+  },
+  {
+   "doi": "10.1007/s10479-025-06869-1",
+   "title": "Improving the location of facilities through network addition modification: a revisit",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 566
+  },
+  {
+   "doi": "10.1007/s10479-025-06703-8",
+   "title": "Constrained Markov decision processes for response-adaptive procedures in clinical trials with binary outcomes",
+   "received": "12 January 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 507
+  },
+  {
+   "doi": "10.1007/s10479-025-06775-6",
+   "title": "Supply chain low-carbon R&amp;D strategy considering carbon tax under the sustainable development goals",
+   "received": "20 August 2023",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 697
+  },
+  {
+   "doi": "10.1007/s10479-025-06889-x",
+   "title": "A divide-and-conquer approach for spatio-temporal analysis of large house price data from Greater London",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1007/s10479-025-06468-0",
+   "title": "Scheduling problems on parallel machines with machine-dependent generalized due-dates",
+   "received": "16 December 2023",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 381
+  },
+  {
+   "doi": "10.1007/s10479-025-06464-4",
+   "title": "Barriers to product return in a circular supply chain: a case from a retailing industry",
+   "received": "29 December 2023",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 367
+  },
+  {
+   "doi": "10.1007/s10479-025-06553-4",
+   "title": "Markov decision process and approximate dynamic programming for a patient assignment scheduling problem",
+   "received": "21 March 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 340
+  },
+  {
+   "doi": "10.1007/s10479-025-06654-0",
+   "title": "A decision support system for physician scheduling during a public health crisis: a mathematical programming model",
+   "received": "8 October 2022",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 940
+  },
+  {
+   "doi": "10.1007/s10479-025-06788-1",
+   "title": "Recycling strategies of dual-channel closed-loop supply chain considering reference low-carbon effect",
+   "received": "1 November 2023",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 635
+  },
+  {
+   "doi": "10.1007/s10479-025-06893-1",
+   "title": "Compartmental models in epidemiology: bridging the gap with operations research for enhanced epidemic control",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 341
+  },
+  {
+   "doi": "10.1007/s10479-025-06722-5",
+   "title": "Exploring household economic insecurity in Italy and spain: insights from a trivariate probit regression analysis",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1007/s10479-025-06630-8",
+   "title": "Measuring contextuality in investment preferences",
+   "received": "1 June 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 325
+  },
+  {
+   "doi": "10.1007/s10479-025-06822-2",
+   "title": "The grey zone two-echelon vehicle routing problem with customer-to-parcel locations and synchronization for last-mile deliveries",
+   "received": "19 July 2023",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 757
+  },
+  {
+   "doi": "10.1007/s10479-025-06599-4",
+   "title": "Profit scoring and portfolio selection for online microloans",
+   "received": "30 January 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 429
+  },
+  {
+   "doi": "10.1007/s10479-025-06910-3",
+   "title": "Optimal two-phase opportunity-based age replacement policies in discrete time for sustainable systems",
+   "received": "16 March 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s10479-025-06499-7",
+   "title": "A spatial utility model for ranking maps",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 378
+  },
+  {
+   "doi": "10.1007/s10479-025-06510-1",
+   "title": "Artificial intelligence and circular supply chains: framework for applications and deployment from the triple bottom line model perspective",
+   "received": "8 June 2023",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 596
+  },
+  {
+   "doi": "10.1007/s10479-025-06501-2",
+   "title": "Do green bonds provide diversification benefits? The need for tax incentives",
+   "received": "2 February 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1007/s10479-024-06297-7",
+   "title": "Unreliable service system with strategic customers: effect of abandonments and repair time",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "13 September 2024",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s10479-025-06867-3",
+   "title": "Data-driven hedging with generative models",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s10479-025-06668-8",
+   "title": "Schedule risk analysis for project control with risk interactions",
+   "received": "24 May 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 354
+  },
+  {
+   "doi": "10.1007/s10479-025-06898-w",
+   "title": "Best matrix interval for consistent matrices approximating a given reciprocal matrix",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1007/s10479-025-06885-1",
+   "title": "Optimization of forest tractor transport using operacional research",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 447
+  },
+  {
+   "doi": "10.1007/s10479-025-06834-y",
+   "title": "Pricing strategies in global channels: considering the effects of parallel trade",
+   "received": "29 October 2022",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 1039
+  },
+  {
+   "doi": "10.1007/s10479-025-06848-6",
+   "title": "Developing an image classification algorithm based on the novel measure combined with quasi-Bayesian method for representing probability density funct",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s10479-025-06820-4",
+   "title": "The setting of risk prevention threshold of the perishable product supply chain with retailer\u2019s uncertain risk preference",
+   "received": "19 January 2023",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 942
+  },
+  {
+   "doi": "10.1007/s10479-025-06924-x",
+   "title": "Improving coordination in human milk bank under uncertainty: a mixed proactive\u2013reactive mechanism",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 311
+  },
+  {
+   "doi": "10.1007/s10479-025-06799-y",
+   "title": "The beautiful art of rearranging matrices",
+   "received": "30 November 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1007/s10479-025-06648-y",
+   "title": "On the Inefficiency of Atomic Splittable Routing Games over Parallel Links",
+   "received": "19 April 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 381
+  },
+  {
+   "doi": "10.1007/s10479-025-06631-7",
+   "title": "Green bonds &amp; certification: is getting certified always optimal?",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 308
+  },
+  {
+   "doi": "10.1007/s10479-025-06857-5",
+   "title": "A simulation-driven machine learning framework for large-scale inventory management",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 455
+  },
+  {
+   "doi": "10.1007/s10479-025-06736-z",
+   "title": "Mcda strategies for portfolio optimization: a case study on Vietnamese stock market dynamics",
+   "received": "30 December 2023",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 542
+  },
+  {
+   "doi": "10.1007/s10479-025-06543-6",
+   "title": "Optimized churn prediction using ensemble-based feature selection via second-order cone programming",
+   "received": "26 January 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 390
+  },
+  {
+   "doi": "10.1007/s10479-025-06535-6",
+   "title": "A generative adversarial network-based selective ensemble characteristic-to-expression synthesis (SE-CTES) approach and its applications in healthcare",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 350
+  },
+  {
+   "doi": "10.1007/s10479-025-06832-0",
+   "title": "Tourism demand forecasting with multi-source data: a hybrid model incorporating seasonal-trend decomposition",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1007/s10479-025-06696-4",
+   "title": "Impact of government policy of taxation and subsidy to enhance deployment of electric vehicles: analysis of price and demand\u2014case study of Chandigarh,",
+   "received": "31 January 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 482
+  },
+  {
+   "doi": "10.1007/s10479-025-06565-0",
+   "title": "An integrated approach for enhancing operating room management: capacity planning, fair scheduling, and surgeon resilience",
+   "received": "5 May 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1007/s10479-025-06773-8",
+   "title": "Risk identification in humanitarian food logistics using a hybrid literature search strategy and expert judgment",
+   "received": "26 July 2023",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 722
+  },
+  {
+   "doi": "10.1007/s10479-025-06673-x",
+   "title": "Advancing circular supply chain management in the steel industry: an RFID-enabled blockchain framework for sustainability",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 404
+  },
+  {
+   "doi": "10.1007/s10479-025-06551-6",
+   "title": "Going faster to see further: graphics processing unit-accelerated value iteration and simulation for perishable inventory control using JAX",
+   "received": "25 October 2023",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 489
+  },
+  {
+   "doi": "10.1007/s10479-025-06527-6",
+   "title": "Disrupting disruptions: enhancing supply chain resilience\u2014lessons from the US Air Force",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 313
+  },
+  {
+   "doi": "10.1007/s10479-025-06572-1",
+   "title": "Integer programming for multi-mode resource-constrained project scheduling",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s10479-025-06552-5",
+   "title": "Adaptive optimization approach for production and distribution planning of perishable food products under demand uncertainty",
+   "received": "31 January 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 391
+  },
+  {
+   "doi": "10.1007/s10479-025-06550-7",
+   "title": "A guaranteed service model with continuous review (r,Q) policy",
+   "received": "27 June 2023",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 608
+  },
+  {
+   "doi": "10.1007/s10479-025-06701-w",
+   "title": "Risk-averse control of Markov systems with value function learning",
+   "received": "2 December 2023",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 544
+  },
+  {
+   "doi": "10.1007/s10479-025-06719-0",
+   "title": "A position value for multigraphs",
+   "received": "6 September 2023",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 649
+  },
+  {
+   "doi": "10.1007/s10479-024-06452-0",
+   "title": "A 2-approximation algorithm for the softwired parsimony problem on binary, tree-child phylogenetic networks",
+   "received": "17 October 2023",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 423
+  },
+  {
+   "doi": "10.1007/s10479-025-06844-w",
+   "title": "A multi-objective model for two-level distribution system in the city of Paris",
+   "received": "19 September 2023",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 716
+  },
+  {
+   "doi": "10.1007/s10479-025-06512-z",
+   "title": "Optimal emission reduction strategy for carbon neutral target: cap-and-trade policy and supply chain contracts with uncertain demand under SDG 13-clim",
+   "received": "20 September 2021",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 1225
+  },
+  {
+   "doi": "10.1007/s10479-025-06944-7",
+   "title": "Scheduling a shared resource among parallel dedicated machines: a red-blue knapsack modeling approach",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1007/s10479-025-06826-y",
+   "title": "Robust optimization of emergency material multimodal transport supply chain considering collaborative platform",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s10479-024-06384-9",
+   "title": "Path-based DEA models in multiplier form and returns-to-scale analysis",
+   "received": "4 January 2024",
+   "revised": null,
+   "accepted": "5 November 2024",
+   "days": 306
+  },
+  {
+   "doi": "10.1007/s10479-024-06451-1",
+   "title": "Analyzing financial markets dynamics: a statistical equilibrium framework for stocks and cryptocurrencies",
+   "received": "28 September 2023",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 439
+  },
+  {
+   "doi": "10.1007/s10479-025-06593-w",
+   "title": "A generalization to networks of Young\u2019s characterization of the Borda rule",
+   "received": "1 June 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 298
+  },
+  {
+   "doi": "10.1007/s10479-025-06690-w",
+   "title": "An exact algorithm for the home health care routing and scheduling problem with variable departure times",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 355
+  },
+  {
+   "doi": "10.1007/s10479-025-06803-5",
+   "title": "Stable coalition structures for transversal problems",
+   "received": "4 January 2023",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 944
+  },
+  {
+   "doi": "10.1007/s10479-025-06500-3",
+   "title": "Modelling the counterparty credit risk of a swap on the spark spread",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1007/s10479-025-06784-5",
+   "title": "A hybrid ensemble learning framework for blood demand forecasting under non-stationary and uncertain conditions",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s10479-024-06419-1",
+   "title": "Stochastic comparisons of random extremes from non-identical random variables",
+   "received": "9 March 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 261
+  },
+  {
+   "doi": "10.1007/s10479-025-06881-5",
+   "title": "Sustainable-resilient healthcare resources planning using GA-OG: a new ensemble GA-based multi-objective optimization algorithm",
+   "received": "29 March 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1007/s10479-025-06491-1",
+   "title": "Prediction and decoding of metaverse coin dynamics: a granular quest using MODWT-Facebook\u2019s prophet-TBATS and XAI methodology",
+   "received": "31 May 2023",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 592
+  },
+  {
+   "doi": "10.1007/s10479-025-06756-9",
+   "title": "Vehicle dispatching policies for last mile distribution in a disaster-relief supply chain network",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1007/s10479-024-06395-6",
+   "title": "Exploring the development trajectory of single-machine production scheduling",
+   "received": "25 September 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 413
+  },
+  {
+   "doi": "10.1007/s10479-025-06830-2",
+   "title": "An efficient column-and-constraint generation algorithm for solving the adaptive robust elective surgery problem under uncertainties in surgery durati",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1007/s10479-025-06837-9",
+   "title": "Assessing health and well-being (SDG 3) in OECD countries: a joint variable selection directional distance function approach",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 326
+  },
+  {
+   "doi": "10.1007/s10479-025-06502-1",
+   "title": "Fuzzy clustering with $$\\hbox {L}_0$$ regularization",
+   "received": "20 May 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1007/s10479-025-06653-1",
+   "title": "Defining the Open Manager: features and attitudes of a new professional figure",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s10479-025-06853-9",
+   "title": "Gompertzian survivorship ages: modeling and numerical evidence",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1007/s10479-025-06573-0",
+   "title": "Does technological tools make dirty-work engagement easier? When occupational stigma leads to increased emotional exhaustion and avoidant behaviors at",
+   "received": "7 June 2022",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 1004
+  },
+  {
+   "doi": "10.1007/s10479-025-06489-9",
+   "title": "Non-cooperative two-stage inverse DEA: a Stackelberg games approach for the efficiency analysis of China\u2019s regional economic development and people\u2019s ",
+   "received": "6 August 2022",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 890
+  },
+  {
+   "doi": "10.1007/s10479-025-06581-0",
+   "title": "A hybrid ant colony optimization algorithm for drone-based cooperative EV routing problem with simultaneously delivery and pickup",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1007/s10479-025-06564-1",
+   "title": "Optimal selling price and replenishment time with a limited-time free trial",
+   "received": "2 May 2022",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 1037
+  },
+  {
+   "doi": "10.1007/s10479-025-06814-2",
+   "title": "Two sides of a coin: analysis of manufacturer altruism and fairness on supply chain upstream innovation",
+   "received": "23 October 2023",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 661
+  },
+  {
+   "doi": "10.1007/s10479-024-06432-4",
+   "title": "Earnings forecasting and mean\u2013variance efficient portfolios in the United States",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s10479-025-06854-8",
+   "title": "A note on some open problems on quitting games",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 445
+  },
+  {
+   "doi": "10.1007/s10479-025-06582-z",
+   "title": "Maximizing network reliability through simulation optimization: a component configuration strategy",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s10479-025-06747-w",
+   "title": "A resilient model for humanitarian relief logistics: integrating relief time, health services, and hygiene items for sustainable development goals",
+   "received": "16 July 2023",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 710
+  },
+  {
+   "doi": "10.1007/s10479-025-06713-6",
+   "title": "Exploration of applications with ChatGPT for green supply chain management",
+   "received": "30 December 2023",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 530
+  },
+  {
+   "doi": "10.1007/s10479-025-06794-3",
+   "title": "The hidden risks of credit risk stress test parameterizations: spurious default probability projections unveiled",
+   "received": "18 January 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 557
+  },
+  {
+   "doi": "10.1007/s10479-025-06790-7",
+   "title": "Reliability certification of supply chain networks under uncertain failures and demand",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 350
+  },
+  {
+   "doi": "10.1007/s10479-024-06400-y",
+   "title": "The impact of blockchain technology on equilibrium financing guarantee strategy in a three-tier supply chain",
+   "received": "24 September 2023",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 416
+  },
+  {
+   "doi": "10.1007/s10479-025-06858-4",
+   "title": "Integrating simulation and decision trees through blockchain-enabled data sharing to prevent the cash flow bullwhip effect in supply chains",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 306
+  },
+  {
+   "doi": "10.1007/s10479-025-06761-y",
+   "title": "Improving the waste supply chain, a case of South Korea 2012\u20132021: stochastic frontier analysis, artificial neural network, and grey-incidence approac",
+   "received": "16 June 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 389
+  },
+  {
+   "doi": "10.1007/s10479-024-06401-x",
+   "title": "Distributionally robust multiobjective optimization with application to risk measure theory",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 232
+  },
+  {
+   "doi": "10.1007/s10479-025-06767-6",
+   "title": "Analyzing and predicting the cost-effectiveness of Indian banks using hybrid network DEA and twin SVR approach",
+   "received": "25 January 2024",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 537
+  },
+  {
+   "doi": "10.1007/s10479-025-06708-3",
+   "title": "Cost and severity of natural catastrophes in extreme events: implications for society and insurances",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1007/s10479-025-06474-2",
+   "title": "Product line strategy for green and non-green products in hybrid platform retailing",
+   "received": "2 September 2023",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 488
+  },
+  {
+   "doi": "10.1007/s10479-025-06862-8",
+   "title": "Asset classes and portfolio diversification: evidence from a stochastic spanning approach",
+   "received": "2 January 2023",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 990
+  },
+  {
+   "doi": "10.1007/s10479-025-06505-y",
+   "title": "A system dynamics model for improving the reverse supply chain using the IoT in the household appliances sector",
+   "received": "27 May 2023",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 605
+  },
+  {
+   "doi": "10.1007/s10479-024-06433-3",
+   "title": "Mapping the emergence and maturation of sustainable supply chain technologies: a patent-based assessment of technology life cycles",
+   "received": "19 December 2023",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 351
+  },
+  {
+   "doi": "10.1007/s10479-024-06413-7",
+   "title": "A decision framework for supplier selection and order allocation for environmentally-sustainable perishable food supply chains",
+   "received": "16 January 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 310
+  },
+  {
+   "doi": "10.1007/s10479-025-06561-4",
+   "title": "Two simplex-based approximate stochastic dynamic programming schemes for a real hydropower management problem",
+   "received": "27 March 2023",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 704
+  },
+  {
+   "doi": "10.1007/s10479-025-06567-y",
+   "title": "Banks\u2019 stock price crash risk prediction with textual analysis: a machine learning approach",
+   "received": "4 July 2023",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 611
+  },
+  {
+   "doi": "10.1007/s10479-025-06712-7",
+   "title": "Who should undertake corporate social responsibility in a supply-chain: manufacturer or retailer?",
+   "received": "30 October 2023",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 591
+  },
+  {
+   "doi": "10.1007/s10479-024-06428-0",
+   "title": "Least angle sparse principal component analysis for ultrahigh dimensional data",
+   "received": "26 April 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s10479-025-06534-7",
+   "title": "Human-artificial intelligence collaboration in supply chain outcomes: the mediating role of responsible artificial intelligence",
+   "received": "31 March 2023",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 683
+  },
+  {
+   "doi": "10.1007/s10479-025-06611-x",
+   "title": "The implications of divergent carbon allocation strategies on pricing determinations among capital-constrained digitized-low-carbon enterprises",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "4 April 2025",
+   "days": 359
+  },
+  {
+   "doi": "10.1007/s10479-025-06514-x",
+   "title": "A novel financial performance metric to minimize misclassification costs in model selection",
+   "received": "3 January 2023",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 756
+  },
+  {
+   "doi": "10.1007/s10479-025-06840-0",
+   "title": "Modeling warfare between different kinds of military equipment",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 402
+  },
+  {
+   "doi": "10.1007/s10479-025-06886-0",
+   "title": "A carbon emission trading price forecasting model based on decomposition technique and intelligent algorithms",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 407
+  },
+  {
+   "doi": "10.1007/s10479-025-06916-x",
+   "title": "Multi-view graph learning based on efficient neighbors",
+   "received": "20 December 2023",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 671
+  },
+  {
+   "doi": "10.1007/s10479-025-06919-8",
+   "title": "Sustainable food distribution approach: closed-loop network design strategies for fresh consumption and waste justice",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 621
+  },
+  {
+   "doi": "10.1007/s10479-024-06380-z",
+   "title": "Production coordination of local and cloud orders in shared manufacturing: a bi-objective pre-scheduling approach",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "31 October 2024",
+   "days": 168
+  },
+  {
+   "doi": "10.1007/s10479-025-06627-3",
+   "title": "On quasidifferentiable interval-valued multiobjective optimization",
+   "received": "22 June 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1007/s10479-025-06583-y",
+   "title": "On $$\\lambda $$-cent-dians and generalized-center for network design: formulations and algorithms",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s10479-025-06864-6",
+   "title": "An analysis of short selling restrictions in factor model based portfolio immunization",
+   "received": "23 June 2023",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 818
+  },
+  {
+   "doi": "10.1007/s10479-025-06624-6",
+   "title": "A spatially-continuous neural network temperature model for weather derivatives evaluation",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1007/s10479-025-06580-1",
+   "title": "Unveiling multidimensional poverty across Italian Provinces using small area estimation and penalized power means",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1007/s10479-025-06547-2",
+   "title": "Unpredictable two-stage retrial model featuring impatient customers pinned Bernoulli working vacations and starting failure",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 388
+  },
+  {
+   "doi": "10.1007/s10479-025-06807-1",
+   "title": "Guaranteed funds\u2019 replication by reinforcement learning",
+   "received": "12 January 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1007/s10479-025-06538-3",
+   "title": "Unmasking greenwashing in ESG disclosure: insights from evolutionary game analysis",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1007/s10479-025-06702-9",
+   "title": "Employees\u2019 well-being, work-related factors, and digitalization: a decision-tree approach for imbalanced data",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s10479-024-06439-x",
+   "title": "A counterexample and a corrective to the vector extension of the Bellman equations of a Markov decision process",
+   "received": "31 January 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 310
+  },
+  {
+   "doi": "10.1007/s10479-025-06859-3",
+   "title": "An operational classification of rural and urban areas based on Zipf\u2019s Law",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 308
+  },
+  {
+   "doi": "10.1007/s10479-025-06786-3",
+   "title": "Low-carbon innovation with government subsidy for achieving SDGs in a complementary supply chain",
+   "received": "23 June 2023",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 759
+  },
+  {
+   "doi": "10.1007/s10479-025-06841-z",
+   "title": "Intelligent scheduling method for ambulatory surgery based on machine learning and fuzzy optimization",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1007/s10479-025-06715-4",
+   "title": "A coopetition index for coalitions in simple games",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 353
+  },
+  {
+   "doi": "10.1007/s10479-024-06417-3",
+   "title": "A novel flexible supplier selection method in the environment of Fermatean fuzzy information and incomplete information",
+   "received": "24 February 2023",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 640
+  },
+  {
+   "doi": "10.1007/s10479-025-06481-3",
+   "title": "A note on the complexity of the picker routing problem in multi-block warehouses and related problems",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s10479-024-06425-3",
+   "title": "Portfolio diversification during recent stress and stress-free episodes: insights from three alternative portfolio methods",
+   "received": "2 February 2023",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 664
+  },
+  {
+   "doi": "10.1007/s10479-025-06827-x",
+   "title": "Information sharing and pricing strategy in supply chains with sudden events",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1007/s10479-025-06528-5",
+   "title": "An ensemble learning model with dynamic sampling and feature fusion network for class sparsity in credit risk classification",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1007/s10479-025-06686-6",
+   "title": "Risk-sensitive Markov-perfect equilibrium",
+   "received": "30 January 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 483
+  },
+  {
+   "doi": "10.1007/s10479-025-06821-3",
+   "title": "On the sensitivity of restless bandits solutions to uncertainty in the models of the arms",
+   "received": "8 March 2023",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 894
+  },
+  {
+   "doi": "10.1007/s10479-025-06940-x",
+   "title": "A white-box decision support model for evaluating the suppliers based on the customer-based and viability dimensions: a case study of the e-commerce b",
+   "received": "4 March 2024",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 609
+  },
+  {
+   "doi": "10.1007/s10479-025-06586-9",
+   "title": "Differentially private range counting: where asymptotically better fails, integer covering prevails",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1007/s10479-025-06816-0",
+   "title": "Lowering costs of green transformation with best practices: focusing on the naturally monopolized segment of the power industry value chain",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 294
+  },
+  {
+   "doi": "10.1007/s10479-025-06726-1",
+   "title": "The index and shift inequalities and their properties",
+   "received": "22 December 2023",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 549
+  },
+  {
+   "doi": "10.1007/s10479-025-06559-y",
+   "title": "Petri nets-based approach for frequent pattern mining in market basket analysis",
+   "received": "6 July 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1007/s10479-025-06883-3",
+   "title": "Pricing an asset-or-nothing call option using a mixed fractional hull-white-vasicek with stochastic volatility and interest rate",
+   "received": "10 October 2022",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 1087
+  },
+  {
+   "doi": "10.1007/s10479-024-06436-0",
+   "title": "Collaborative evolution of logistics platform governance: a three-party evolutionary game perspective",
+   "received": "19 July 2023",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 506
+  }
+ ]
+}

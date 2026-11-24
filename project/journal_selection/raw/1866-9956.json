@@ -1,0 +1,1301 @@
+{
+ "issn": "1866-9956",
+ "journal": "Cognitive Computation",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:28.942725",
+ "source": "https://api.crossref.org/journals/1866-9956/works",
+ "articles": [
+  {
+   "doi": "10.1007/s12559-025-10454-w",
+   "title": "Joint Structural Balance Feature Representation on Graph Convolution Networks for Link Prediction",
+   "received": "24 April 2023",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 720
+  },
+  {
+   "doi": "10.1007/s12559-024-10397-8",
+   "title": "A Novel Depth-Connected Region-Based Convolutional Neural Network for Small Defect Detection in Additive Manufacturing",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s12559-025-10431-3",
+   "title": "Attention-Enabled Multi-layer Subword Joint Learning for Chinese Word Embedding",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1007/s12559-025-10438-w",
+   "title": "A Communication-Efficient Distributed Frank-Wolfe Online Algorithm with an Event-Triggered Mechanism",
+   "received": "6 September 2022",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 911
+  },
+  {
+   "doi": "10.1007/s12559-024-10353-6",
+   "title": "Optimizing Social Issues Strategies by Using Bipolar Complex Fuzzy Muirhead Mean Decision-Making Approach",
+   "received": "23 June 2022",
+   "revised": null,
+   "accepted": "3 November 2024",
+   "days": 864
+  },
+  {
+   "doi": "10.1007/s12559-025-10437-x",
+   "title": "Single-Valued Neutrosophic Distance Measure-Based MEREC-RANCOM-WISP for Solving Sustainable Energy Storage Technology Problem",
+   "received": "22 August 2022",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 926
+  },
+  {
+   "doi": "10.1007/s12559-025-10527-w",
+   "title": "A Correlation-Based Spiking Neural Network for Motion Boundary Detection and Segmentation in Dynamic Visual Sequences",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "5 November 2025",
+   "days": 271
+  },
+  {
+   "doi": "10.1007/s12559-025-10524-z",
+   "title": "High-Fidelity Emotion Recognition via SDR-Based Wireless Sensing and Deep Learning",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "1 November 2025",
+   "days": 332
+  },
+  {
+   "doi": "10.1007/s12559-024-10380-3",
+   "title": "Artificial Intelligence Inspired Task Offloading and Resource Orchestration in Intelligent Transportation Systems",
+   "received": "12 December 2023",
+   "revised": null,
+   "accepted": "27 August 2024",
+   "days": 259
+  },
+  {
+   "doi": "10.1007/s12559-024-10384-z",
+   "title": "NeuroInteract: An Innovative Deep Learning Strategy for Effective Drug Repositioning in Schizophrenia Therapy",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s12559-025-10412-6",
+   "title": "Learning to Calibrate Prototypes for Few-Shot Image Classification",
+   "received": "20 April 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 635
+  },
+  {
+   "doi": "10.1007/s12559-025-10510-5",
+   "title": "Explainable Deep Learning System for Custom Report Generation in Breast Cancer Histology",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 418
+  },
+  {
+   "doi": "10.1007/s12559-025-10417-1",
+   "title": "Conditional Time Series Modeling for Pneumoconiosis Progression Risk Prediction with Missing Data",
+   "received": "9 May 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 616
+  },
+  {
+   "doi": "10.1007/s12559-025-10405-5",
+   "title": "A Novel Hyperparameter Optimization Approach for Supervised Classification: Phase Prediction of Multi-Principal Element Alloys",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1007/s12559-025-10429-x",
+   "title": "A Holistic Comparative Study of Large Language Models as Emotional Support Dialogue Systems",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1007/s12559-025-10478-2",
+   "title": "Handwriting-Based Gender Classification Using Robotic and Machine Learning Models",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s12559-025-10410-8",
+   "title": "Modeling Visual Attention Based on Gestalt Theory",
+   "received": "23 January 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 722
+  },
+  {
+   "doi": "10.1007/s12559-024-10399-6",
+   "title": "Functional Connectivity Imbalance Between Positive and Negative Networks in Mild Cognitive Impairment via Feature Selection",
+   "received": "19 October 2023",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 437
+  },
+  {
+   "doi": "10.1007/s12559-025-10526-x",
+   "title": "An Effective Fusion and Deeplift-based Optimized Hamiltonian Relevance Aware Capsule Network for Glitch Classification in LIGO",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "2 November 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1007/s12559-025-10451-z",
+   "title": "OBoctNet: Enhancing Ophthalmic Biomarker Detection Through Active Learning and Explainable AI in Radiological Analysis",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "29 March 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1007/s12559-025-10487-1",
+   "title": "Symbolic Faces and Artificial Minds: Evaluating Artificial Intelligence Recognition of Punctuation-Based Face Expressions Using ChatGPT, Claude, and D",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 315
+  },
+  {
+   "doi": "10.1007/s12559-025-10498-y",
+   "title": "Exploring Artificial Intelligence Tutor Teammate Adaptability to Harness Discovery Curiosity and Promote Learning in the Context of Interactive Molecu",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s12559-024-10394-x",
+   "title": "On the Integration of Large-Scale Time Series Distance Matrices Into Deep Visual Analytic Tools",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1007/s12559-025-10426-0",
+   "title": "Improved Alternative Queuing Method of Interval-Set Dissimilarity Measures and Possibility Degrees for Multi-expert Multi-criteria Decision-Making",
+   "received": "14 January 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 398
+  },
+  {
+   "doi": "10.1007/s12559-025-10523-0",
+   "title": "Emotion Recognition in Individuals with down Syndrome Based on Microexpression Analysis Using Machine Learning and Deep Learning Methods",
+   "received": "24 May 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s12559-025-10502-5",
+   "title": "Event-Triggered Optimized Control for Nonlinear Multiagent Systems via Reinforcement Learning Strategy",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 271
+  },
+  {
+   "doi": "10.1007/s12559-025-10463-9",
+   "title": "Contrastive-Based Removal of Negative Information in Multimodal Emotion Analysis",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1007/s12559-024-10387-w",
+   "title": "A Novel Interpretable Graph Convolutional Neural Network for Multimodal Brain Tumor Segmentation",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 48
+  },
+  {
+   "doi": "10.1007/s12559-024-10368-z",
+   "title": "Interval-Valued Intuitionistic Fuzzy Yager Power Operators and Possibility Degree-Based Group Decision-Making Model",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "17 October 2024",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s12559-025-10490-6",
+   "title": "Prescribed-Time-Based Adaptive Optimal Control for Nonlinear Systems with Error Constraint",
+   "received": "12 September 2023",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 683
+  },
+  {
+   "doi": "10.1007/s12559-025-10479-1",
+   "title": "Prioritizing Measures to Mitigate the Impact of Cultural Differences on Semiconductor Supply Chain Localization: A Neutrosophic Collaborative Intellig",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1007/s12559-025-10485-3",
+   "title": "Multi-stage Alzheimer\u2019s Disease Classification Using Squeeze Excitation Light Channel Network with a Random Lyrebird: Achieving High Sensitivity and P",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1007/s12559-025-10459-5",
+   "title": "RELUEM-Reinforcing Emotional Understanding: Advancing Speech Emotion Recognition Through Deep Reinforcement Learning",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s12559-025-10420-6",
+   "title": "Unleashing the Power of Generative AI in Agriculture 4.0 for Smart and Sustainable Farming",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1007/s12559-025-10472-8",
+   "title": "C3BAM-XAI: Convolutional Block Attention Module Enhanced Explainable Artificial Intelligence-Based Parkinson\u2019s Disease Stage Classification",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s12559-025-10409-1",
+   "title": "A Novel Multi-attribute Group Decision-Making Method Under Linguistic q-Rung Orthopair Fuzzy Environment Based on Archimedean Copula and Extended Powe",
+   "received": "30 August 2022",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 868
+  },
+  {
+   "doi": "10.1007/s12559-025-10468-4",
+   "title": "Fuzzy Preference Completion with Ranked and Unranked Preferences",
+   "received": "20 September 2023",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 599
+  },
+  {
+   "doi": "10.1007/s12559-025-10449-7",
+   "title": "A New Similarity Measure for Picture Fuzzy Sets and Its Various Applications",
+   "received": "9 June 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1007/s12559-025-10511-4",
+   "title": "Early Detection of Cardiovascular Disease Using AdaBoost Convolutional Random Arithmetic Trigonometric Algorithm",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1007/s12559-024-10391-0",
+   "title": "Multi-view Hierarchical Graph Neural Network for Argumentation Mining",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 79
+  },
+  {
+   "doi": "10.1007/s12559-025-10414-4",
+   "title": "Multi-source Adversarial Domain Adaptive Fault Diagnosis Method Based on Multi-classifier Alignment",
+   "received": "18 August 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 515
+  },
+  {
+   "doi": "10.1007/s12559-025-10513-2",
+   "title": "Deep Learning and Attention-Based Methods for Human Activity Recognition and Anticipation: A Comprehensive Review",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1007/s12559-025-10489-z",
+   "title": "Hierarchical Osprey Residual Attentional Soft Capsule Citrus Model (HORASC2M) for Citrus Plant Disease Classification",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 304
+  },
+  {
+   "doi": "10.1007/s12559-025-10435-z",
+   "title": "Rain Streak Removal Using Improved Generative Adversarial Network with Loss Function Optimization",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s12559-025-10406-4",
+   "title": "Augmenting Cardiovascular Disease Prediction Through CWCF Integration Leveraging Harris Hawks Search in Deep Belief Networks",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1007/s12559-025-10517-y",
+   "title": "Industrial Anomaly Detection Based on Improved Diffusion Model: A Review",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s12559-025-10475-5",
+   "title": "Action Plan Diversity in Children During Control Exploration: Link Between Action and Sense of Agency",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1007/s12559-025-10466-6",
+   "title": "Exploring Cognitive Difference in Poetry Collection via Large Language Models and Metaphors: A Case Study of the Book of Songs",
+   "received": "28 April 2024",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 378
+  },
+  {
+   "doi": "10.1007/s12559-025-10471-9",
+   "title": "Human Stress Level Detection Using Hybrid Cascaded Neuro-Fuzzy SpinalNet",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 300
+  },
+  {
+   "doi": "10.1007/s12559-025-10432-2",
+   "title": "Three-way Decision Approach Based on Utility and Dynamic Localization Transformational Procedures within a Circular q-Rung Orthopair Fuzzy Set for Ran",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1007/s12559-025-10411-7",
+   "title": "Dynamic Behavior of Three-Layer Fractional-Order Neural Networks with Multiple Delays",
+   "received": "2 February 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 712
+  },
+  {
+   "doi": "10.1007/s12559-025-10477-3",
+   "title": "Motor Imagery Classification Based on Temporal-Spatial Domain Adaptation for Stroke Patients",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1007/s12559-025-10452-y",
+   "title": "Free-Head Gaze Estimation with Deep Learning",
+   "received": "19 June 2021",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 1394
+  },
+  {
+   "doi": "10.1007/s12559-024-10357-2",
+   "title": "CRCFusionAICADx: Integrative CNN-LSTM Approach for Accurate Colorectal Cancer Diagnosis in Colonoscopy Images",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s12559-025-10465-7",
+   "title": "A Novel Multi-modality Deepfake Detection Using Cross-Model Fusion\u2013Based Hybrid Harris Whale Depth-Wise Separable Dense Convolutional Bi-GRU Deepfake ",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 305
+  },
+  {
+   "doi": "10.1007/s12559-025-10402-8",
+   "title": "Application of Metaheuristic Algorithms with Supervised Machine Learning for Accurate Power Consumption Prediction",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1007/s12559-024-10390-1",
+   "title": "Convolutional Cross-Modal Autoencoder-Based Few-Shot Learning for Data Augmentation with Application to Alzheimer Dementia Diagnosis",
+   "received": "6 February 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 299
+  },
+  {
+   "doi": "10.1007/s12559-025-10467-5",
+   "title": "Revisiting a Simple MLP Framework for Z-Axis Rotation-Invariant Point Cloud Place Recognition",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1007/s12559-025-10493-3",
+   "title": "The Effect of Toxin on a Diffusive Zooplankton-Phytoplankton Model",
+   "received": "4 January 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1007/s12559-024-10372-3",
+   "title": "An Adaptive Decision-Making System for Behavior Analysis Among Young Adults",
+   "received": "27 September 2023",
+   "revised": null,
+   "accepted": "27 September 2024",
+   "days": 366
+  },
+  {
+   "doi": "10.1007/s12559-025-10518-x",
+   "title": "Dual Distribution Adaptation Random Forest for Fault Diagnosis: Addressing Data Distribution Variability Under Varying Working Conditions",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1007/s12559-024-10362-5",
+   "title": "Robust Synchronization of Stochastic Markovian Jumping CVNs with Randomly Occurring Nonlinearities and Generally Uncertain Transition Rates",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "29 October 2024",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s12559-025-10464-8",
+   "title": "Intelligent Robotic Path Planning Based on SPIDI-Lion Optimization Algorithm Using Deep Spectral LSTM-Gated Convolution Neural Network",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1007/s12559-024-10360-7",
+   "title": "Computer-Aided Diagnosis of Graphomotor Difficulties Utilizing Direction-Based Fractional Order Derivatives",
+   "received": "3 February 2024",
+   "revised": null,
+   "accepted": "3 November 2024",
+   "days": 274
+  },
+  {
+   "doi": "10.1007/s12559-025-10494-2",
+   "title": "Unveiling Task Difficulty in a Visual Pattern Memory Task: A Comprehensive Analysis of Factors Influencing Performance",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1007/s12559-025-10514-1",
+   "title": "Auto-Encoded Attention Artificial Protozoa Convolutional Neural Networks with Few-Shot Learning for Plant Disease Detection",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1007/s12559-024-10396-9",
+   "title": "Fuzzy Soft Topological Numbers with an Operation of Vertex Deletion: A Comparative Study with TOPSIS Method and Its Application in Car Import Decision",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 152
+  },
+  {
+   "doi": "10.1007/s12559-024-10385-y",
+   "title": "Development of a Decision Support System for Performance Measurement of Social Movements",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12559-025-10415-3",
+   "title": "An Adaptive Neural Network Algorithm with Quasi Opposition-Based Learning for Numerical Optimization Problems",
+   "received": "14 November 2022",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 792
+  },
+  {
+   "doi": "10.1007/s12559-025-10423-3",
+   "title": "Discovering the Cognitive Bias of Toxic Language Through Metaphorical Concept Mappings",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 307
+  },
+  {
+   "doi": "10.1007/s12559-025-10436-y",
+   "title": "Online Signature Watermarking in the Transform Domain",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s12559-025-10462-w",
+   "title": "Application of Explainable Artificial Intelligence in Autism Spectrum Disorder Detection",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s12559-025-10470-w",
+   "title": "From RNNs to Transformers and Beyond: a Deep Dive into Intent Detection in Goal-oriented Conversational Agents",
+   "received": "25 October 2023",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 570
+  },
+  {
+   "doi": "10.1007/s12559-024-10401-1",
+   "title": "Short-Term Power Load Forecasting in City Based on ISSA-BiTCN-LSTM",
+   "received": "5 June 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 208
+  },
+  {
+   "doi": "10.1007/s12559-025-10496-0",
+   "title": "An Optimized Feature Selection Approach for Multi-View Ensemble Learning in Sentiment Analysis of User Reviews",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1007/s12559-025-10408-2",
+   "title": "Deep Learning Innovations in the Detection of Lung Cancer: Advances, Trends, and Open Challenges",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1007/s12559-025-10444-y",
+   "title": "Multigate Long Short-Term Memory-Based Stress Detection from Multimodal Signal",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1007/s12559-025-10505-2",
+   "title": "A Network-Level Fused DenseInc226 Lightweight Architecture for Alzheimer\u2019s Disease Prediction from Magnetic Resonance Imaging",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1007/s12559-025-10457-7",
+   "title": "Peeping into the Future: Understanding and Combating Generative AI-Based Fake News",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "19 April 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1007/s12559-024-10356-3",
+   "title": "A Weakly Supervised Data Labeling Framework for Machine Lexical Normalization in Vietnamese Social Media",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 132
+  },
+  {
+   "doi": "10.1007/s12559-024-10392-z",
+   "title": "Unified Multi-view Data Clustering: Simultaneous Learning of Consensus Coefficient Matrix and Similarity Graph",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 257
+  },
+  {
+   "doi": "10.1007/s12559-025-10433-1",
+   "title": "Medivision: Empowering Colorectal Cancer Diagnosis and Tumor Localization Through Supervised Learning Classifications and Grad-CAM Visualization of Me",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s12559-025-10460-y",
+   "title": "Parallel Hybrid CNN-KELM and Attention-Guided Pyramid Transformer Networks for Efficient Fruit Image Classification and Segmentation",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1007/s12559-025-10488-0",
+   "title": "Test-Time Adaptation of a Multi-Class Object Localization and Size Estimation Framework for Smart Agriculture Applications",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 341
+  },
+  {
+   "doi": "10.1007/s12559-025-10403-7",
+   "title": "Context-Aware Prediction with Secure and Lightweight Cognitive Decision Model in Smart Cities",
+   "received": "30 November 2024",
+   "revised": null,
+   "accepted": "5 January 2025",
+   "days": 36
+  },
+  {
+   "doi": "10.1007/s12559-025-10427-z",
+   "title": "CLKT: Optimizing Cognitive Load Management in Knowledge Tracing",
+   "received": "1 May 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1007/s12559-025-10519-w",
+   "title": "Multi-Collaborative Unsupervised Contrastive Learning for DeepFake Detection Amidst Unseen Artifact",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1007/s12559-025-10512-3",
+   "title": "Improving Medical Image Classification with Segmentation-Driven Ensemble Machine Learning",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 321
+  },
+  {
+   "doi": "10.1007/s12559-025-10484-4",
+   "title": "SwinTSER: An Improved Bilingual Speech Emotion Recognition Using Shift Window Transformer",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1007/s12559-025-10504-3",
+   "title": "An EfficientNet-B0 Framework for Nitrogen Stress Identification in Sustainable Precision Farming Plants",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1007/s12559-025-10499-x",
+   "title": "Knowledge Enhanced and Incongruity Perceiving Network for Multimodal Sarcasm Detection",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s12559-025-10424-2",
+   "title": "Multi-criteria Group Decision-Making Using Complex p, q-Quasirung Orthopair Fuzzy Sets: Application in the Selection of Renewable Energy Projects for ",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1007/s12559-025-10456-8",
+   "title": "Decision-Making-Based Solar Panel Selection: Sugeno-Weber Operators and Fermatean Fuzzy Distance Measure with AROMAN Methodology",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1007/s12559-024-10386-x",
+   "title": "Evolutionary Multitasking with Adaptive Tradeoff Selection Strategy",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 188
+  },
+  {
+   "doi": "10.1007/s12559-025-10439-9",
+   "title": "T-Norms and T-Conorms of Symmetrical Linear Orthopair Fuzzy Sets and Their Cognitive Applications in Multiple-Criteria Decision-Making",
+   "received": "14 November 2022",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 842
+  },
+  {
+   "doi": "10.1007/s12559-025-10430-4",
+   "title": "Deep Feature Disentanglement for Supervised Contrastive Learning: Application to Image Classification",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 397
+  },
+  {
+   "doi": "10.1007/s12559-024-10378-x",
+   "title": "DisTrack: A New Tool For Semi-automatic Misinformation Tracking in Online Social Networks",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "4 September 2024",
+   "days": 135
+  },
+  {
+   "doi": "10.1007/s12559-025-10445-x",
+   "title": "A Multi-scale Feature Fusion Network Focusing on Small Objects in UAV-View",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s12559-025-10425-1",
+   "title": "GSAC-UFormer: Groupwise Self-Attention Convolutional Transformer-Based UNet for Medical Image Segmentation",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1007/s12559-025-10407-3",
+   "title": "An Asymmetric Semantic Segmentation Model via Lightweight Attention-Guided Feature Enhancement and Fusion",
+   "received": "14 April 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 270
+  },
+  {
+   "doi": "10.1007/s12559-024-10359-0",
+   "title": "Dynamic Neighborhood Selection for Context Aware Temporal Evolution Using Graph Neural Networks",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s12559-025-10413-5",
+   "title": "Tweet Credibility Ranker: A Credibility Features\u2019 Fusion Model",
+   "received": "30 July 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 534
+  },
+  {
+   "doi": "10.1007/s12559-025-10419-z",
+   "title": "HLAE: Hierarchical Local Attention Encoder for MRI Brain Tumor Image Classification",
+   "received": "20 November 2023",
+   "revised": null,
+   "accepted": "19 January 2025",
+   "days": 426
+  },
+  {
+   "doi": "10.1007/s12559-024-10395-w",
+   "title": "Systematic Review and Thematic Analysis of Digital Games for Cognitive Enhancement in Children with Autism Spectrum Disorder: Toward a Conceptual Fram",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 128
+  },
+  {
+   "doi": "10.1007/s12559-024-10363-4",
+   "title": "BrainEnsemble: A Brain-Inspired Effective Ensemble Pruning Algorithm for Pattern Classification",
+   "received": "8 November 2023",
+   "revised": null,
+   "accepted": "22 October 2024",
+   "days": 349
+  },
+  {
+   "doi": "10.1007/s12559-024-10354-5",
+   "title": "Fine-Tuned BERT Algorithm-Based Automatic Query Expansion for Enhancing Document Retrieval System",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s12559-024-10389-8",
+   "title": "I2V-CMGAN: Generative Adversarial Cross-Modal Network-Based Image-to-Video Person Re-identification",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 307
+  },
+  {
+   "doi": "10.1007/s12559-025-10442-0",
+   "title": "$$A^{2}$$DM: Enhancing EEG Artifact Removal by Fusing Artifact Representation into the Time-Frequency Domain",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1007/s12559-025-10416-2",
+   "title": "Exploring Influence of Different Emotions on Decision-Making by Analyzing the Temporal, Spatial, and Spectral Domains of EEG",
+   "received": "7 January 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 738
+  },
+  {
+   "doi": "10.1007/s12559-024-10398-7",
+   "title": "A Non-invasive Approach for Early Alzheimer\u2019s Detection Through Spontaneous Speech Analysis Using Deep Visibility Graphs",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 132
+  },
+  {
+   "doi": "10.1007/s12559-025-10482-6",
+   "title": "New Approach to Crop Disease Classification and Data Security in Smart Agriculture Networks",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 308
+  },
+  {
+   "doi": "10.1007/s12559-025-10495-1",
+   "title": "Customer-Perceived Value and Social Media Analytics: How Supplier Evaluation Can Benefit from Aspect-Based Sentiment Analysis and Fuzzy Inference",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s12559-025-10507-0",
+   "title": "Product Color Emotional Design Based on Interdependent Networks and Cascading Failure",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 326
+  },
+  {
+   "doi": "10.1007/s12559-024-10355-4",
+   "title": "A Novel Multi-Type Image Coding Method Acting on Supervised Hierarchical Deep Spiking Convolutional Neural Networks for Image Classification",
+   "received": "26 December 2022",
+   "revised": null,
+   "accepted": "3 November 2024",
+   "days": 678
+  },
+  {
+   "doi": "10.1007/s12559-025-10421-5",
+   "title": "Innovative Deep Learning Framework for Accurate Plant Disease Detection and Crop Productivity Enhancement",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1007/s12559-025-10443-z",
+   "title": "Comparative Analysis of Hybrid and Ensemble Machine Learning Approaches in Predicting Football Player Transfer Values",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s12559-025-10476-4",
+   "title": "Systematic Evaluation of Memory Retrieval in a Neuromorphic Model of the Hippocampus",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s12559-025-10508-z",
+   "title": "Multiple Local-Global Correlation-Based Deep Neural Network with Selective Kernel Attention for Bearing Fault Diagnosis",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 450
+  },
+  {
+   "doi": "10.1007/s12559-025-10492-4",
+   "title": "Smartphone Selection with Picture Fuzzy Modified Combined Compromise Solutions",
+   "received": "20 July 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 380
+  },
+  {
+   "doi": "10.1007/s12559-025-10515-0",
+   "title": "PPHN: Deep Sequential Learning Architecture for Parkinson\u2019s Disease Prediction using Amino Acid Descriptors from Protein Sequences",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1007/s12559-025-10446-w",
+   "title": "EPDTNet\u2009+\u2009-EM: Advanced Transfer Learning and SubNet Architecture for Medical Image Diagnosis",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s12559-024-10367-0",
+   "title": "A Hybrid Semantics and Syntax-Based Graph Convolutional Network for Aspect-Level Sentiment Classification",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "21 October 2024",
+   "days": 103
+  },
+  {
+   "doi": "10.1007/s12559-025-10481-7",
+   "title": "Multimodal Framework for Automatic Behavior Analysis of Children with Autism During ADOS-2",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1007/s12559-025-10506-1",
+   "title": "Enhanced Scene-Specific Saliency Prediction Incorporating Scene Information",
+   "received": "20 May 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 475
+  },
+  {
+   "doi": "10.1007/s12559-025-10422-4",
+   "title": "Verifying Technical Indicator Effectiveness in Cryptocurrency Price Forecasting: a Deep-Learning Time Series Model Based on Sparrow Search Algorithm",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1007/s12559-025-10525-y",
+   "title": "A Pythagorean Fuzzy Entropy with Multi-Distributive Weighted Function-Based Decision-Making for Transportation Problem",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "2 November 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1007/s12559-025-10455-9",
+   "title": "HSBNN: A High-Scalable Bayesian Neural Networks Accelerator Based on Field Programmable Gate Arrays (FPGA)",
+   "received": "28 June 2023",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 655
+  },
+  {
+   "doi": "10.1007/s12559-025-10480-8",
+   "title": "Heterogeneous Semantic Projection Optimization for Thematic Depth in Homogeneous Graph",
+   "received": "5 March 2024",
+   "revised": null,
+   "accepted": "15 June 2025",
+   "days": 467
+  },
+  {
+   "doi": "10.1007/s12559-025-10500-7",
+   "title": "Reinforcement Learning for Human-AI Collaboration: Challenges, Mechanisms, and Methods",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1007/s12559-024-10376-z",
+   "title": "Enhanced Self-Attention-Based Rapid CNN for Detecting Dense Objects in Varying Illumination",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "11 September 2024",
+   "days": 41
+  },
+  {
+   "doi": "10.1007/s12559-025-10483-5",
+   "title": "SAD-GAN: A Novel Secure Anomaly Detection Framework for Enhancing the Resilience of Cyber-Physical Systems",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s12559-025-10497-z",
+   "title": "TDGAT: Triple-Dimensional Graph Attention Networks for Exploring the Optimal Perspective for Aspect-Based Sentiment Analysis",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s12559-024-10373-2",
+   "title": "eXplainable AI for Word Embeddings: A Survey",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "26 September 2024",
+   "days": 182
+  },
+  {
+   "doi": "10.1007/s12559-024-10374-1",
+   "title": "DmrNet: Dual-stream Mutual Information Contraction and Re-discrimination Network for Semi-supervised Temporal Action Detection",
+   "received": "18 December 2023",
+   "revised": null,
+   "accepted": "14 September 2024",
+   "days": 271
+  },
+  {
+   "doi": "10.1007/s12559-024-10393-y",
+   "title": "A Comparative Analysis of Metaphorical Cognition in ChatGPT and Human Minds",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 223
+  },
+  {
+   "doi": "10.1007/s12559-025-10474-6",
+   "title": "Enhancing the Prediction of Breast Cancer Progression Through Multi-modal Data Transformation",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1007/s12559-024-10400-2",
+   "title": "Attribute Reduction in a Hybrid Decision Information System Based on Fuzzy Conditional Information Entropy Using Iterative Model and Matrix Operation",
+   "received": "9 October 2023",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 447
+  },
+  {
+   "doi": "10.1007/s12559-025-10458-6",
+   "title": "Emotions for Everyone: A Low-Cost, High-Accuracy Method for Emotion Classification",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s12559-024-10366-1",
+   "title": "A Fixed-Time Control Algorithm for Multiagent Systems with Input Delay via Event-Triggered Strategy",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "22 October 2024",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s12559-024-10369-y",
+   "title": "Extensions and Detailed Analysis of Synergy Between Traditional Classification and Classification Based on Negative Features in Deep Convolutional Neu",
+   "received": "31 December 2023",
+   "revised": null,
+   "accepted": "14 October 2024",
+   "days": 288
+  },
+  {
+   "doi": "10.1007/s12559-025-10450-0",
+   "title": "Enhancing Skin Disease Diagnosis: Light GBM-DMS Algorithm for Accurate Image Classification",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1007/s12559-025-10469-3",
+   "title": "Generative AI and Deepfake Detection in Biometric Systems",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1007/s12559-025-10434-0",
+   "title": "Advanced Decision-Making Strategies in Life 3.0 Through q-Spherical Fuzzy Rough Dombi Aggregation Operators",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1007/s12559-025-10516-z",
+   "title": "EEG-Based Emotion Classification Driven by Fuzzy Linguistic Summarization: A Study on SEED Dataset",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s12559-025-10447-9",
+   "title": "Investigating Brain Lobe Biomarkers to Enhance Dementia Detection Using EEG Data",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1007/s12559-025-10509-y",
+   "title": "Longitudinal Prediction of Mental Health Outcomes in Vulnerable Youth using Machine Learning",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 424
+  },
+  {
+   "doi": "10.1007/s12559-024-10364-3",
+   "title": "Adaptive Unsupervised Graph Convolution Network for Data Clustering with Graph Reconstruction",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "22 October 2024",
+   "days": 202
+  },
+  {
+   "doi": "10.1007/s12559-025-10491-5",
+   "title": "q-Rung Orthopair Fuzzy Soft Rough Aggregation Operators and Similarity to Ideal Solution Method Using Hamacher Operations for Solving Decision-Making ",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 293
+  },
+  {
+   "doi": "10.1007/s12559-024-10377-y",
+   "title": "Event Classification on Subsea Pipeline Inspection Data Using an Ensemble of Deep Learning Classifiers",
+   "received": "8 May 2024",
+   "revised": null,
+   "accepted": "10 September 2024",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s12559-025-10503-4",
+   "title": "Blockchain-Enhanced Deep Learning Framework for Secure Patient Data Management in IoT-Enabled Healthcare Systems",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1007/s12559-025-10486-2",
+   "title": "Quantum-Inspired Multi-Objective Seahorse Optimizer for Predictive Maintenance Analysis Using Numerical Association Rule Mining",
+   "received": "4 February 2024",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 511
+  },
+  {
+   "doi": "10.1007/s12559-025-10448-8",
+   "title": "Topologically Consistent Prototype Network for Incomplete Multimodal Learning",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1007/s12559-025-10428-y",
+   "title": "Leveraging Graph Convolutional Networks for Semi-supervised Learning in Multi-view Non-graph Data",
+   "received": "26 January 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 386
+  },
+  {
+   "doi": "10.1007/s12559-024-10371-4",
+   "title": "Disturbance Observer-Based Control: Weighted Aggregated Aczel-Alsina Sum Product Assessment Based on Power Operators for Managing Fuzzy 2-Tuple Lingui",
+   "received": "30 March 2024",
+   "revised": null,
+   "accepted": "27 September 2024",
+   "days": 181
+  },
+  {
+   "doi": "10.1007/s12559-024-10375-0",
+   "title": "Exploiting Deep Contrast Feature for Image Retrieval",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "14 September 2024",
+   "days": 219
+  },
+  {
+   "doi": "10.1007/s12559-025-10453-x",
+   "title": "Residual Movement Metrology Network and Transformer-Based Framework for Evaluating Movement Quality",
+   "received": "21 March 2023",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 754
+  },
+  {
+   "doi": "10.1007/s12559-025-10473-7",
+   "title": "Dual-Branch Pre-activation Bottleneck Transformer for Face Forgery Detection",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 386
+  },
+  {
+   "doi": "10.1007/s12559-024-10388-9",
+   "title": "Neural Adaptive Dynamic Event-Triggered Containment Control for Uncertain Multi-Agent Systems Under Markovian Switching Dynamics",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s12559-025-10404-6",
+   "title": "Engaging Preference Optimization Alignment in Large Language Model for Continual Radiology Report Generation: A Hybrid Approach",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s12559-025-10528-9",
+   "title": "Diagnosis of Alzheimer\u2019s Disease Via Machine Learning Approaches with Integrated Resting-State EEG and ERP Characteristics",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "6 November 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1007/s12559-025-10441-1",
+   "title": "Curriculum-Guided Self-Supervised Representation Learning of Dynamic Heterogeneous Networks",
+   "received": "5 October 2023",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 523
+  }
+ ]
+}

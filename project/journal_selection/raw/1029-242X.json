@@ -1,0 +1,1301 @@
+{
+ "issn": "1029-242X",
+ "journal": "Journal of Inequalities and Applications",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:25.567083",
+ "source": "https://api.crossref.org/journals/1029-242X/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13660-024-03233-y",
+   "title": "Hyers\u2013Ulam stability of norm-additive functional equations via $(\\delta , \\epsilon )$-isometries",
+   "received": "23 April 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s13660-024-03227-w",
+   "title": "The series solutions of fractional foam drainage and fractional modified regularized long wave problems",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s13660-025-03364-w",
+   "title": "Rational contractions of the Geraghty and Dass-Gupta type in super metric spaces with applications",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s13660-025-03396-2",
+   "title": "Jungck common fixed point theorem in b-metric spaces with polynomial condition",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s13660-025-03293-8",
+   "title": "Approximation by Stancu-type \u03b1-Bernstein-Schurer-Kantorovich operators",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s13660-025-03322-6",
+   "title": "Optimal error estimate for the noncoercive quasivariational inequality with nonlinear source term related to impulse control problems",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 268
+  },
+  {
+   "doi": "10.1186/s13660-025-03334-2",
+   "title": "A sufficient condition for finite-time blow-up of the coupled viscoelastic wave equations with arbitrary positive initial energy",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1186/s13660-025-03376-6",
+   "title": "Dynamic Hardy-type inequalities utilizing the delta conformable calculus on time scales",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1186/s13660-025-03380-w",
+   "title": "A-numerical radius inequalities for operator matrices in semi-Hilbertian spaces",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13660-025-03276-9",
+   "title": "Existence, stability, and numerical simulation of a nonlinear brain tumor model",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 200
+  },
+  {
+   "doi": "10.1186/s13660-025-03279-6",
+   "title": "Inertial subgradient-type algorithm for solving equilibrium problems with strong monotonicity over fixed point sets",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s13660-025-03320-8",
+   "title": "A new class of dual systems of fractional differential equations with hemivariational inequalities",
+   "received": "20 October 2023",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 580
+  },
+  {
+   "doi": "10.1186/s13660-025-03254-1",
+   "title": "Greedy algorithms: a review and open problems",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s13660-025-03367-7",
+   "title": "Dickson polynomial-based solutions for fractional order physics problems",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s13660-025-03371-x",
+   "title": "A note on weak law of large numbers for weighted sums of negatively associated random variables and an application",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13660-025-03389-1",
+   "title": "Novel dynamic inequalities of Hilbert-Pachpatte-type for a class of non-homogeneous kernels on time scales",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s13660-025-03285-8",
+   "title": "Multigrid method for noncoercive parabolic variational inequality",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1186/s13660-025-03375-7",
+   "title": "Monotonicity character of convex combinations of two sequences generated by the square of the cube root function",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13660-025-03290-x",
+   "title": "Dispersion and variation orders of extreme order statistics from dependent unit gamma Gompertz random variables",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "23 March 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s13660-025-03307-5",
+   "title": "Influence of noninstantaneous impulsive on null controllability of Atangana\u2013Baleanu fractional stochastic differential equations",
+   "received": "29 December 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13660-024-03225-y",
+   "title": "On a modified Bernstein operators approximation method for computational solution of Volterra integral equation",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s13660-025-03337-z",
+   "title": "Coefficient inequalities and Hankel determinant for a new subclass of q-starlike functions",
+   "received": "25 August 2024",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 311
+  },
+  {
+   "doi": "10.1186/s13660-025-03272-z",
+   "title": "When do the Kahn-Kalai bounds provide nontrivial information?",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s13660-025-03304-8",
+   "title": "On an interpolation problem on a class of a radially weighted harmonic Bergman space",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s13660-025-03269-8",
+   "title": "Existence and stability of a one-dimensional heat equation with logarithmic nonlinearity",
+   "received": "3 March 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 349
+  },
+  {
+   "doi": "10.1186/s13660-024-03234-x",
+   "title": "Some strong coupled coincidence and coupled best proximity results on complete metric spaces",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s13660-024-03238-7",
+   "title": "Hyperbolic valued Beurling weighted bicomplex Lebesgue spaces and some of their geometric characteristics",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 252
+  },
+  {
+   "doi": "10.1186/s13660-025-03300-y",
+   "title": "Approximation using Jakimovski\u2013Leviatan operators of Durrmeyer type with 2D-Appell polynomials",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1186/s13660-025-03357-9",
+   "title": "Finite-time synchronization of fuzzy neural networks with fractional order",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13660-025-03359-7",
+   "title": "New fixed point results for $(\\omega,t_{0})$-Taylor-Lagrange distance function",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1186/s13660-024-03245-8",
+   "title": "Monotonicity and positivity of several functions involving ratios and products of polygamma functions",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s13660-025-03335-1",
+   "title": "An innovative algorithm for estimating the minimum eigenvalue of M-matrices",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13660-025-03295-6",
+   "title": "Generalized m-functional equations in matrix Banach space with an application",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s13660-025-03262-1",
+   "title": "Marcinkiewicz-Zygmund and interpolating families on the ball",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 257
+  },
+  {
+   "doi": "10.1186/s13660-025-03336-0",
+   "title": "Statistical convergence and uniqueness properties of regular matrix summability",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s13660-025-03275-w",
+   "title": "Absolutely monotonic functions involving the zero-balanced Gaussian hypergeometric functions with applications",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s13660-024-03241-y",
+   "title": "Results of the asymptotic behavior for a viscoelastic wave equation with nonlinear distributed delay and acoustic conditions in boundary feedback",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13660-025-03282-x",
+   "title": "RLC-electric circuits and fixed point theorems in C*-algebra-valued modular metric-like space",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s13660-025-03370-y",
+   "title": "On new controlled fuzzy metric space and related fixed point results",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13660-025-03264-z",
+   "title": "Singular value inequalities for generalized anticommutators",
+   "received": "4 January 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1186/s13660-025-03312-8",
+   "title": "Existence and ordering stability of Nash equilibria for a class of differential games",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s13660-025-03366-8",
+   "title": "Qualitative behavior of higher-order rational difference systems: positivity, asymptotic behavior, and periodicity",
+   "received": "30 July 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1186/s13660-025-03379-3",
+   "title": "Yosida approximation-based convergence of generalized variational inclusions in ordered Hilbert spaces",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13660-025-03314-6",
+   "title": "Refining Jensen\u2013Mercer inequality and its applications in probability and statistics",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13660-025-03311-9",
+   "title": "Comprehensive study of Weddle\u2019s formula-type inequalities for convex functions within the framework of quantum calculus and their computational analys",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1186/s13660-024-03242-x",
+   "title": "Fixed point results on locally $(\\delta , \\phi )$-dominated and $(\\delta , \\phi )$-continuous mappings in dislocated quasi metric spaces",
+   "received": "14 July 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s13660-025-03289-4",
+   "title": "Answer to a question on Cauchy sequence in fuzzy b-metric spaces and its applications",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s13660-025-03251-4",
+   "title": "Exploring error estimates of Newton-Cotes quadrature rules across diverse function classes",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s13660-025-03329-z",
+   "title": "Random dynamics of fractional stochastic retarded FitzHugh\u2013Nagumo systems on unbounded domains",
+   "received": "6 April 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13660-025-03340-4",
+   "title": "On a two-parameter class of sequences converging to a power of the base of the natural logarithm",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s13660-025-03263-0",
+   "title": "Fixed point approximation of nonexpansive mappings and its application to delay integral equation",
+   "received": "9 June 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1186/s13660-025-03348-w",
+   "title": "A study of (\u03c3, \u03bc)-Stancu-Schurer as a new generalization and approximations",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s13660-025-03338-y",
+   "title": "More power vector bounds for operator pairs in Hilbert spaces with applications",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 309
+  },
+  {
+   "doi": "10.1186/s13660-024-03224-z",
+   "title": "Some generalizations of dynamic Opial-type inequalities in conformable calculus",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "5 November 2024",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13660-025-03325-3",
+   "title": "Beyond classical convexity: super-quadratic convex mappings and their inequality framework",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s13660-025-03346-y",
+   "title": "Tempered fractional version of trapezoid-type inequalities",
+   "received": "10 January 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 565
+  },
+  {
+   "doi": "10.1186/s13660-025-03368-6",
+   "title": "Estimates of the first partial derivatives of $(\\alpha ,\\beta )$-harmonic functions on the unit disc",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13660-025-03261-2",
+   "title": "A compact finite difference scheme for solving fractional Black-Scholes option pricing model",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13660-025-03267-w",
+   "title": "Equivalence of coercivity and mean coercivity in higher-order variational integrals with application to minimization",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s13660-025-03315-5",
+   "title": "Optimality and scalarization of robust approximate solutions for semi-infinite vector equilibrium problems",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1186/s13660-025-03306-6",
+   "title": "The positive steady states of cross-diffusion SIR epidemic system",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13660-025-03373-9",
+   "title": "Existence, decay and blow up of solutions for a parabolic type equation with logarithmic nonlinearity and singular potential",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1186/s13660-025-03360-0",
+   "title": "Shape preserving approximation properties to family of \u03b1-Bernstein shifted knot operators",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13660-025-03265-y",
+   "title": "Some Korovkin-type theorems using multivariate power series technique",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s13660-025-03313-7",
+   "title": "Fixed point results on nonlinear composition operators $A\\circ B$ and applications",
+   "received": "4 January 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13660-025-03297-4",
+   "title": "Gr\u00fcss\u2013Ostrowski inequalities and bounded variation",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 378
+  },
+  {
+   "doi": "10.1186/s13660-025-03271-0",
+   "title": "New Hadamard-type estimations of cyclic Jensen functionals via Taylor\u2019s formula",
+   "received": "22 October 2023",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 485
+  },
+  {
+   "doi": "10.1186/s13660-025-03274-x",
+   "title": "Singular value inequalities for matrices related to convex and concave functions",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13660-025-03383-7",
+   "title": "Solvability of the system involving the mixed derivative and integral Erd\u00e9lyi-Kober equations of fractional order",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s13660-025-03356-w",
+   "title": "Measuring the convexity of compact sumsets with the Schneider non-convexity index",
+   "received": "8 May 2024",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 463
+  },
+  {
+   "doi": "10.1186/s13660-025-03252-3",
+   "title": "On the existence of solutions of the system of nonlinear quasi-mixed equilibrium problems and their stability of the procedure scheme",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "5 January 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1186/s13660-025-03319-1",
+   "title": "Multidimensional fuzzy \u03d5-contraction inequality and its application",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13660-025-03256-z",
+   "title": "Stability analysis of Caputo q-fractional Langevin differential equations under q-fractional integral conditions",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13660-025-03386-4",
+   "title": "Generalized refinement of Hermite-Hadamard inequality",
+   "received": "23 August 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s13660-025-03301-x",
+   "title": "Stability of the two-dimensional complex fluid model in a slab domain",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s13660-025-03327-1",
+   "title": "A new refinement of the Hermite-Hadamard type inequalities for operator $(p-q) $-convex functions",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13660-025-03287-6",
+   "title": "Simulation functions on metric fixed point theory",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13660-025-03266-x",
+   "title": "A study of Hermite-Hadamard inequalities via Caputo-Fabrizio fractional integral operators using strongly $(s, m)$-convex functions in the second sens",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1186/s13660-025-03278-7",
+   "title": "Controllability of stochastic semilinear systems",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s13660-024-03214-1",
+   "title": "Applications of Babalola q-convolution operator on subclass of analytic functions",
+   "received": "16 April 2024",
+   "revised": null,
+   "accepted": "16 October 2024",
+   "days": 183
+  },
+  {
+   "doi": "10.1186/s13660-025-03395-3",
+   "title": "Caputo gH-differentiability for Gronwalls inequality: insight, new results and application",
+   "received": "19 July 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13660-024-03237-8",
+   "title": "Approximation properties by Schurer type q-Kantorovich\u2013Stancu shifted knots operators",
+   "received": "5 May 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s13660-025-03277-8",
+   "title": "Tighter uncertainty principles associated with Bendlet and quaternion-Bendlet transforms",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s13660-025-03350-2",
+   "title": "Third Hankel determinant for a subclass of convex functions associated with a domain bounded by an epicycloid",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 334
+  },
+  {
+   "doi": "10.1186/s13660-024-03235-w",
+   "title": "Solutions of nonlinear integro-differential equations of fractional order defined using fractional boundary conditions",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13660-025-03387-3",
+   "title": "Geometric perspective of generalized Bessel function",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s13660-025-03385-5",
+   "title": "A new mean-Berezin norm for operators in reproducing kernel Hilbert spaces",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s13660-025-03374-8",
+   "title": "Generalized \u03b8-parametric metric spaces: fixed point theorems and application to fractional economic growth model via fractional differential approach",
+   "received": "7 May 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13660-025-03260-3",
+   "title": "A generalization of Phillips operators by using the Appell polynomials of class $A^{(2)}$",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1186/s13660-025-03291-w",
+   "title": "Kirchhoff-type problems with the non-local fractional $\\mathrm{d}(\\mathrm{z},.)$-Laplacian operator",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13660-025-03303-9",
+   "title": "Multiplicative modular metric spaces and some fixed point results",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s13660-025-03310-w",
+   "title": "Some new inequalities on the improvement of numerical radius bounds",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "1 May 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s13660-025-03390-8",
+   "title": "Decay energy for Reissner-Mindlin-Timoshenko system with delays terms",
+   "received": "6 April 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s13660-025-03270-1",
+   "title": "Solvability of Caputo fractional integral boundary value problem at resonance in ${\\mathbb{R}^{n}}$",
+   "received": "26 April 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1186/s13660-025-03309-3",
+   "title": "On D-hyponormal operators",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13660-025-03352-0",
+   "title": "Inhomogeneous Schr\u00f6dinger system with inverse square potential in three space dimensions",
+   "received": "21 April 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 470
+  },
+  {
+   "doi": "10.1186/s13660-025-03302-w",
+   "title": "Existence of solutions to a fractional differential equation involving the Caputo q-derivative with boundary conditions in Banach spaces",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1186/s13660-025-03296-5",
+   "title": "The effects of Clarke sub-differential and Poisson jumps on nonlocal controllability of Sobolev-type fractional stochastic differential inclusions",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1186/s13660-025-03330-6",
+   "title": "Improved singular value inclusion sets for rectangular tensors",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s13660-025-03281-y",
+   "title": "Some Carleman-type inequalities in $(p,q)$-calculus",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1186/s13660-025-03342-2",
+   "title": "A new formulation of Hermite\u2013Hadamard\u2013Fejer inequalities connected with an extended fractional operator",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 446
+  },
+  {
+   "doi": "10.1186/s13660-024-03246-7",
+   "title": "An Ehrling-type inequality for the closed injective hull of Bloch ideals",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s13660-025-03398-0",
+   "title": "Advances in multivalued mapping theory: fixed points and demiclosedness for asymptotically pseudocontractive-type mappings in real Hilbert spaces",
+   "received": "26 April 2023",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 909
+  },
+  {
+   "doi": "10.1186/s13660-024-03247-6",
+   "title": "An impulsive problem for quadratic pencil of Schr\u00f6dinger operators on semi-axis",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "24 December 2024",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s13660-025-03280-z",
+   "title": "Unified discrete and integral Giaccardi inequalities under the isotonic linear functionals and their applications in different time scales",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 368
+  },
+  {
+   "doi": "10.1186/s13660-024-03240-z",
+   "title": "Memoryless quasi-Newton-type methods via some weak secant relations for large-scale unconstrained optimization",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13660-025-03400-9",
+   "title": "Global dynamics of energy-critical complex Ginzburg\u2013Landau systems in exterior domains",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13660-025-03384-6",
+   "title": "Optimal inequalities involving Casorati curvatures for Riemannian maps to nearly Kaehler manifolds",
+   "received": "30 October 2023",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 702
+  },
+  {
+   "doi": "10.1186/s13660-025-03255-0",
+   "title": "The weighted Davis-Wielandt Berezin number for reproducing kernel Hilbert space operators",
+   "received": "24 April 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 631
+  },
+  {
+   "doi": "10.1186/s13660-024-03244-9",
+   "title": "Global solution with partial large initial data to the Keller\u2013Segel\u2013Navier\u2013Stokes equations in Besov spaces",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s13660-025-03284-9",
+   "title": "An analysis of the convergence problem of a function in Sobolev and generalized Zygmund norms using product operator",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s13660-025-03369-5",
+   "title": "Analyzing the cumulative residual extropy of system inactivity times and revealing system complexity",
+   "received": "10 May 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13660-025-03397-1",
+   "title": "Random dynamics of dispersive-dissipative wave equations driven by nonlinear colored noise",
+   "received": "27 August 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s13660-025-03332-4",
+   "title": "Existence of positive solutions for a system of fourth-order differential equations",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 318
+  },
+  {
+   "doi": "10.1186/s13660-025-03341-3",
+   "title": "Exponential decay and finite-time blow-up for the Klein\u2013Gordon equation with linear strong damping, nonlinear weak damping, and logarithmic nonlineari",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s13660-025-03363-x",
+   "title": "Some remarks about the convergence of composition operators",
+   "received": "30 March 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13660-025-03391-7",
+   "title": "A class of objective filled penalty functions for minimax global optimization problem",
+   "received": "28 June 2025",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13660-025-03345-z",
+   "title": "On post-quantum multiparameter Riemann\u2013Liouville fractional integral inequalities with application",
+   "received": "4 May 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13660-025-03292-9",
+   "title": "Extension of the Beta function in several variables and applications for multivariate orthogonal polynomials",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1186/s13660-025-03333-3",
+   "title": "Weighted fractional Euler\u2013Maclaurin inequalities for convex and bounded variation functions via Riemann\u2013Liouville integrals",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1186/s13660-025-03328-0",
+   "title": "New universal inequalities for eigenvalues of elliptic operators in weighted divergence form on smooth metric measure spaces",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13660-025-03378-4",
+   "title": "Fibonacci-Ishikawa iterative method in modular spaces for asymptotically non-expansive monotonic mathematical operators",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s13660-025-03354-y",
+   "title": "New results for generalized Hausdorff matrices",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s13660-025-03344-0",
+   "title": "Exploring Proinov-type and Banach-type contractions in fuzzy bipolar metric spaces",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s13660-025-03273-y",
+   "title": "Boundedness of sublinear operators on two-weighted grand Herz spaces with variable exponent",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s13660-025-03288-5",
+   "title": "Toral $(m,C)$-isometric multivariable operators",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 358
+  },
+  {
+   "doi": "10.1186/s13660-024-03250-x",
+   "title": "Exponential growth of positive initial energy for a system of higher-order viscoelastic wave equations with variable exponents",
+   "received": "12 October 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13660-025-03299-2",
+   "title": "Maximal inequality along curves associated with oscillatory integral operator",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s13660-025-03294-7",
+   "title": "Geometric properties of Taylor sequence spaces",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13660-025-03358-8",
+   "title": "Maps which preserve equality of phase-distance",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13660-025-03362-y",
+   "title": "Numerical solution of fractional Volterra integral equations using Sz\u00e1sz-Mirakyan approximation operators",
+   "received": "15 February 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s13660-025-03323-5",
+   "title": "Lengths of closed geodesics for certain warped product metrics and nearly round metrics on spheres",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1186/s13660-025-03298-3",
+   "title": "Generalized $\\mathcal{R}$ - contractions and fixed point theorems with an application to boundary value problem governing transverse oscillation in ho",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s13660-025-03268-9",
+   "title": "Random and cyclic projection algorithms for strongly pseudomonotone variational inequalities",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13660-025-03365-9",
+   "title": "A class of analytic functions related to the generalized Marcum Q-function and its geometric properties",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s13660-025-03283-w",
+   "title": "Uniform relations between the Gauss\u2013Legendre nodes and weights",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s13660-025-03408-1",
+   "title": "Existence results for nonlinear fourth-order elliptic boundary value problems",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "18 November 2025",
+   "days": 587
+  },
+  {
+   "doi": "10.1186/s13660-025-03253-2",
+   "title": "A sharp double inequality for sums of powers revisited",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s13660-025-03339-x",
+   "title": "A new smoothing homotopy algorithm for second-order cone problems",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s13660-025-03347-x",
+   "title": "Reconstruction of the potential in the Sturm-Liouville equation with spectral boundary conditions",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s13660-025-03305-7",
+   "title": "Fourier-type algebras and applications to some classes of convolution-type integral equations",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13660-025-03286-7",
+   "title": "On a new class of operators from the Bloch-type space into $H^{\\infty}(\\mathbb{B}_{X})$ of infinite dimensional bounded symmetric domains",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s13660-025-03257-y",
+   "title": "Eigenvalues for iterative systems of higher order three-point Hadamard fractional boundary value problems",
+   "received": "29 July 2023",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 542
+  },
+  {
+   "doi": "10.1186/s13660-024-03249-4",
+   "title": "Evaluating the stability and efficacy of fractal-fractional models in reproductive cancer apoptosis with ABT-737",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13660-025-03321-7",
+   "title": "On some sequences whose limit is the Euler gamma constant",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s13660-025-03377-5",
+   "title": "On approximation properties of \u03b1-Baskakov-Schurer-Stancu operators: graphical investigations",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s13660-025-03343-1",
+   "title": "The apolar inner product and a Bombieri-type inequality for polynomials",
+   "received": "12 December 2023",
+   "revised": null,
+   "accepted": "17 June 2024",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s13660-025-03405-4",
+   "title": "Stochastic tensor complementarity problem: CVaR-ERM model and the convergence analysis of stationary points for its approximation problem",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "11 November 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s13660-025-03355-x",
+   "title": "Long-time behavior of the Kirchhoff-type suspension bridge equations with nonlinear damping and memory",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13660-025-03392-6",
+   "title": "Fast homoclinic solutions for damped vibration problems under local conditions",
+   "received": "7 December 2024",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 314
+  },
+  {
+   "doi": "10.1186/s13660-025-03331-5",
+   "title": "Existence and properties of nontrivial solutions for novel fractional differential equations with \u03d5-Hilfer operators and boundary conditions",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s13660-025-03382-8",
+   "title": "An improved Kolmogorov bound for approximate maximum likelihood estimators for the \u03b1-Brownian bridge",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s13660-024-03239-6",
+   "title": "Approximation with Chlodowsky variant of Kantorovich-Stancu-operators employing associated \u03bb-polynomials",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s13660-025-03372-w",
+   "title": "Hilfer fractional derivatives and their role in Wirtinger-type inequalities with applications",
+   "received": "28 June 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s13660-025-03401-8",
+   "title": "Stochastic order inequalities for systems with standby units and parallel-series configurations",
+   "received": "12 July 2025",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13660-025-03324-4",
+   "title": "Orthogonal generalized Lie bracket of triple derivations: properties and stability",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 367
+  },
+  {
+   "doi": "10.1186/s13660-025-03316-4",
+   "title": "Riesz lacunary uniform integrability and statistical convergence via power series method",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13660-025-03259-w",
+   "title": "Refinements of some fractional integral inequalities involving extended convex functions and fractional Caputo derivatives",
+   "received": "28 July 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s13660-025-03393-5",
+   "title": "Sensitivity analysis of parametric vector equilibrium problems on Fr\u00e9chet coderivative",
+   "received": "23 July 2025",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s13660-025-03326-2",
+   "title": "Mathematical analysis of competitive dynamics between two regional areas",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13660-025-03317-3",
+   "title": "Fixed point results via fuzzy mappings in b-metric spaces and an application to differential equations",
+   "received": "11 November 2023",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 552
+  }
+ ]
+}

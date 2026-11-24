@@ -1,0 +1,1557 @@
+{
+ "issn": "1758-9193",
+ "journal": "Alzheimer's Research &amp; Therapy",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:09:58.102824",
+ "source": "https://api.crossref.org/journals/1758-9193/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13195-025-01683-0",
+   "title": "Multi-omics analyses identify gut microbiota-fecal metabolites-brain-cognition pathways in the Alzheimer\u2019s disease continuum",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1186/s13195-024-01623-4",
+   "title": "Alzheimer\u2019s disease-specific transcriptomic and epigenomic changes in the tryptophan catabolic pathway",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s13195-025-01743-5",
+   "title": "Linking oxysterols and different stages of mild cognitive impairment: insights from gut metabolites and N6-methyladenosine",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13195-024-01638-x",
+   "title": "Brain iron deposition and cognitive decline in patients with cerebral small vessel disease : a quantitative susceptibility mapping study",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s13195-025-01852-1",
+   "title": "Association between antemortem plasma and structural MRI biomarkers and postmortem tau pathology in the Mayo Clinic Study of Aging",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13195-025-01762-2",
+   "title": "Influence of co-pathology on CSF and plasma synaptic markers SNAP25 and VAMP2 in Alzheimer\u2019s disease and Parkinson\u2019s disease",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13195-025-01888-3",
+   "title": "Polygenic pathways shape white matter vulnerability to Alzheimer\u2019s disease-related pathophysiological changes",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13195-025-01883-8",
+   "title": "Anticholinergic burden and incident dementia: a Swedish nationwide case-control study",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1186/s13195-025-01791-x",
+   "title": "Low-dose interleukin-2 in patients with mild to moderate Alzheimer\u2019s disease: a randomized clinical trial",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13195-025-01804-9",
+   "title": "Combinatorial targeting of NMDARs and 5-HT4Rs exerts beneficial effects in a mouse model of Alzheimer\u2019s disease",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13195-025-01767-x",
+   "title": "Protein co-aggregates of dense core amyloid plaques and CSF differ in rapidly progressive Alzheimer\u2019s disease and slower sporadic Alzheimer\u2019s disease",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13195-025-01892-7",
+   "title": "Prognostic value of plasma biomarkers in early Alzheimer\u2019s disease: a longitudinal clinical and neuroimaging study",
+   "received": "7 July 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s13195-025-01809-4",
+   "title": "Age-related differences in Rostral-Middle locus coeruleus microstructure: A critical role in cognitive decline revealed by magnetic resonance relaxome",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s13195-025-01889-2",
+   "title": "The biological scaling of Alzheimer\u2019s disease neuropathological changes across primate species",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s13195-025-01866-9",
+   "title": "Population intervention models of racial ethnic disparities in cognitive outcomes from cardiometabolic risk factors \u2013 HABS-HD",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13195-025-01839-y",
+   "title": "petBrain: a new pipeline for amyloid, Tau tangles and neurodegeneration quantification using PET and MRI",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s13195-025-01749-z",
+   "title": "\u201cIt seems enormously valuable to me.\u201d Perspectives of Dutch (potential) carriers of genetic FTD on onset-predictive biomarker testing",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s13195-025-01671-4",
+   "title": "Association of antihypertensive drug target genes with alzheimer\u2019s disease: a mendelian randomization study",
+   "received": "12 January 2024",
+   "revised": null,
+   "accepted": "4 January 2025",
+   "days": 358
+  },
+  {
+   "doi": "10.1186/s13195-025-01724-8",
+   "title": "Circadian rhythm disturbances in Alzheimer\u2019s disease: insights from plaque-free and plaque-burdened stages in APPSWE/PS1dE9 mice",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s13195-025-01815-6",
+   "title": "Machine learning applications in vascular neuroimaging for the diagnosis and prognosis of cognitive impairment and dementia: a systematic review and m",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13195-025-01688-9",
+   "title": "\u03b2-synuclein in cerebrospinal fluid as a potential biomarker for distinguishing human prion diseases from Alzheimer\u2019s and Parkinson\u2019s disease",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13195-025-01678-x",
+   "title": "Association of Alzheimer\u2019s and Lewy body disease pathology with basal forebrain volume and cognitive impairment",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13195-025-01887-4",
+   "title": "Hyperspectral retinal imaging to detect Alzheimer\u2019s disease in a memory clinic setting",
+   "received": "30 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13195-025-01841-4",
+   "title": "Disruption of electrophysiological rhythms and memory impairment in an Alzheimer\u2019s transgenic rat model",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13195-025-01864-x",
+   "title": "Associations of adherence to a healthy sleep pattern with the dementia risk in the UK biobank",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 464
+  },
+  {
+   "doi": "10.1186/s13195-025-01806-7",
+   "title": "Combined effects of physical activity, cognitive activity, and dietary patterns on cognitive impairment in older adults with consideration of APOE gen",
+   "received": "25 March 2024",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 464
+  },
+  {
+   "doi": "10.1186/s13195-025-01877-6",
+   "title": "Speech digital biomarker combined with fluid biomarkers predict cognitive impairment through machine learning",
+   "received": "20 April 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s13195-025-01686-x",
+   "title": "Prediction of cognitive conversion within the Alzheimer\u2019s disease continuum using deep learning",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13195-024-01669-4",
+   "title": "Post-marketing safety concerns with lecanemab: a\u00a0pharmacovigilance study based on\u00a0the\u00a0FDA Adverse Event Reporting System database",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13195-025-01870-z",
+   "title": "CT-derived brain volumes and plasma p-Tau217 for risk stratification of amyloid positivity in early-stage Alzheimer\u2019s disease",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13195-025-01765-z",
+   "title": "Digital twins and non-invasive recordings enable early diagnosis of Alzheimer\u2019s disease",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13195-025-01700-2",
+   "title": "TREM2 risk variants and associated endophenotypes\u00a0in alzheimer\u2019s disease",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13195-025-01744-4",
+   "title": "Early presentation of spastic paraparesis in individuals carrying PSEN1 mutations: a clinical and genetic analysis",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1186/s13195-025-01672-3",
+   "title": "CEST imaging combined with 1H-MRS reveal the neuroprotective effects of riluzole by improving neurotransmitter imbalances in Alzheimer\u2019s disease mice",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s13195-024-01650-1",
+   "title": "Machine learning models for dementia screening to classify brain amyloid positivity on positron emission tomography using blood markers and demographi",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13195-025-01687-w",
+   "title": "Social frailty and its association with cognitive trajectories in older adults: a prospective cohort study",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s13195-025-01741-7",
+   "title": "The autocrine motility factor receptor delays the pathological progression of Alzheimer\u2019s disease via regulating the ubiquitination-mediated degradati",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13195-024-01667-6",
+   "title": "Impact of sleep apnea on alzheimer\u2019s disease in relation to sex: an 8-year longitudinal follow-up study of a nationwide cohort",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13195-025-01865-w",
+   "title": "Protein fingerprints of brain-derived extracellular vesicles predict types of tau pathology",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1186/s13195-025-01694-x",
+   "title": "Pathway-based network medicine identifies novel natural products for Alzheimer\u2019s disease",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13195-025-01720-y",
+   "title": "Enhanced associations between subjective cognitive concerns and blood-based AD biomarkers using a novel EMA approach",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "15 March 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s13195-025-01759-x",
+   "title": "Novel fully human high-affinity anti-TREM2 antibody shows efficacy in clinically relevant Alzheimer\u00b4s mouse model",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s13195-025-01868-7",
+   "title": "Regional tau PET patterns predict prospective domain-specific cognitive decline in early symptomatic Alzheimer\u2019s disease",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s13195-025-01780-0",
+   "title": "Deuteration may reduce the efficacy of dextromethorphan in treating agitation in Alzheimer\u2019s disease",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13195-025-01850-3",
+   "title": "Dissecting real-world memory clinical cohort heterogeneity: analysis of neuroanatomical subtypes using HYDRA",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s13195-024-01642-1",
+   "title": "Longitudinal trajectory of plasma p-tau217 in cognitively unimpaired subjects",
+   "received": "8 September 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13195-025-01885-6",
+   "title": "Detecting limbic predominant neurodegenerative co-pathologies in vivo in Alzheimer\u2019s disease: magnetic resonance imaging markers, cognitive correlates",
+   "received": "7 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s13195-025-01855-y",
+   "title": "Design and application of a Tau seed amplification assay for screening inhibitors of Tau seeding",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s13195-025-01731-9",
+   "title": "Relationships between blood pressure indicators and fluid biomarkers of brain aging in functionally intact older adults",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s13195-025-01835-2",
+   "title": "Structural brain improvements following individually tailored serious exergame-based training in mild neurocognitive disorders: exploratory randomized",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s13195-025-01766-y",
+   "title": "Navigating the introduction of anti-amyloid therapy in Europe: a position statement by individual members of the EADC",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s13195-024-01627-0",
+   "title": "Retinal thickness predicts the risk of cognitive decline over five years",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13195-025-01836-1",
+   "title": "Analyses of NOTCH3 variants in Chinese patients with clinically diagnosed Alzheimer's disease and frontotemporal dementia",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13195-025-01697-8",
+   "title": "Brain age mediates gut microbiome dysbiosis-related cognition in older adults",
+   "received": "3 August 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1186/s13195-025-01784-w",
+   "title": "A longitudinal study of the 5xFAD mouse retina delineates Amyloid beta (A\u03b2)-mediated retinal pathology from age-related changes",
+   "received": "9 January 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 513
+  },
+  {
+   "doi": "10.1186/s13195-025-01825-4",
+   "title": "Metabolic syndrome and risk of incident all-cause dementia, Alzheimer\u2019s disease and vascular dementia: a systematic review and meta-analysis of longit",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1186/s13195-025-01732-8",
+   "title": "Optimizing midlife metabolic syndrome thresholds for dementia: a prospective study of two UK population-based cohorts",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s13195-025-01770-2",
+   "title": "Potential role of Amyloid-\u03b2 on the association between Orexin-A and blood-brain barrier leakage of globus pallidus in Alzheimer\u2019s disease and dementia",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13195-025-01826-3",
+   "title": "Plasma phosphorylated tau 217 and amyloid\u2011\u03b2 42/40 for amyloid risk in subgroups",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s13195-025-01799-3",
+   "title": "CHIT1 and DDAH1 levels relate to amyloid-related imaging abnormalities risk profile in Alzheimer\u2019s disease patients",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13195-025-01817-4",
+   "title": "Development of AL101 (GSK4527226), a progranulin-elevating monoclonal antibody, as a potential treatment for Alzheimer\u2019s disease",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13195-025-01894-5",
+   "title": "A machine learning framework for classifying dementia risk in mild cognitive impairment: evidence from a Korean genome-wide association study cohort",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13195-025-01854-z",
+   "title": "Genetic testing of common and rare variants in dementia patients from a memory clinic",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1186/s13195-024-01633-2",
+   "title": "Neuropathological contributions to grey matter atrophy and white matter hyperintensities in amnestic dementia",
+   "received": "1 September 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13195-025-01673-2",
+   "title": "The ABC transporter A7 modulates neuroinflammation via NLRP3 inflammasome in Alzheimer\u2019s disease mice",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13195-025-01714-w",
+   "title": "Photobiomodulation modulates mitochondrial energy metabolism and ameliorates neurological damage in an APP/PS1 mouse model of Alzheimer\u2019s disease",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s13195-025-01670-5",
+   "title": "Variables associated with cognitive function: an exposome-wide and mendelian randomization analysis",
+   "received": "23 June 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s13195-025-01702-0",
+   "title": "Identification and characterization of variants in PSEN1, PSEN2, and APP genes in Chinese patients with early-onset Alzheimer's disease",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1186/s13195-025-01827-2",
+   "title": "Longitudinal structural MRI-based deep learning and radiomics features for predicting Alzheimer\u2019s disease progression",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s13195-025-01893-6",
+   "title": "Cerebrospinal fluid NPTX2 and [18F]FDG PET track serotonergic vulnerability to neurodegeneration in prodromal Alzheimer\u2019s disease",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s13195-025-01874-9",
+   "title": "Neurobiological correlates of Mild Behavioral Impairment: a systematic review and meta-analysis",
+   "received": "26 July 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s13195-025-01737-3",
+   "title": "The role of structural and functional parameters in designing pathology-specific tDCS protocols for primary progressive aphasia",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13195-025-01794-8",
+   "title": "Prognostic value of light reflex pupillometry in Alzheimer\u2019s disease \u2013 a longitudinal cohort study",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "22 June 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13195-025-01785-9",
+   "title": "The economic burden of subjective cognitive decline, mild cognitive impairment and Alzheimer's dementia: excess costs and associated clinical and risk",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13195-025-01754-2",
+   "title": "Development of a Japanese polygenic risk score model for amyloid-\u03b2 PET imaging in Alzheimer\u2019s disease",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13195-025-01721-x",
+   "title": "Insomnia, early and late rising are associated with small hippocampal volume and large white matter hyperintensity burden",
+   "received": "19 January 2025",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13195-025-01879-4",
+   "title": "Classification of Alzheimer\u2019s disease in a mixed clinical cohort using biofluid Raman spectroscopy",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s13195-025-01886-5",
+   "title": "Real\u2014world application of lecanemab in early\u2014stage alzheimer's disease: a single\u2014center prospective cohort analysis",
+   "received": "17 July 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s13195-024-01637-y",
+   "title": "Effectiveness and utilization of a cognitive screening program for primary geriatric care",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13195-025-01740-8",
+   "title": "Associations of choroid plexus volume with white matter hyperintensity volume and susceptibility and plasma amyloid markers in cerebral small vessel d",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13195-025-01776-w",
+   "title": "Ante-mortem cognitive trajectories associated with A\u03b2 and tau biomarker profiles in older adults with cerebrovascular disease: a longitudinal cohort s",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1186/s13195-024-01621-6",
+   "title": "Effects of intensive lifestyle changes on the progression of mild cognitive impairment or early dementia due to Alzheimer\u2019s disease: the need for rigo",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s13195-025-01873-w",
+   "title": "Multidimensional cognitive deficits in the typical and atypical variants of Alzheimer\u2019s disease",
+   "received": "16 June 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13195-025-01915-3",
+   "title": "Neuroinflammation PET and long-term cognition and survival in symptomatic Alzheimer\u2019s disease",
+   "received": "11 August 2025",
+   "revised": null,
+   "accepted": "10 November 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13195-025-01733-7",
+   "title": "DNA methylation signature of a lifestyle-based resilience index for cognitive health",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s13195-024-01614-5",
+   "title": "Computerized decision support to optimally funnel patients through the diagnostic pathway for dementia",
+   "received": "15 March 2024",
+   "revised": null,
+   "accepted": "31 October 2024",
+   "days": 230
+  },
+  {
+   "doi": "10.1186/s13195-025-01881-w",
+   "title": "Effect of melatonin on cognitive function in adults with cognitive impairment: a multi-dimensional meta-analysis of randomized trials",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13195-025-01713-x",
+   "title": "Atrophy trajectories in Alzheimer\u2019s disease: how sex matters",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s13195-025-01727-5",
+   "title": "Clinical phenotypes of Alzheimer\u2019s disease: investigating atrophy patterns and their pathological correlates",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s13195-024-01658-7",
+   "title": "Short-term variability of Alzheimer\u2019s disease plasma biomarkers in a mixed memory clinic cohort",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13195-025-01680-3",
+   "title": "\u03b3-Secretase modulator resistance of an aggressive Alzheimer-causing presenilin mutant can be overcome in the heterozygous patient state by a set of ad",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1186/s13195-024-01640-3",
+   "title": "Intracerebral hemorrhage following mild ARIA-H in an APOE \u03b52 carrier receiving lecanemab",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s13195-025-01830-7",
+   "title": "Integrated plasma and red blood cell membrane lipidomics analysis unveils novel biomarker panel for Alzheimer\u2019s disease",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s13195-024-01626-1",
+   "title": "Impact of gender on the willingness to participate in clinical trials and undergo related procedures in individuals from an Alzheimer\u2019s prevention res",
+   "received": "11 December 2023",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 341
+  },
+  {
+   "doi": "10.1186/s13195-025-01782-y",
+   "title": "Genome-wide association studies of Alzheimer\u2019s disease and related disorders stratified by sex, onset age, and Apolipoprotein E genotype reveal novel ",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1186/s13195-025-01867-8",
+   "title": "Recruitment and retention in a preclinical AD trial: comparisons between academic and non-academic sites",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13195-025-01828-1",
+   "title": "Early functional changes in lewy body dementia: roles of dynamics, locus coeruleus, and compensation",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s13195-025-01693-y",
+   "title": "Pharmacokinetic and pharmacodynamic assessment of oral nicotinamide in the NEAT clinical trial for early Alzheimer\u2019s disease",
+   "received": "21 September 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s13195-024-01644-z",
+   "title": "Brain derived \u03b2-interferon is a potential player in Alzheimer\u2019s disease pathogenesis and cognitive impairment",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s13195-025-01739-1",
+   "title": "Assessment of the relationship between synaptic density and metabotropic glutamate receptors in early Alzheimer\u2019s disease: a multi-tracer PET study",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13195-025-01777-9",
+   "title": "Edaravone-Dexborneol slows down pathological progression and cognitive decline via inhibiting S100A9 in APPswe/PS1dE9 mice",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1186/s13195-025-01812-9",
+   "title": "Aducanumab binds high molecular weight soluble A\u03b2 oligomers and restores intracellular calcium levels",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s13195-025-01728-4",
+   "title": "Reply: [Post-marketing safety concerns with Lecanemab: a disproportionality analysis using the FDA adverse event reporting system]",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1186/s13195-025-01832-5",
+   "title": "White matter hyperintensities and their impact in brain structure and function in alzheimer\u2019s disease and behavioral variant frontotemporal dementia a",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s13195-025-01747-1",
+   "title": "Increased excitability of dentate gyrus mossy cells occurs early in life in the Tg2576 model of Alzheimer\u2019s disease",
+   "received": "7 March 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 411
+  },
+  {
+   "doi": "10.1186/s13195-024-01657-8",
+   "title": "Accelerometer-derived \u201cweekend warrior\u201d physical activity, sedentary behavior, and risk of dementia",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s13195-025-01856-x",
+   "title": "Disentangling phonology from phonological short-term memory in Alzheimer\u2019s disease phenotypes",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s13195-025-01833-4",
+   "title": "Long-term retrieval performance is associated with CA1 hippocampal volume in older adults and individuals at risk for dementia",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s13195-025-01816-5",
+   "title": "Functional-structural co-dependent brain mapping of metamemory in amnestic mild cognitive impairment",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13195-025-01778-8",
+   "title": "Plasma biomarkers for early detection of alzheimer\u2019s disease: a cross-sectional study in a Japanese cohort",
+   "received": "16 March 2025",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s13195-025-01712-y",
+   "title": "Evaluating the diagnostic performance of six plasma biomarkers for Alzheimer\u2019s disease and other neurodegenerative dementias in a large Chinese cohort",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s13195-025-01789-5",
+   "title": "Machine-learning based strategy identifies a robust protein biomarker panel for Alzheimer\u2019s disease in cerebrospinal fluid",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s13195-025-01848-x",
+   "title": "The association between plasma and MRI biomarkers in dementia with lewy bodies",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13195-025-01823-6",
+   "title": "Anti-tau VHH therapy against PHF6: a safe approach to slowing the phenotype of tau pathology",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13195-024-01661-y",
+   "title": "Exome sequencing reveals a rare damaging variant in GRIN2C in familial late-onset Alzheimer's disease",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 163
+  },
+  {
+   "doi": "10.1186/s13195-025-01679-w",
+   "title": "Rotation errors in path integration are associated with Alzheimer\u2019s disease tau pathology: a cross-sectional study",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13195-025-01798-4",
+   "title": "Safety, tolerability, pharmacokinetic and pharmacodynamic effects of the muscarinic M1 positive allosteric modulator VU0467319 for Alzheimer\u2019s disease",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s13195-025-01842-3",
+   "title": "Evaluation and interpretation of DTI-ALPS, a proposed surrogate marker for glymphatic clearance, in a large population-based sample",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s13195-025-01692-z",
+   "title": "The impact of kidney function on Alzheimer\u2019s disease blood biomarkers: implications for predicting amyloid-\u03b2 positivity",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s13195-025-01707-9",
+   "title": "Perivascular space and white matter hyperintensities in Alzheimer\u2019s disease: associations with disease progression and cognitive function",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s13195-025-01717-7",
+   "title": "Impact of effective connectivity within the Papez circuit on episodic memory: moderation by perivascular space function",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s13195-025-01857-w",
+   "title": "IRF1 ameliorates synaptic dysfunction through the modulation of O-GlcNAcylation on GluN1 subunit of NMDAR",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s13195-024-01662-x",
+   "title": "Timing of risk factors, prodromal features, and comorbidities of dementia from a large health claims case\u2013control study",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 197
+  },
+  {
+   "doi": "10.1186/s13195-025-01859-8",
+   "title": "A novel electric field approach for improving cognitive function through ameliorating cell-specific pathology in P301S tauopathy mice",
+   "received": "22 February 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1186/s13195-025-01898-1",
+   "title": "Dynamic functional connectivity and transcriptomic signatures reveal stage-dependent brain network dysfunction in Alzheimer\u2019s disease spectrum",
+   "received": "22 July 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13195-025-01757-z",
+   "title": "Shared genetic architecture between leukocyte telomere length and Alzheimer\u2019s disease",
+   "received": "7 November 2023",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 547
+  },
+  {
+   "doi": "10.1186/s13195-025-01783-x",
+   "title": "Delphinidin attenuates cognitive deficits and pathology of Alzheimer\u2019s disease by preventing microglial senescence via AMPK/SIRT1 pathway",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13195-025-01819-2",
+   "title": "Alcohol consumption and cerebrospinal fluid biomarkers for preclinical alzheimer\u2019s disease in a population-based sample of 70-year-olds",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13195-025-01808-5",
+   "title": "Cardiovascular risk factors are associated with lower posterior-medial network functional connectivity in older adults",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13195-024-01653-y",
+   "title": "Sex differences in the relationships between 24-h rest-activity patterns and plasma markers of Alzheimer\u2019s disease pathology",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 240
+  },
+  {
+   "doi": "10.1186/s13195-025-01699-6",
+   "title": "Long-term surveillance of the anti-amyloid monoclonal antibody lecanemab: rights and duties of pharmacovigilance",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 5
+  },
+  {
+   "doi": "10.1186/s13195-024-01645-y",
+   "title": "Anti-diabetic agents and the risks of dementia in patients with type 2 diabetes: a systematic review and network meta-analysis of observational studie",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s13195-025-01912-6",
+   "title": "Higher phosphorylated tau levels predict cognitive decline and amyloid-related imaging abnormalities during lecanemab treatment: clinical practice dat",
+   "received": "22 September 2025",
+   "revised": null,
+   "accepted": "8 November 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s13195-024-01665-8",
+   "title": "Cerebrospinal fluid \u03b22-microglobulin promotes the tau pathology through microglia\u2013astrocyte communication in Alzheimer's disease",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13195-025-01876-7",
+   "title": "Meningeal vascular A\u03b2 deposition associates with cerebral hypoperfusion and compensatory collateral remodeling",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s13195-025-01849-w",
+   "title": "Intestinal epithelial Dicer1 regulates gut microbiome and Alzheimer\u2019s pathology in App-knock-in mice",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s13195-025-01863-y",
+   "title": "Micro infarcts are associated with cognitive impairment in neurofibrillary tangle predominant decedents: evidence from the NACC autopsy cohort",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s13195-025-01821-8",
+   "title": "New insights into the 17\u03b2-hydroxysteroid dehydrogenase type 10 and amyloid-\u03b2 42 derived cytotoxicity relevant to Alzheimer\u2019s disease",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13195-024-01651-0",
+   "title": "Transcriptomic predictors of rapid progression from mild cognitive impairment to Alzheimer's disease",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s13195-025-01786-8",
+   "title": "Kidney function is associated with plasma ATN biomarkers among Hispanics/Latinos: SOL-INCA and HCHS/SOL results",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13195-024-01631-4",
+   "title": "Response to Schmidt et al.: Lower activity of cholesteryl ester transfer protein (CETP) and the risk of dementia: a Mendelian randomization analysis",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 7
+  },
+  {
+   "doi": "10.1186/s13195-025-01861-0",
+   "title": "Ap1s1 reduction in the aging brain heightens neuronal vulnerability to amyloid-\u03b2 and oxidative stress in Alzheimer\u2019s pathogenesis",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13195-024-01636-z",
+   "title": "Greater baseline cortical atrophy in the dorsal attention network predicts faster clinical decline in Posterior Cortical Atrophy",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s13195-025-01725-7",
+   "title": "Towards a national registry for Alzheimer\u2019s disease and related dementias: rationale, design, and initial observations of the ABOARD cohort",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "23 March 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1186/s13195-025-01698-7",
+   "title": "Circular RNA APP contributes to Alzheimer\u2019s disease pathogenesis by modulating microglial polarization via miR-1906/CLIC1 axis",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s13195-024-01659-6",
+   "title": "Integrative multiomics reveals common endotypes across PSEN1, PSEN2, and APP mutations in familial Alzheimer\u2019s disease",
+   "received": "20 May 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 214
+  },
+  {
+   "doi": "10.1186/s13195-024-01622-5",
+   "title": "Head-to-head comparison of tau PET tracers [18F]PI-2620 and [18F]RO948 in non-demented individuals with brain amyloid deposition: the TAU-PET FACEHBI ",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13195-024-01666-7",
+   "title": "evoke and evoke+: design of two large-scale, double-blind, placebo-controlled, phase 3 studies evaluating efficacy, safety, and tolerability of semagl",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13195-025-01761-3",
+   "title": "Hypertension and diabetes on cognitive impairment: a case\u2013control study in China",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13195-025-01682-1",
+   "title": "Delta-opioid receptor signaling alleviates neuropathology and cognitive impairment in the mouse model of Alzheimer\u2019s disease by regulating microglia h",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13195-025-01803-w",
+   "title": "Plasma biomarkers identify brain ATN abnormalities in a dementia-free population-based cohort",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s13195-025-01862-z",
+   "title": "Gut microbiota characterization in ageing, mild cognitive impairment, and Alzheimer\u2019s disease in the context of mediterranean lifestyle in a Spanish p",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 303
+  },
+  {
+   "doi": "10.1186/s13195-025-01710-0",
+   "title": "Fibre density and cross-section associate with hallmark pathology in early Alzheimer\u2019s disease",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s13195-025-01703-z",
+   "title": "Synaptic protein CSF levels relate to memory scores in individuals without dementia",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1186/s13195-025-01781-z",
+   "title": "Long-term electroacupuncture and repetitive transcranial magnetic stimulation differentially slow the progression of Alzheimer's disease in AppNL\u2212G\u2212F ",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13195-025-01813-8",
+   "title": "Inhibition of FAM19A5 reverses synaptic loss and cognitive decline in mouse models of Alzheimer\u2019s disease",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s13195-025-01822-7",
+   "title": "A human neuron Alzheimer\u2019s disease model reveals barriers to senolytic translatability",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s13195-025-01779-7",
+   "title": "Prospective evaluation of plasma pTau217 stability for the detection of Alzheimer\u2019s disease in a tertiary memory clinic",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13195-024-01641-2",
+   "title": "Subjective cognitive decline predicts longitudinal neuropsychological test performance in an unsupervised online setting in the Brain Health Registry",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13195-025-01807-6",
+   "title": "Comorbidities predict institutionalization and mortality in biomarker-confirmed alzheimer\u2019s disease",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s13195-025-01695-w",
+   "title": "Cornuside alleviates cognitive impairments induced by A\u03b21\u221242 through attenuating NLRP3-mediated neurotoxicity by promoting mitophagy",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13195-025-01834-3",
+   "title": "A novel miR-4536-3p inhibition ameliorates Alzheimer\u2019s disease by reducing A\u03b2 accumulation and tau phosphorylation",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s13195-025-01722-w",
+   "title": "The cost effectiveness of a multidomain intervention on physical, cognitive, vascular, dietary and psychosocial outcomes among community dwelling olde",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s13195-025-01801-y",
+   "title": "Predicting brain amyloid load with digital and blood-based biomarkers",
+   "received": "15 February 2025",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13195-025-01851-2",
+   "title": "Optimizing timing and cost-effective use of plasma biomarkers in Alzheimer\u2019s disease",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s13195-025-01711-z",
+   "title": "Tau-PET pathology in the subregions of the amygdala and its associations with cognitive performance and neuropsychiatric symptoms in autosomal dominan",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13195-025-01691-0",
+   "title": "Adherence and intensity in multimodal lifestyle-based interventions for cognitive decline prevention: state-of-the-art and future directions",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1186/s13195-025-01844-1",
+   "title": "Sex differences in Alzheimer\u2019s disease CSF biomarkers and their association with A\u03b2 pathology on PET in cognitively unimpaired individuals",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13195-024-01628-z",
+   "title": "Cognitive decline profiles associated with lewy pathology in the context of Alzheimer\u2019s disease neuropathologic change",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13195-025-01882-9",
+   "title": "Longitudinal characteristics of plasma biomarkers in Chinese older adults with Alzheimer\u2019s disease",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s13195-025-01771-1",
+   "title": "AP2A1 activates Rab7 to promote axonal autophagosome transport and slow the progression of Alzheimer\u2019s disease",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13195-025-01708-8",
+   "title": "Diabetes status, duration, and risk of dementia among ischemic stroke patients",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 347
+  },
+  {
+   "doi": "10.1186/s13195-025-01820-9",
+   "title": "Distinct gut microbiota profiles and network properties in older Korean individuals with subjective cognitive decline, mild cognitive impairment, and ",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s13195-025-01845-0",
+   "title": "The effect of APOE4 on Alzheimer\u2019s plasma biomarkers among Mexican Americans in the HABS-HD cohort",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s13195-025-01735-5",
+   "title": "Response to Xing et al.: post-marketing safety concerns with Lecanemab: a pharmacovigilance study based on the FDA adverse event reporting system data",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s13195-025-01884-7",
+   "title": "An accessible and efficient mobile eye-tracking application for community-based cognitive impairment screening in China",
+   "received": "16 July 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13195-025-01810-x",
+   "title": "A normative calculator for MoCA domain scores: proxy for Z-scores of conventional neuropsychological tests",
+   "received": "1 November 2023",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 610
+  },
+  {
+   "doi": "10.1186/s13195-025-01696-9",
+   "title": "Plasma Hepcidin as a potential informative biomarker of Alzheimer disease and vascular dementia",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s13195-025-01753-3",
+   "title": "Deep normative modelling reveals insights into early-stage Alzheimer's disease using multi-modal neuroimaging data",
+   "received": "8 December 2024",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13195-025-01775-x",
+   "title": "Revisiting the therapeutic landscape of tauopathies: assessing the current pipeline and clinical trials",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 30
+  },
+  {
+   "doi": "10.1186/s13195-025-01871-y",
+   "title": "Predictive factors for dementia among older adults in South Korea: an interpretable machine learning analysis",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s13195-024-01612-7",
+   "title": "Glymphatic system clearance and Alzheimer\u2019s disease risk: a CSF proteome-wide study",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "28 October 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s13195-025-01729-3",
+   "title": "Impact of nucleos(t)ide analogue therapy on the incidence of Alzheimer\u2019s disease in patients with chronic hepatitis B virus infection",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s13195-025-01800-z",
+   "title": "Longitudinal evaluation of common and unique brain-networks in variants of primary progressive aphasia",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13195-024-01668-5",
+   "title": "Association and multimodal model of retinal and blood-based biomarkers for detection of preclinical Alzheimer\u2019s disease",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s13195-025-01675-0",
+   "title": "RADAR-AD: assessment of multiple remote monitoring technologies for early detection of Alzheimer\u2019s disease",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1186/s13195-025-01792-w",
+   "title": "Tau seeding activity in the cerebrospinal fluid of Alzheimer disease patients predicts short-term cognitive decline",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s13195-025-01676-z",
+   "title": "Retinal optical coherence tomography intensity spatial correlation features as new biomarkers for confirmed Alzheimer\u2019s disease",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s13195-025-01763-1",
+   "title": "Lecanemab in clinical practice: real-world outcomes in early Alzheimer\u2019s disease",
+   "received": "2 March 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s13195-025-01690-1",
+   "title": "Investigating the A\u03b2 and tau pathology in autosomal dominant Alzheimer\u2019s disease: insights from hybrid PET/MRI and network mapping",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s13195-025-01748-0",
+   "title": "Soluble SorLA in CSF, a novel biomarker to explore disrupted trafficking of SorLA protein in Alzheimer disease",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s13195-025-01726-6",
+   "title": "Anticipatory reaching motor behavior characterizes patients within the Alzheimer\u2019s disease continuum in a virtual reality environment",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13195-024-01646-x",
+   "title": "Uncovering the epigenetic regulatory clues of PRRT1 in Alzheimer\u2019s disease: a strategy integrating multi-omics analysis with explainable machine learn",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 92
+  }
+ ]
+}

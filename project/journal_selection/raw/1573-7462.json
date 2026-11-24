@@ -1,0 +1,181 @@
+{
+ "issn": "1573-7462",
+ "journal": "Artificial Intelligence Review",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:26.895765",
+ "source": "https://api.crossref.org/journals/1573-7462/works",
+ "articles": [
+  {
+   "doi": "10.1007/s10462-025-11450-0",
+   "title": "Revisiting U-Net: a foundational backbone for modern generative AI",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "11 November 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1007/s10462-025-11376-7",
+   "title": "A survey on large language models unlearning: taxonomy, evaluations, and future directions",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 332
+  },
+  {
+   "doi": "10.1007/s10462-025-11402-8",
+   "title": "Writing style change detection: state of the art, challenges, and research opportunities",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 309
+  },
+  {
+   "doi": "10.1007/s10462-025-11396-3",
+   "title": "Optimization of road route alignment: a systematic literature review with meta analysis",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1007/s10462-025-11388-3",
+   "title": "CNNs, RNNs and Transformers in human action recognition: a survey and a hybrid model",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 321
+  },
+  {
+   "doi": "10.1007/s10462-025-11369-6",
+   "title": "Advancement in semantic segmentation techniques: a comprehensive review for semantic segmentation of colorectal polyps using deep learning",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 356
+  },
+  {
+   "doi": "10.1007/s10462-025-11391-8",
+   "title": "Cloud-edge-end collaborative caching and UAV-assisted offloading decision based on the fusion of deep reinforcement learning algorithms",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 370
+  },
+  {
+   "doi": "10.1007/s10462-025-11423-3",
+   "title": "Knowledge distillation and dataset distillation of large language models: emerging trends, challenges, and future directions",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1007/s10462-025-11385-6",
+   "title": "XAI-HD: an explainable artificial intelligence framework for heart disease detection",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1007/s10462-025-11408-2",
+   "title": "A review of artificial intelligence in herbarium specimen image analysis",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s10462-025-11398-1",
+   "title": "A systematic review of multi-modal large language models on domain-specific applications",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1007/s10462-025-11417-1",
+   "title": "Imbalanced data oversampling through subspace optimization with Bayesian reinforcement",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1007/s10462-025-11384-7",
+   "title": "Multi-sequence discrete recursive descent optimizer: a novel optimization algorithm based on quasi-Newton directions and imprecise search step lengths",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 367
+  },
+  {
+   "doi": "10.1007/s10462-025-11371-y",
+   "title": "Neural network-based prediction of SMTP errors and bounces in cold emailing: a comparative study of GRU, CNN, and TCN",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s10462-025-11382-9",
+   "title": "Revisiting natural selection: evolving dynamic neural networks using genetic algorithms for complex control tasks",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1007/s10462-025-11410-8",
+   "title": "Exploring the potential of explainable AI in brain tumor detection and classification: a systematic review",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s10462-025-11422-4",
+   "title": "Agentic AI: a comprehensive survey of architectures, applications, and future directions",
+   "received": "20 July 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1007/s10462-025-11406-4",
+   "title": "Cyberswarm: a novel swarm intelligence algorithm inspired by cyber community dynamics",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1007/s10462-025-11419-z",
+   "title": "A genetic algorithm for the optimization of multi-threshold trading strategies in the directional changes paradigm",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 322
+  },
+  {
+   "doi": "10.1007/s10462-025-11381-w",
+   "title": "Quantum computing revolution in healthcare: a systematic review of applications, issues and future directions",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 362
+  },
+  {
+   "doi": "10.1007/s10462-025-11380-x",
+   "title": "Optimization of the composting process using artificial neural networks\u2014a literature review",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 383
+  }
+ ]
+}

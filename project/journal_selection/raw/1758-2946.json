@@ -1,0 +1,1485 @@
+{
+ "issn": "1758-2946",
+ "journal": "Journal of Cheminformatics",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:21.015859",
+ "source": "https://api.crossref.org/journals/1758-2946/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13321-025-01091-4",
+   "title": "Subgrapher: visual fingerprinting of chemical structures",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13321-025-01033-0",
+   "title": "Advancements in thermochemical predictions: a multi-output thermodynamics-informed neural network approach",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1186/s13321-025-01063-8",
+   "title": "HERGAI: an artificial intelligence tool for structure-based prediction of hERG inhibitors",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13321-025-01116-y",
+   "title": "NPBS Atlas: a comprehensive data resource for exploring the biological sources of natural products",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s13321-025-01047-8",
+   "title": "The first South Korean data challenge for drug discovery using human and mouse liver microsomal stability data",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13321-025-01053-w",
+   "title": "Neural SHAKE: geometric constraints in neural differential equations",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1186/s13321-024-00933-x",
+   "title": "Group graph: a molecular graph representation with enhanced performance, efficiency and interpretability",
+   "received": "7 June 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s13321-025-00953-1",
+   "title": "Improving route development using convergent retrosynthesis planning",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s13321-025-01075-4",
+   "title": "ReactionT5: a pre-trained transformer model for accurate chemical reaction prediction with limited data",
+   "received": "6 April 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s13321-025-01002-7",
+   "title": "Visualising lead optimisation series using reduced graphs",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s13321-025-00960-2",
+   "title": "Infrared spectrum analysis of organic molecules with neural networks using standard reference data sets in combination with real-world data",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s13321-025-01037-w",
+   "title": "Implementation of an open chemistry knowledge base with a Semantic Wiki",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s13321-025-01001-8",
+   "title": "High-throughput screening data generation, scoring and FAIRification: a case study on nanomaterials",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13321-025-01007-2",
+   "title": "Prediction of blood\u2013brain barrier and Caco-2 permeability through the Enalos Cloud Platform: combining contrastive learning and atom-attention message",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1186/s13321-024-00945-7",
+   "title": "AiGPro: a multi-tasks model for profiling of GPCRs for agonist and antagonist",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13321-025-00952-2",
+   "title": "Barlow Twins deep neural network for advanced 1D drug\u2013target interaction prediction",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13321-025-01018-z",
+   "title": "Machine learning-driven generation and screening of potential ionic liquids for cellulose dissolution",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s13321-025-01050-z",
+   "title": "GPCR-A17 MAAP: mapping modulators, agonists, and antagonists to predict the next bioactive target",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s13321-025-01093-2",
+   "title": "A comprehensive landscape of AI applications in broad-spectrum drug interaction prediction: a systematic review",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s13321-024-00925-x",
+   "title": "PretoxTM: a text mining system for extracting treatment-related findings from preclinical toxicology reports",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13321-024-00939-5",
+   "title": "Prediction of Pt, Ir, Ru, and Rh complexes light absorption in the therapeutic window for phototherapy using machine learning",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13321-025-00955-z",
+   "title": "The algebraic extended atom-type graph-based model for precise ligand\u2013receptor binding affinity prediction",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s13321-024-00936-8",
+   "title": "CSearch: chemical space search via virtual synthesis and global optimization",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s13321-024-00930-0",
+   "title": "Interface-aware molecular generative framework for protein\u2013protein interaction modulators",
+   "received": "15 March 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 241
+  },
+  {
+   "doi": "10.1186/s13321-025-00988-4",
+   "title": "The published role of artificial intelligence in drug discovery and development: a bibliometric and social network analysis from 1990 to 2023",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "16 March 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s13321-025-01112-2",
+   "title": "Predicting the critical micelle concentration of binary surfactant mixtures using machine learning",
+   "received": "23 June 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13321-025-00998-2",
+   "title": "Integrating QSAR modelling with reinforcement learning for Syk inhibitor discovery",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s13321-025-00970-0",
+   "title": "Pretraining graph transformers with atom-in-a-molecule quantum properties for improved ADMET modeling",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s13321-025-01049-6",
+   "title": "Nipah Virus Inhibitor Knowledgebase (NVIK): a combined evidence approach to prioritise small molecule inhibitors",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13321-025-00997-3",
+   "title": "Unveiling polyphenol-protein interactions: a comprehensive computational analysis",
+   "received": "11 April 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s13321-025-00999-1",
+   "title": "InertDB as a generative AI-expanded resource of biologically inactive small molecules from PubChem",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13321-025-00969-7",
+   "title": "Predictive modeling of biodegradation pathways using transformer architectures",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13321-025-01015-2",
+   "title": "Improving the accuracy of prediction models for small datasets of Cytochrome P450 inhibition with deep learning",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s13321-025-01052-x",
+   "title": "The development of the generative adversarial supporting vector machine for molecular property generation",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1186/s13321-025-00987-5",
+   "title": "Enhancing chemical reaction search through contrastive representation learning and human-in-the-loop",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "15 March 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s13321-025-01038-9",
+   "title": "SuperMetal: a generative AI framework for rapid and precise metal ion location prediction in proteins",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1186/s13321-025-01084-3",
+   "title": "Cache: Utilizing ultra-large library screening in Rosetta to identify novel binders of the WD-repeat domain of Leucine-Rich Repeat Kinase 2",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s13321-025-01027-y",
+   "title": "Surfactant representation using COSMO screened charge density for adsorption isotherm prediction using Physics-Informed Neural Network (PINN)",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 273
+  },
+  {
+   "doi": "10.1186/s13321-025-00946-0",
+   "title": "Fragmenstein: predicting protein\u2013ligand structures of compounds derived from known crystallographic fragment hits using a strict conserved-binding\u2013bas",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13321-025-01070-9",
+   "title": "Comment on \u201cAdvancing material property prediction: using physics-informed machine learning models for viscosity\u201d",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13321-024-00928-8",
+   "title": "Suitability of large language models for extraction of high-quality chemical reaction dataset from patent literature",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13321-025-01097-y",
+   "title": "Prediction of UGT-mediated phase II metabolism via ligand- and structure-based predictive models",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1186/s13321-025-01057-6",
+   "title": "Multi-fidelity graph neural networks for predicting toluene/water partition coefficients",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1186/s13321-025-01055-8",
+   "title": "Deep learning molecular interaction motifs from receptor structures alone",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13321-025-01020-5",
+   "title": "Predicting inhibitors of OATP1B1 via heterogeneous OATP-ligand interaction graph neural network (HOLIgraph)",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "20 April 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13321-024-00940-y",
+   "title": "AttenhERG: a reliable and interpretable graph neural network framework for predicting hERG channel blockers",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13321-025-01068-3",
+   "title": "Improving drug-induced liver injury prediction using graph neural networks with augmented graph features from molecular optimisation",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s13321-025-00989-3",
+   "title": "Enhancing molecular property prediction with quantized GNN models",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "16 March 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s13321-025-00950-4",
+   "title": "MLinvitroTox reloaded for high-throughput hazard-based prioritization of high-resolution mass spectrometry data",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13321-025-01041-0",
+   "title": "Benchmarking ML in ADMET predictions: the practical impact of feature representations in ligand-based models",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13321-024-00931-z",
+   "title": "Comprehensive benchmarking of computational tools for predicting toxicokinetic and physicochemical properties of chemicals",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s13321-025-01008-1",
+   "title": "SMILES all around: structure to SMILES conversion for transition metal complexes",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s13321-025-01083-4",
+   "title": "Systematic benchmarking of 13 AI methods for predicting cyclic peptide membrane permeability",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13321-025-01099-w",
+   "title": "Beyond performance: how design choices shape chemical language models",
+   "received": "23 May 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s13321-025-00971-z",
+   "title": "Anticipating protein evolution with successor sequence predictor",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s13321-025-01035-y",
+   "title": "A 3D generation framework using diffusion model and reinforcement learning to generate multi-target compounds with desired properties",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13321-025-00973-x",
+   "title": "GNINA 1.3: the next increment in molecular docking with deep learning",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s13321-025-01032-1",
+   "title": "Context-dependent similarity searching for small molecular fragments",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s13321-025-01090-5",
+   "title": "PURE: policy-guided unbiased REpresentations for structure-constrained molecular generation",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1186/s13321-025-01066-5",
+   "title": "PKSmart: an open-source computational model to predict intravenous pharmacokinetics of small molecules",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s13321-025-00972-y",
+   "title": "The specification game: rethinking the evaluation of drug response prediction for precision oncology",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13321-025-00961-1",
+   "title": "APBIO: bioactive profiling of air pollutants through inferred bioactivity signatures and prediction of novel target interactions",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s13321-025-01104-2",
+   "title": "VNFlow: integration of variational autoencoders and normalizing flows for novel molecular design",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13321-025-00965-x",
+   "title": "DrugDiff: small molecule diffusion model with flexible guidance towards molecular properties",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s13321-025-01059-4",
+   "title": "Generative artificial intelligence based models optimization towards molecule design enhancement",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13321-025-01011-6",
+   "title": "Assessing interaction recovery of predicted protein-ligand poses",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s13321-025-00974-w",
+   "title": "Accelerating the inference of string generation-based chemical reaction models for industrial applications",
+   "received": "29 December 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13321-025-01023-2",
+   "title": "Application of 3D atom pair map in an attention model for enhanced drug virtual screening",
+   "received": "4 April 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 385
+  },
+  {
+   "doi": "10.1186/s13321-025-01111-3",
+   "title": "HighFold-MeD: a Rosetta distillation model to accelerate structure prediction of cyclic peptides with backbone N-methylation and d-amino acids",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s13321-025-01012-5",
+   "title": "Fate-tox: fragment attention transformer for E(3)-equivariant multi-organ toxicity prediction",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13321-025-00954-0",
+   "title": "Chemical space as a unifying theme for chemistry",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 31
+  },
+  {
+   "doi": "10.1186/s13321-024-00910-4",
+   "title": "Generate what you can make: achieving in-house synthesizability with readily available resources in de novo drug design",
+   "received": "28 February 2024",
+   "revised": null,
+   "accepted": "28 September 2024",
+   "days": 213
+  },
+  {
+   "doi": "10.1186/s13321-025-00981-x",
+   "title": "Generating diversity and securing completeness in algorithmic retrosynthesis",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s13321-025-01005-4",
+   "title": "Moldina: a fast and accurate search algorithm for simultaneous docking of multiple ligands",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13321-024-00938-6",
+   "title": "DeepTGIN: a novel hybrid multimodal approach using transformers and graph isomorphism networks for protein-ligand binding affinity prediction",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13321-025-01082-5",
+   "title": "Gromacs MetaDump: a tool for extracting GROMACS simulation metadata",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13321-025-01025-0",
+   "title": "Representation of chemistry transport models simulations using knowledge graphs",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s13321-025-01106-0",
+   "title": "Improved estimation of intrinsic solubility of drug-like molecules through multi-task graph transformer",
+   "received": "30 June 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13321-025-01013-4",
+   "title": "Generalizable, fast, and accurate DeepQSPR with fastprop",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s13321-025-01110-4",
+   "title": "Enhancing multi-task in vivo toxicity prediction via integrated knowledge transfer of chemical knowledge and in vitro toxicity information",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13321-025-01094-1",
+   "title": "Cheminformatics Microservice V3: a web portal for chemical structure manipulation and analysis",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13321-025-00956-y",
+   "title": "Matched pairs demonstrate robustness against inter-assay variability",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s13321-025-01029-w",
+   "title": "Semi-supervised prediction of protein fitness for data-driven protein engineering",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 401
+  },
+  {
+   "doi": "10.1186/s13321-025-01058-5",
+   "title": "Structure-based machine learning screening identifies natural product candidates as potential geroprotectors",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13321-025-01085-2",
+   "title": "SMPR: a structure-enhanced multimodal drug\u2012disease prediction model for drug repositioning and cold start",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13321-025-00995-5",
+   "title": "AI/ML methodologies and the future-will they be successful in designing the next generation of new chemical entities?",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "22 March 2025",
+   "days": 22
+  },
+  {
+   "doi": "10.1186/s13321-025-00964-y",
+   "title": "Achieving well-informed decision-making in drug discovery: a comprehensive calibration study using neural network-based structure-activity models",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1186/s13321-024-00935-9",
+   "title": "FlavorMiner: a machine learning platform for extracting molecular flavor profiles from structural data",
+   "received": "19 July 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s13321-024-00937-7",
+   "title": "Deepmol: an automated machine and deep learning framework for computational chemistry",
+   "received": "5 June 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s13321-024-00943-9",
+   "title": "StreamChol: a web-based application for predicting cholestasis",
+   "received": "19 July 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13321-025-00982-w",
+   "title": "Publishing neural networks in drug discovery might compromise training data privacy",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13321-025-01103-3",
+   "title": "Enhancing molecular property prediction through data integration and consistency assessment",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13321-025-00976-8",
+   "title": "CardioGenAI: a machine learning-based framework for re-engineering drugs for reduced hERG liability",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s13321-025-01060-x",
+   "title": "Prediction model for chemical explosion consequences via multimodal feature fusion",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13321-025-00978-6",
+   "title": "From molecules to data: the emerging impact of chemoinformatics in chemistry",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s13321-025-01064-7",
+   "title": "How to crack a SMILES: automatic crosschecked chemical structure resolution across multiple services using MoleculeResolver",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s13321-025-01071-8",
+   "title": "AdapTor: Adaptive Topological Regression for quantitative structure\u2013activity relationship modeling",
+   "received": "18 April 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13321-025-00975-9",
+   "title": "Syn-MolOpt: a synthesis planning-driven molecular optimization method using data-derived functional reaction templates",
+   "received": "28 September 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s13321-025-01039-8",
+   "title": "UMAP-based clustering split for rigorous evaluation of AI models for virtual screening on cancer cell lines*",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13321-025-01022-3",
+   "title": "Moldrug algorithm for an automated ligand binding site exploration by 3D aware molecular enumerations",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13321-024-00941-x",
+   "title": "STOUT V2.0: SMILES to IUPAC name conversion using transformer models",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s13321-025-01098-x",
+   "title": "HTA - An open-source software for assigning head and tail positions\u00a0to\u00a0monomer SMILES in polymerization reactions",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s13321-025-00980-y",
+   "title": "Protecting your skin: a highly accurate LSTM network integrating conjoint features for predicting chemical-induced skin irritation",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13321-025-00983-9",
+   "title": "Three pillars for ensuring public access and integrity of chemical databases powering cheminformatics",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13321-024-00921-1",
+   "title": "Molecular identification via molecular fingerprint extraction from atomic force microscopy images",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "26 October 2024",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s13321-025-01048-7",
+   "title": "VitroBert: modeling DILI by pretraining BERT on in vitro data",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1186/s13321-025-00948-y",
+   "title": "One size does not fit all: revising traditional paradigms for assessing accuracy of QSAR models used for virtual screening",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13321-025-01040-1",
+   "title": "NanoBinder: a machine learning assisted nanobody binding prediction tool using Rosetta energy scores",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s13321-025-01043-y",
+   "title": "Application of the digital annealer unit in optimizing chemical reaction conditions for enhanced production yields",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s13321-025-01056-7",
+   "title": "$$\\texttt {DiffER}$$: categorical diffusion ensembles for single-step chemical retrosynthesis",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s13321-025-01026-z",
+   "title": "Advantages of two quantum programming platforms in quantum computing and quantum chemistry",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s13321-025-00951-3",
+   "title": "Context-dependent similarity analysis of analogue series for structure\u2013activity relationship transfer based on a concept from natural language process",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s13321-025-01095-0",
+   "title": "TraceMetrix: a traceable metabolomics interactive analysis platform",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s13321-024-00929-7",
+   "title": "cidalsDB: an AI-empowered platform for anti-pathogen therapeutics research",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s13321-025-01009-0",
+   "title": "Translating community-wide spectral library into actionable chemical knowledge: a proof of concept with monoterpene indole alkaloids",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13321-025-01034-z",
+   "title": "RLSuccSite: succinylation sites prediction based on reinforcement learning dynamic with balanced reward mechanism and three-peaks enhanced method for ",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s13321-025-00959-9",
+   "title": "Positional embeddings and zero-shot learning using BERT for molecular-property prediction",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13321-025-00947-z",
+   "title": "ADMET evaluation in drug discovery: 21. Application and industrial validation of machine learning algorithms for Caco-2 permeability prediction",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s13321-025-01079-0",
+   "title": "Measuring Chemical\u00a0LLM robustness to molecular representations: a SMILES variation-based framework",
+   "received": "30 November 2024",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1186/s13321-025-01081-6",
+   "title": "Biosynfoni: a biosynthesis-informed and interpretable lightweight molecular fingerprint",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s13321-024-00934-w",
+   "title": "Be aware of overfitting by hyperparameter optimization!",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13321-025-00957-x",
+   "title": "hERGAT: predicting hERG blockers using graph attention mechanism through atom- and molecule-level interaction analyses",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1186/s13321-025-01067-4",
+   "title": "Evaluating ligand docking methods for drugging protein\u2013protein interfaces: insights from AlphaFold2 and molecular dynamics refinement",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 407
+  },
+  {
+   "doi": "10.1186/s13321-024-00924-y",
+   "title": "Human-in-the-loop active learning for goal-oriented molecule generation",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "2 November 2024",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13321-025-00986-6",
+   "title": "Molecular property prediction using pretrained-BERT and Bayesian active learning: a data-efficient approach to drug design",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s13321-025-01086-1",
+   "title": "Box embeddings for extending ontologies: a data-driven and interpretable approach",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s13321-025-01080-7",
+   "title": "Evaluation of chirality descriptors derived from SMILES heteroencoders",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "9 August 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13321-025-01105-1",
+   "title": "Enhanced Thompson sampling by roulette wheel selection for screening ultralarge combinatorial libraries",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s13321-025-01014-3",
+   "title": "E-GuARD: expert-guided augmentation for the robust detection of compounds interfering with biological assays",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13321-025-01078-1",
+   "title": "xBitterT5: an explainable transformer-based framework with multimodal inputs for identifying bitter-taste peptides",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s13321-025-01016-1",
+   "title": "A transformer based generative chemical language AI model for structural elucidation of organic compounds",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13321-025-01000-9",
+   "title": "Prediction of the water solubility by a graph convolutional-based neural network on a highly curated dataset",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s13321-025-00966-w",
+   "title": "A unified approach to inferring chemical compounds with the desired aqueous solubility",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13321-025-00979-5",
+   "title": "An interpretable deep geometric learning model to predict the effects of mutations on protein\u2013protein interactions using large-scale protein language ",
+   "received": "31 March 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1186/s13321-025-01072-7",
+   "title": "Mixture of experts for multitask learning in cardiotoxicity assessment",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13321-025-01019-y",
+   "title": "Leveraging AI to explore structural contexts of post-translational modifications in drug binding",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "20 April 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s13321-025-00985-7",
+   "title": "A beginner\u2019s approach to deep learning applied to VS and MD techniques",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13321-025-01108-y",
+   "title": "How evaluation choices distort the outcome of generative drug discovery",
+   "received": "6 July 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s13321-024-00926-w",
+   "title": "MolNexTR: a generalized deep learning model for molecular image recognition",
+   "received": "7 February 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 273
+  },
+  {
+   "doi": "10.1186/s13321-025-01006-3",
+   "title": "Activity cliff-aware reinforcement learning for de novo drug design",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s13321-025-01100-6",
+   "title": "Contrastive explanations for machine learning predictions in chemistry",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13321-025-01017-0",
+   "title": "A resource description framework (RDF) model of named entity co-occurrences in biomedical literature and its integration with PubChemRDF",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s13321-025-00990-w",
+   "title": "The evolution of open science in cheminformatics: a journey from closed systems to collaborative innovation",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s13321-025-00994-6",
+   "title": "Learning motif features and topological structure of molecules for metabolic pathway prediction",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 385
+  },
+  {
+   "doi": "10.1186/s13321-025-01051-y",
+   "title": "mineMS2: annotation of spectral libraries with exact fragmentation patterns",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13321-025-00993-7",
+   "title": "Predictive modeling of visible-light azo-photoswitches\u2019 properties using structural features",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13321-025-01042-z",
+   "title": "Cycle-configuration descriptors: a novel graph-theoretic approach to enhancing molecular inference",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13321-025-01010-7",
+   "title": "LAGNet: better electron density prediction for LCAO-based data and drug-like substances",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13321-025-00984-8",
+   "title": "Large language models open new way of AI-assisted molecule design for chemists",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s13321-025-00963-z",
+   "title": "Fifteen years of ChEMBL and its role in cheminformatics and drug discovery",
+   "received": "21 December 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 30
+  },
+  {
+   "doi": "10.1186/s13321-025-01073-6",
+   "title": "FusionCLM: enhanced molecular property prediction via knowledge fusion of chemical language models",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s13321-025-01089-y",
+   "title": "MetaboGNN: predicting liver metabolic stability with graph neural networks and cross-species data",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s13321-025-01088-z",
+   "title": "Retrosynthetic crosstalk between single-step reaction and multi-step planning",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s13321-025-01077-2",
+   "title": "Alphappimi: a comprehensive deep learning framework for predicting PPI-modulator interactions",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13321-024-00944-8",
+   "title": "CLAIRE: a contrastive learning-based predictor for EC number of chemical reactions",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s13321-025-00991-9",
+   "title": "Clc-db: an open-source online database of chiral ligands and catalysts",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s13321-025-00962-0",
+   "title": "Improving drug repositioning with negative data labeling using large language models",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13321-025-00949-x",
+   "title": "FluoBase: a fluorinated agents database",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s13321-025-01109-x",
+   "title": "C2PO: an ML-powered optimizer of the membrane permeability of cyclic peptides through chemical modification",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13321-024-00927-9",
+   "title": "GT-NMR: a novel graph transformer-based approach for accurate prediction of NMR chemical shifts",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s13321-025-01062-9",
+   "title": "AI-powered prediction of critical properties and boiling points: a hybrid ensemble learning and QSPR approach",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s13321-025-01092-3",
+   "title": "Chemical classification program synthesis using generative artificial intelligence",
+   "received": "24 May 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s13321-025-01030-3",
+   "title": "Enhancing atom mapping with multitask learning and symmetry-aware deep graph matching",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s13321-025-00967-9",
+   "title": "kMoL: an open-source machine and federated learning library for drug discovery",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13321-025-01024-1",
+   "title": "ELNdataBridge: facilitating data exchange and collaboration by linking Electronic Lab Notebooks via API",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1186/s13321-025-01087-0",
+   "title": "Multi-modal contrastive drug synergy prediction model guided by single modality",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s13321-025-01004-5",
+   "title": "Benchmarking molecular conformer augmentation with context-enriched training: graph-based transformer versus GNN models",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13321-025-01003-6",
+   "title": "GESim: ultrafast graph-based molecular similarity calculation via von Neumann graph entropy",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13321-025-01076-3",
+   "title": "MolPrice: assessing synthetic accessibility of molecules based on market value",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s13321-025-00977-7",
+   "title": "The pucke.rs toolkit to facilitate sampling the conformational space of biomolecular monomers",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1186/s13321-025-00958-w",
+   "title": "Crossover operators for molecular graphs with an application to virtual drug screening",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13321-025-01102-4",
+   "title": "Accurate structure-activity relationship prediction of antioxidant peptides using a multimodal deep learning framework",
+   "received": "10 May 2025",
+   "revised": null,
+   "accepted": "20 September 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13321-025-01044-x",
+   "title": "Shinyscreen: mass spectrometry data inspection and quality checking utility",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13321-025-01107-z",
+   "title": "Efficient decoy selection to improve virtual screening using machine learning models",
+   "received": "3 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s13321-025-01074-5",
+   "title": "Reverse engineering molecules from fingerprints through deterministic enumeration and generative models",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13321-025-00968-8",
+   "title": "ROASMI: accelerating small molecule identification by repurposing retention data",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13321-025-01028-x",
+   "title": "Equivariant diffusion for structure-based de novo ligand generation with latent-conditioning",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13321-025-00992-8",
+   "title": "HepatoToxicity Portal (HTP): an integrated database of drug-induced hepatotoxicity knowledgebase and graph neural network-based prediction model",
+   "received": "3 August 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1186/s13321-025-01069-2",
+   "title": "Nanodesigner: resolving the complex-CDR interdependency with iterative refinement",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s13321-025-01031-2",
+   "title": "Chemical characteristics vectors map the chemical space of natural biomes from untargeted mass spectrometry data",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13321-025-01036-x",
+   "title": "Higher education in chemoinformatics: achievements and challenges",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13321-025-01021-4",
+   "title": "Addressing standardization and semantics in an electronic lab notebook for multidisciplinary use: LabIMotion",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s13321-025-01045-w",
+   "title": "The topology of molecular representations and its influence on machine learning performance",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "15 June 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s13321-024-00932-y",
+   "title": "Sort &amp; Slice: a simple and superior alternative to hash-based folding for extended-connectivity fingerprints",
+   "received": "4 March 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 253
+  }
+ ]
+}

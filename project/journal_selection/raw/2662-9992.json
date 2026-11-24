@@ -1,0 +1,1557 @@
+{
+ "issn": "2662-9992",
+ "journal": "Humanities and Social Sciences Communications",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:10.548787",
+ "source": "https://api.crossref.org/journals/2662-9992/works",
+ "articles": [
+  {
+   "doi": "10.1057/s41599-025-04393-y",
+   "title": "Analysis of factors influencing the acquisition of sustainable mobility through immersive experience in primary school children",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1057/s41599-025-05508-1",
+   "title": "Who does \u201cYbenbm\u201d belong to? The unknown place in southwestern Saudi Arabia",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1057/s41599-025-04732-z",
+   "title": "Exploring the relationship between childhood maltreatment and cognitive bias in Chinese adults with major depressive disorder",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1057/s41599-025-05201-3",
+   "title": "Neutral and emotive styles of audio description: A reception case study",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1057/s41599-025-05130-1",
+   "title": "The populist people and mediatized populism: the construction of \u201cThe People\u201d by Iranian politicians on Twitter",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1057/s41599-025-05073-7",
+   "title": "The rationality of the punishment ladder: evidence from a quasi-natural experiment in China",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 350
+  },
+  {
+   "doi": "10.1057/s41599-025-05578-1",
+   "title": "Chinese immigrants, journalistic censorship and Mark Twain\u2019s critical humanistic writings",
+   "received": "17 March 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 491
+  },
+  {
+   "doi": "10.1057/s41599-024-04350-1",
+   "title": "Panacea or Pandora\u2019s box: diverse governance strategies for conspiracy theories and their consequences in China",
+   "received": "14 January 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 340
+  },
+  {
+   "doi": "10.1057/s41599-025-04464-0",
+   "title": "Standardization catch-up strategy of latecomer enterprises: a longitudinal case of Huawei",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1057/s41599-025-05596-z",
+   "title": "The relationship between ethnic cultural authenticity in resettlement communities and cultural socialization: a multilevel mediation model based on cu",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1057/s41599-025-04901-0",
+   "title": "Does a strict COVID-19 lockdown policy change risk attitudes? Evidence from a bordering town, Gengma, in Yunnan Province, China",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 322
+  },
+  {
+   "doi": "10.1057/s41599-025-04563-y",
+   "title": "The impact of the COVID-19 pandemic on religious leaders in Uganda",
+   "received": "23 December 2023",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 418
+  },
+  {
+   "doi": "10.1057/s41599-024-04328-z",
+   "title": "Examining the impact of job matching on workers\u2019 non-cognitive skills: insights from China\u2019s labor market",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 191
+  },
+  {
+   "doi": "10.1057/s41599-025-05810-y",
+   "title": "Innovation and industrial performance nexus: trends and insights from bibliometric evidence",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1057/s41599-025-05719-6",
+   "title": "Local community\u2019s satisfaction, attitude, and mitigation measures towards Amerti Nashe hydroelectric power dam impacts",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1057/s41599-025-05975-6",
+   "title": "IoT-based analysis reveals behavioral differences in public participation in low-value recyclables collection",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 370
+  },
+  {
+   "doi": "10.1057/s41599-025-05160-9",
+   "title": "A study of the concept and practice of German \u201cfamily-friendly companies\u201d and some insights for China",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 436
+  },
+  {
+   "doi": "10.1057/s41599-025-04641-1",
+   "title": "Diachronic image construction in the documentary Seven Up: a multimodal critical discourse analysis",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 339
+  },
+  {
+   "doi": "10.1057/s41599-025-05717-8",
+   "title": "Identify globalisation, logistics and port trends using bibliometric mapping: WoS and Scopus data from 1996 to 2025",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1057/s41599-025-05622-0",
+   "title": "Impact of pull\u2013push motivations on tourist satisfaction and loyalty: the moderating role of Islamic attributes in shaping destination image",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1057/s41599-025-05542-z",
+   "title": "Strategic localization practices and glocalization dynamics: insights from the fashion industry",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 379
+  },
+  {
+   "doi": "10.1057/s41599-025-04570-z",
+   "title": "The implementation of blockchain adoption in China\u2019s manufacturing industry: the technology organization environment (TOE) method",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1057/s41599-025-05925-2",
+   "title": "Development of a twenty-first century skills curriculum through the flipped learning approach",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 289
+  },
+  {
+   "doi": "10.1057/s41599-025-04596-3",
+   "title": "Professional demand analysis for teaching Chinese to speakers of other languages: a text mining approach on internet recruitment platforms",
+   "received": "9 May 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1057/s41599-025-05315-8",
+   "title": "Exploring the reality of global food insecurity and policy gaps",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1057/s41599-025-05868-8",
+   "title": "There is no such thing as conscious artificial intelligence",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1057/s41599-025-05617-x",
+   "title": "A comparative corpus-based news values analysis of Philippine, South Korean, Singapore and Chinese media reactions to Japan\u2019s nuclear wastewater relea",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1057/s41599-025-05708-9",
+   "title": "Low well-being among middle-aged people: inherent or external factors",
+   "received": "1 February 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1057/s41599-025-04740-z",
+   "title": "Discursive practices in translating political discourse: insights from white papers on China-US economic and trade frictions",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1057/s41599-025-04612-6",
+   "title": "Why and when entrepreneurs with calling perform better? The effects of calling and money motivation on entrepreneurial performance",
+   "received": "8 March 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 349
+  },
+  {
+   "doi": "10.1057/s41599-024-04155-2",
+   "title": "What drives ecotourists in China: an exploratory study of ecotourism participants\u2019 significant life experiences",
+   "received": "2 June 2023",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 530
+  },
+  {
+   "doi": "10.1057/s41599-025-05595-0",
+   "title": "Unveiling the unknown: exploring Korean anonymous organ donors\u2019 post-donation outcomes",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 257
+  },
+  {
+   "doi": "10.1057/s41599-025-06084-0",
+   "title": "Fintech empowerment and the new-quality productivity of enterprises: empirical evidence from Chinese listed companies",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1057/s41599-024-04284-8",
+   "title": "What is a recognized mechanism for transforming big data analytics into firm performance? A meta-analysis from cultural view",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 269
+  },
+  {
+   "doi": "10.1057/s41599-025-05487-3",
+   "title": "The impact of large-scale agricultural investments on welfare of local communities: a meta-analysis",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1057/s41599-025-05646-6",
+   "title": "An fsQCA approach to identifying pathways for digital-professional integration in engineering education",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1057/s41599-025-05231-x",
+   "title": "Top management team interlocking network and corporate unethical behavior: the moderating role of media coverage and knowledge background",
+   "received": "28 September 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1057/s41599-025-05498-0",
+   "title": "Socially assistive robots and meaningful work: the case of aged care",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1057/s41599-025-05837-1",
+   "title": "Development and validation of civic engagement scale",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 339
+  },
+  {
+   "doi": "10.1057/s41599-024-04183-y",
+   "title": "How the spatial functional division of labor in urban clusters affects urban population size? Evidence from 19 urban clusters in China",
+   "received": "22 February 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 280
+  },
+  {
+   "doi": "10.1057/s41599-025-05681-3",
+   "title": "Understanding consumers\u2019 willingness to accept digital exhibitions in the metaverse: evidence from China",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1057/s41599-025-04741-y",
+   "title": "A graphical theory of social license: applications to climate action, renewable energy and sustainable food production",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1057/s41599-024-04340-3",
+   "title": "Students\u2019 subjective well-being, school bullying, and belonging during the COVID-19 pandemic: Comparison between PISA 2018 and PISA 2022",
+   "received": "1 February 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 323
+  },
+  {
+   "doi": "10.1057/s41599-025-04439-1",
+   "title": "Does renewable energy reduce energy intensity? A matter of income inequality",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 292
+  },
+  {
+   "doi": "10.1057/s41599-024-04226-4",
+   "title": "Unveiling the spatial and temporal variation of customer sentiment in hotel experiences: a case study of Beppu City, Japan",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 312
+  },
+  {
+   "doi": "10.1057/s41599-025-05450-2",
+   "title": "The echoes of social media friends\u2019 travels: social influence and venue selection in a hyperconnected world",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 373
+  },
+  {
+   "doi": "10.1057/s41599-025-04808-w",
+   "title": "The impact of enterprises\u2019 scientific capabilities on innovation performance: evidence from an empirical analysis and simulation model",
+   "received": "28 December 2023",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 454
+  },
+  {
+   "doi": "10.1057/s41599-025-04751-w",
+   "title": "Two-instance moderating dilemma between responsible leadership and family-supportive supervisor behavior on women\u2019s career sustainability",
+   "received": "1 April 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 345
+  },
+  {
+   "doi": "10.1057/s41599-025-05973-8",
+   "title": "Digital inclusion for older adults: a persuasive power evaluation framework for smart clothing targeting the young elderly",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 406
+  },
+  {
+   "doi": "10.1057/s41599-025-04673-7",
+   "title": "Positive empowerment or freedom trap? Female companions\u2019 voice attractiveness capitalization, gender roles, and gamer identity",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1057/s41599-025-05869-7",
+   "title": "Exploring how the public \u201csee\u201d scientists: A systematic literature review, 1983\u20132024",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1057/s41599-025-04784-1",
+   "title": "Comparing discursive reproductions of national military image between China and the United States",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1057/s41599-025-05174-3",
+   "title": "How high-performance human resource practices foster employee creativity: evidence from R&amp;D technicians",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1057/s41599-025-05733-8",
+   "title": "Demystifying the influence of board gender diversity on the nexus between ESG performance and carbon emissions",
+   "received": "4 January 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1057/s41599-025-04553-0",
+   "title": "Construction and validation of an observational instrument to assess infant executive functions through playing",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 320
+  },
+  {
+   "doi": "10.1057/s41599-025-04602-8",
+   "title": "The dual role of motivation on goals and well-being in higher vocational education students: a self-determination theory perspective",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1057/s41599-025-05950-1",
+   "title": "What factors may contribute to the improvement of students\u2019 interdisciplinary integration competencies?\u2014a comparative study of various interdisciplina",
+   "received": "5 February 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 581
+  },
+  {
+   "doi": "10.1057/s41599-025-05505-4",
+   "title": "Folk songs and the regional geographic environment: the influence and inspiration of biodiversity and ecosystems on Chinese folk songs in the Yangtze ",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1057/s41599-025-05291-z",
+   "title": "How to promote playful learning: insights from innovative early childhood classrooms in the USA",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1057/s41599-024-04150-7",
+   "title": "Current trend and future research agenda for technological innovation in higher education institutions",
+   "received": "1 February 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 293
+  },
+  {
+   "doi": "10.1057/s41599-025-04606-4",
+   "title": "Citizen participation and technology: lessons from the fields of deliberative democracy and science and technology studies",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1057/s41599-025-04849-1",
+   "title": "The effect of social media on employee engagement: the mediating role of job satisfaction and perceived organizational support",
+   "received": "8 November 2023",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 510
+  },
+  {
+   "doi": "10.1057/s41599-025-05144-9",
+   "title": "Digital governance and the low-carbon transition: evidence from double machine learning",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1057/s41599-025-05444-0",
+   "title": "Intelligent technologies in smart education: a comprehensive review of transformative pillars and their impact on teaching and learning methods",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 342
+  },
+  {
+   "doi": "10.1057/s41599-025-05065-7",
+   "title": "Reimagining, reclaiming, and reconnecting Indigenous voices in urbanism: a review of Indigenous approaches for urban ecological restoration",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1057/s41599-025-05629-7",
+   "title": "The identification of dynamic product innovation opportunities using the multi-phase QFD: the customer requirement and technology development perspect",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "27 July 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1057/s41599-024-04159-y",
+   "title": "A meta-analysis of technology-based interventions for elementary students with reading difficulties",
+   "received": "25 October 2023",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 397
+  },
+  {
+   "doi": "10.1057/s41599-025-05626-w",
+   "title": "Two birds with one stone: can green finance drive the circular economy?",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1057/s41599-025-04710-5",
+   "title": "Authenticity in souvenir design integrating cultural features of Dunhuang\u2019s mural heritage: a qualitative inquiry",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1057/s41599-025-04896-8",
+   "title": "Development and validation of preschool teachers\u2019 inclusive knowledge questionnaire in the Chinese context",
+   "received": "23 March 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 395
+  },
+  {
+   "doi": "10.1057/s41599-025-05140-z",
+   "title": "Harvesting environmental sustainability\u2014the fertilizer use efficiency gains of China\u2019s high-standard farmland initiative",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1057/s41599-024-04330-5",
+   "title": "County green transformation: how does gross ecosystem product assessment promote common prosperity?",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 143
+  },
+  {
+   "doi": "10.1057/s41599-025-05293-x",
+   "title": "Supervisory support for subordinates\u2019 use of information and communication technologies: development and preliminary validation of a scale in a Chines",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 288
+  },
+  {
+   "doi": "10.1057/s41599-025-04795-y",
+   "title": "The predictive effect of heterogeneous investor behavior on commodity pricing",
+   "received": "28 September 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1057/s41599-024-04327-0",
+   "title": "Factors predicting PhD affirmation and regret in PhD holders",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 209
+  },
+  {
+   "doi": "10.1057/s41599-025-04974-x",
+   "title": "The prediction of foreign language achievement on social competence in Chinese adolescent EFL learners",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1057/s41599-024-04215-7",
+   "title": "Younger adolescents\u2019 perspectives on book censorship: a case of Croatia",
+   "received": "20 July 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 132
+  },
+  {
+   "doi": "10.1057/s41599-025-04684-4",
+   "title": "The momentum of gender and the SDGs: a corpus-assisted study of Norwegian development aid discourse",
+   "received": "11 April 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 321
+  },
+  {
+   "doi": "10.1057/s41599-025-04773-4",
+   "title": "Was COVID-19-related working from home (WFH) a chance for change? Gender-based experiences of parents",
+   "received": "8 June 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1057/s41599-025-05307-8",
+   "title": "Addressing environmental harms in the health sector: environmentality as a lens to expose (neglected) sites of knowledge/power",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1057/s41599-025-06058-2",
+   "title": "Political ecology of climate change adaptation in the Arctic: Insights from Nunatsiavut, Canada",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1057/s41599-024-04202-y",
+   "title": "Interpretable AI-driven causal inference to uncover the time-varying effects of PM2.5 and public health interventions on COVID-19 infection rates",
+   "received": "20 December 2023",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 350
+  },
+  {
+   "doi": "10.1057/s41599-025-04406-w",
+   "title": "Exploring the effect of transformation leadership on student generic skills: a moderated mediation model",
+   "received": "4 January 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 382
+  },
+  {
+   "doi": "10.1057/s41599-025-04616-2",
+   "title": "Empowering music education with technology: a bibliometric perspective",
+   "received": "16 June 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1057/s41599-025-05864-y",
+   "title": "Shame and guilt in Arab populations: validation of PFQ-2 and the mediating role of psychological distress",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1057/s41599-025-04457-z",
+   "title": "Translating culture: the rise and resonance of Chinese contemporary literature in the Portuguese-speaking world",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 305
+  },
+  {
+   "doi": "10.1057/s41599-025-05830-8",
+   "title": "The impact of home-grown economic reform intervention on crop productivity in Ethiopia",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1057/s41599-025-05297-7",
+   "title": "The Devakkoothu tapestry: exploring the variances and parallels in Chayilyam and Apsara folklore",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1057/s41599-025-04830-y",
+   "title": "Revisiting professional translation ethics in Saudi Arabia: a cultural perspective",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1057/s41599-025-04703-4",
+   "title": "Mass receptiveness to unconstrained emergency legislation during crisis: survey experiment in pandemic-era Japan",
+   "received": "2 June 2023",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 640
+  },
+  {
+   "doi": "10.1057/s41599-025-05396-5",
+   "title": "Body image dissatisfaction intervention program based on a three-factor model of appearance comparison, appearance comments, and social media among Ch",
+   "received": "18 August 2024",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 306
+  },
+  {
+   "doi": "10.1057/s41599-025-05895-5",
+   "title": "The impact of financial resilience on farmers\u2019 entrepreneurial decision-making",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1057/s41599-024-04260-2",
+   "title": "The effect of COVID-19 and U.S. monetary policy on Bitcoin and stock market volatility: an application of DCC-GARCH model",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 131
+  },
+  {
+   "doi": "10.1057/s41599-025-04817-9",
+   "title": "Cross the borders: the dual cultural devaluation of the Belt and Road co-production films",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1057/s41599-025-04630-4",
+   "title": "The interplay between positive lifestyle habits and academic excellence in higher education",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1057/s41599-025-05743-6",
+   "title": "Ethical leadership and organizational excellence: the mediating role of citizenship behavior in healthcare",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1057/s41599-025-04510-x",
+   "title": "Mapping the knowledge domain of multimodal translation: a bibliometric analysis",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1057/s41599-025-05161-8",
+   "title": "Radicalization within a network of misogynist extremists: a case study of an incel forum",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1057/s41599-025-05175-2",
+   "title": "Data sharing in learning analytics: how context and group discussion influence the individual willingness to share",
+   "received": "10 August 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 292
+  },
+  {
+   "doi": "10.1057/s41599-025-04829-5",
+   "title": "The influence of vicarious exclusion on prosocial behavioral intentions and the role of belief in a just world",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 353
+  },
+  {
+   "doi": "10.1057/s41599-025-05586-1",
+   "title": "Colouring outside the lines: a regulatory shaming framework for black, red, white, and green lists",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 320
+  },
+  {
+   "doi": "10.1057/s41599-025-06062-6",
+   "title": "Soft disempowerment dynamics in the 2022 FIFA World Cup",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 218
+  },
+  {
+   "doi": "10.1057/s41599-025-04492-w",
+   "title": "The function of ASR-generated live transcription in simultaneous interpreting: trainee interpreters\u2019 perceptions from post-task interviews",
+   "received": "21 November 2023",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 435
+  },
+  {
+   "doi": "10.1057/s41599-025-05619-9",
+   "title": "Does the green patent pre-examination program reduce environmental pollution?",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1057/s41599-025-05254-4",
+   "title": "Differential analysis of the impact of adopting outsourced machinery services on land transfer between contracted and outsourced land-holding",
+   "received": "12 March 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 454
+  },
+  {
+   "doi": "10.1057/s41599-025-06089-9",
+   "title": "Emergent poverty traps at multiple levels impede social mobility",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1057/s41599-024-04208-6",
+   "title": "Semantic prosody of deictic verbs in the Holy Qur\u02be\u0101n: a corpus study",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 218
+  },
+  {
+   "doi": "10.1057/s41599-025-04559-8",
+   "title": "Why Chinese farmers are reluctant to transfer their land in the context of non-agricultural employment: insights from agricultural mechanization",
+   "received": "5 July 2023",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 589
+  },
+  {
+   "doi": "10.1057/s41599-025-04687-1",
+   "title": "Are CEO successors more likely to implement environmentally responsible behavior? Empirical evidence from listed companies in China",
+   "received": "2 June 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 270
+  },
+  {
+   "doi": "10.1057/s41599-025-05169-0",
+   "title": "The information cocoon paradox: fostering unity or fueling divergence?",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 344
+  },
+  {
+   "doi": "10.1057/s41599-025-05675-1",
+   "title": "Immunization effect of inoculation messages: interventions against consensus and misinformation to improve public acceptance of recycled water",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1057/s41599-025-05351-4",
+   "title": "Negotiating identity in the age of ChatGPT: non-native English researchers\u2019 experiences with AI-assisted academic writing",
+   "received": "7 December 2024",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1057/s41599-025-05389-4",
+   "title": "Leveraging data analytics for detection and impact evaluation of fake news and deepfakes in social networks",
+   "received": "3 October 2023",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 626
+  },
+  {
+   "doi": "10.1057/s41599-025-05980-9",
+   "title": "Revealing the sustainability transitions in China\u2019s metal resource-based cities",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1057/s41599-025-05398-3",
+   "title": "How digital economy and green and low carbon policies affect non-agricultural employment?\u2014Evidence from China",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1057/s41599-025-05478-4",
+   "title": "Unveiling the attitudinal factors: an integration of TPB and SCT in understanding investor intention towards equity investments",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 379
+  },
+  {
+   "doi": "10.1057/s41599-025-05025-1",
+   "title": "Extracting toponyms from OpenStreetMap and other gazetteers: comparing representational accuracy in multilingual contexts",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1057/s41599-025-04398-7",
+   "title": "The role of phonology in processing English suffixed words by Chinese\u2013English bilinguals",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1057/s41599-025-04591-8",
+   "title": "Associations between teacher academic support and externalizing problem behaviors among Chinese adolescents: an analysis of chain mediation and modera",
+   "received": "8 April 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 317
+  },
+  {
+   "doi": "10.1057/s41599-025-05281-1",
+   "title": "Towards a framework for a new research ecosystem",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1057/s41599-024-04331-4",
+   "title": "Construction of digital creation development model of intangible cultural heritage crafts in China",
+   "received": "14 December 2023",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 371
+  },
+  {
+   "doi": "10.1057/s41599-025-05230-y",
+   "title": "Hybrid boosted attention-based LightGBM framework for enhanced credit risk assessment in digital finance",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1057/s41599-025-04916-7",
+   "title": "Spatiotemporal evolution and convergence patterns of urban carbon emission efficiency in China",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1057/s41599-025-05033-1",
+   "title": "Sci-Tech finance, digital economy and high-quality development of regional economy: empirical evidence from 273 cities in China",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1057/s41599-025-05849-x",
+   "title": "Investigating the nonlinear nexus between natural resources, digitization, economic policy uncertainty, and financial structure in Canada",
+   "received": "3 May 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1057/s41599-025-05998-z",
+   "title": "Environmental protection strategic alliance and enterprise green innovation",
+   "received": "1 December 2024",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1057/s41599-025-05775-y",
+   "title": "Bridging AI literacy and UTAUT constructs: structural equation modeling of AI adoption among Chinese university students",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1057/s41599-025-05133-y",
+   "title": "Job perception and expectations scale: a new scale for assessing self-perceived employability, job quality, and gender equity",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1057/s41599-025-05767-y",
+   "title": "Measuring China\u2019s Open Sharing for scientific instruments: an ascendency analysis with benchmark use-time data",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 313
+  },
+  {
+   "doi": "10.1057/s41599-025-04555-y",
+   "title": "Well-being horizons for silver and golden ages: an application of traditional and fuzzy Markov chains",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1057/s41599-025-06010-4",
+   "title": "Reconsidering the impact of government expenditures on unemployment rate: the Turkish experience (1980\u20132019)",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 357
+  },
+  {
+   "doi": "10.1057/s41599-025-05008-2",
+   "title": "Children supervising children across low- and middle-income countries: the role of mothers\u2019 education",
+   "received": "14 March 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 420
+  },
+  {
+   "doi": "10.1057/s41599-025-05539-8",
+   "title": "Housing price and credit environment: evidence from China",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1057/s41599-024-03194-z",
+   "title": "Investigation of text-based comprehension questions in emergency distance education during the COVID-19 pandemic",
+   "received": "23 October 2023",
+   "revised": null,
+   "accepted": "14 May 2024",
+   "days": 204
+  },
+  {
+   "doi": "10.1057/s41599-025-04568-7",
+   "title": "The club of the discontents: motivational roots, polarise narratives, and key actors of Spanish-speaking anti-abortion communities on Twitter",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1057/s41599-025-04749-4",
+   "title": "STEM lives: the experiences of sexual and gender minority teachers in the United States",
+   "received": "12 February 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 394
+  },
+  {
+   "doi": "10.1057/s41599-025-05299-5",
+   "title": "The role of social norms in shaping trust and economic behavior in the Ethiopian financial institutions",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1057/s41599-024-04321-6",
+   "title": "Theoretical framework of life circles in Chinese small towns and the optimization of spatial layout for public service facilities based on residents\u2019 ",
+   "received": "4 March 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 289
+  },
+  {
+   "doi": "10.1057/s41599-025-05110-5",
+   "title": "Paying attention to distortion: improving the accuracy of multistep-ahead carbon price forecasting with shape and temporal criteria",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1057/s41599-025-05669-z",
+   "title": "Corporate social responsibility in a non-western context: the case of the United Arab Emirates",
+   "received": "9 February 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1057/s41599-025-04760-9",
+   "title": "Determinants of green energy investment\u2014financial drivers and equitable transition",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1057/s41599-025-06038-6",
+   "title": "Gender disparity in U.S. patenting",
+   "received": "10 August 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 415
+  },
+  {
+   "doi": "10.1057/s41599-025-05019-z",
+   "title": "Multi-dimensional policy decision-making model based on the quantum probability: the case of Korea\u2019s nuclear power plant policy",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1057/s41599-025-04814-y",
+   "title": "Focal points and blind spots of human-centered AI: AI risks in written online media",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 307
+  },
+  {
+   "doi": "10.1057/s41599-025-04405-x",
+   "title": "AI-assisted discovery of quantitative and formal models in social science",
+   "received": "29 August 2023",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 510
+  },
+  {
+   "doi": "10.1057/s41599-025-04469-9",
+   "title": "Mapping AI ethics narratives: evidence from Twitter discourse between 2015 and 2022",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1057/s41599-025-05905-6",
+   "title": "Cultivating an ethos of \u201ceveryday convergence\u201d: insights from the Multiscale RECIPES Network for food waste reduction",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1057/s41599-025-04609-1",
+   "title": "From gut feelings to data assets: ethnographic explorations of the gut\u2019s metabolic political economies",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1057/s41599-025-04489-5",
+   "title": "The relationship between fiscal federalism and fiscal discipline: panel quantile regression approach",
+   "received": "29 July 2022",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 916
+  },
+  {
+   "doi": "10.1057/s41599-025-05457-9",
+   "title": "Borderland as a necrospace: identity, ethno-territoriality and narcotrade in Manipur",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1057/s41599-025-04909-6",
+   "title": "How do Taoist thoughts influence big data technological innovation? Empirical evidence from China",
+   "received": "17 June 2022",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 1041
+  },
+  {
+   "doi": "10.1057/s41599-025-04414-w",
+   "title": "Polyphonic discourses in the Hong Kong press: a diachronic analysis of media attitudes towards the One Country, Two Systems policy",
+   "received": "15 April 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1057/s41599-024-04194-9",
+   "title": "A cultural evolution theory for contemporary polarization trends in moral opinions",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1057/s41599-025-05746-3",
+   "title": "Unravelling the combination of medical and elderly care in China: a comprehensive policy analysis",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1057/s41599-025-05275-z",
+   "title": "Extreme weather, IT investment, and corporate sustainability",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 294
+  },
+  {
+   "doi": "10.1057/s41599-025-04949-y",
+   "title": "Examining the factors influencing the digital transformation of new agricultural operating entities: insights from Zhejiang, China",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1057/s41599-025-05584-3",
+   "title": "Assessing Pakistan\u2019s readiness for STEM education: an analysis of teacher preparedness, policy frameworks, and resource availability",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 327
+  },
+  {
+   "doi": "10.1057/s41599-025-05336-3",
+   "title": "A scoping review of pre-service teachers\u2019 beliefs about implementing the universal design for learning framework",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1057/s41599-025-05269-x",
+   "title": "Spatial patterns, factor identification, and ethnic differences: a study of traditional villages in the Yuan River Basin based on geographical detecto",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 314
+  },
+  {
+   "doi": "10.1057/s41599-025-05628-8",
+   "title": "Exploring athletes\u2019 entrepreneurial intentions after retirement: a structural equation modeling explanation mediated by entrepreneurial cognition",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "27 July 2025",
+   "days": 223
+  },
+  {
+   "doi": "10.1057/s41599-025-04424-8",
+   "title": "Meaning in life from a cultural perspective: the role of cultural identity, perceived social support, and resilience among Chinese college students",
+   "received": "1 May 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1057/s41599-025-04445-3",
+   "title": "Digital economy and coal consumption in emerging Asian economies",
+   "received": "24 May 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1057/s41599-025-05247-3",
+   "title": "Exploring the nexus: Hausman test application in tourism, globalization, and environmental sustainability- evidence of top 10 visited countries",
+   "received": "29 December 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1057/s41599-024-04171-2",
+   "title": "Impact of intellectual property protection on enterprise supply chain resilience: empirical evidence from China\u2019s intellectual property pilot and demo",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 122
+  },
+  {
+   "doi": "10.1057/s41599-025-05964-9",
+   "title": "Technology transfer and political alignment: new evidence from China\u2019s outward foreign direct investment (OFDI) in Africa",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 370
+  },
+  {
+   "doi": "10.1057/s41599-025-05590-5",
+   "title": "Low-carbon technology investment strategies with blockchain under subsidy policies",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 377
+  },
+  {
+   "doi": "10.1057/s41599-025-04926-5",
+   "title": "Employee experience: conceptualization, scale development, and validation",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1057/s41599-025-05854-0",
+   "title": "Exploring the evolution of pre-service teachers\u2019 beliefs about English for specific purposes (ESP) through case studies from a teacher education progr",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1057/s41599-025-04423-9",
+   "title": "The role of risk attitudes in shaping digital privacy preferences: evidence from a large-scale survey",
+   "received": "13 January 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 373
+  },
+  {
+   "doi": "10.1057/s41599-025-05486-4",
+   "title": "Green versus non-green technology innovation and environmental quality: Cointegration and counterfactual analysis",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 218
+  },
+  {
+   "doi": "10.1057/s41599-025-04505-8",
+   "title": "Logistics demand prediction using fuzzy support vector regression machine based on Adam optimization",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1057/s41599-025-04533-4",
+   "title": "Imploding between the facts and concerns: analysing human\u2013AI musical interaction",
+   "received": "12 October 2023",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 484
+  },
+  {
+   "doi": "10.1057/s41599-025-05077-3",
+   "title": "Practitioner perspectives on informing decisions in One Health sectors with predictive models",
+   "received": "12 February 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 463
+  },
+  {
+   "doi": "10.1057/s41599-025-05916-3",
+   "title": "Modeling the intention to accept 3D-printed foods: the role of religious beliefs, food neophobia and food technology neophobia",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1057/s41599-025-04626-0",
+   "title": "Nighttime light development index: a new evaluation method for China\u2019s construction land utilization level",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1057/s41599-025-05456-w",
+   "title": "Representing the other: a critical discourse analysis of British media coverage of China\u2019s role in climate change",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1057/s41599-024-04170-3",
+   "title": "Local government capacity and response strategies to central policy piloting goals: a case study of China\u2019s new-type urbanization plan",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 156
+  },
+  {
+   "doi": "10.1057/s41599-025-04534-3",
+   "title": "Pricing, crashing and coordination for prefabricated construction supply chain with the lead-time incentive: a power perspective",
+   "received": "18 November 2023",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 447
+  },
+  {
+   "doi": "10.1057/s41599-025-05252-6",
+   "title": "Towards responsible artificial intelligence in education: a systematic review on identifying and mitigating ethical risks",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 479
+  },
+  {
+   "doi": "10.1057/s41599-025-05691-1",
+   "title": "Cultural participation and psychological wellbeing: the mediating role of transcendence",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1057/s41599-025-04850-8",
+   "title": "AI integration in financial services: a systematic review of trends and regulatory challenges",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 273
+  },
+  {
+   "doi": "10.1057/s41599-025-05727-6",
+   "title": "Recolonising East to West: McLuhan\u2019s \u201ctribal\u201d village",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 232
+  },
+  {
+   "doi": "10.1057/s41599-025-05933-2",
+   "title": "Disability and discourse: how people with disability are represented in Saudi Newspapers",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 598
+  },
+  {
+   "doi": "10.1057/s41599-025-04739-6",
+   "title": "A scale to determine gender attitudes of primary school fourth grade students: a scale development study",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1057/s41599-025-05208-w",
+   "title": "Household chores and their effects on children: perspective from Ghana",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1057/s41599-025-04946-1",
+   "title": "Embracing fast-food culture: Lianhuanhua as a paradigm of visual narrative news",
+   "received": "3 November 2023",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 538
+  },
+  {
+   "doi": "10.1057/s41599-025-05777-w",
+   "title": "From revolution to inflation: the economic consequences of the Arab spring on Yemen\u2019s food prices",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 283
+  },
+  {
+   "doi": "10.1057/s41599-025-04425-7",
+   "title": "A cinematographic analysis of English-dubbed Korean films",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1057/s41599-025-05972-9",
+   "title": "Exploring illicit personal information trading behind telecom fraud in China",
+   "received": "28 June 2024",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 440
+  },
+  {
+   "doi": "10.1057/s41599-025-04513-8",
+   "title": "The use of ICT in teaching by special education teachers in Sichuan, China: determinants and solutions to challenges",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1057/s41599-025-05552-x",
+   "title": "Anxiety and rationality: Allais paradox, procrastination, Keynesian expectations, and other anxiety-based deviations from rationality",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 314
+  },
+  {
+   "doi": "10.1057/s41599-025-05687-x",
+   "title": "Economic development benefits or social inequality hinders? Intergenerational educational mobility in 49 countries",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 370
+  },
+  {
+   "doi": "10.1057/s41599-025-04508-5",
+   "title": "Digital finance and equitable industrial carbon emissions: an empirical analysis of Chinese cities",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 228
+  }
+ ]
+}

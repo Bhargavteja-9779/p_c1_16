@@ -1,0 +1,173 @@
+{
+ "issn": "1572-9419",
+ "journal": "Information Systems Frontiers",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:53.216371",
+ "source": "https://api.crossref.org/journals/1572-9419/works",
+ "articles": [
+  {
+   "doi": "10.1007/s10796-025-10661-8",
+   "title": "When Algorithms Tell Their Story: Turning Execution Traces into Explanatory Videos by Means of a Trustworthy Architecture Based on Parse Trees",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 223
+  },
+  {
+   "doi": "10.1007/s10796-025-10652-9",
+   "title": "Developing an Interpretable Decision Support Framework for Artifact Design in Organ Transplantation",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 454
+  },
+  {
+   "doi": "10.1007/s10796-025-10655-6",
+   "title": "Predicting Customer Demand for MSE Loan Products: A Bilevel Dynamic Selective Ensemble Learning Method",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s10796-025-10647-6",
+   "title": "Individual Data-Driven Mindset and Decision-Making Performance: The Mediating Roles of Effort and Persistence",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 407
+  },
+  {
+   "doi": "10.1007/s10796-025-10649-4",
+   "title": "Competing in the Digital Economy: The Influence of Information Visibility on Corporate Entrepreneurship",
+   "received": "13 May 2023",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 876
+  },
+  {
+   "doi": "10.1007/s10796-025-10658-3",
+   "title": "Prediction of Financial Distress for Chinese Listed Manufacturing Companies given Uncertain Financial Accounting Data Environments",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 343
+  },
+  {
+   "doi": "10.1007/s10796-025-10659-2",
+   "title": "A Federated Learning and GAN-Based Stealthy Malware Detection Scheme for IIoT Security",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1007/s10796-025-10651-w",
+   "title": "How can Blockchain Contribute to Cyber Resilience? Supply Chain\u00a0Analytics and Digitalization Benefits",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 472
+  },
+  {
+   "doi": "10.1007/s10796-025-10639-6",
+   "title": "The Dynamics of Stock Market Responses Following the Cyber-Attacks News: Evidence from Event Study",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1007/s10796-025-10645-8",
+   "title": "A Computational Design Framework for Targeted Disruption of Hacker Communities",
+   "received": "5 February 2024",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 568
+  },
+  {
+   "doi": "10.1007/s10796-025-10643-w",
+   "title": "The Impact of AI News on Default Risk of Chinese Listed Companies: Forecasting Based on Deep Learning",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s10796-025-10640-z",
+   "title": "Vulnerability Assessment and Risk Management Using Text Mining and Deep Learning Approach",
+   "received": "14 February 2024",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 545
+  },
+  {
+   "doi": "10.1007/s10796-025-10646-7",
+   "title": "Decoding GenAI Assimilation in Teams: A Multi-Method Study of GenAI\u2019s Impact on Collaborative Performance in Project-Based Work",
+   "received": "5 April 2024",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 507
+  },
+  {
+   "doi": "10.1007/s10796-025-10648-5",
+   "title": "With Great Power Comes Great Responsibility: What Shapes AI Literacy for Responsible Interactions of Knowledge Workers With AI?",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 327
+  },
+  {
+   "doi": "10.1007/s10796-025-10644-9",
+   "title": "Making Life Easier: Exploring the Influence of Chatbot\u2019s Prompt Competency on Citizens\u2019 Continuance in Government Chatbot Context",
+   "received": "16 November 2023",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 636
+  },
+  {
+   "doi": "10.1007/s10796-025-10650-x",
+   "title": "Whose Investment Advice Do You Follow? Studying the Effect of Author Attributes on Using Social Media Stock Opinions To Predict Stock Performance",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 615
+  },
+  {
+   "doi": "10.1007/s10796-025-10642-x",
+   "title": "Digital Responsibility in Metaverse Platforms: A Policy Perspective",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 277
+  },
+  {
+   "doi": "10.1007/s10796-025-10654-7",
+   "title": "How Long do the Heart Failure Inpatients Stay in ICU? Temporal Comorbidity Networks to Assist Clinical Decision Support Systems",
+   "received": "22 September 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 372
+  },
+  {
+   "doi": "10.1007/s10796-025-10657-4",
+   "title": "AI Analytics in Enhancing Patient-Centered Care Through Wearables: A Cross-Country Analysis",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 414
+  },
+  {
+   "doi": "10.1007/s10796-025-10641-y",
+   "title": "Quantifying Costs of Enhanced Security in Multifactor Authentication",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 482
+  }
+ ]
+}

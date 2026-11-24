@@ -1,0 +1,1309 @@
+{
+ "issn": "2050-7771",
+ "journal": "Biomarker Research",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:09:59.581371",
+ "source": "https://api.crossref.org/journals/2050-7771/works",
+ "articles": [
+  {
+   "doi": "10.1186/s40364-025-00810-1",
+   "title": "HDAC7 induction combined with standard-of-care chemotherapy provides a therapeutic advantage in t(4;11) infant B-cell acute lymphoblastic leukemia",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s40364-025-00772-4",
+   "title": "Challenges and advances for huntingtin detection in cerebrospinal fluid: in support of relative quantification",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s40364-025-00821-y",
+   "title": "Trans-omics analyses identify the biochemical network of LPCAT1 associated with coronary artery disease",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s40364-025-00845-4",
+   "title": "Integrating single-cell RNA sequencing and spatial multi-omics reveals the molecular signature of regeneration after spinal cord injury",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1186/s40364-025-00776-0",
+   "title": "The overlooked trio: sleep duration, sampling time and physical exercise alter levels of olink-assessed blood biomarkers of cardiovascular risk",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s40364-025-00833-8",
+   "title": "Splenomegaly in de novo acute myeloid leukemia is associated with ASXL1 mutations together with a distinct clinical and gene expression profile",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1186/s40364-025-00768-0",
+   "title": "Comprehensive plasma metabolomics profiling develops diagnostic biomarkers of obstructive hypertrophic cardiomyopathy",
+   "received": "25 January 2025",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s40364-025-00787-x",
+   "title": "A plasma 9-microRNA signature for lung cancer early detection: a multicenter analysis",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s40364-025-00780-4",
+   "title": "Association of CAR-T approval on outcomes in patients with diffuse large B-cell lymphoma at the population level in the United States",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s40364-025-00769-z",
+   "title": "IL1RAP is an immunotherapeutic target for normal karyotype triple-mutated acute myeloid leukemia",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "16 March 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s40364-025-00737-7",
+   "title": "Prognostic utility of neutrophil gelatinase-associated lipocalin (NGAL) levels for cardiovascular events in patients with stable coronary artery disea",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s40364-025-00771-5",
+   "title": "Manipulation of cancer cell pyroptosis for therapeutic approaches: challenges and opportunities",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "23 March 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1186/s40364-025-00840-9",
+   "title": "Development and validation of predictive models combining cell-Free DNA motifs and protein biomarkers for early detection of esophageal squamous cell ",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s40364-025-00797-9",
+   "title": "Tumor-specific MHC-II guides anthracycline exemption and immunotherapy benefit in breast cancer",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s40364-024-00713-7",
+   "title": "Immunophenotypic analysis on circulating T cells for early diagnosis of lung cancer",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s40364-024-00696-5",
+   "title": "CardioAtlas: deciphering the single-cell transcriptome landscape in cardiovascular tissues and diseases",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s40364-024-00715-5",
+   "title": "Histamine N-methyltransferase (HNMT) as a potential auxiliary biomarker for predicting adaptability to anti-HER2 drug treatment in breast cancer patie",
+   "received": "21 April 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 243
+  },
+  {
+   "doi": "10.1186/s40364-024-00695-6",
+   "title": "GDF15 propeptide promotes bone metastasis of castration-resistant prostate cancer by augmenting the bone microenvironment",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s40364-025-00748-4",
+   "title": "Targeting novel regulated cell death: disulfidptosis in cancer immunotherapy with immune checkpoint inhibitors",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 35
+  },
+  {
+   "doi": "10.1186/s40364-025-00858-z",
+   "title": "The methyltransferase-like proteins as core regulators of nucleic acid modifications and post-translation modification of proteins in disease pathogen",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s40364-025-00749-3",
+   "title": "Pharmacokinetics of post-transplant cyclophosphamide and its associations with clinical outcomes in pediatric haploidentical hematopoietic stem cell t",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s40364-025-00826-7",
+   "title": "Dual functionality of MDM2 in PROTACs expands the horizons of targeted protein degradation",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s40364-025-00796-w",
+   "title": "Circulating tumor DNA for MRD detection in colorectal cancer: recent advances and clinical implications",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s40364-025-00779-x",
+   "title": "Decoding tumor angiogenesis: pathways, mechanisms, and future directions in anti-cancer strategies",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s40364-025-00742-w",
+   "title": "The role of platelets in cancer: from their influence on tumor progression to their potential use in liquid biopsy",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s40364-025-00746-6",
+   "title": "Single-cell multi-omics analysis identifies SPP1+ macrophages as key drivers of ferroptosis-mediated fibrosis in ligamentum flavum hypertrophy",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s40364-024-00711-9",
+   "title": "The multifaceted roles of cathepsins in immune and inflammatory responses: implications for cancer therapy, autoimmune diseases, and infectious diseas",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s40364-025-00809-8",
+   "title": "Multiple ctDNA- based biomarkers predict benefit from selective RET Inhibition in non-small cell lung cancer patients: exploratory analysis of a prosp",
+   "received": "24 May 2025",
+   "revised": null,
+   "accepted": "5 July 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s40364-024-00720-8",
+   "title": "The burden of Gastric Cancer and possible risk factors from 1990 to 2021, and projections until 2035: findings from the Global Burden of Disease Study",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s40364-025-00783-1",
+   "title": "Advances and challenges in CAR-T cell therapy for head and neck squamous cell carcinoma",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s40364-024-00716-4",
+   "title": "A machine learning-based model to predict POD24 in follicular lymphoma: a study by the Chinese workshop on follicular lymphoma",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s40364-025-00730-0",
+   "title": "ROR1 CAR-T cells and ferroptosis inducers orchestrate tumor ferroptosis via PC-PUFA2",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s40364-025-00842-7",
+   "title": "Liver-specific propanoate metabolism-derived 2-ethylhexanol as a novel biomarker for precise diagnosis and prognosis of hepatocellular carcinoma",
+   "received": "16 June 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40364-025-00738-6",
+   "title": "Unveiling the potential of CLL-1: a promising target for AML therapy",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s40364-024-00704-8",
+   "title": "AXL in myeloid malignancies \u2013 an elusive target?",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s40364-025-00767-1",
+   "title": "LRG1, a novel serum biomarker for iMCD disease activity",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40364-025-00859-y",
+   "title": "Harnessing multi-omics approaches to decipher tumor evolution and improve diagnosis and therapy in lung cancer",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s40364-025-00848-1",
+   "title": "Plasma proteomics uncovers divergent molecular signatures in ischemic stroke and intracerebral hemorrhage",
+   "received": "15 July 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s40364-025-00790-2",
+   "title": "Single cell analysis identified IFN signaling activation contributes to the pathogenesis of pediatric steroid-sensitive nephrotic syndrome",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1186/s40364-025-00830-x",
+   "title": "Age- and sex-specific transcriptomic changes drive the prothrombotic potential of megakaryocytes",
+   "received": "1 June 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s40364-024-00714-6",
+   "title": "Tumor microenvironment and immunotherapy for triple-negative breast cancer",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s40364-025-00849-0",
+   "title": "Lactate and lactylation: molecular insights into histone and non-histone lactylation in tumor progression, tumor immune microenvironment, and therapeu",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s40364-025-00791-1",
+   "title": "Early kinetics of serum amyloid A predict clinical benefit to first-line chemoimmunotherapy and immunotherapy in advanced non-small cell lung cancer: ",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s40364-025-00861-4",
+   "title": "The lung cancer-associated blood biomarker hPG80 exhibits a reversible increase in response to smoking in asymptomatic individuals",
+   "received": "19 August 2025",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s40364-024-00701-x",
+   "title": "State of the art CRISPR-based strategies for cancer diagnostics and treatment",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s40364-025-00852-5",
+   "title": "NONO links circadian rhythm disruption and enhanced tumor-fibroblast crosstalk in right-sided colorectal cancer",
+   "received": "17 May 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s40364-024-00712-8",
+   "title": "PCSK9 in T-cell function and the immune response",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s40364-025-00763-5",
+   "title": "S100A9 as a potential novel target for experimental autoimmune cystitis and interstitial cystitis/bladder pain syndrome",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s40364-025-00802-1",
+   "title": "Microbiome multi-omics analysis reveals novel biomarkers and mechanisms linked with CD etiopathology",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s40364-025-00758-2",
+   "title": "Integrating artificial intelligence in drug discovery and early drug development: a transformative approach",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s40364-025-00724-y",
+   "title": "Extracellular vesicles-derived miR-21 as a biomarker for early diagnosis and tumor activity in breast cancer subtypes",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s40364-025-00843-6",
+   "title": "Comprehensive assessment of homologous recombination deficiency via simultaneous methylation and mutation analysis in epithelial ovarian cancer: impli",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s40364-025-00798-8",
+   "title": "Multi-omics: a bridge connecting genotype and phenotype for epilepsy?",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s40364-025-00741-x",
+   "title": "X-chromosome-linked miR-542-5p as a key regulator of sex disparity in rats with adjuvant-induced arthritis by promoting Th17 differentiation",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 51
+  },
+  {
+   "doi": "10.1186/s40364-025-00823-w",
+   "title": "NPC1 as a novel therapeutic target for induction of pyroptosis in cancers",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s40364-025-00792-0",
+   "title": "Targeted inhibition of Ninjurin2 promotes chemosensitivity in chemoresistant gastric cancer by suppressing cancer-initiating cells",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40364-024-00717-3",
+   "title": "A germline FLT3 variant in aplastic anemia",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s40364-025-00801-2",
+   "title": "Adipose-derived stem cell exosomes: mechanisms and therapeutic potentials in wound healing",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s40364-025-00832-9",
+   "title": "Long non-coding RNA PWRN4 associated with post-SVR hepatocellular carcinoma: a genome-wide association study",
+   "received": "9 July 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s40364-025-00770-6",
+   "title": "Development and validation of a predictive model based upon extracellular vesicle-derived transposable elements for non-invasive detection of pancreat",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s40364-025-00773-3",
+   "title": "A novel indirubin- 3-monoxime derivative I3MV- 8b exhibits remarkable cytotoxicity against multiple myeloma by targeting TRIM28",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s40364-025-00728-8",
+   "title": "Global, regional, and national burden of heart failure and its underlying causes, 1990\u20132021: results from the global burden of disease study 2021",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s40364-024-00723-5",
+   "title": "Aberrant c-AMP signalling in richter syndrome revealed by single-cell transcriptome and 3D chromatin analysis",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 186
+  },
+  {
+   "doi": "10.1186/s40364-025-00831-w",
+   "title": "1-year risks of cancers associated with COVID-19 vaccination: a large population-based cohort study in South Korea",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s40364-025-00857-0",
+   "title": "Global mapping of RNA N6-methyladenosine (m6A) in human subcutaneous and visceral adipose tissue reveals novel targets that correlate with clinical va",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s40364-025-00829-4",
+   "title": "Bridging the barrier: insights into blood biomarkers and therapeutic strategies targeting choroid plexus and BBB dysfunction in alzheimer\u2019s disease",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s40364-025-00788-w",
+   "title": "Epigenetic regulation of histone modifications in glioblastoma: recent advances and therapeutic insights",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s40364-025-00725-x",
+   "title": "Dysregulation of transposable elements and PIWI-interacting RNAs in myelodysplastic neoplasms",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "5 January 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s40364-025-00775-1",
+   "title": "Targeting myeloid cells for hematological malignancies: the present and future",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "29 March 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s40364-025-00734-w",
+   "title": "BNT162b2 mRNA vaccination affects the gut microbiome composition of patients with follicular lymphoma and chronic lymphocytic leukemia",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s40364-025-00816-9",
+   "title": "Salvage therapy containing sorafenib and donor lymphocyte infusion is associated with improved outcomes for FLT3 wild-type acute myeloid leukemia rela",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s40364-025-00799-7",
+   "title": "Novel immunotargets in multiple myeloma: biological relevance and therapeutic potential",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s40364-025-00740-y",
+   "title": "Homologous recombination deficiency (HRD) testing landscape: clinical applications and technical validation for routine diagnostics",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s40364-025-00820-z",
+   "title": "Combination immunotherapy targeting LAG-3, PD-1 and STING suppresses hepatocellular carcinoma as monitored by LAG-3 targeted PET imaging",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s40364-025-00812-z",
+   "title": "Development and validation of an integrative 54 biomarker-based risk identification model for multi-cancer in 42,666 individuals: a population-based p",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s40364-025-00750-w",
+   "title": "Targeting cGAS-STING pathway for reprogramming tumor-associated macrophages to enhance anti-tumor immunotherapy",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s40364-025-00818-7",
+   "title": "Therapeutic landscape of ovarian cancer: recent advances and emerging therapies",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 24
+  },
+  {
+   "doi": "10.1186/s40364-025-00805-y",
+   "title": "Proteomics in pancreatic cancer",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s40364-025-00766-2",
+   "title": "Deubiquitinase OTUD7B stabilizes HNF4\u03b1 to alleviate pressure overload-induced cardiac hypertrophy by regulating fatty acid oxidation and inhibiting fe",
+   "received": "2 February 2025",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s40364-025-00786-y",
+   "title": "Insights into KMT2A rearrangements in acute myeloid leukemia: from molecular characteristics to targeted therapies",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s40364-025-00854-3",
+   "title": "Decoding the mechanisms underlying breast cancer brain metastasis: paving the way for precision therapeutics",
+   "received": "16 July 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s40364-025-00795-x",
+   "title": "Heterogeneous characteristics of \u03b3\u03b4 T cells in peripheral blood of diffuse large B-cell lymphoma",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s40364-025-00825-8",
+   "title": "Targeting degradation of IKZF1 and IKZF3 through modulation of the E3 ligase substrates in the context of cellular therapies for multiple myeloma",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s40364-024-00721-7",
+   "title": "Chemotherapy in synergy with innate immune agonists enhances T cell priming for checkpoint inhibitor treatment in pancreatic cancer",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s40364-025-00803-0",
+   "title": "Emerging therapeutic agents in multiple myeloma: highlights from the 2024 ASH annual meeting",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s40364-025-00789-9",
+   "title": "Transcriptomic analysis of transformed small-cell lung cancer from EGFR-mutated lung adenocarcinoma reveals distinct subgroups and precision therapy o",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s40364-025-00739-5",
+   "title": "Toll-like receptor 3: a double-edged sword",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s40364-025-00727-9",
+   "title": "Deciphering mechanical cues in the microenvironment: from non-malignant settings to tumor progression",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "5 January 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s40364-025-00835-6",
+   "title": "Neurotransmitters in tumors: chemical cross-talk shaping tumor progression",
+   "received": "9 July 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1186/s40364-024-00693-8",
+   "title": "A pair of promising immune checkpoints PSGL-1 and VISTA from immunotolerance to immunotherapy",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s40364-024-00706-6",
+   "title": "Real-world use of tafasitamab preceding CD19-directed chimeric antigen receptor T-cell therapy for relapsed or refractory diffuse large B-cell lymphom",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s40364-025-00744-8",
+   "title": "Multiple regulatory events contribute to a widespread circular RNA downregulation in precancer and early stage of colorectal cancer development",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s40364-025-00846-3",
+   "title": "Proteomic and histopathologic profiling reveal molecular features and clinical biomarkers of coronary atherosclerosis",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s40364-025-00755-5",
+   "title": "Nanobody-enhanced chimeric antigen receptor T-cell therapy: overcoming barriers in solid tumors with VHH and VNAR-based constructs",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s40364-025-00824-9",
+   "title": "Crosstalk between lactylation and RNA modifications in tumorigenesis: mechanisms and therapeutic implications",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s40364-025-00733-x",
+   "title": "The role of BATF in immune cell differentiation and autoimmune diseases",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s40364-024-00705-7",
+   "title": "The LILRB family in hematologic malignancies: prognostic associations, mechanistic considerations, and therapeutic implications",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s40364-025-00815-w",
+   "title": "PKP1 promotes lung cancer by modulating energy metabolism through stabilization of PFKP",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s40364-025-00853-4",
+   "title": "WFIKKN2 is secreted and elevated in blood plasma of HER2-positive breast cancer patients \u2013 implications in cancer surveillance and recurrence monitori",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s40364-025-00834-7",
+   "title": "Epigenetic signatures on plasma cell-free DNA to detect kidney allograft rejection in a non-invasive way: development of a 10-plex digital PCR assay",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s40364-025-00837-4",
+   "title": "Blood proteomics for quantitative biomarkers of cellular therapies",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s40364-025-00793-z",
+   "title": "Diagnostic value of the wnt target and cancer-associated blood biomarker hPG80: ONCOPRO case-control prospective study",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s40364-024-00700-y",
+   "title": "Platelet signaling in immune landscape: comprehensive mechanism and clinical therapy",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s40364-025-00794-y",
+   "title": "RNA epigenetic modifications as dynamic biomarkers in cancer: from mechanisms to clinical translation",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s40364-025-00850-7",
+   "title": "THSD4 is a novel mediator of T cell exclusion and anti-PD-1 resistance in hormone receptor-positive breast cancer",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s40364-024-00710-w",
+   "title": "Insights into genetic aberrations and signalling pathway interactions in chronic lymphocytic leukemia: from pathogenesis to treatment strategies",
+   "received": "28 June 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 172
+  },
+  {
+   "doi": "10.1186/s40364-025-00736-8",
+   "title": "Advances in engineered T cell immunotherapy for autoimmune and other non-oncological diseases",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s40364-024-00718-2",
+   "title": "Global, regional, and national burden of esophageal cancer: a systematic analysis of the Global Burden of Disease Study 2021",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s40364-025-00785-z",
+   "title": "PAQR5 drives the malignant progression and shapes the immunosuppressive microenvironment of hepatocellular carcinoma by activating the NF-\u03baB signaling",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s40364-024-00692-9",
+   "title": "mRNA cancer vaccines from bench to bedside: a new era in cancer immunotherapy",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s40364-025-00847-2",
+   "title": "Epigenetic dysregulation of steroidogenesis and neuroactive steroid deficiency in premature ovarian insufficiency: implications for neurodegenerative ",
+   "received": "12 July 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s40364-025-00765-3",
+   "title": "Glucagon-like peptide 1 receptor agonists and cancer risk: advancing precision medicine through mechanistic understanding and clinical evidence",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s40364-025-00841-8",
+   "title": "Analysis of ultrastructural defects in sperm by transmission electron microscopy in asthenozoospermia patients: a study from multiple centers across C",
+   "received": "30 June 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s40364-024-00707-5",
+   "title": "Decoding burn trauma: biomarkers for early diagnosis of burn-induced pathologies",
+   "received": "22 September 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s40364-024-00699-2",
+   "title": "TRPM channels in human cancers: regulatory mechanism and therapeutic prospects",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s40364-025-00731-z",
+   "title": "Neutrophil extracellular traps in tumor metabolism and microenvironment",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s40364-025-00735-9",
+   "title": "Noninvasive in vivo imaging of macrophages: understanding tumor microenvironments and delivery of therapeutics",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40364-025-00836-5",
+   "title": "Machine learning-based radiomics model: prognostic prediction and mechanism exploration in patients with endometrial cancer",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s40364-025-00762-6",
+   "title": "Gamma delta T cells and their immunotherapeutic potential in cancer",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s40364-025-00784-0",
+   "title": "The progress and prospects of targeting the adenosine pathway in cancer immunotherapy",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s40364-025-00860-5",
+   "title": "Arginine methylation in cancer: mechanisms and therapeutic implications",
+   "received": "19 July 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s40364-025-00827-6",
+   "title": "High IL1R1 expression predicts poor survival and benefit from stem cell transplant in intermediate-risk acute myeloid leukemia from the Leucegene coho",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40364-025-00856-1",
+   "title": "Piwi-interacting RNA 775 (piR-775) predicts favorable prognosis and regulates cell cycle and DNA damage response pathways in breast cancer",
+   "received": "29 June 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s40364-025-00753-7",
+   "title": "Fatty acid metabolism shapes immune responses in chronic lymphocytic leukemia",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1186/s40364-025-00807-w",
+   "title": "T cells in cancer: mechanistic insights and therapeutic advances",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s40364-025-00757-3",
+   "title": "Extracellular matrix: unlocking new avenues in cancer treatment",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s40364-025-00851-6",
+   "title": "Immune, blood-brain barrier, and metabolic biomarkers mediate gut-brain axis crosstalk in alzheimer\u2019s disease",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s40364-025-00726-w",
+   "title": "SMAC-armed oncolytic virotherapy enhances the anticancer activity of PD1 blockade by modulating PANoptosis",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "5 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s40364-024-00703-9",
+   "title": "Lentivirus-based production of human chimeric antigen receptor macrophages from peripheral blood",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 6
+  },
+  {
+   "doi": "10.1186/s40364-025-00745-7",
+   "title": "Focal adhesion in the tumour metastasis: from molecular mechanisms to therapeutic targets",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s40364-025-00817-8",
+   "title": "Clinical stabilization of a highly refractory acute myeloid leukaemia under individualized treatment with immune response modifying drugs by in vivo g",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s40364-025-00814-x",
+   "title": "The distinct landscape of tumor immune microenvironment in homologous recombination deficient cancers",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s40364-025-00828-5",
+   "title": "Identification of urinary bacterial genes as biomarkers for non-invasive diagnosis of renal lupus",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s40364-025-00754-6",
+   "title": "Dynamic changes of bone microarchitecture and volumetric mineral density assessed by HR-pQCT in patients with cervical cancer after concurrent chemora",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s40364-025-00862-3",
+   "title": "Validation of BMP8A fibrosis score to identify patients with metabolic dysfunction-associated steatohepatitis with advanced liver fibrosis",
+   "received": "3 September 2025",
+   "revised": null,
+   "accepted": "18 October 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s40364-024-00719-1",
+   "title": "MORF4L2 induces immunosuppressive microenvironment and immunotherapy resistance through GRHL2/MORF4L2/H4K12Ac/CSF1 axis in triple-negative breast canc",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "24 December 2024",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s40364-024-00688-5",
+   "title": "Personalized circulating tumor DNA analysis for sensitive disease monitoring and detection of relapse in neuroblastoma",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s40364-025-00756-4",
+   "title": "NLRP4 unlocks an NK/macrophages-centered ecosystem to suppress non-small cell lung cancer",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s40364-025-00804-z",
+   "title": "High-throughput LDI MS technology decodes the distinct metabolic landscape of prostate cancer in a large-scale cohort",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s40364-024-00702-w",
+   "title": "Prevalence and clinical significance of Claudin-3 expression in cancer: a tissue microarray study on 14,966 tumor samples",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s40364-025-00822-x",
+   "title": "Targeting RPS6KC1 to overcome enzalutamide resistance in prostate cancer",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 303
+  },
+  {
+   "doi": "10.1186/s40364-025-00863-2",
+   "title": "Glioma tumor microenvironment and immunotherapy: past, present, and future",
+   "received": "23 June 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s40364-025-00764-4",
+   "title": "Revolutionizing oncology: the role of Artificial Intelligence (AI) as an antibody design, and optimization tools",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 16
+  },
+  {
+   "doi": "10.1186/s40364-024-00722-6",
+   "title": "The prognostic value of systemic immune-inflammation index in patients with unresectable hepatocellular carcinoma treated with immune-based therapy",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s40364-025-00844-5",
+   "title": "Molecular network of metabolic reprogramming and precision diagnosis and treatment of hepatocellular carcinoma",
+   "received": "7 June 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s40364-025-00747-5",
+   "title": "Long-term kinetics of proviral load in HTLV-1 carriers: defining risk for the development of adult T-cell leukemia/lymphoma",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s40364-025-00751-9",
+   "title": "5-Hydroxymethylcytosine modifications in circulating cell-free DNA: frontiers of cancer detection, monitoring, and prognostic evaluation",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s40364-025-00800-3",
+   "title": "A novel therapeutic strategy for osteosarcoma using anti-GD2 ADC and EZH2 inhibitor",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1186/s40364-025-00778-y",
+   "title": "Targeting the chemokine receptor CXCR4 for cancer therapies",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s40364-025-00777-z",
+   "title": "Reliable detection of CNS lymphoma-derived circulating tumor DNA in cerebrospinal fluid using multi-biomarker NGS profiling: insights from a real-worl",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s40364-025-00811-0",
+   "title": "Single-cell sequencing technology in renal cancer: insights into tumor biology and clinical application",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1186/s40364-025-00806-x",
+   "title": "USP21-EGFR-Lyn axis drives NSCLC progression and therapeutic potential of USP21 inhibition",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s40364-024-00697-4",
+   "title": "Microfluidic biosensors for biomarker detection in body fluids: a key approach for early cancer diagnosis",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s40364-025-00752-8",
+   "title": "Folate receptor 1 is a stemness trait-associated diagnostic and prognostic marker for hepatocellular carcinoma",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s40364-025-00855-2",
+   "title": "Novel therapeutic strategies for targeting fatty acid oxidation in cancer",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s40364-025-00808-9",
+   "title": "Computation strategies and clinical applications in neoantigen discovery towards precision cancer immunotherapy",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s40364-025-00774-2",
+   "title": "The evolving landscape of biomarkers for systemic therapy in advanced hepatocellular carcinoma",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "29 March 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s40364-025-00865-0",
+   "title": "Combinatorial BCL2/BCL2L1 expression predicts clinical response to ruxolitinib in myelofibrosis",
+   "received": "13 August 2025",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s40364-025-00839-2",
+   "title": "Emerging strategies and novel therapeutic targets in acute myeloid leukemia: current advances and future directions",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s40364-025-00759-1",
+   "title": "Multifaceted roles of Galectins: from carbohydrate binding to targeted cancer therapy",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s40364-025-00760-8",
+   "title": "Global, regional and national burden of rheumatoid arthritis from 1990 to 2021, with projections of incidence to 2050: a systematic and comprehensive ",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s40364-025-00732-y",
+   "title": "Progress in multi-omics studies of osteoarthritis",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 102
+  }
+ ]
+}

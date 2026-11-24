@@ -1,0 +1,1469 @@
+{
+ "issn": "1748-717X",
+ "journal": "Radiation Oncology",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:20.822379",
+ "source": "https://api.crossref.org/journals/1748-717X/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13014-025-02653-4",
+   "title": "Online adaptive stereotactic body radiotherapy for localized prostate cancer in patients with lower urinary tract symptoms and/or prostate hyperplasia",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s13014-025-02675-y",
+   "title": "Optimizing stereotactic ablative body radiotherapy for ultra-central lung lesions: a comparative dosimetric analysis",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1186/s13014-025-02689-6",
+   "title": "Investigating the necessity of adaptive radiotherapy in tomotherapy of head and neck cancer patients",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s13014-025-02627-6",
+   "title": "Prognostic value of tumour-stroma ratio in nasopharyngeal carcinoma: a two-center retrospective study",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "23 March 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1186/s13014-025-02610-1",
+   "title": "Survival analysis of patients with metastatic head and neck squamous cell carcinoma treated with metastasis-directed radiotherapy and immunotherapy",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13014-025-02591-1",
+   "title": "Neurocognitive impact of different irradiation modalities for patients with grade I-II skull base meningioma: a prospective multi-arm cohort study (CA",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1186/s13014-024-02577-5",
+   "title": "Single-arm multicenter phase II study on aggressive local consolidative therapy in combination with systemic chemotherapy for stage IV non-small cell ",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s13014-025-02704-w",
+   "title": "Technical aspects of SBRT for therapy-refractory ventricular tachycardia: a systematic review for radiation oncologists",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s13014-025-02717-5",
+   "title": "Magnetic resonance imaging-guided radiotherapy for portal vein tumor thrombus in hepatocellular carcinoma: outcomes and prognostic factors",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13014-025-02725-5",
+   "title": "Development and validation of a machine learning-based model for predicting radiation-induced hypothyroidism in nasopharyngeal carcinoma",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s13014-025-02647-2",
+   "title": "Carbon ion irradiation mobilizes antitumor immunity: from concept to the clinic",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 335
+  },
+  {
+   "doi": "10.1186/s13014-025-02624-9",
+   "title": "Practical recommendations for the management of radiodermatitis: on behalf of the ESTRO RTT committee",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s13014-025-02638-3",
+   "title": "Analysis of intra-fractional surface motion during adaptive radiation therapy and relation of internal vs. external position for prostate cancer",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13014-025-02740-6",
+   "title": "Effects and potential mechanisms of the ultra-high dose rate radiotherapy on lung injury: a review",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s13014-025-02698-5",
+   "title": "Efficacy and safety of stereotactic body radiotherapy for hepatocellular carcinoma with tumor thrombus in right atrium: a two-center retrospective rev",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13014-025-02678-9",
+   "title": "Impact of chemoradiotherapy for bladder cancer on pre-existing hydronephrosis and development of new hydronephrosis",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13014-025-02597-9",
+   "title": "Development of heart-sparing VMAT radiotherapy technique incorporating heart substructures for advanced NSCLC patients",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s13014-025-02713-9",
+   "title": "Comprehensive one-day management of prostate cancer patients: PRO-FAST single-fraction ablative, urethral-sparing, HDR-like, robotic SBRT",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13014-024-02560-0",
+   "title": "Dose to cardiac substructures and cardiovascular events in esophageal cancer patients treated with definitive radiotherapy",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s13014-025-02743-3",
+   "title": "Optimizing local control in Ewing sarcoma: a critical discussion of radiotherapy and surgical approaches with proposed decision-making algorithm; a na",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s13014-025-02662-3",
+   "title": "The role of radiotherapy in small cell carcinoma of the esophagus: a retrospective study",
+   "received": "10 January 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 482
+  },
+  {
+   "doi": "10.1186/s13014-025-02623-w",
+   "title": "Prognostic implications of tumor volume reduction during radiotherapy in locally advanced cervical cancer: a risk-stratified analysis",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s13014-024-02569-5",
+   "title": "Assessing intra- and interfraction motion and its dosimetric impacts on cervical cancer adaptive radiotherapy based on 1.5T MR-Linac",
+   "received": "4 January 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 337
+  },
+  {
+   "doi": "10.1186/s13014-025-02681-0",
+   "title": "Simultaneous concurrent chemoradiotherapy and esophagectomy for synchronous head and neck and esophageal squamous cell carcinoma: a retrospective revi",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 373
+  },
+  {
+   "doi": "10.1186/s13014-024-02576-6",
+   "title": "Functional outcome after Brachytherapy with bi-nuclide (Ru-106/Iodine-125) plaques in large uveal melanomas",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13014-025-02706-8",
+   "title": "From standardized to individualized margins for online adaptive tumor dose escalation in rectal cancer",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s13014-025-02709-5",
+   "title": "Elevated MS4A12 expression is indicative of resistance to concurrent chemoradiotherapy and inferior survival in patients with rectal cancer",
+   "received": "18 May 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13014-025-02737-1",
+   "title": "Prevalence of late xerostomia and hyposalivation with associated risk factors in survivors of head and neck cancer after radiotherapy: a multi-centric",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s13014-024-02572-w",
+   "title": "Improving total bone marrow and lymphoid irradiation: feasibility of intensity-modulated proton therapy (IMPT) and dosimetric comparison with helical ",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s13014-025-02620-z",
+   "title": "Early recovery of leukocyte subsets is associated with favorable progression-free survival in patients with inoperable stage II/III NSCLC after multim",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1186/s13014-025-02722-8",
+   "title": "Adaptive radiotherapy for gastrointestinal malignancies",
+   "received": "5 August 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 23
+  },
+  {
+   "doi": "10.1186/s13014-024-02558-8",
+   "title": "Use of antipsychotic drugs during radiotherapy in adult cancer patients in Korea: a nationwide retrospective cohort study based on the national health",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s13014-025-02744-2",
+   "title": "Clinical implementation of deep learning-based synthetic CT for MRI-only volumetric modulated arc therapy in head and neck and pelvic cancer patients",
+   "received": "10 May 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1186/s13014-025-02658-z",
+   "title": "Expanded analysis of vertebral endplate disruption and its impact on vertebral compression fracture risk",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s13014-025-02673-0",
+   "title": "Dynamic profiles of early biological responses to predict the treatment efficacy of proton therapy in liver cancer assessed with in vivo kinetic [18F]",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s13014-025-02648-1",
+   "title": "The investigation of opening modes of head and neck thermoplastic mask for radiotherapy based on finite element analysis",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s13014-025-02631-w",
+   "title": "Radiotherapy outcomes and risk factors for young patients with head-and-neck squamous cell carcinomas: a matched-pair analysis",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s13014-025-02679-8",
+   "title": "Advancements in the application of MRI radiomics in meningioma",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s13014-025-02685-w",
+   "title": "Prediction of health-related quality-of-life results after lung stereotactic body radiotherapy using dose-volume parameters from functional mapping on",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s13014-025-02660-5",
+   "title": "Feasibility study of automatic radiotherapy treatment planning for cervical cancer using a large language model",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13014-025-02731-7",
+   "title": "Analysis of metabolic liver function and MR-morphological cholestatic parameters after SBRT of liver metastases",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1186/s13014-024-02564-w",
+   "title": "Bone matching versus tumor matching in image-guided carbon ion radiotherapy for locally advanced non-small cell lung cancer",
+   "received": "17 May 2023",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 553
+  },
+  {
+   "doi": "10.1186/s13014-025-02702-y",
+   "title": "Proton therapy for adult type IDH-mutated glioma: Proglio-1, a multicenter retrospective study",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s13014-025-02608-9",
+   "title": "Stereotactic radiosurgery as neuromodulation of refractory angina: an initial case series",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 30
+  },
+  {
+   "doi": "10.1186/s13014-025-02700-0",
+   "title": "Direct-to-unit, single-visit, curative-intent online adaptive stereotactic ablative radiotherapy for early-stage lung adenocarcinoma",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1186/s13014-025-02670-3",
+   "title": "Long-term performance evaluation of a 1.5T MR-Linac using statistical process control techniques",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s13014-025-02760-2",
+   "title": "Prediction of three-dimensional dose distribution for patient-specific quality assurance based on log files using WingsNet",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "4 November 2025",
+   "days": 372
+  },
+  {
+   "doi": "10.1186/s13014-025-02752-2",
+   "title": "Potential impact of [18F]-FACBC PET in radiotherapy target definition of glioma",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s13014-025-02694-9",
+   "title": "CT-based auto-segmentation of multiple target volumes for all-in-one radiotherapy in rectal cancer patients",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13014-025-02663-2",
+   "title": "Risk factors for severity of breast cancer-related lymphedema",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13014-025-02659-y",
+   "title": "The dosimetric value and safety evaluation of 3D printed bolus in adjuvant intensity-modulated radiotherapy after radical mastectomy for breast cancer",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s13014-025-02622-x",
+   "title": "Diffusion-CSPAM U-Net: A U-Net model integrated hybrid attention mechanism and diffusion model for segmentation of computed tomography images of brain",
+   "received": "15 June 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1186/s13014-025-02611-0",
+   "title": "Pattern of recurrence after fractionated stereotactic reirradiation in adult glioblastoma",
+   "received": "2 June 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1186/s13014-025-02708-6",
+   "title": "Early prediction of proton therapy dose distributions and DVHs for hepatocellular carcinoma using contour-based CNN models from diagnostic CT and MRI",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s13014-025-02732-6",
+   "title": "Long-term anorectal function in rectal cancer patients managed by a watch-and-wait strategy after total neoadjuvant treatment: a cross-sectional study",
+   "received": "3 August 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s13014-025-02634-7",
+   "title": "Deep learning-powered radiotherapy dose prediction: clinical insights from 622 patients across multiple sites tumor at a single institution",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s13014-025-02701-z",
+   "title": "Radiation enteritis associated with temporal sequencing of total neoadjuvant therapy in locally advanced rectal cancer: a preliminary study",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s13014-024-02565-9",
+   "title": "Outcomes of definitive radiotherapy vs. laryngectomy followed by adjuvant radiotherapy in patients with locally advanced laryngeal squamous cell carci",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s13014-025-02629-4",
+   "title": "Bibliometric analysis and visualization of research trends in radiation dermatitis in the past twenty years",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s13014-024-02568-6",
+   "title": "Deep learning-based synthetic CT for dosimetric monitoring of combined conventional radiotherapy and lattice boost in large lung tumors",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13014-025-02644-5",
+   "title": "Prophylactic cranial irradiation in resected early stage small cell lung cancer: an updated systematic review and meta-analysis",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1186/s13014-025-02720-w",
+   "title": "Optimization and characterization of acute radiation-induced esophagitis in mice",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1186/s13014-025-02616-9",
+   "title": "Efficacy and safety of induction immunochemotherapy followed by radiotherapy for patients with unresectable locally advanced non-small cell lung cance",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s13014-025-02762-0",
+   "title": "Association of pulmonary lymphocytes with radiation-induced lung disease in a mouse model",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "12 November 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s13014-025-02733-5",
+   "title": "Locally advanced non-small cell lung cancer with negative or low programmed death ligand 1 expression: a prognostic factor analysis of real-world data",
+   "received": "10 August 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 415
+  },
+  {
+   "doi": "10.1186/s13014-025-02664-1",
+   "title": "Automatic cervical tumors segmentation in PET/MRI by parallel encoder U-net",
+   "received": "17 November 2023",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 542
+  },
+  {
+   "doi": "10.1186/s13014-025-02604-z",
+   "title": "Efficacy and safety of concurrent programmed cell death protein 1 inhibitor and definitive radiotherapy with immunonutrition support in esophageal squ",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s13014-025-02711-x",
+   "title": "Tumor irradiation induced immunogenic response: the impact of DNA damage induction and misrepair",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13014-025-02655-2",
+   "title": "Risk stratification of node-positive early-stage cervical cancer treated with radical hysterectomy followed by chemoradiotherapy: a retrospective sing",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s13014-025-02585-z",
+   "title": "Phase II clinical trial assessing the addition of hyperthermia to salvage concurrent chemoradiotherapy for unresectable recurrent head and neck cancer",
+   "received": "25 February 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 323
+  },
+  {
+   "doi": "10.1186/s13014-025-02707-7",
+   "title": "Anatomical outcome after brachytherapy with bi-nuclide (Ru-106/Iodine-125) plaques in large uveal melanomas",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 298
+  },
+  {
+   "doi": "10.1186/s13014-025-02599-7",
+   "title": "Incidence and predictors of lower extremity lymphedema after postoperative radiotherapy for prostate cancer",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1186/s13014-025-02726-4",
+   "title": "The impact of different neoadjuvant radiotherapy doses on survival outcomes and toxicity in patients with locally advanced rectal cancer",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13014-025-02603-0",
+   "title": "Deformable registration for nasopharyngeal carcinoma using adaptive mask and weight allocation strategy based CycleFCNs model",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s13014-025-02617-8",
+   "title": "Radiation-induced lung injury: from mechanism to prognosis and drug therapy",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s13014-025-02705-9",
+   "title": "A case series and literature review on extramedullary hematopoiesis in patients with thalassemia treated with conformal external beam radiation treatm",
+   "received": "7 May 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13014-025-02739-z",
+   "title": "Correlations of biochemical and clinical outcomes with 10-year results after robotic stereotactic body radiotherapy for localized prostate cancer",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1186/s13014-025-02736-2",
+   "title": "Multiple brain metastases: resection with IORT versus adjuvant radiotherapy and concurrent irradiation of unresected lesions",
+   "received": "2 September 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 33
+  },
+  {
+   "doi": "10.1186/s13014-024-02555-x",
+   "title": "Radiotherapy &amp; total neoadjuvant therapy for recurrent rectal cancer in previously irradiated patients, (RETRY): a multicenter prospective observa",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13014-025-02618-7",
+   "title": "Early experience with proton craniospinal irradiation in adult patients with leptomeningeal disease",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "1 March 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s13014-025-02601-2",
+   "title": "Therapeutic and prognostic impact of target volume delineation in postoperative radiotherapy for high-grade glioma patients with subventricular zone i",
+   "received": "13 April 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1186/s13014-025-02703-x",
+   "title": "Early prediction of histopathological response of locally advanced rectal cancer after 1\u00a0week of preoperative radiochemotherapy using 18FDG PET-CT ima",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13014-024-02582-8",
+   "title": "Developing an automatic treatment record review system for quality assurance of patient treatment delivery in radiation therapy",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 229
+  },
+  {
+   "doi": "10.1186/s13014-025-02715-7",
+   "title": "Nasopharyngeal cancer adaptive radiotherapy with CBCT-derived synthetic CT: deep learning-based auto-segmentation precision and dose calculation consi",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s13014-025-02719-3",
+   "title": "Improved local control using higher dose SBRT in metastatic sarcoma patients",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s13014-025-02758-w",
+   "title": "Validation and refinement of the 8th edition of the AJCC staging system for esophageal squamous cell carcinoma treated with definitive IMRT or chemo-I",
+   "received": "28 August 2025",
+   "revised": null,
+   "accepted": "30 October 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s13014-025-02606-x",
+   "title": "FAPI-PET/CT guided radiotherapy for patients with esophageal cancer",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s13014-025-02596-w",
+   "title": "Development of delayed pulmonary toxicities and transcriptional changes in pre-existing interstitial lung disease mice after partial thoracic irradiat",
+   "received": "28 July 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13014-025-02605-y",
+   "title": "Intra- and peri-tumoral radiomics based on dynamic contrast-enhanced MRI for prediction of benign disease in BI-RADS 4 breast lesions: a multicentre s",
+   "received": "14 July 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 218
+  },
+  {
+   "doi": "10.1186/s13014-024-02570-y",
+   "title": "Optimising (re-)irradiation for locally recurrent head and neck cancer: impact of dose-escalation, salvage surgery, PEG tube and biomarkers on oncolog",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 255
+  },
+  {
+   "doi": "10.1186/s13014-025-02718-4",
+   "title": "SSTR PET/CT for skull base low-grade meningioma: a critical tool for accurate gross tumor volume delineation in radiotherapy?",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13014-025-02646-3",
+   "title": "Application of 3D-printed compensators for proton pencil beam scanning of shallowly localized pediatric tumors",
+   "received": "14 January 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 465
+  },
+  {
+   "doi": "10.1186/s13014-025-02686-9",
+   "title": "Radiation therapy patients\u2019 interest in psychedelic-assisted therapy: results of a survey",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13014-025-02630-x",
+   "title": "Ultrahypofractionated partial breast irradiation following oncoplastic surgery: secondary analysis of a phase II trial",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13014-025-02671-2",
+   "title": "Evaluating large language models as an educational tool for meningioma patients: patient and clinician perspectives",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s13014-025-02642-7",
+   "title": "Smart contours: deep learning-driven internal gross tumor volume delineation in non-small cell lung cancer using 4D CT maximum and average intensity p",
+   "received": "8 September 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1186/s13014-025-02639-2",
+   "title": "Optimal dose-volume histogram thresholds for radiation pneumonitis prevention in lung cancer patients receiving immunotherapy",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13014-025-02654-3",
+   "title": "Fiducial tracking fidelity in robotic prostate SBRT: a comparison of a 3-fraction boost following pelvic nodal irradiation and definitive 5-fraction t",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13014-024-02578-4",
+   "title": "Effects of EGFR-TKIs combined with intracranial radiotherapy in EGFR-mutant non-small cell lung cancer patients with brain metastases: a retrospective",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s13014-025-02628-5",
+   "title": "Research trends and hot spots in the prevention and management of radiation dermatitis: a bibliometric analysis based on CiteSpace",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1186/s13014-025-02692-x",
+   "title": "Management of critically located brain metastases in patients with precluded survival using customised double-dose prescription-based, adaptive accele",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1186/s13014-025-02676-x",
+   "title": "The effect of training data size on real-time respiration prediction using long short-term memory model",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s13014-025-02730-8",
+   "title": "Advanced HyperSight\u2122 imaging for patients with adaptive SBRT of prostate cancer: a longitudinal analysis of tissue demarcation",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13014-025-02738-0",
+   "title": "Composite quantitative structural magnetic resonance imaging-based risk scoring model for predicting radiation-induced temporal lobe necrosis in nasop",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s13014-025-02594-y",
+   "title": "Stereotactic body radiotherapy with carbon ions as local ablative treatment in patients with primary liver cancer",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s13014-025-02643-6",
+   "title": "Real-time morphological and dosimetric adaptation in nasopharyngeal carcinoma radiotherapy: insights from autosegmented fractional fan-beam CT",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1186/s13014-025-02687-8",
+   "title": "Impact of treatment time and waiting time on outcome for esophageal squamous cell carcinoma receiving definitive chemoradiotherapy",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s13014-025-02621-y",
+   "title": "Gantry-based pencil beam scanning proton therapy for uveal melanoma: IMPT versus proton arc therapy",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s13014-025-02716-6",
+   "title": "Surrogating tumour cell density in head and neck cancer: [18F]FDG PET- versus ADC (MRI)-based approaches",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s13014-025-02677-w",
+   "title": "Beyond the ratio of tumor reduction: residual volume after induction chemotherapy emerges as the optimal biomarker in advanced nasopharyngeal cancer",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13014-024-02579-3",
+   "title": "High incidence of radiation-induced brain necrosis in the periventricular deep white matter: stereotactic radiotherapy for brain metastases using volu",
+   "received": "15 August 2024",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s13014-025-02667-y",
+   "title": "Outcomes of gamma knife treated large symptomatic arteriovenous malformations according to guidelines of Taiwan neurosurgical consensus",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s13014-025-02626-7",
+   "title": "Mathematical modeling in radiotherapy for cancer: a comprehensive narrative review",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s13014-025-02612-z",
+   "title": "Dummy run study for outlining and plan quality of intensity-modulated radiotherapy in elderly patients with newly diagnosed glioblastoma: The Japan cl",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s13014-025-02584-0",
+   "title": "Sequential or simultaneous-integrated boost in early-stage breast cancer patients: trade-offs between skin toxicity and risk of compromised coverage",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13014-025-02657-0",
+   "title": "Iodine-125 plesiotherapy for murine tumor treatment",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1186/s13014-025-02625-8",
+   "title": "Innovative applications of visualized thermosensitive color-changing personalized boluses in post-mastectomy radiotherapy: a dosimetric analysis",
+   "received": "5 January 2025",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s13014-025-02600-3",
+   "title": "Dosimetric investigation of multi-parametric 4D-MRI for radiotherapy in liver cancer",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s13014-025-02661-4",
+   "title": "The role of deep hyperthermia in IMRT in elderly patients with esophageal cancer: a retrospective cohort study",
+   "received": "27 April 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 374
+  },
+  {
+   "doi": "10.1186/s13014-024-02566-8",
+   "title": "Alpha/beta values in pediatric medulloblastoma: implications for tailored approaches in radiation oncology",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 140
+  },
+  {
+   "doi": "10.1186/s13014-025-02615-w",
+   "title": "Clinical practice in stereotactic radiotherapy delivery at treatment unit: a practitioner survey and consensus-based recommendations for multidiscipli",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s13014-025-02589-9",
+   "title": "Longitudinal assessment of diffusion-weighted imaging during magnetic resonance-guided radiotherapy in head and neck cancer",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13014-025-02649-0",
+   "title": "Risk factors for radiation pneumonitis in NSCLC patients treated with third-generation EGFR TKIs and chest radiotherapy",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s13014-025-02619-6",
+   "title": "Dosiomic predictors of biochemical failure in patients with localized prostate cancer treated with Iodine-125 low-dose-rate brachytherapy",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "8 March 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s13014-025-02742-4",
+   "title": "Spiral volumetric modulated arc therapy for whole-brain radiotherapy with simultaneous integrated boost to multiple brain metastases",
+   "received": "24 July 2025",
+   "revised": null,
+   "accepted": "19 October 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13014-025-02590-2",
+   "title": "Synthetic CT generation from CBCT and MRI using StarGAN in the Pelvic Region",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s13014-025-02602-1",
+   "title": "Prognostic nomogram for synchronous metastatic nasopharyngeal carcinoma: a retrospective multicentre study",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13014-025-02607-w",
+   "title": "Cardiac substructure dose distributions in node-positive and node-negative breast cancer patients undergoing 3D-CRT: comparing the predictive accuracy",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s13014-025-02652-5",
+   "title": "Exploring the impact of pelvic radiotherapy dose distribution on lymphocyte counts: a voxel-based analysis",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s13014-025-02723-7",
+   "title": "Study protocol: feasibility and safety of conventional external-beam radiotherapy with an integrated stereotactic lite gross-tumour-volume boost for p",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s13014-025-02680-1",
+   "title": "Hyperbaric oxygen therapy for late radiation tissue toxicity injury after head and neck cancer: a systematic review of the literature",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s13014-025-02721-9",
+   "title": "CHAT-RT study: ChatGPT in radiation oncology\u2014a survey on usage, perception, and impact among DEGRO members",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s13014-025-02593-z",
+   "title": "Neck muscle training improving the setup of reproducibility in patient with head and neck cancer receiving radiotherapy - a prospective randomized con",
+   "received": "29 May 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1186/s13014-025-02747-z",
+   "title": "Re-irradiation in oligorecurrence and oligometastatic cervical cancer in modern radiotherapy era",
+   "received": "29 July 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s13014-025-02682-z",
+   "title": "Prescription dose and optimisation strategies in MR-guided online adaptive radiotherapy for kidney tumours: a two-step planning analysis",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13014-025-02748-y",
+   "title": "Evaluation of CNN-based deep learning models for auto-contouring in glioblastoma radiotherapy: a review",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 217
+  },
+  {
+   "doi": "10.1186/s13014-025-02645-4",
+   "title": "The role of radiotherapy planning images in monitoring malnutrition and predicting prognosis in head and neck cancer patients: a pilot study",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1186/s13014-025-02672-1",
+   "title": "A nomogram integrating clinical stage and pre-EBV DNA to identify the cycles of induction chemotherapy for locoregionally advanced nasopharyngeal carc",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s13014-025-02669-w",
+   "title": "Implementation of ultra-hypofractionated radiotherapy for breast cancer in the Netherlands in 2020\u20132023, using registry data and questionnaires",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s13014-024-02580-w",
+   "title": "Efficacy and safety of proton radiotherapy in treating choroidal melanoma: a systematic review and meta-analysis",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13014-024-02581-9",
+   "title": "Characterization and dosimetric predictors for absolute lymphocyte count changes during neoadjuvant chemoradiotherapy with or without pembrolizumab fo",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s13014-025-02665-0",
+   "title": "Risk-adapted intensification therapy in high-risk prostate cancer: how relevant is the role of radiation dose",
+   "received": "16 April 2025",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 27
+  },
+  {
+   "doi": "10.1186/s13014-025-02632-9",
+   "title": "Impact of radiation response on survival in pediatric medulloblastoma with residual or disseminated disease",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13014-025-02714-8",
+   "title": "Comparative metabolomic analysis of human lung slices (hu-PCLS) exposed to either standard or FLASH protons: a pilot study",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s13014-025-02637-4",
+   "title": "Preoperative chemoradiotherapy for esophageal or gastroesophageal junction cancer: results from a retrospective study using extended CROSS regimen",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s13014-025-02666-z",
+   "title": "Defining occult disease in glioblastoma using spectroscopic MRI: implications for clinical target volume delineation",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s13014-025-02691-y",
+   "title": "Use of PULSAR (personalized ultra-fractionated stereotactic adaptive radiotherapy) as consolidation with immune checkpoint inhibition in the treatment",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1186/s13014-025-02688-7",
+   "title": "Moderately hypofractionated online adaptive radiotherapy (SWIFT-1) in cervical cancer patients: study protocol for a multi-centered, open-label, two-a",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13014-025-02696-7",
+   "title": "Early prediction of parotid glands secretory function based on ADC variations during radiotherapy for nasopharyngeal carcinoma: a phase II prospective",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13014-025-02727-3",
+   "title": "Autostent: a semi-automated approach to designing customized 3D-printed oral radiation stents for patients with head and neck cancer",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s13014-024-02559-7",
+   "title": "Stereotactic body radiotherapy as metastasis-directed therapy in oligometastatic prostate cancer: a systematic review and meta-analysis of randomized ",
+   "received": "1 July 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13014-025-02613-y",
+   "title": "Exploring a recurrence model for atypical meningioma based on multiparametric MRI radiomic and clinical characteristics: a multicenter retrospective c",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13014-025-02583-1",
+   "title": "Whole lung radiomic features are associated with overall survival in patients with locally advanced non-small cell lung cancer treated with definitive",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s13014-025-02734-4",
+   "title": "A contrast\u2011enhanced CT histogram\u2011driven nomogram for predicting post\u2011radiotherapy liver regeneration in hepatocellular carcinoma",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s13014-025-02712-w",
+   "title": "Integrating peritumor and tumor CT radiomics features in predicting local control after SBRT in patients with pulmonary oligometastases",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13014-025-02684-x",
+   "title": "Criteria-calibration approaches to deep learning-based cervical cancer radiation treatment auto-planning",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1186/s13014-024-02573-9",
+   "title": "Predicting local control of brain metastases after stereotactic radiotherapy with clinical, radiomics and deep learning features",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s13014-025-02633-8",
+   "title": "Implementation of a comprehensive clinical quality assurance system in radiation oncology",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "4 April 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13014-025-02609-8",
+   "title": "Effectiveness of personalized open-face mask combined with styrofoam fixation in radiotherapy treatment of head and neck cancers: a prospective random",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13014-024-02574-8",
+   "title": "Longitudinal dynamic MRI radiomic models for early prediction of prognosis in locally advanced cervical cancer treated with concurrent chemoradiothera",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13014-025-02697-6",
+   "title": "AI-driven online adaptive radiotherapy in prostate cancer treatment: considerations on activity time and dosimetric benefits",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13014-025-02587-x",
+   "title": "The impact of radiation-related lymphocyte recovery on the prognosis of locally advanced esophageal squamous cell carcinoma patients: a retrospective ",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13014-024-02571-x",
+   "title": "Impact of ground-glass component on prognosis in early-stage lung cancer treated with stereotactic body radiotherapy via Helical Tomotherapy",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s13014-025-02641-8",
+   "title": "Combined Spatial and Dosimetric Recurrence Pattern Analysis in Head and Neck Squamous Cell Carcinoma Following Postoperative (Chemo)radiotherapy",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1186/s13014-025-02592-0",
+   "title": "Postoperative radiotherapy improves disease-free survival of EGFR wild-type pN2 non-squamous-cell non-small-cell lung cancer (Nsq-NSCLC) patients afte",
+   "received": "11 January 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 377
+  },
+  {
+   "doi": "10.1186/s13014-025-02695-8",
+   "title": "A stacking ensemble framework integrating radiomics and deep learning for prognostic prediction in head and neck cancer",
+   "received": "9 February 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s13014-025-02668-x",
+   "title": "Radiation-induced cardiac substructure damage and dose constraints: a review",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s13014-025-02683-y",
+   "title": "Stereotactic radiotherapy with Gamma Master System\u00ae for palliation of hepatocellular carcinoma in patients with liver cirrhosis",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s13014-024-02531-5",
+   "title": "Dose prediction of CyberKnife Monte Carlo plan for lung cancer patients based on deep learning: robust learning of variable beam configurations",
+   "received": "13 March 2024",
+   "revised": null,
+   "accepted": "25 September 2024",
+   "days": 196
+  },
+  {
+   "doi": "10.1186/s13014-024-02567-7",
+   "title": "Estimation of adaptive radiation therapy requirements for rectal cancer: a two-center study",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13014-025-02640-9",
+   "title": "Stereotactic radiosurgery in pituitary metastases: a systematic review and meta-analysis",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13014-025-02614-x",
+   "title": "Smoking increases breast toxicity despite adjuvant hypofractionated IMRT in early breast cancer",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s13014-025-02693-w",
+   "title": "Stereotactic body radiotherapy for single and multiple early-stage non-small cell lung cancer in patients aged\u2009\u2265\u200980 years",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13014-025-02598-8",
+   "title": "Stereotactic body radiotherapy (SBRT) as a treatment for localized prostate cancer: a retrospective analysis",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13014-024-02562-y",
+   "title": "Short-term and long-term oncological outcomes of chemoradiotherapy for rectal cancer patients with or without oxaliplatin: a propensity score-matched ",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s13014-024-02575-7",
+   "title": "Comparison of radiation esophagitis associated with daytime versus evening radiotherapy in patients with esophageal carcinoma",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13014-025-02595-x",
+   "title": "Local control and recurrence patterns after stereotactic irradiation delivered in more than 4 fractions for hepatocellular carcinomas and liver metast",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "31 January 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s13014-025-02651-6",
+   "title": "Craniocaudal spread patterns of retropharyngeal lymph node metastasis in patients with hypopharyngeal carcinoma",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13014-025-02656-1",
+   "title": "Are treatment plans optimized on the basis of acuros XB dose calculation robust against anatomic changes during online adaptive radiotherapy for lung ",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "1 May 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s13014-025-02690-z",
+   "title": "Research trends of selective internal radiation therapy for liver cancer: a bibliometric analysis",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s13014-025-02699-4",
+   "title": "A prospective outcomes and cost-effective analysis of surgery compared to stereotactic body radiation therapy for stage I non-small cell lung cancer",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 381
+  },
+  {
+   "doi": "10.1186/s13014-025-02710-y",
+   "title": "CBCT-based online adaptive radiotherapy of the bladder \u2013 geometrical and dosimetrical considerations compared to conventional IGRT",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 169
+  }
+ ]
+}

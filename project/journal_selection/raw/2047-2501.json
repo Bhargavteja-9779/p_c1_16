@@ -1,0 +1,669 @@
+{
+ "issn": "2047-2501",
+ "journal": "Health Information Science and Systems",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:10.526836",
+ "source": "https://api.crossref.org/journals/2047-2501/works",
+ "articles": [
+  {
+   "doi": "10.1007/s13755-025-00387-x",
+   "title": "Neuro-signaling techniques in video gaming endorsements: a cognitive and neural dynamics approach",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1007/s13755-025-00384-0",
+   "title": "Timelygpt: extrapolatable transformer pre-training for long-term time-series forecasting in healthcare",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s13755-025-00383-1",
+   "title": "CTGFusionNet: fusion of deep learning models for predicting fetal distress\u2014a multimodal approach",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1007/s13755-025-00372-4",
+   "title": "Integrating clinical anxiety scales with pre-trained language models for anxiety recognition on social media",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1007/s13755-024-00327-1",
+   "title": "Csec-net: a novel deep features fusion and entropy-controlled firefly feature selection framework for leukemia classification",
+   "received": "5 June 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 188
+  },
+  {
+   "doi": "10.1007/s13755-024-00316-4",
+   "title": "Margin-aware optimized contrastive learning for enhanced self-supervised histopathological image classification",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "2 November 2024",
+   "days": 186
+  },
+  {
+   "doi": "10.1007/s13755-025-00398-8",
+   "title": "Text-based prediction of \u0131mmunohistochemical biomarkers in breast cancer using a generative large language model: a retrospective study",
+   "received": "8 August 2025",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s13755-025-00381-3",
+   "title": "Detecting self-harm in social media using term weighting schemes based on the distance between words and personal pronouns",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 268
+  },
+  {
+   "doi": "10.1007/s13755-025-00360-8",
+   "title": "The effect of physical activity on anti-infection immunity: a review",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "5 July 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s13755-025-00395-x",
+   "title": "Deep continual multitask out-of-hospital incident severity assessment from changing clinical features",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 389
+  },
+  {
+   "doi": "10.1007/s13755-025-00375-1",
+   "title": "Clustering environmental pollutants associated with increased risk of metabolic disease: a hierarchical analysis",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s13755-025-00362-6",
+   "title": "HASK-Net: new hybrid attention selective kernel network for automatic colon cancer detection from colonoscopy images",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 268
+  },
+  {
+   "doi": "10.1007/s13755-025-00350-w",
+   "title": "A novel clustered-based binary grey wolf optimizer to solve the feature selection problem for uncovering the genetic links between non-Hodgkin lymphom",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "5 April 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1007/s13755-025-00346-6",
+   "title": "CSL-CTEA: a systematic method for evaluating novel intelligent cognitive assessment tools",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1007/s13755-025-00397-9",
+   "title": "Large language models in healthcare: a systematic evaluation on medical Q/A datasets",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1007/s13755-025-00335-9",
+   "title": "Insights into depression prediction, likelihood, and associations in children and adolescents: evidence from a 12-years study",
+   "received": "15 February 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 321
+  },
+  {
+   "doi": "10.1007/s13755-025-00374-2",
+   "title": "Predictive modeling of depression and anxiety after myocardial infarction: a study on influential factors and heart rate variability",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1007/s13755-024-00322-6",
+   "title": "Coronary artery segmentation framework based on three types of U-Net and voting ensembles",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s13755-025-00379-x",
+   "title": "Enhancing LLM-based clinical reasoning in anesthesiology via graph-augmented retrieval and explainable generation",
+   "received": "13 July 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s13755-024-00330-6",
+   "title": "DEELE-Rad: exploiting deep radiomics features in deep learning models using COVID-19 chest X-ray images",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 337
+  },
+  {
+   "doi": "10.1007/s13755-025-00355-5",
+   "title": "JuryFusionNet: a Condorcet\u2019s jury theorem-based CNN ensemble for enhanced monkeypox detection from skin lesion images",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s13755-024-00331-5",
+   "title": "Real-time estimated Sequential Organ Failure Assessment (SOFA) score with intervals: improved risk monitoring with estimated uncertainty in health con",
+   "received": "5 March 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 288
+  },
+  {
+   "doi": "10.1007/s13755-025-00363-5",
+   "title": "LDD-VTS: an AI-based framework for lung disease diagnosis using vision transformers and SHAP",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1007/s13755-025-00357-3",
+   "title": "CnnBoost: a multilevel explainable stacked ensemble framework for effective detection of Myocardial Infarction from 12-lead ECG images using a transfo",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1007/s13755-025-00371-5",
+   "title": "Introduction of hierarchical deep features based on the VGG-16 model for enhancing diabetic retinopathy classification",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1007/s13755-025-00402-1",
+   "title": "A multimodal approach for cardiac signals classification using deep learning with explainable AI methods",
+   "received": "27 July 2025",
+   "revised": null,
+   "accepted": "15 November 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1007/s13755-025-00380-4",
+   "title": "Knowledge-enhanced medical image classification via descriptive priors from large language models",
+   "received": "28 July 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1007/s13755-025-00358-2",
+   "title": "The role of mitochondria-related proteins in inflammation and autoimmune diseases: a causal analysis using Mendelian randomization and colocalization",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1007/s13755-024-00324-4",
+   "title": "Exploring the application of machine learning to identify the correlations between phthalate esters and disease: enhancing nursing assessments",
+   "received": "11 April 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 243
+  },
+  {
+   "doi": "10.1007/s13755-024-00329-z",
+   "title": "An improved stacking model for predicting myocardial infarction risk in imbalanced data",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s13755-025-00385-z",
+   "title": "Disulfidptosis-associated gene signatures in sepsis: a diagnostic model based on an LLM-assisted bioinformatics analysis",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s13755-025-00389-9",
+   "title": "Observe, align, and enhance: a hierarchical retrieval-augmented vision-language model for generating radiology reports",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1007/s13755-025-00361-7",
+   "title": "CardioTabNet: a novel hybrid transformer model for heart disease prediction using tabular medical data",
+   "received": "16 March 2024",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 478
+  },
+  {
+   "doi": "10.1007/s13755-025-00392-0",
+   "title": "Association between high-dose calcium supplementation during pregnancy and risk of placental disorders and low birth weight in Iranian women",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 362
+  },
+  {
+   "doi": "10.1007/s13755-025-00339-5",
+   "title": "LASF: a local adaptive segmentation framework for coronary angiogram segments",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1007/s13755-025-00386-y",
+   "title": "Evaluating topological and graph-theoretical approaches to extract complex multimodal brain connectivity patterns in multiple sclerosis",
+   "received": "30 July 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s13755-025-00343-9",
+   "title": "Enhanced prediction of spine surgery outcomes using advanced machine learning techniques and oversampling methods",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1007/s13755-025-00344-8",
+   "title": "GEP-DNN4Mol: automatic chemical molecular design based on deep neural networks and gene expression programming",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s13755-025-00340-y",
+   "title": "Segmentation and severity classification of scar tissues in LGE-CMR images using HDResC-Net with Flamingo gannet search optimization",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s13755-025-00359-1",
+   "title": "UniMRE: a unified framework for zero-shot medicial relation extraction with large language models",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s13755-025-00399-7",
+   "title": "MOLiNAS: multi-objective lightweight neural architecture search for whole-slide multi-class blood cell segmentation",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "2 November 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1007/s13755-025-00391-1",
+   "title": "Semi-supervised abdominal multi-organ segmentation via dual-task de-biased consistency",
+   "received": "10 August 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s13755-025-00354-6",
+   "title": "Automatic detection of gastrointestinal system abnormalities using deep learning-based segmentation and classification methods",
+   "received": "7 December 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1007/s13755-025-00370-6",
+   "title": "CF-DTI: coarse-to-fine feature extraction for enhanced drug-target interaction prediction",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1007/s13755-025-00382-2",
+   "title": "Multi-dimensional perceptual quality assessment for magnetic resonance images",
+   "received": "22 July 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s13755-025-00345-7",
+   "title": "Spatial and frequency domain-based feature fusion for accurate detection of schizophrenia using AI-driven approaches",
+   "received": "5 February 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 386
+  },
+  {
+   "doi": "10.1007/s13755-025-00356-4",
+   "title": "Multi-teacher based knowledge distillation for retinal vessel segmentation",
+   "received": "22 March 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s13755-025-00376-0",
+   "title": "Supervised prediction of post-stroke upper limb motor recovery with uncertain knowledge graph and large language model",
+   "received": "25 July 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s13755-025-00338-6",
+   "title": "Detecting autism in children through drawing characteristics using the visual-motor integration test",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s13755-025-00390-2",
+   "title": "Structured reflective reasoning for precise medical knowledge graph retrieval augmented generation",
+   "received": "10 July 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1007/s13755-024-00318-2",
+   "title": "Identification of circRNA-miRNA-mRNA networks to explore underlying mechanism in lung cancer",
+   "received": "1 September 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 79
+  },
+  {
+   "doi": "10.1007/s13755-025-00365-3",
+   "title": "The contrastive learning method in tongue image representation learning and its significance in intelligent diagnosis",
+   "received": "8 September 2024",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 326
+  },
+  {
+   "doi": "10.1007/s13755-025-00351-9",
+   "title": "Multimodal interpretable data-driven models for early prediction of multidrug resistance using multivariate time series",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1007/s13755-025-00364-4",
+   "title": "K-cql: an arterial blood gas analysis-based deep offline reinforcement learning algorithm for mechanical ventilation treatment",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 292
+  },
+  {
+   "doi": "10.1007/s13755-025-00341-x",
+   "title": "Hyperbolic vision language representation learning on chest radiology images",
+   "received": "28 September 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1007/s13755-025-00337-7",
+   "title": "Deep transfer learning hybrid techniques for precision in breast cancer tumor histopathology classification",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1007/s13755-025-00342-w",
+   "title": "iAMP-CRA: Identifying Antimicrobial Peptides Using Convolutional Recurrent Neural Network with Self-Attention",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1007/s13755-025-00393-z",
+   "title": "A hybrid deep learning approach for accurate diagnosis of tibiofibula open and closed fractures using x-ray images",
+   "received": "22 June 2025",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s13755-025-00348-4",
+   "title": "Optimized seizure detection leveraging band-specific insights from limited EEG channels",
+   "received": "1 September 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1007/s13755-024-00317-3",
+   "title": "Advancing personalized healthcare: leveraging explainable AI for BPPV risk assessment",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 168
+  },
+  {
+   "doi": "10.1007/s13755-024-00319-1",
+   "title": "Prediction of miRNA-disease association based on heterogeneous hypergraph convolution and heterogeneous graph multi-scale convolution",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s13755-025-00349-3",
+   "title": "Enhancing cancer subtype classification through convolutional neural networks: a deepinsight analysis of TCGA gene expression data",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1007/s13755-025-00347-5",
+   "title": "Leveraging deep learning for epigenetic protein prediction: a novel approach for early lung cancer diagnosis and drug discovery",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1007/s13755-025-00388-w",
+   "title": "Reconstructing brain causal dynamics for subject and task fingerprints using fMRI time-series data",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1007/s13755-024-00326-2",
+   "title": "DRAW+: network-based computational drug repositioning with attention walking and noise filtering",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s13755-024-00323-5",
+   "title": "Causal relationship between apolipoprotein B and risk of atherosclerotic cardiovascular disease: a mendelian randomization analysis",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 98
+  },
+  {
+   "doi": "10.1007/s13755-025-00368-0",
+   "title": "Analyses of different prescriptions for health using artificial intelligence: a critical approach based on the international guidelines of health inst",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s13755-025-00400-3",
+   "title": "Vaner2: towards more general biomedical named entity recognition using multi-task large language model encoders",
+   "received": "31 May 2025",
+   "revised": null,
+   "accepted": "7 November 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1007/s13755-024-00332-4",
+   "title": "Leveraging patients\u2019 longitudinal data to improve the Hospital One-year Mortality Risk",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 153
+  },
+  {
+   "doi": "10.1007/s13755-025-00373-3",
+   "title": "Unraveling bladder cancer-related circRNA biomarkers: a hybrid model combining deep learning and statistics",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s13755-025-00378-y",
+   "title": "Enhancing medical image report generation using a self-boosting multimodal alignment framework",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1007/s13755-025-00353-7",
+   "title": "A high-precision hierarchical registration approach for stain- and scanner-independent colocalization on whole slide images in histopathology",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 300
+  },
+  {
+   "doi": "10.1007/s13755-025-00366-2",
+   "title": "An EEG-based patient-independent epileptic seizure detection method based on domain generative adversarial network",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s13755-024-00333-3",
+   "title": "A 3D decoupling Alzheimer\u2019s disease prediction network based on structural MRI",
+   "received": "27 February 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 300
+  },
+  {
+   "doi": "10.1007/s13755-025-00369-z",
+   "title": "Identification and applications of disease-associated differential human and bacterial proteins with metaproteomic evidence",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1007/s13755-025-00352-8",
+   "title": "Cerebral ischemia detection using deep learning techniques",
+   "received": "12 January 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 473
+  },
+  {
+   "doi": "10.1007/s13755-024-00321-7",
+   "title": "LesionScanNet: dual-path convolutional neural network for acute appendicitis diagnosis",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s13755-024-00334-2",
+   "title": "Towards cognition\u2013emotion\u2013behaviour models of nonsuicidal self-injury: a knowledge graph approach",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 346
+  },
+  {
+   "doi": "10.1007/s13755-025-00377-z",
+   "title": "GradCAM as an explicability method to evaluate the performance of deep learning models in classifying pediatric arteriovenous malformations (AVM) in a",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 450
+  },
+  {
+   "doi": "10.1007/s13755-025-00367-1",
+   "title": "An interpretable machine learning model for predicting sepsis-induced cardiomyopathy in ICU patients: development and validation using the MIMIC-IV da",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1007/s13755-024-00328-0",
+   "title": "Synergistic integration of brain networks and time-frequency multi-view feature for sleep stage classification",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s13755-024-00320-8",
+   "title": "AI-driven approaches for automatic detection of sleep apnea/hypopnea based on human physiological signals: a review",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 143
+  }
+ ]
+}

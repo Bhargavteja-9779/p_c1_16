@@ -1,0 +1,893 @@
+{
+ "issn": "2432-2725",
+ "journal": "Journal of Computational Social Science",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:16.334383",
+ "source": "https://api.crossref.org/journals/2432-2725/works",
+ "articles": [
+  {
+   "doi": "10.1007/s42001-025-00419-2",
+   "title": "Understanding conversations on alcohol across diverse Reddit communities: a computational analysis",
+   "received": "19 January 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1007/s42001-025-00402-x",
+   "title": "Digital epidemiology: leveraging social media for insight into epilepsy and mental health",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1007/s42001-025-00393-9",
+   "title": "Dynamics of global trade diplomacy: an artificial intelligence multi-dimensional analysis of preferential trade agreements",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 257
+  },
+  {
+   "doi": "10.1007/s42001-025-00366-y",
+   "title": "Stance classification: a comparative study and use case on Australian parliamentary debates",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1007/s42001-025-00379-7",
+   "title": "Predicting news deserts using supervised machine learning",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s42001-025-00386-8",
+   "title": "Towards fair AI: a review of bias and fairness in machine intelligence",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s42001-025-00383-x",
+   "title": "SME crisis management and performance: leveraging algorithm supported induction to unravel complexity",
+   "received": "25 January 2025",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s42001-025-00359-x",
+   "title": "Autonomy or control? An agent-based study of self-organising versus centralised task allocation",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s42001-024-00331-1",
+   "title": "Long-term care comparative studies by agent-based simulation: a computational framework and a case study",
+   "received": "13 February 2023",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 630
+  },
+  {
+   "doi": "10.1007/s42001-024-00329-9",
+   "title": "Local explainability-based model for clickbait spoiler generation",
+   "received": "28 June 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s42001-025-00408-5",
+   "title": "\u201cEven I believed it! How is it possible?\u201d The disinformation exam of journalists in the AI age: fuzzy logical approach",
+   "received": "16 March 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s42001-025-00400-z",
+   "title": "Multi-opinion based method for quantifying polarization on social networks",
+   "received": "22 September 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1007/s42001-024-00347-7",
+   "title": "How culture can affect opinion dynamics: the case of vaccination",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 165
+  },
+  {
+   "doi": "10.1007/s42001-025-00437-0",
+   "title": "Machine learning techniques with fairness for prediction of completion of drug and alcohol rehabilitation",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 363
+  },
+  {
+   "doi": "10.1007/s42001-025-00395-7",
+   "title": "Innovative deep learning-based CEA-MMSA framework for cultural emotion analysis of Tamil and Sanskrit Siddha palm leaf manuscripts",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s42001-024-00348-6",
+   "title": "ViTHSD: exploiting hatred by targets for hate speech detection on Vietnamese social media texts",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s42001-025-00381-z",
+   "title": "A systematic review of echo chamber research: comparative analysis of conceptualizations, operationalizations, and varying outcomes",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1007/s42001-025-00391-x",
+   "title": "Multi-model ensemble framework for analysis of psychopathic traits in heinous crime convicts",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s42001-025-00405-8",
+   "title": "Evaluating area-level features for proxy means test models: evidence from rural, semi-urban and urban districts in poverty targeting",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s42001-025-00378-8",
+   "title": "Evaluating tenant-landlord tensions using generative AI on online tenant forums",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s42001-025-00398-4",
+   "title": "Beyond failure rates: unveiling startup success factors with machine learning",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1007/s42001-025-00432-5",
+   "title": "Systematic literature review on hate speech detection in Indian low-resource languages",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 244
+  },
+  {
+   "doi": "10.1007/s42001-024-00332-0",
+   "title": "A comprehensive investigation of variational auto-encoders for population synthesis",
+   "received": "8 April 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 210
+  },
+  {
+   "doi": "10.1007/s42001-024-00334-y",
+   "title": "A structural equation modeling approach to leveraging the power of extant sentiment analysis tools",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "7 October 2024",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s42001-025-00424-5",
+   "title": "Leveraging machine learning and resampling techniques to analyze contributing factors to child labor in Egypt",
+   "received": "15 February 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s42001-025-00364-0",
+   "title": "Outlier mining in criminal networks: the role of machine learning and outlier detection models",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "31 January 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1007/s42001-025-00415-6",
+   "title": "Reading between the lines with topic models and machine learning: Islam\u2019s representation on Wikipedia",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1007/s42001-025-00440-5",
+   "title": "AI-driven forecasting of rural development in India: a deep learning case study on the gram panchayat development plan",
+   "received": "25 August 2024",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 403
+  },
+  {
+   "doi": "10.1007/s42001-024-00337-9",
+   "title": "Post Covid-19 economic and social impact on international migrant workers employment vulnerability: empirical evidence from Chittagong division, Bangl",
+   "received": "16 November 2023",
+   "revised": null,
+   "accepted": "24 September 2024",
+   "days": 313
+  },
+  {
+   "doi": "10.1007/s42001-024-00354-8",
+   "title": "Combining Twitter and mobile phone data to observe border-rush: the Turkish-European border opening",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 207
+  },
+  {
+   "doi": "10.1007/s42001-024-00328-w",
+   "title": "Modeling resilience and survivability as stochastic processes with techno-human-economic systems under stress",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 209
+  },
+  {
+   "doi": "10.1007/s42001-025-00436-1",
+   "title": "Agent-based modeling on economic dynamics\u2014Why competing automakers coexist in Japan?",
+   "received": "5 July 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s42001-024-00353-9",
+   "title": "Modelling policy action using natural language processing: evidence for a long-run increase in policy activism in the UK",
+   "received": "1 May 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 223
+  },
+  {
+   "doi": "10.1007/s42001-025-00382-y",
+   "title": "\u2018Slightly disappointing\u2019 vs. \u2018worst sh** ever\u2019: tackling cultural differences in negative sentiment expressions in AI-based sentiment analysis",
+   "received": "15 June 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 289
+  },
+  {
+   "doi": "10.1007/s42001-025-00407-6",
+   "title": "Exploratory and explanatory features in data storytelling: untangling the interplay and associations with linearity, interactivity, and structure",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s42001-025-00433-4",
+   "title": "Auditing the bias of conversational AI systems in occupational recommendations: a novel approach to bias quantification via Holland\u2019s theory",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1007/s42001-025-00413-8",
+   "title": "Breaking the silence: the rise of hate speech in Spanish politics",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1007/s42001-024-00342-y",
+   "title": "Enumeration and sampling analysis of Montana\u2019s 2020 congressional redistricting map",
+   "received": "7 February 2024",
+   "revised": null,
+   "accepted": "8 September 2024",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s42001-025-00384-w",
+   "title": "A comparative study of automated undergraduate engineering admission prediction in an Indian university using machine learning",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1007/s42001-025-00363-1",
+   "title": "A multidimensional analysis of media framing in the Russia-Ukraine war",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1007/s42001-025-00423-6",
+   "title": "Analyzing adolescents\u2019 e-cigarette initiation tendency using explainable machine learning",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s42001-025-00431-6",
+   "title": "Analyzing public sentiment in Iranian presidential elections on Twitter using large language models",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1007/s42001-024-00340-0",
+   "title": "Traffic management systems: a survey of current solutions and emerging technologies",
+   "received": "10 March 2023",
+   "revised": null,
+   "accepted": "25 September 2024",
+   "days": 565
+  },
+  {
+   "doi": "10.1007/s42001-024-00344-w",
+   "title": "Application of explainable artificial intelligence approach to predict student learning outcomes",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s42001-024-00345-9",
+   "title": "Open-source LLMs for text annotation: a practical guide for model setting and fine-tuning",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 224
+  },
+  {
+   "doi": "10.1007/s42001-025-00426-3",
+   "title": "We know who we are: expressing national identity on YouTube video comments",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1007/s42001-025-00385-9",
+   "title": "CEOs\u2019 online personality and their company\u2019s business strategy: openness to experience predicts diversifying merger and acquisition decisions",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 200
+  },
+  {
+   "doi": "10.1007/s42001-025-00401-y",
+   "title": "The spread of pro- and anti-vaccine views by coordinated communities on facebook during COVID-19 pandemic",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1007/s42001-025-00376-w",
+   "title": "Assessing political bias in large language models",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s42001-025-00410-x",
+   "title": "Tracking the global pulse: the first public twitter dataset from FIFA world cup",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1007/s42001-024-00357-5",
+   "title": "Exploring incel group dynamics: a computational study of hierarchy and group-boundary policing",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s42001-025-00422-7",
+   "title": "Filter bubbles as a vector of tradition? Decoding opinion dynamics with agent-based modelling",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1007/s42001-024-00351-x",
+   "title": "Exploring beyond detection: a review on fake news prevention and mitigation techniques",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 192
+  },
+  {
+   "doi": "10.1007/s42001-024-00355-7",
+   "title": "Impact of information disparity between individual investors on profits of meme stocks using an artificial market simulation approach",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s42001-025-00372-0",
+   "title": "Unraveling media perspectives: a comprehensive methodology combining large language models, topic modeling, sentiment analysis, and ontology learning ",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 218
+  },
+  {
+   "doi": "10.1007/s42001-025-00369-9",
+   "title": "Modelling emergent pedestrian evacuation behaviors from intelligent, game-playing agents",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1007/s42001-024-00356-6",
+   "title": "Substance use prediction using artificial intelligence techniques",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 291
+  },
+  {
+   "doi": "10.1007/s42001-025-00399-3",
+   "title": "Reducing sexual predation and victimization through warnings and awareness among high-risk users",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s42001-025-00434-3",
+   "title": "Sentiment analysis of code-mixed Telugu\u2013English text using transformers",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1007/s42001-025-00442-3",
+   "title": "Analyzing polarization among Spanish political elites using machine learning techniques",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 350
+  },
+  {
+   "doi": "10.1007/s42001-024-00330-2",
+   "title": "Flood of techniques and drought of theories: emotion mining in disasters",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 111
+  },
+  {
+   "doi": "10.1007/s42001-024-00346-8",
+   "title": "Exploring China\u2019s cyber sovereignty concept and artificial intelligence governance model: a machine learning approach",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s42001-025-00428-1",
+   "title": "A systematic review of AI-based feedback in educational settings",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1007/s42001-025-00392-w",
+   "title": "The face of populism: examining differences in facial emotional expressions of political leaders using machine learning",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s42001-025-00358-y",
+   "title": "Identity diversification and homogenization: evidence from frequent estimates of similarity of self-authored, self-descriptive text",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1007/s42001-024-00338-8",
+   "title": "In generative AI we trust: can chatbots effectively verify political information?",
+   "received": "21 April 2024",
+   "revised": null,
+   "accepted": "25 September 2024",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s42001-024-00335-x",
+   "title": "Affective, cognitive, and contextual cues in Reddit posts on artificial intelligence",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "28 September 2024",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s42001-024-00339-7",
+   "title": "Individual differences in escalation of commitment: a multi-level adaptive learning perspective",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "24 September 2024",
+   "days": 153
+  },
+  {
+   "doi": "10.1007/s42001-025-00427-2",
+   "title": "Simulating relational event history data: why and how",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1007/s42001-025-00403-w",
+   "title": "Detecting misinformation through framing theory: the frame element-based model",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1007/s42001-025-00375-x",
+   "title": "Integrating media sentiment with traditional economic indicators: a study on PMI, CCI, and employment during COVID-19 period in Poland",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s42001-025-00370-2",
+   "title": "Network position and learning dynamics: unveiling the impact of social structure on skill acquisition in online gaming platforms",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1007/s42001-025-00396-6",
+   "title": "Exploring the role of information security news descriptions on retweet proneness and user interactions",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s42001-025-00397-5",
+   "title": "Periodicity of sex worker touring: an image-assisted analysis",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1007/s42001-025-00414-7",
+   "title": "A review of human mobility: Linking data, models, and real-world applications",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1007/s42001-025-00362-2",
+   "title": "Replacing or enhancing the human coder? Multiclass classification of policy documents with large language models",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1007/s42001-024-00352-w",
+   "title": "Prefix tuning with prompt augmentation for efficient financial news summarization",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 175
+  },
+  {
+   "doi": "10.1007/s42001-025-00429-0",
+   "title": "Uncovering hidden alliances in organized crime networks with machine learning: from node similarity to graph neural networks",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s42001-025-00390-y",
+   "title": "Measuring satirical uptake using word sentiment",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s42001-024-00336-w",
+   "title": "Measuring the communication between multiple digital political echo chambers: multidimensional Invasiveness, Intrusiveness, and Influence",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "26 September 2024",
+   "days": 176
+  },
+  {
+   "doi": "10.1007/s42001-025-00404-9",
+   "title": "Predicting socio-economic well-being using mobile apps data: a case study of France",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1007/s42001-025-00421-8",
+   "title": "Intelligent money laundering detection approaches in banking and E-wallets: a comprehensive survey",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s42001-025-00368-w",
+   "title": "Differences of communication activity and mobility patterns between urban and rural people",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1007/s42001-025-00406-7",
+   "title": "Enhancing tokenization accuracy with dynamic patterns: cumulative logic for segmenting user-generated content in logographic languages",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s42001-025-00380-0",
+   "title": "Quantifying collective attention and fan engagement: a case study of the Japanese professional baseball league",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1007/s42001-025-00394-8",
+   "title": "Use of brain-computer interface in educational paradigm",
+   "received": "21 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s42001-025-00438-z",
+   "title": "The emotional trajectory of non-suicidal self-injury: sentiment analysis using social media data",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 273
+  },
+  {
+   "doi": "10.1007/s42001-025-00371-1",
+   "title": "Impact of personal information and reputation system on gig workers\u2019 employment status: an interpretable machine learning-based approach",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1007/s42001-025-00425-4",
+   "title": "Improving homeless service assignment outcomes",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 308
+  },
+  {
+   "doi": "10.1007/s42001-025-00387-7",
+   "title": "Understanding the intention to use artificial intelligence chatbots in education: The role of individual innovativeness and AI trust among university ",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1007/s42001-025-00420-9",
+   "title": "Exploring the structure of the school curriculum with graph neural networks",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1007/s42001-025-00377-9",
+   "title": "On the incidence of depression symptoms on social media",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1007/s42001-025-00365-z",
+   "title": "Sentiment analysis of solar energy in U.S. Cities: a 10-year analysis using transformer-based deep learning",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s42001-024-00349-5",
+   "title": "Detecting toxic comments on social media: an extensive evaluation of machine learning techniques",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s42001-025-00373-z",
+   "title": "AI-driven crime prediction: a systematic literature review",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1007/s42001-025-00411-w",
+   "title": "Performance efficient vehicle detection and tracking based on pyramid pooling network: a review and implementation",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1007/s42001-024-00343-x",
+   "title": "Climate change denial and ideology in Swedish online media: measuring ideology change using a computational approach",
+   "received": "12 May 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 190
+  },
+  {
+   "doi": "10.1007/s42001-025-00417-4",
+   "title": "Space-time clustering and Bayesian network modelling of suicide dynamics in India",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1007/s42001-024-00333-z",
+   "title": "More pressing matters: Can priority reorientation beat online misinformation?",
+   "received": "13 November 2023",
+   "revised": null,
+   "accepted": "11 October 2024",
+   "days": 333
+  },
+  {
+   "doi": "10.1007/s42001-024-00341-z",
+   "title": "Identifying the factors influencing the development of bilateral investment treaties with health safeguards: a Machine Learning-based link prediction ",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "25 September 2024",
+   "days": 134
+  },
+  {
+   "doi": "10.1007/s42001-025-00361-3",
+   "title": "Where did you come from, where did you go? News trajectories in Germany and Switzerland",
+   "received": "5 June 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 194
+  },
+  {
+   "doi": "10.1007/s42001-025-00412-9",
+   "title": "Success prediction of online news about TV series with machine learning, Google Analytics, and Twitter",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1007/s42001-025-00416-5",
+   "title": "Governance, quality of life and city performance: A study based on artificial intelligence",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1007/s42001-025-00374-y",
+   "title": "Content-aware sentiment understanding: cross-modal analysis with encoder-decoder architectures",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1007/s42001-025-00388-6",
+   "title": "Prompt selection matters: enhancing text annotations for social sciences with large language models",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1007/s42001-025-00360-4",
+   "title": "Capitalizing on a crisis: a computational analysis of all five million British firms during the Covid-19 pandemic",
+   "received": "23 June 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1007/s42001-025-00367-x",
+   "title": "Semi-supervised self-training for COVID-19 misinformation detection: analyzing Twitter data and alternative news media on Norwegian Twitter",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 217
+  },
+  {
+   "doi": "10.1007/s42001-024-00350-y",
+   "title": "Characteristics of two polarized groups in online social networks\u2019 controversial discourse",
+   "received": "25 May 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s42001-025-00418-3",
+   "title": "Smart social junction traffic control using reinforcement learning on real data",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1007/s42001-025-00409-4",
+   "title": "Deduplication of the media-based event databases",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 267
+  }
+ ]
+}

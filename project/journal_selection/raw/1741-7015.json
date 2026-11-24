@@ -1,0 +1,1597 @@
+{
+ "issn": "1741-7015",
+ "journal": "BMC Medicine",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:09:56.449531",
+ "source": "https://api.crossref.org/journals/1741-7015/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12916-024-03803-3",
+   "title": "Proteomics-based mortality prediction modeling in type 2 diabetes: new promise for personalized treatment and prevention",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 21
+  },
+  {
+   "doi": "10.1186/s12916-025-03958-7",
+   "title": "Effect of a single-dose denosumab on mineral homeostasis in infertile men: insights from a pilot intervention study and a randomized controlled trial",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12916-024-03788-z",
+   "title": "Differences in intention to receive clinician-collected and self-collected samples for HPV DNA testing and its determinants between heterosexual males",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12916-025-04391-6",
+   "title": "Circulating transthyretin with atrial morpho-functional phenotypes and atrial fibrillation risk, and the modifying role of BMI",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1186/s12916-024-03808-y",
+   "title": "Risk of mortality between warfarin and direct oral anticoagulants: population-based cohort studies",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 234
+  },
+  {
+   "doi": "10.1186/s12916-025-03946-x",
+   "title": "Effect of combination of multiple anti-inflammatory drugs strategy on postoperative delirium among older patients undergoing hip fracture surgery: a p",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s12916-025-04299-1",
+   "title": "Accuracy of NT-proBNP for predicting mortality amongst patients with ischemic stroke: a systematic review and meta-analysis",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s12916-025-04326-1",
+   "title": "\u2018It\u2019s the perfect storm\u2019: why are people with eating disorders at risk of suicide? A qualitative study",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12916-025-04055-5",
+   "title": "Association of high-normal blood pressure defined by the 2023 European Society of Hypertension guideline with mortality in the Chinese population: a n",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s12916-025-04014-0",
+   "title": "Mapping the Global distribution, risk factors, and temporal trends of COPD incidence and mortality (1990\u20132021): ecological analysis",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s12916-025-03965-8",
+   "title": "A systematic analysis of temporal trends, characteristics, and citations of retracted stem cell publications",
+   "received": "15 September 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12916-024-03789-y",
+   "title": "Multiomics profiling of DNA methylation, microRNA, and mRNA in skeletal muscle from monozygotic twin pairs discordant for type 2 diabetes identifies d",
+   "received": "6 January 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 318
+  },
+  {
+   "doi": "10.1186/s12916-025-04155-2",
+   "title": "The indirect effect of the bivalent human papillomavirus vaccination program: an observational cohort study",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1186/s12916-025-03887-5",
+   "title": "Multi-cancer early detection based on serum surface-enhanced Raman spectroscopy with deep learning: a large-scale case\u2013control study",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "19 January 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s12916-025-04134-7",
+   "title": "Intrathecal pemetrexed efficacy and cerebrospinal fluid tumor marker response in refractory leptomeningeal metastasis of non-small-cell lung cancer: a",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s12916-025-04073-3",
+   "title": "Orthogeriatric co-management and incident nursing home admissions in older patients with fragility fractures other than the hip\u2014a retrospective cohort",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s12916-025-04123-w",
+   "title": "Marburg virus disease in Rwanda: an observational study of the first 10 days of outbreak response, clinical interventions, and outcomes",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s12916-024-03818-w",
+   "title": "Temptation at every corner: exploring public perceptions of food cues and policy support for governmental food cue regulation in outdoor public spaces",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s12916-025-04213-9",
+   "title": "Predicting postoperative motor outcomes in the surgical management of Rolandic focal cortical dysplasia: the role of glucose metabolism",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s12916-025-04343-0",
+   "title": "The protective effect of breastfeeding on infant inflammation: a mediation analysis of the plasma lipidome and metabolome",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s12916-025-04217-5",
+   "title": "Effectiveness of the WeChat-based mini-program (\u201cSober Time ACT\u201d) on individuals with hazardous drinking in China: a randomized controlled trial",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s12916-025-04084-0",
+   "title": "Cumulative health burden and adjustment challenges following road traffic injuries: a controlled prospective study",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12916-025-04359-6",
+   "title": "Inhibition of GCKIII kinases STK25 and MST3 mitigates organ lipotoxicity and enhances metabolic resilience under nutritional stress",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1186/s12916-025-04135-6",
+   "title": "Effectiveness of socioecological model-guided, smart device-based, and self-management-oriented lifestyle (3SLIFE) intervention on healthy lifestyles ",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s12916-025-03886-6",
+   "title": "Association between general anesthesia for cesarean delivery and subsequent developmental disorders in children: a nationwide retrospective cohort stu",
+   "received": "7 June 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s12916-025-04222-8",
+   "title": "Risk thresholds for soft versus hard cardiovascular disease outcome models for initiating statin therapy among Chinese adults: a cost-utility analysis",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12916-025-04401-7",
+   "title": "Association between daily dietary intake trajectory and depressive symptom onset and transition among young adults: a longitudinal study",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1186/s12916-025-04327-0",
+   "title": "The nature and frequency of food and beverage marketing on Kenyan national television: a mixed-method analysis of food advertisements, parent and chil",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s12916-025-04098-8",
+   "title": "Sex-related absolute inequalities in tuberculosis incidence in 47 countries in Africa",
+   "received": "12 May 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 347
+  },
+  {
+   "doi": "10.1186/s12916-025-03915-4",
+   "title": "Anxiety disorder, depression and coronary artery disease: associations and modification by genetic susceptibility",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12916-025-03977-4",
+   "title": "Denoised recurrence label-based deep learning for prediction of postoperative recurrence risk and sorafenib response in HCC",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s12916-025-04181-0",
+   "title": "Comparison between mixed reality with artificial algorithms and ultrasound in localization of anterior thigh flap perforators: a prospective randomize",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12916-025-04194-9",
+   "title": "A conceptual model of factors potentially influencing prescribing decisions for chronic conditions: an overview of systematic reviews",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s12916-025-04269-7",
+   "title": "Global, regional, and national burden and trends of multidrug-resistant tuberculosis and extensively drug-resistant tuberculosis in adolescents and ad",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1186/s12916-025-04333-2",
+   "title": "Burden of bacterial antimicrobial resistance 1990\u20132021 in China: a systematic analysis for the global burden of disease study 2021",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s12916-025-03920-7",
+   "title": "Metabolomics- and proteomics-based multi-omics integration reveals early metabolite alterations in sepsis-associated acute kidney injury",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1186/s12916-025-04147-2",
+   "title": "Childhood maltreatment and depression: mediating role of lifestyle factors, personality traits, adult traumas, and social connections among middle-age",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s12916-024-03821-1",
+   "title": "Relationships between neurodivergence status and adverse childhood experiences, and impacts on health, wellbeing, and criminal justice outcomes: findi",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12916-025-03937-y",
+   "title": "Life course trajectories of maternal cardiovascular disease risk factors by obstetric history: a UK cohort study using electronic health records",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s12916-025-04026-w",
+   "title": "Mendelian randomization analysis of blood metabolites and immune cell mediators in relation to GVHD and relapse",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1186/s12916-025-04265-x",
+   "title": "Age-targeted vaccination for reducing Clostridioides difficile infection in England: a coupled mathematical-economic modelling analysis",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s12916-024-03797-y",
+   "title": "Immune changes in pregnancy: associations with pre-existing conditions and obstetrical complications at the 20th gestational week\u2014a prospective cohort",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12916-025-04472-6",
+   "title": "Metabolic, perfusion, and diffusion imaging enhance diagnosis and prognosis of H3K27-altered diffuse midline gliomas",
+   "received": "21 September 2024",
+   "revised": null,
+   "accepted": "22 October 2025",
+   "days": 396
+  },
+  {
+   "doi": "10.1186/s12916-025-04176-x",
+   "title": "Physical activities, longevity gene, and all-cause mortality among older adults: a prospective community-based cohort study",
+   "received": "18 August 2024",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1186/s12916-025-03973-8",
+   "title": "Research prioritisation in preparedness for and response to outbreaks of high-consequence pathogens: a scoping review",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s12916-025-04039-5",
+   "title": "Cumulative social disadvantage and its impact on long COVID: insights from a U.S. national survey",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s12916-025-04273-x",
+   "title": "The association between poor dental health and gastric cancer risk: a nationwide cohort and sibling-controlled study",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s12916-025-03972-9",
+   "title": "Value of cannabidiol as adjunctive treatment for Lennox Gastaut syndrome: cost-effectiveness and budget impact analysis",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12916-025-04018-w",
+   "title": "The pharmacodynamics-based prophylactic benefits of GLP-1 receptor agonists and SGLT2 inhibitors on neurodegenerative diseases: evidence from a networ",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s12916-025-04419-x",
+   "title": "The role of dynamic monitoring of plasma cell-free DNA methylation in predicting pathological response in resectable stage IIB-IIIB non-small cell lun",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 339
+  },
+  {
+   "doi": "10.1186/s12916-025-04074-2",
+   "title": "Integration of multi-omics data to unveil the molecular landscape and role of piRNAs in early-onset colorectal cancer",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s12916-024-03786-1",
+   "title": "Association between antibiotics and treatment efficacy in metastatic urothelial carcinoma patients",
+   "received": "15 February 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 278
+  },
+  {
+   "doi": "10.1186/s12916-025-04132-9",
+   "title": "Platelets in preeclampsia: an observational study of indices associated with aspirin nonresponsiveness, activation and transcriptional landscape",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s12916-025-04339-w",
+   "title": "External validation of the COLOFIT colorectal cancer risk prediction model in the Oxford-FIT dataset: the importance of population characteristics and",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12916-025-04218-4",
+   "title": "Metformin-improved cognitive impairment in patients with schizophrenia is correlated with activation of tricarboxylic acid cycle and restored function",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1186/s12916-025-04027-9",
+   "title": "Relationship between multimorbidity, SARS-COV-2 infection and long COVID: a cross-sectional population-based French survey",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s12916-025-03993-4",
+   "title": "Association of circulating metabolic biomarkers with risk of lung cancer: a population-based prospective cohort study",
+   "received": "15 August 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12916-025-04212-w",
+   "title": "Disability in mitochondrial aerobic metabolism and Mg2+ transport: linking biomarkers and mechanisms of ischemic heart disease to diesel particulate m",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s12916-025-04360-z",
+   "title": "Causal loop diagramming the dynamics that shape food environments in Dutch supermarkets",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s12916-025-04246-0",
+   "title": "Prevalence and attributes of cervicovaginal human papillomavirus infection among a 35-year- age- cohort of ever-married women in a district of Sri Lan",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s12916-025-04148-1",
+   "title": "Compliance to tobacco and alcohol zoning regulations around schools in Bangladesh, India, Pakistan and Sri Lanka using environmental mapping data",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12916-025-04417-z",
+   "title": "Effectiveness of sustained leisure-time physical activity strategies for obesity-related cancer prevention: an emulated target trial in a prospective ",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s12916-025-04024-y",
+   "title": "Plasma CCL3 predicts adverse heart failure outcomes in patients with arrhythmogenic cardiomyopathy",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s12916-024-03774-5",
+   "title": "Gabapentinoid use and the risk of fractures in patients with inflammatory arthritis: nested case\u2013control study in the Clinical Practice Research Datal",
+   "received": "7 April 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 221
+  },
+  {
+   "doi": "10.1186/s12916-025-03906-5",
+   "title": "Mitigating HIV risk associated with widow cleansing and wife inheritance using combined biomedical and structural interventions in western Kenya: a ma",
+   "received": "18 March 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 311
+  },
+  {
+   "doi": "10.1186/s12916-025-04390-7",
+   "title": "Extracellular vesicles derived from menstrual blood-derived mesenchymal stem cells suppress inflammatory atherosclerosis by inhibiting NF-\u03baB signaling",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 361
+  },
+  {
+   "doi": "10.1186/s12916-025-04426-y",
+   "title": "Vaccine effectiveness against influenza A in older adults and the effect of chronic conditions: results from the I-MOVE and VEBIS multicentre European",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s12916-025-04241-5",
+   "title": "Predictors and outcomes associated with prolonged hospital length of stay in intracerebral hemorrhage: a multicenter prospective cohort study in China",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s12916-024-03819-9",
+   "title": "Prospective associations between muscle strength and genetic susceptibility to type 2 diabetes with incident type 2 diabetes: a UK Biobank study",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 264
+  },
+  {
+   "doi": "10.1186/s12916-025-04384-5",
+   "title": "\u201cIt will sort of drive us to rethink our approach to high fat salt sugar products\u201d-\u00a0a qualitative analysis of businesses\u2019 reactions to the landmark Fo",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 305
+  },
+  {
+   "doi": "10.1186/s12916-025-04411-5",
+   "title": "REM sleep reduction leads to fear overgeneralization via negatively modulating prefrontal theta oscillations",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12916-025-03853-1",
+   "title": "Postpartum depression in relation to chronic diseases and multimorbidity in women\u2019s mid-late life: a prospective cohort study of UK Biobank",
+   "received": "8 May 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1186/s12916-025-04187-8",
+   "title": "Nut consumption, linoleic and \u03b1-linolenic acid intakes, and genetics: how fatty acid desaturase 1 impacts plasma fatty acids and type 2 diabetes risk ",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s12916-025-04257-x",
+   "title": "Methods and reporting of studies assessing the impact of adherence to clinical practice guidelines: a scoping review",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s12916-025-04124-9",
+   "title": "Rapid diagnosis of adult-type diffuse glioma using a layered scheme",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 343
+  },
+  {
+   "doi": "10.1186/s12916-025-04076-0",
+   "title": "Artificial intelligence tool development: what clinicians need to know?",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1186/s12916-025-04195-8",
+   "title": "Physiological serum uric acid concentrations correlate with arterial stiffness in a sex-dependent manner",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s12916-025-04168-x",
+   "title": "Lactate links exercise to synaptic protection and cognitive enhancement in Alzheimer\u2019s disease models",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12916-025-04203-x",
+   "title": "Lactobacillus ameliorates myocardial ischemia reperfusion injury by attenuating apoptosis, inflammation, oxidative stress, and ferroptosis",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 307
+  },
+  {
+   "doi": "10.1186/s12916-025-04341-2",
+   "title": "Circulating proteins and metabolites panel for noninvasive preoperative diagnosis of epithelial ovarian cancer",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s12916-025-04370-x",
+   "title": "Micronutrient deficiency detected by liquid chromatography-tandem mass spectrometry and its association with clinical outcome of cancer patients\u2014a pro",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 410
+  },
+  {
+   "doi": "10.1186/s12916-025-04062-6",
+   "title": "When health data go dark: the importance of the DHS Program and imagining its future",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s12916-024-03822-0",
+   "title": "A meta-analysis and systematic review of myocardial infarction-induced cardiomyocyte proliferation in adult mouse heart",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s12916-025-04089-9",
+   "title": "Molecular mechanisms explaining sex-specific functional connectivity changes in chronic insomnia disorder",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 387
+  },
+  {
+   "doi": "10.1186/s12916-025-03960-z",
+   "title": "Accelerometer-measured physical activity, frailty, and all-cause mortality and life expectancy among middle-aged and older adults: a UK Biobank longit",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s12916-024-03787-0",
+   "title": "Characterizing the pharmacological interaction of the antimalarial combination artefenomel-piperaquine in healthy volunteers with induced blood-stage ",
+   "received": "7 March 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 257
+  },
+  {
+   "doi": "10.1186/s12916-025-04308-3",
+   "title": "Income-based inequalities in risk factors of NCDs and inequities of preventive care services amongst 202,682 adults: a cross-sectional study of South ",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 278
+  },
+  {
+   "doi": "10.1186/s12916-025-04223-7",
+   "title": "Menopausal status, transition, and age at menopause with accelerated biological aging across multiple organ systems: findings from two cohort studies",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s12916-025-04066-2",
+   "title": "Machine learning technique-based four-autoantibody test for early detection of esophageal squamous cell carcinoma: a multicenter, retrospective study ",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1186/s12916-025-04208-6",
+   "title": "Sociodemographic factors associated with health-related quality of life in UK healthcare workers: a cross-sectional study",
+   "received": "28 June 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s12916-025-03992-5",
+   "title": "Reconsideration of lowering gestational weight gain guidelines in pregnant women diagnosed with gestational diabetes: evidence from a Belgian study",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12916-025-04313-6",
+   "title": "Gut microbiota links to cognitive impairment in bipolar disorder via modulating synaptic plasticity",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s12916-024-03780-7",
+   "title": "Parental epigenetic age acceleration and risk of adverse birth outcomes: the Norwegian mother, father and child cohort study",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s12916-025-04317-2",
+   "title": "Pregnancy complications as a marker of future cardiovascular disease risk",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 35
+  },
+  {
+   "doi": "10.1186/s12916-025-04095-x",
+   "title": "Disease and mortality trajectories of cognitively able autistic individuals in mid- and later adulthood",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 316
+  },
+  {
+   "doi": "10.1186/s12916-025-04152-5",
+   "title": "Effect of human papillomavirus infection on semen quality and assisted reproductive technology outcomes: a prospective observational cohort study",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s12916-025-04164-1",
+   "title": "Molecular signatures of invasive and non-invasive pituitary adenomas: a comprehensive analysis of DNA methylation and gene expression",
+   "received": "29 May 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 363
+  },
+  {
+   "doi": "10.1186/s12916-025-04414-2",
+   "title": "Variations in surgical practice and adverse events following isolated proximal humerus fracture in adults \u2013 a comparative longitudinal cohort study of",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s12916-025-03949-8",
+   "title": "Anti-hypertensive medication adherence, socioeconomic status, and cognitive aging in the Chinese community-dwelling middle-aged and older adults\u2009\u2265\u200945 ",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1186/s12916-024-03775-4",
+   "title": "Clinical research framework proposal for ketogenic metabolic therapy in glioblastoma",
+   "received": "25 April 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s12916-025-04097-9",
+   "title": "Phenotypic and genotypic characteristics of macrolide, lacosamide, and streptogramin resistance in clinically resistant Streptococci and their correla",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s12916-025-04035-9",
+   "title": "Interpreting results from biomarker-guided clinical trials: avoiding \u201cnegative\u201d or \u201cfailed\u201d terminology",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s12916-025-04429-9",
+   "title": "Mid-term outcomes of paclitaxel-coated balloon for de novo non-small coronary lesions: a pooled analysis",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1186/s12916-025-04128-5",
+   "title": "Associations of pretreatment emotional distress with adherence to therapy for patients with locally advanced rectal cancer: a post hoc analysis of the",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1186/s12916-025-04416-0",
+   "title": "Efficacy and safety of neoadjuvant camrelizumab and apatinib combined with chemotherapy in stage IIIA (N2) NSCLC: a multi-center, single-arm, phase II",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1186/s12916-025-04067-1",
+   "title": "The portfolio dietary pattern and risk of cardiovascular disease mortality during 1988\u20132019 in US adults: a prospective cohort study",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s12916-025-04440-0",
+   "title": "Lycopene intake and prostate cancer risk in men at high cardiovascular risk: a prospective cohort study",
+   "received": "14 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12916-025-04409-z",
+   "title": "Profile of biological aging in first primary cancers: a pan-cancer analysis of two large-scale cohorts from the UK and Hong Kong",
+   "received": "18 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s12916-025-04430-2",
+   "title": "LEAST as a novel prediction model of hepatocellular carcinoma development in patients with chronic hepatitis B: a multi-center study",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12916-025-03890-w",
+   "title": "Global, regional, and national burdens of type 1 and type 2 diabetes mellitus in adolescents from 1990 to 2021, with forecasts to 2030: a systematic a",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s12916-025-03875-9",
+   "title": "Performance of the 2023 diagnostic criteria for MOGAD: real-world application in a Chinese multicenter cohort of pediatric and adult patients",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1186/s12916-025-04233-5",
+   "title": "Mitigation of chemotherapy-induced gut dysbiosis and diarrhea by supplementation with heat-killed Bacteroides fragilis",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s12916-025-03923-4",
+   "title": "Modifiable factors and 10-year and lifetime cardiovascular disease risk in adults with new-onset hypertension: insights from the Kailuan cohort",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12916-025-04047-5",
+   "title": "Helicobacter pylori reversing the landscape of neoadjuvant immunotherapy for microsatellite stable gastric cancer: a multicenter cohort study",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s12916-025-04442-y",
+   "title": "Structural rather than functional brain alterations that characterize the differences between major depressive disorder and primary insomnia: a compar",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1186/s12916-025-03930-5",
+   "title": "Risk factors for developing irritable bowel syndrome: systematic umbrella review of reviews",
+   "received": "29 June 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s12916-025-04451-x",
+   "title": "Economic evaluation of a multi-component obesity prevention intervention in Chinese primary schools",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s12916-025-04004-2",
+   "title": "Exploratory analysis of the relationship between striatal connectivity and apathy during phosphodiesterase 10 inhibition in schizophrenia: findings fr",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 217
+  },
+  {
+   "doi": "10.1186/s12916-025-04420-4",
+   "title": "Gaps in the detection of drug-drug interactions between antipsychotic and cardiometabolic medications: a multisource analysis",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s12916-024-03840-y",
+   "title": "\u201cIf that would have lessened my symptoms, that would have been great...\u201d: a qualitative study about the acceptability of tecovirimat as treatment for ",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s12916-025-04012-2",
+   "title": "Efficacy of digital therapeutics for perioperative management in patients with lung cancer: a randomized controlled trial",
+   "received": "3 March 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 376
+  },
+  {
+   "doi": "10.1186/s12916-024-03838-6",
+   "title": "Persistent impact of antenatal maternal anaemia on child brain structure at 6\u20137\u00a0years of age: a South African child health study",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s12916-025-03904-7",
+   "title": "Exploration of treatment burden through examination of workload and patient capacity during transition onto kidney replacement therapy: a systematic r",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s12916-025-04365-8",
+   "title": "Changes in accelerated aging and risk of cardiovascular disease and mortality: three cohort studies",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12916-025-04377-4",
+   "title": "Lipid metabolism associated with efficacy of metronomic capecitabine and camrelizumab in gastrointestinal cancer: an exploratory clinical trial",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 438
+  },
+  {
+   "doi": "10.1186/s12916-025-03956-9",
+   "title": "Impact of coronary artery calcium on progression of diastolic dysfunction: a cohort study",
+   "received": "15 June 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s12916-025-04182-z",
+   "title": "Effect of a ketogenic diet, time-restricted eating, or alternate-day fasting on weight loss in adults with obesity: a randomized clinical trial",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1186/s12916-025-04220-w",
+   "title": "The genetic spectrum features of 2261 Chinese children with epilepsy and intellectual disability",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12916-025-03848-y",
+   "title": "Genetic variation reveals the therapeutic potential of BRSK2 in idiopathic pulmonary fibrosis",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s12916-025-04479-z",
+   "title": "Increased risk of thromboembolism in patients with anorexia nervosa: a Danish nationwide registry-based study",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1186/s12916-025-04043-9",
+   "title": "Double-negative T cells in combination with ursodeoxycholic acid ameliorates immune-mediated cholangitis in mice",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s12916-024-03800-6",
+   "title": "Strength of clinical evidence supporting the United States Food and Drug Administration Accelerated Approvals from 2015 to 2022",
+   "received": "18 December 2023",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 345
+  },
+  {
+   "doi": "10.1186/s12916-025-03919-0",
+   "title": "High risk for life-threatening adverse events of fluoroquinolones in young adults: a large German population-based cohort study",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1186/s12916-025-04136-5",
+   "title": "Smartwatch-monitored physical activity and myopia in children: a 2-year prospective cohort study",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s12916-025-04002-4",
+   "title": "The risk associated with ultra-processed food intake on depressive symptoms and mental health in older adults: a target trial emulation",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s12916-025-04337-y",
+   "title": "Measuring individual and community capacity factors in people with multimorbidity and exploring associations with health outcomes",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s12916-025-04050-w",
+   "title": "Using machine learning involving diagnoses and medications as a risk prediction tool for post-acute sequelae of COVID-19 (PASC) in primary care",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12916-025-03924-3",
+   "title": "Assessing lung cancer progression and survival with infrared spectroscopy of blood serum",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1186/s12916-025-04007-z",
+   "title": "Improving type 2 diabetes detection among at-risk individuals \u2013 comparing the effectiveness of active opportunistic screening using spot capillary-HbA",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s12916-025-04372-9",
+   "title": "Changes in smartphone dependence and depressive and anxiety symptoms among Chinese adolescents",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1186/s12916-025-04225-5",
+   "title": "Development and recalibration\u00a0of a\u00a0multivariable\u00a0type 1 diabetes prediction model for\u00a0type 1 diabetes across multiple screening studies",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12916-025-04056-4",
+   "title": "Maternal B12 deficiency during pregnancy dysregulates fatty acid metabolism and induces inflammation in human adipose tissue",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12916-025-04400-8",
+   "title": "Cardiometabolic multimorbidity, social activity, and joint trajectories of physical disability, depressive symptom, and cognitive function in mid-to-l",
+   "received": "30 July 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s12916-025-04069-z",
+   "title": "COVID- 19 vaccination reduces new-onset fibromyalgia risk in survivors",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s12916-025-03931-4",
+   "title": "Analysis of the prognostic efficacy of syndecan-1 for patients with ACLF and its functional role in liver regeneration",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s12916-025-04038-6",
+   "title": "Heterogeneous treatment effects of stress ulcer prophylaxis among ICU patients at risk for gastrointestinal bleeding",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1186/s12916-025-04193-w",
+   "title": "Increased prevalence of cardio-cerebrovascular risk factors during the COVID-19 pandemic lockdown: a large, single center, cross-sectional study",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1186/s12916-025-04157-0",
+   "title": "Adults in Ghana generate higher and more durable neutralising antibody titres following primary course COVID-19 vaccination than matched UK adults: Th",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12916-025-04040-y",
+   "title": "Assessing healthcare payment reforms\u2019 effects on economic inequities and catastrophic expenditures among cancer patients in ethnic minority regions of",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s12916-025-04151-6",
+   "title": "A matters arising: discussion on urokinase dosing and individualized treatment strategies in the TRUST trial",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s12916-025-04111-0",
+   "title": "Physical disability and psychological distress before and after a diagnosis of cancer: evidence on multiple cancer types from a large Australian cohor",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1186/s12916-025-03856-y",
+   "title": "Psoriasis increases\u00a0the risk of Sj\u00f6gren\u2019s syndrome: evidence from\u00a0a propensity score-matched cohort study and transcriptomic analysis",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12916-024-03783-4",
+   "title": "The association between ozone exposure and blood pressure in a general Chinese middle-aged and older population: a large-scale repeated-measurement st",
+   "received": "15 June 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s12916-025-03943-0",
+   "title": "Modifications to the National Early Warning Score 2: a Scoping Review",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12916-025-04378-3",
+   "title": "Elevated VAMP8 expression promotes cervical cancer progression by enhancing autophagy via HIF-1 pathway",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 309
+  },
+  {
+   "doi": "10.1186/s12916-025-03928-z",
+   "title": "Cost-effectiveness of nirsevimab and maternal RSVpreF for preventing respiratory syncytial virus disease in infants across Canada",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s12916-025-04283-9",
+   "title": "Identification and validation of an explainable machine learning model for vascular depression diagnosis in the older adults: a multicenter cohort stu",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1186/s12916-025-03869-7",
+   "title": "Moments that matter: childhood pain treatment shapes pain for life\u2014we can do better every time in every child",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s12916-025-04373-8",
+   "title": "Beyond one-size-fits-all: addressing sex differences and promoting inclusive leadership in cardiovascular research and healthcare",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s12916-025-04304-7",
+   "title": "Effect of discontinuing antipsychotic medications on the risk of hospitalization in long-term care: a machine learning-based analysis",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s12916-025-04374-7",
+   "title": "BMI differences on anticoagulation with bivalirudin vs. heparin during primary PCI: a BRIGHT-4 subanalysis",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s12916-024-03837-7",
+   "title": "Association between pre-pregnancy maternal stress and small for gestational age: a population-based retrospective cohort study",
+   "received": "25 May 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12916-025-04081-3",
+   "title": "What evidence is required to justify the NHS Health Check programme?",
+   "received": "18 March 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1186/s12916-025-03867-9",
+   "title": "Global, regional, and national burden of early-onset colorectal cancer from 1990 to 2021: a systematic analysis based on the global burden of disease ",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s12916-025-04434-y",
+   "title": "THBS1high macrophages promote aortic aneurysm formation by orchestrating an inflammatory and smooth muscle cell phenotypic transition program in vascu",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1186/s12916-025-04368-5",
+   "title": "The brief resilience scale: a genome-wide association study in the UK Biobank",
+   "received": "20 April 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s12916-025-04009-x",
+   "title": "tesG expression as a potential clinical biomarker for chronic Pseudomonas aeruginosa pulmonary biofilm infections",
+   "received": "15 April 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 332
+  },
+  {
+   "doi": "10.1186/s12916-025-03969-4",
+   "title": "Smoking-related gut microbiota alteration is associated with obesity and obesity-related diseases: results from two cohorts with sibling comparison an",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s12916-025-04279-5",
+   "title": "Healthy lifestyle factors and recurrent cardiovascular events in patients with OSA: the SAVE study",
+   "received": "16 February 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s12916-025-04252-2",
+   "title": "Health insurance status and severe mpox disease outcomes among sexual minority men in NYC: a retrospective cohort study",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s12916-025-04131-w",
+   "title": "Cost-effectiveness of self-sampling and enhanced strategies for HPV prevention among men who have sex with men in China: a modeling study",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s12916-025-04350-1",
+   "title": "Gaps in the global health research landscape for mpox: an analysis of research activities and existing evidence",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s12916-025-04462-8",
+   "title": "Age among women and men, time to pregnancy and risk of miscarriage",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s12916-025-04457-5",
+   "title": "Treatment experiences, preferences, and expectations for cognitive impairments in long COVID among Chinese young and older adults: a constructivist gr",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s12916-025-04197-6",
+   "title": "Sympathetic reactivity to physiological stress is associated with expanded cardiac extracellular volume in humans",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12916-025-04398-z",
+   "title": "The burden of endometriosis on quality of life in Danish women: an analysis of the Danish Blood Donor Study",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s12916-025-04171-2",
+   "title": "SARS-CoV-2-specific humoral immunity in a Norwegian cohort between 2020 and 2023",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12916-025-03898-2",
+   "title": "Using a clinical decision support system to reduce excess driving pressure: the ALARM trial",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1186/s12916-025-04020-2",
+   "title": "Comparative outcomes of invasive versus conservative strategy in stable coronary artery disease patients: a risk-stratification-based hypothesis-gener",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12916-025-04406-2",
+   "title": "Mortality and risk factors of small vulnerable newborns in 32 low- and middle-income countries",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s12916-025-04221-9",
+   "title": "The PCOS Phenotypes in Unselected Populations (P-PUP) study: participant clinical features and data harmonization on analysis of individual participan",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12916-025-04042-w",
+   "title": "Empirical assessment of functional somatic disorder (FSD): frequency, applicability, and diagnostic refinement in a population-based sample",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1186/s12916-025-03995-2",
+   "title": "Exploring the interaction effects of subclinical hypothyroidism and major depressive disorder on brain networks",
+   "received": "8 September 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s12916-025-04156-1",
+   "title": "Impact of multifaceted health education on influenza vaccination health literacy in primary school students: a cluster randomized controlled trial",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1186/s12916-024-03793-2",
+   "title": "Efficacy of melatonin for prolonged disorders of consciousness: a double-blind, randomized clinical trial",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12916-025-04215-7",
+   "title": "Reformulation of ultra-processed products in Colombia after the introduction of public health regulations",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s12916-025-03961-y",
+   "title": "Association between urbanization levels and frailty among middle-aged and older adults in China: evidence from the CHARLS",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1186/s12916-025-04399-y",
+   "title": "Healthy lifestyle partly mediates the association between self-rated health and risk of overall and cause-specific mortality",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1186/s12916-025-04335-0",
+   "title": "\u201cHave you considered that it could be burnout?\u201d\u2014psychologization and stigmatization of self-reported long COVID or post-COVID-19 vaccination syndrome",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1186/s12916-024-03844-8",
+   "title": "Non-small cell lung cancer in ever-smokers vs never-smokers",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "24 December 2024",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12916-025-03883-9",
+   "title": "Relationship of tobacco smoking to cause-specific mortality: contemporary estimates from Australia",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12916-025-04362-x",
+   "title": "Practical guidance for conducting high-quality and rapid interim analyses in adaptive clinical trials",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12916-025-04385-4",
+   "title": "Efficacy, safety, and exploratory biomarker analysis of envafolimab plus carboplatin and etoposide as first-line treatment for extensive-stage small-c",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12916-025-04396-1",
+   "title": "STI testing and diagnosis rates among patients with Mpox in 2 populous US cities, 2022",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s12916-025-04177-w",
+   "title": "Association of biological aging acceleration transitions and burdens with incident cardiovascular disease: longitudinal insights from a national cohor",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s12916-025-03927-0",
+   "title": "Assessment of psychosocial aspects in adults in\u00a0post-COVID-19 condition: the EURONET-SOMA recommendations on core outcome domains for clinical and res",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1186/s12916-025-04174-z",
+   "title": "Alleviating cognitive impairments in bipolar disorder with a novel DTI-guided multimodal neurostimulation protocol: a double-blind randomized controll",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1186/s12916-025-04190-z",
+   "title": "Artificial intelligence-assisted diagnosis and prognostication in low ejection fraction using electrocardiograms in inpatient department: a pragmatic ",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 182
+  }
+ ]
+}

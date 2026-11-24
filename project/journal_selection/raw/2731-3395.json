@@ -1,0 +1,1541 @@
+{
+ "issn": "2731-3395",
+ "journal": "Communications Engineering",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:01.608169",
+ "source": "https://api.crossref.org/journals/2731-3395/works",
+ "articles": [
+  {
+   "doi": "10.1038/s44172-025-00364-y",
+   "title": "An engineered culture vessel and flow system to improve the in vitro analysis of volatile organic compounds",
+   "received": "8 August 2023",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 547
+  },
+  {
+   "doi": "10.1038/s44172-025-00366-w",
+   "title": "Energy efficiency and carbon savings via a body grid",
+   "received": "18 June 2023",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 598
+  },
+  {
+   "doi": "10.1038/s44172-024-00327-9",
+   "title": "Bio-inspired multi-dimensional deep fusion learning for predicting dynamical aerospace propulsion systems",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 156
+  },
+  {
+   "doi": "10.1038/s44172-025-00475-6",
+   "title": "Design and application of a realistic and multifunctional retinal phantom for standardizing ophthalmic imaging systems",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1038/s44172-025-00392-8",
+   "title": "Optimization of low-temperature catalytic cracking of polyolefin waste in open-batch reactors using zeolite beta with controlled intrinsic properties",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 379
+  },
+  {
+   "doi": "10.1038/s44172-025-00476-5",
+   "title": "Information-distilled physics informed deep learning for high order differential inverse problems with extreme discontinuities",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1038/s44172-025-00457-8",
+   "title": "Scalable reinforcement learning for large-scale coordination of electric vehicles using graph neural networks",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1038/s44172-024-00333-x",
+   "title": "Human-structure and human-structure-human interaction in electro-quasistatic regime",
+   "received": "15 December 2023",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 363
+  },
+  {
+   "doi": "10.1038/s44172-025-00422-5",
+   "title": "Low power, non-intrusive 3D localization for underwater mobile robots",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1038/s44172-025-00520-4",
+   "title": "StarWhisper Telescope: an AI framework for automating end-to-end astronomical observations",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1038/s44172-025-00532-0",
+   "title": "Photonic fully-connected hybrid beamforming using microring weight banks",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 349
+  },
+  {
+   "doi": "10.1038/s44172-025-00442-1",
+   "title": "Early warning of thermal runaway based on state of safety for lithium-ion batteries",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 217
+  },
+  {
+   "doi": "10.1038/s44172-025-00516-0",
+   "title": "Adaptive continuous-shape-changing solar-powered microfliers enabled by a drone-mounted releasing module",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1038/s44172-025-00502-6",
+   "title": "Programmable low-coherence wavefronts for enhanced localization",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1038/s44172-025-00523-1",
+   "title": "Fast ground irradiance computations for agrivoltaics via physics-informed deep learning models",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 357
+  },
+  {
+   "doi": "10.1038/s44172-025-00359-9",
+   "title": "Low-power Spiking Neural Network audio source localisation using a Hilbert Transform audio event encoding scheme",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1038/s44172-025-00376-8",
+   "title": "AI-guided framework for the design of materials and devices for magnetic-tunnel-junction-based true random number generators",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1038/s44172-025-00456-9",
+   "title": "A high-precision 1 \u00d7 15 infrared temperature measurement linear array based on thermopile sensors",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1038/s44172-024-00298-x",
+   "title": "Perspectives on innovative non-fertilizer applications of sewage sludge for mitigating environmental and health hazards",
+   "received": "7 November 2023",
+   "revised": null,
+   "accepted": "16 October 2024",
+   "days": 344
+  },
+  {
+   "doi": "10.1038/s44172-025-00389-3",
+   "title": "Emitting and controlling ultra-low frequency underwater acoustic waves using a marine vibration system with time interfacing",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1038/s44172-024-00338-6",
+   "title": "Bioinspired thermally conducting packaging for heat management of high performance electronic chips",
+   "received": "6 February 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 321
+  },
+  {
+   "doi": "10.1038/s44172-025-00447-w",
+   "title": "Learning aerodynamics for the control of flying humanoid robots",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1038/s44172-025-00510-6",
+   "title": "Evolution mechanism and progressive reshaping model of driving behaviors when humans take over intelligent vehicles",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 315
+  },
+  {
+   "doi": "10.1038/s44172-025-00340-6",
+   "title": "Efficient optimisation of physical reservoir computers using only a delayed input",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1038/s44172-025-00369-7",
+   "title": "Array of micro-epidermal actuators for noninvasive pediatric flexible conductive hearing aids",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1038/s44172-025-00522-2",
+   "title": "MXene alloy-based metal-semiconductor contact for low-resistive field-effect transistors",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s44172-025-00382-w",
+   "title": "Data-driven ergonomic risk assessment of complex hand-intensive manufacturing processes",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1038/s44172-025-00358-w",
+   "title": "On-chip solar power source for self-powered smart microsensors in bulk CMOS process",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1038/s44172-025-00500-8",
+   "title": "Communicating with two vehicles immediately ahead boosts traffic capacity sixfold in connected autonomous vehicle platoons",
+   "received": "12 July 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 39
+  },
+  {
+   "doi": "10.1038/s44172-025-00346-0",
+   "title": "Intelligent shipping: integrating autonomous maneuvering and maritime knowledge in the Singapore-Rotterdam Corridor",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1038/s44172-025-00495-2",
+   "title": "Rotational bistable mechanisms for morphing wings and beyond",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1038/s44172-025-00429-y",
+   "title": "An integrated wireless system for dynamic strain monitoring of Einel-rad-Einelfahrwerk bogies for high-speed rail transport",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1038/s44172-025-00400-x",
+   "title": "Colloidal-fibrillar composite gels demonstrate structural reinforcement, secondary fibrillar alignment, and improved vascular healing outcomes",
+   "received": "12 February 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 402
+  },
+  {
+   "doi": "10.1038/s44172-025-00473-8",
+   "title": "On-site quantitative analysis of As(III) and As(V) in aqueous phase using portable laser-induced fluorescence platform",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1038/s44172-025-00390-w",
+   "title": "4D-ONIX for reconstructing 3D movies from sparse X-ray projections via deep learning",
+   "received": "11 March 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 361
+  },
+  {
+   "doi": "10.1038/s44172-025-00525-z",
+   "title": "Validation of an electroencephalography data assimilation-based computational approach for estimating cortical excitation-inhibition balance",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s44172-025-00434-1",
+   "title": "Integrated process-property modeling of YBa2Cu3O7 superconducting film for data and model driven process design",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1038/s44172-025-00451-0",
+   "title": "Ultrasonographic-guided robotic-assisted percutaneous nephrolithotomy",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1038/s44172-025-00365-x",
+   "title": "Fully automated multicolour structured illumination module for super-resolution microscopy with two excitation colours",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1038/s44172-025-00482-7",
+   "title": "Fast automatic multiscale electron tomography for sensitive materials under environmental conditions",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1038/s44172-025-00445-y",
+   "title": "Maximizing wireless power transfer efficiency at exceptional points",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1038/s44172-025-00436-z",
+   "title": "Combined strategies for promoting short-chain fatty acids production from waste activated sludge in anaerobic fermentation",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1038/s44172-025-00348-y",
+   "title": "Slippery liquid infused porous surface (SLIPS) condensers for high efficiency air gap membrane distillation",
+   "received": "31 July 2023",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 536
+  },
+  {
+   "doi": "10.1038/s44172-024-00332-y",
+   "title": "Fast detection of protein kinase B in chrysin treated colorectal cancer cells using a novel multicore microfiber biosensor",
+   "received": "7 April 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 247
+  },
+  {
+   "doi": "10.1038/s44172-025-00385-7",
+   "title": "Allele-specific electrical genotyping for diagnosis of transthyretin amyloidosis",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1038/s44172-025-00450-1",
+   "title": "Scorecard for synthetic medical data evaluation",
+   "received": "22 February 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 473
+  },
+  {
+   "doi": "10.1038/s44172-025-00489-0",
+   "title": "3D vector field-guided toolpathing for 3D bioprinting",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1038/s44172-025-00488-1",
+   "title": "Efficient estimating and clustering lithium-ion batteries with a deep-learning approach",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1038/s44172-024-00331-z",
+   "title": "Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 255
+  },
+  {
+   "doi": "10.1038/s44172-025-00512-4",
+   "title": "Inverted perovskite solar modules with 99.3% geometrical fill factor via nanosecond single laser patterning",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1038/s44172-025-00531-1",
+   "title": "Trajectory planning for drone landing, incorporating wind-sensing capabilities, operational and safety objectives, and reinforcement learning",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1038/s44172-025-00417-2",
+   "title": "Validating sensory conflict theory and mitigating motion sickness in humans with galvanic vestibular stimulation",
+   "received": "21 December 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s44172-025-00435-0",
+   "title": "Quantum transport through a constriction in nanosheet gate-all-around transistors",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1038/s44172-025-00505-3",
+   "title": "Coherent optical interconnects using Fermat number transform and hollow core fibre",
+   "received": "1 June 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1038/s44172-025-00375-9",
+   "title": "Gradient cement pastes with efficient energy dissipation and electromagnetic wave absorption",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1038/s44172-025-00401-w",
+   "title": "Enhanced and directional electroluminescence from MicroLEDs using metallic or dielectric metasurfaces",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1038/s44172-025-00437-y",
+   "title": "Super-Turing synaptic resistor circuits for intelligent morphing wing",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1038/s44172-025-00423-4",
+   "title": "Enhanced ultrasound particle image velocimetry (E-uPIV) enables fast flow mapping of microvasculature",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1038/s44172-025-00470-x",
+   "title": "Bio-inspired acoustic metamaterials for traffic noise control: bridging the gap with machine learning",
+   "received": "22 February 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1038/s44172-025-00398-2",
+   "title": "Recent progress in hybrid diamond photonics for quantum information processing and sensing",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1038/s44172-025-00527-x",
+   "title": "Pillar arrays as tunable interfacial barriers for microphysiological systems",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1038/s44172-025-00421-6",
+   "title": "A 100\u2009Gb\u2009s\u22121 quantum-confined Stark effect modulator monolithically integrated with silicon nitride on Si",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1038/s44172-025-00479-2",
+   "title": "Neuromorphic Hebbian learning with magnetic tunnel junction synapses",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1038/s44172-025-00351-3",
+   "title": "Signal theory based encryption of faster-than-Nyquist signals for fiber and wireless transmission",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1038/s44172-025-00381-x",
+   "title": "Sustainable solutions for water scarcity: a review of electrostatic fog harvesting technology",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1038/s44172-025-00395-5",
+   "title": "Addressing optical modulator non-linearities for photonic neural networks",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s44172-024-00334-w",
+   "title": "Periodic cooking of eggs",
+   "received": "9 December 2023",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 369
+  },
+  {
+   "doi": "10.1038/s44172-025-00499-y",
+   "title": "Perpendicular-anisotropy artificial spin ice with spontaneous ordering: a platform for reservoir computing with flexible timescales",
+   "received": "18 June 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1038/s44172-025-00343-3",
+   "title": "Holomorphic embedding method for large-scale reverse osmosis desalination optimization",
+   "received": "13 March 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1038/s44172-025-00496-1",
+   "title": "Pilot-scale integration of micron-sized powder carriers and a hydrocyclone separator enhances nutrient removal in wastewater treatment",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s44172-025-00491-6",
+   "title": "Paired-objectives photon enhancement (POPE) microscopy: enhanced photon collection for fluorescence imaging",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1038/s44172-025-00464-9",
+   "title": "Shape memory alloys for cryogenic actuators",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 383
+  },
+  {
+   "doi": "10.1038/s44172-025-00519-x",
+   "title": "MXene electrochemical phosphate sensors",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1038/s44172-025-00483-6",
+   "title": "Real-time monitoring of water states in large-diameter aqueducts \u2013 learning from distributed acoustic sensing signals",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1038/s44172-025-00428-z",
+   "title": "Acoustic hologram-enabled simultaneous multi-target blood-brain barrier opening (AH-SiMBO)",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1038/s44172-025-00347-z",
+   "title": "Acoustic impedance-based surface acoustic wave chip for gas leak detection and respiratory monitoring",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1038/s44172-025-00396-4",
+   "title": "Towards ubiquitous radio access using nanodiamond based quantum receivers",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1038/s44172-025-00362-0",
+   "title": "Pilot-scale partial nitrification and anaerobic ammonium oxidation system for nitrogen removal from municipal wastewater",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1038/s44172-025-00405-6",
+   "title": "Electro-quasistatic and resonant cavity car body communication",
+   "received": "25 October 2023",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 523
+  },
+  {
+   "doi": "10.1038/s44172-025-00357-x",
+   "title": "User-specified inverse kinematics taught in virtual reality reduce time and effort to hand-guide redundant surgical robots",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1038/s44172-025-00370-0",
+   "title": "Helmet material design for mitigating traumatic axonal injuries through AI-driven constitutive law enhancement",
+   "received": "14 January 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 394
+  },
+  {
+   "doi": "10.1038/s44172-025-00481-8",
+   "title": "Supply-demand mismatch causes substantial deterioration in prehospital emergency medical service under disasters",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1038/s44172-025-00407-4",
+   "title": "Spatially distributed biomimetic compliance enables robust anthropomorphic robotic manipulation",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1038/s44172-025-00431-4",
+   "title": "Data-intelligence driven methods for durability, damage diagnosis and performance prediction of concrete structures",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s44172-024-00313-1",
+   "title": "An energy-resolving photon-counting X-ray detector for computed tomography combining silicon-photomultiplier arrays and scintillation crystals",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "29 October 2024",
+   "days": 195
+  },
+  {
+   "doi": "10.1038/s44172-025-00373-x",
+   "title": "Submersible touchless interactivity in conformable textiles enabled by highly selective overbraided magnetoresistive sensors",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1038/s44172-025-00469-4",
+   "title": "Design and fabrication of a low-cost liquid optical waveguide for augmented reality",
+   "received": "12 October 2024",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1038/s44172-025-00350-4",
+   "title": "Vision-based tactile sensor design using physically based rendering",
+   "received": "3 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1038/s44172-025-00374-w",
+   "title": "Active and integrated electronic metadevices for future telecommunication circuits",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1038/s44172-024-00319-9",
+   "title": "Insights from a multiscale framework on metabolic rate variation driving glioblastoma multiforme growth and invasion",
+   "received": "7 May 2023",
+   "revised": null,
+   "accepted": "1 November 2024",
+   "days": 544
+  },
+  {
+   "doi": "10.1038/s44172-025-00518-y",
+   "title": "Continuous tuning of ejector parameters via zeotropic component migration for optimising high-temperature heat pump",
+   "received": "13 April 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1038/s44172-025-00528-w",
+   "title": "Dynamic hovering for uncrewed underwater vehicles via an error-separation-based cooperative strategy",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1038/s44172-025-00443-0",
+   "title": "Bioinspired morphology and task curricula for learning locomotion in bipedal muscle-actuated systems",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1038/s44172-025-00458-7",
+   "title": "On the limitations of closed-loop geothermal systems for electricity generation outside high-geothermal gradient fields",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 232
+  },
+  {
+   "doi": "10.1038/s44172-025-00498-z",
+   "title": "Engineering electrothermally enhanced interfacial evaporation for high-performance solar desalination",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1038/s44172-025-00361-1",
+   "title": "Anthrone/XLPE: an adaptive charge capture intelligent insulation material for advanced electric power transmission",
+   "received": "23 April 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 287
+  },
+  {
+   "doi": "10.1038/s44172-024-00326-w",
+   "title": "AI-driven system for non-contact continuous nocturnal blood pressure monitoring using fiber optic ballistocardiography",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 190
+  },
+  {
+   "doi": "10.1038/s44172-025-00388-4",
+   "title": "Assessment of environmental impacts and costs for hydrogen-powered cargo shipping in Europe",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1038/s44172-025-00413-6",
+   "title": "ATMO: an aerially transforming morphobot for dynamic ground-aerial transition",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1038/s44172-025-00490-7",
+   "title": "Freeze\u2013thaw recycling for fiber\u2013resin separation in retired wind blades",
+   "received": "2 February 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1038/s44172-025-00430-5",
+   "title": "Orbital debris requires prevention and mitigation across the satellite life cycle",
+   "received": "24 January 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 474
+  },
+  {
+   "doi": "10.1038/s44172-025-00372-y",
+   "title": "Data-driven available capacity estimation of lithium-ion batteries based on fragmented charge capacity",
+   "received": "24 January 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 385
+  },
+  {
+   "doi": "10.1038/s44172-024-00329-7",
+   "title": "Feasibility test of per-flight contrail avoidance in commercial aviation",
+   "received": "20 January 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 318
+  },
+  {
+   "doi": "10.1038/s44172-025-00472-9",
+   "title": "Flexible eddy current array measurement system for crack detection in weld zones of steel structures",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1038/s44172-025-00368-8",
+   "title": "Dynamic optimizers for complex industrial systems via direct data-driven synthesis",
+   "received": "23 April 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 287
+  },
+  {
+   "doi": "10.1038/s44172-025-00393-7",
+   "title": "Monolithically integrated ultra-wideband photonic receiver on thin film lithium niobate",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1038/s44172-025-00397-3",
+   "title": "One-degree-of-freedom flat-foldable thick-panel origami-kirigami structures: modular arrays and closed polyhedra",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1038/s44172-024-00339-5",
+   "title": "An Integrative lifecycle design approach based on carbon intensity for renewable-battery-consumer energy systems",
+   "received": "6 March 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 292
+  },
+  {
+   "doi": "10.1038/s44172-025-00341-5",
+   "title": "Distributed training of foundation models for ophthalmic diagnosis",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s44172-025-00419-0",
+   "title": "Space temperature traceability based on near-site transfer of miniature fixed points",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1038/s44172-025-00438-x",
+   "title": "A polymer-based MEMS loudspeaker featuring a partially stiffened membrane actuated by a PZT thin film",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1038/s44172-025-00402-9",
+   "title": "A method for reconstructing the dynamic displacement of floating structures based on acceleration measurements and comparison with data-reconstruction",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1038/s44172-025-00503-5",
+   "title": "Insights into the aerodynamic response of a harmonic oscillating airfoil in various turbulent flows",
+   "received": "22 September 2024",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 341
+  },
+  {
+   "doi": "10.1038/s44172-025-00345-1",
+   "title": "Machine learning empowered coherent Raman imaging and analysis for biomedical applications",
+   "received": "23 August 2022",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 870
+  },
+  {
+   "doi": "10.1038/s44172-024-00324-y",
+   "title": "Advancements in atmospheric water harvesting: toward continuous operation through mass transfer optimization",
+   "received": "25 January 2024",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 293
+  },
+  {
+   "doi": "10.1038/s44172-025-00408-3",
+   "title": "A photonic crystal receiver for Rydberg atom-based sensing",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1038/s44172-025-00380-y",
+   "title": "Touchscreen communication (ToSCom): Electro-Quasistatic body communication during touch sensing",
+   "received": "14 November 2023",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 458
+  },
+  {
+   "doi": "10.1038/s44172-025-00410-9",
+   "title": "Predicting compressive stress-strain behavior of elasto-plastic porous media via morphology-informed neural networks",
+   "received": "27 February 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 406
+  },
+  {
+   "doi": "10.1038/s44172-025-00432-3",
+   "title": "Industrial-scale prediction of cement clinker phases using machine learning",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1038/s44172-025-00454-x",
+   "title": "Triple-chord trussed submerged floating tunnels: hybrid construction concept, feasibility and design",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1038/s44172-025-00377-7",
+   "title": "Inverse-designed large field-of-view polychromatic metalens for tri-color scanning fiber endoscopy",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 306
+  },
+  {
+   "doi": "10.1038/s44172-025-00485-4",
+   "title": "Collaborative and privacy-preserving cross-vendor united diagnostic imaging via server-rotating federated machine learning",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1038/s44172-024-00328-8",
+   "title": "Implantable silicon neural probes with nanophotonic phased arrays for single-lobe beam steering",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 147
+  },
+  {
+   "doi": "10.1038/s44172-024-00321-1",
+   "title": "Ultra-lightweight rechargeable battery with enhanced gravimetric energy densities &gt;750\u2009Wh\u2009kg\u22121 in lithium\u2013sulfur pouch cell",
+   "received": "13 October 2023",
+   "revised": null,
+   "accepted": "31 October 2024",
+   "days": 384
+  },
+  {
+   "doi": "10.1038/s44172-025-00529-9",
+   "title": "Wireless active feedback loop for backscattering communication",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1038/s44172-025-00404-7",
+   "title": "Reciprocal actuation core and modular robotic limbs for flying, swimming and running",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1038/s44172-025-00441-2",
+   "title": "The effect of device geometry on the performance of a wave energy converter",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 378
+  },
+  {
+   "doi": "10.1038/s44172-025-00507-1",
+   "title": "Optimising housing typology distributions for multi-hazard loss reductions in resource-constrained settings",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 270
+  },
+  {
+   "doi": "10.1038/s44172-025-00478-3",
+   "title": "Assessment criteria and risk mitigation of hydrogeothermal energy portfolios for district heating",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1038/s44172-025-00467-6",
+   "title": "Transforming label-efficient decoding of healthcare wearables with self-supervised learning and \u201cembedded\u201d medical domain expertise",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1038/s44172-024-00337-7",
+   "title": "PlomBOX: a low cost bioassay for the sensitive detection of lead in drinking water",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 165
+  },
+  {
+   "doi": "10.1038/s44172-025-00426-1",
+   "title": "A Quantitative Particle Identification (QPID) spectral autoradiography system",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1038/s44172-025-00420-7",
+   "title": "Active heterogeneous mode coupling in bi-level multi-physically architected metamaterials for temporal, on-demand and tunable programming",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 335
+  },
+  {
+   "doi": "10.1038/s44172-025-00439-w",
+   "title": "Rapid in-air ultrasound holography measurement and camera-in-the-loop generation using thermography",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1038/s44172-025-00356-y",
+   "title": "Near-field terahertz time-domain spectroscopy for in-line electrical metrology of semiconductor integration processes for memory",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1038/s44172-025-00383-9",
+   "title": "Emerging sensor technologies and physics-guided methods for monitoring automotive lithium-based batteries",
+   "received": "23 January 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 399
+  },
+  {
+   "doi": "10.1038/s44172-025-00509-z",
+   "title": "Combining quasi-one-dimensional modeling with region-wise structure analysis for rapid technology computer-aided design simulations of gate-all-around",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s44172-025-00378-6",
+   "title": "Revealing the mechanism of cold metal transfer",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 276
+  },
+  {
+   "doi": "10.1038/s44172-025-00460-z",
+   "title": "Range-compensated pencil beam scanning proton Arc therapy: a feasibility study",
+   "received": "4 April 2024",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 447
+  },
+  {
+   "doi": "10.1038/s44172-025-00534-y",
+   "title": "Democratizing high-Q plasmonic optical fiber biosensing with low-resolution interrogation and Fourier demodulation",
+   "received": "1 June 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s44172-025-00493-4",
+   "title": "Climate-resilient railway networks: a resource-aware framework",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1038/s44172-025-00497-0",
+   "title": "Hypersonic levitation and spinning: paving the way for enhanced single-cell analysis via contactless tissue dissociation",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1038/s44172-025-00427-0",
+   "title": "Integration of acoustic, optical, and electrical methods in picoliter droplet microfluidics for rare particles enrichment",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s44172-025-00344-2",
+   "title": "A catalyst-coated diaphragm assembly to improve the performance and energy efficiency of alkaline water electrolysers",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1038/s44172-025-00386-6",
+   "title": "Partially substrateless microchannels for direct monitoring of interfacial dynamics in hydrophobic surfaces",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1038/s44172-025-00448-9",
+   "title": "Continuous spatio-temporal synthesis of electromagnetic fields by projected space-time Fourier transform",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1038/s44172-025-00453-y",
+   "title": "Explainability in the age of large language models for healthcare",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1038/s44172-025-00474-7",
+   "title": "World model-based end-to-end scene generation for accident anticipation in autonomous driving",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1038/s44172-025-00477-4",
+   "title": "Recursive regulator: a deep-learning and real-time model adaptation strategy for nonlinear systems",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 329
+  },
+  {
+   "doi": "10.1038/s44172-025-00511-5",
+   "title": "Toward an ion-based large-scale integrated circuit: design, simulation, and integration",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1038/s44172-025-00349-x",
+   "title": "3D evolutionarily designed metamaterials for scattering maximization",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1038/s44172-025-00455-w",
+   "title": "LED-pumped room-temperature solid-state maser",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 371
+  },
+  {
+   "doi": "10.1038/s44172-025-00517-z",
+   "title": "MechRAG: a multimodal large language model for mechanical engineering",
+   "received": "18 May 2025",
+   "revised": null,
+   "accepted": "20 September 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1038/s44172-025-00524-0",
+   "title": "Development of open radio access networks (O-RAN) for real-time robotic teleoperation",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1038/s44172-025-00487-2",
+   "title": "Seismic assessment of unreinforced masonry fa\u00e7ades from images using macroelement-based modeling",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1038/s44172-025-00452-z",
+   "title": "Electrostatic adhesion mitigates aerodynamic losses from gap formations in feathered wings",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1038/s44172-025-00418-1",
+   "title": "Reservoir controllers design though robot-reservoir timescale alignment",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1038/s44172-025-00459-6",
+   "title": "Leveraging satellite observations and machine learning for underwater sound speed estimation",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1038/s44172-025-00403-8",
+   "title": "Magnetically actuatable 3D-printed endoscopic microsystems",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1038/s44172-025-00471-w",
+   "title": "Solution-combustion synthesis of Na3(VO1-x)2(PO4)2F1+2x as a positive electrode material for sodium-ion batteries",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1038/s44172-025-00465-8",
+   "title": "Aerodynamic significance of mass distribution on diverse samara descent behaviors",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1038/s44172-025-00384-8",
+   "title": "A multi-method framework for establishing an angular acceleration reference in sensor calibration and uncertainty quantification",
+   "received": "25 April 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 306
+  },
+  {
+   "doi": "10.1038/s44172-025-00521-3",
+   "title": "Cascaded guidance, state estimation, and control for depth tracking of underactuated autonomous underwater vehicles",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1038/s44172-024-00325-x",
+   "title": "A framework to automatically detect near-falls using a wearable inertial measurement cluster",
+   "received": "19 April 2024",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 208
+  },
+  {
+   "doi": "10.1038/s44172-025-00504-4",
+   "title": "Neural spike compression through salient sample extraction and curve fitting dedicated to high-density brain implants",
+   "received": "20 July 2023",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 774
+  },
+  {
+   "doi": "10.1038/s44172-025-00409-2",
+   "title": "Thermal fault detection of lithium-ion battery packs through an integrated physics and deep neural network based model",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 268
+  },
+  {
+   "doi": "10.1038/s44172-025-00412-7",
+   "title": "All-fiber architecture for high speed core-selective switch for multicore fibers",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1038/s44172-025-00416-3",
+   "title": "Photonic neuromorphic accelerator for convolutional neural networks based on an integrated reconfigurable mesh",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1038/s44172-025-00387-5",
+   "title": "Sewage sludge hydrochar characterization and valorization via hydrothermal processing for 3D printing",
+   "received": "23 January 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 407
+  },
+  {
+   "doi": "10.1038/s44172-025-00480-9",
+   "title": "Agile manoeuvrable flight via collaborative wing-tail adjustment of a flapping wing robot",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 417
+  },
+  {
+   "doi": "10.1038/s44172-025-00342-4",
+   "title": "Ultrafast humidity sensor and transient humidity detections in high dynamic environments",
+   "received": "24 November 2023",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 412
+  },
+  {
+   "doi": "10.1038/s44172-025-00548-6",
+   "title": "Degrees of uncertainty: conformal deep learning for non-invasive core body temperature prediction in extreme environments",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "6 November 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1038/s44172-025-00501-7",
+   "title": "Physics-informed machine learning-based real-time long-horizon temperature fields prediction in metallic additive manufacturing",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1038/s44172-025-00391-9",
+   "title": "Real-time spatiotemporal optimization during imaging",
+   "received": "4 April 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 342
+  },
+  {
+   "doi": "10.1038/s44172-025-00363-z",
+   "title": "Preserving privacy and video quality through remote physiological signal removal",
+   "received": "31 July 2023",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 554
+  },
+  {
+   "doi": "10.1038/s44172-025-00462-x",
+   "title": "High-capacity phase-sensitively amplified transmission in a field-deployed fiber cable",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1038/s44172-025-00514-2",
+   "title": "Enabling multirotor UAVs to perch, land and detach with standard propeller guards",
+   "received": "22 March 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1038/s44172-025-00411-8",
+   "title": "Lifecycle carbon intensity with embodied emissions of battery and hydrogen-driven integrative low-carbon systems",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 361
+  },
+  {
+   "doi": "10.1038/s44172-025-00394-6",
+   "title": "Optimizing photon capture: advancements in amorphous silicon-based microchannel plates",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1038/s44172-025-00367-9",
+   "title": "A deep learning framework based on structured space model for detecting small objects in complex underwater environments",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1038/s44172-025-00440-3",
+   "title": "Powered knee exoskeleton improves sit-to-stand transitions in stroke patients using electromyographic control",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1038/s44172-025-00354-0",
+   "title": "Three-dimensional runout characterisation for rotationally symmetric components",
+   "received": "3 January 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 390
+  },
+  {
+   "doi": "10.1038/s44172-025-00484-5",
+   "title": "From Fourier topology representation to optimal robot: evolution of an ultrahigh performance XY\u03b8z nanopositioner",
+   "received": "30 May 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1038/s44172-025-00530-2",
+   "title": "Huge transverse Maxwell stress in ferroelectric fluids and prototyping of new ferroelectric motors",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s44172-025-00352-2",
+   "title": "A mechanics-informed machine learning framework for traumatic brain injury prediction in police and forensic investigations",
+   "received": "23 June 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1038/s44172-025-00466-7",
+   "title": "Operation optimisation of direct current microgrids toward stability and economy: a model-data co-driven framework",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 364
+  },
+  {
+   "doi": "10.1038/s44172-025-00557-5",
+   "title": "Machine learning-enabled inverse design of bioinspired layered composite structures with maximum auxetic performance",
+   "received": "13 April 2025",
+   "revised": null,
+   "accepted": "11 November 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1038/s44172-025-00425-2",
+   "title": "Flexible screen-printed SiC-based humidity sensors",
+   "received": "30 March 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 395
+  },
+  {
+   "doi": "10.1038/s44172-025-00468-5",
+   "title": "Economically viable geological CO2 storage from direct air capture has critical threshold of 70% CO2 concentration",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s44172-025-00424-3",
+   "title": "Magnetic localization and manipulation of locking synchronous motors",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1038/s44172-025-00492-5",
+   "title": "Neuromorphic computing for robotic vision: algorithms to hardware advances",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 382
+  }
+ ]
+}

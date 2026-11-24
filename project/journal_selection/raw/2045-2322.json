@@ -1,0 +1,1509 @@
+{
+ "issn": "2045-2322",
+ "journal": "Scientific Reports",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:19.631215",
+ "source": "https://api.crossref.org/journals/2045-2322/works",
+ "articles": [
+  {
+   "doi": "10.1038/s41598-025-10902-5",
+   "title": "A prospective observational study regarding host-derived immunological parameters around zirconia implants in comparison to natural teeth following fl",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1038/s41598-025-98966-1",
+   "title": "Evaluation of endometrial vascular flow index and echogenicity following experimental induction of subclinical endometritis in dairy cows",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1038/s41598-024-81892-z",
+   "title": "Flight training and the anterior cingulate cortex",
+   "received": "7 April 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 236
+  },
+  {
+   "doi": "10.1038/s41598-025-88772-0",
+   "title": "The effect of cortisol in early pregnancy on postpartum depressive symptoms",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1038/s41598-025-13404-6",
+   "title": "Efficacy of the power centering for seniors intervention on physical functional performance in older community-dwelling adults: a secondary analysis o",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1038/s41598-024-81405-y",
+   "title": "Mycobacterium tuberculosis Rv1048c affects the biological characteristics of recombinant Mycobacterium smegmatis",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 203
+  },
+  {
+   "doi": "10.1038/s41598-025-03216-z",
+   "title": "Proof of concept measurement of ovine intertrochanteric fracture stability with an X-ray visualized implantable screw bending sensor",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1038/s41598-025-04390-w",
+   "title": "Identification and validation of SAC3D1 as a prognostic biomarker promoting the development of osteosarcoma",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1038/s41598-025-85299-2",
+   "title": "Randomized controlled trial on effect of different routes of dexmedetomidine on Haemodynamics in patients undergoing saphenectomy under epidural anaes",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1038/s41598-024-80679-6",
+   "title": "Exploring neural architectures for simultaneously recognizing multiple visual attributes",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 205
+  },
+  {
+   "doi": "10.1038/s41598-025-23642-3",
+   "title": "Spatial and contextual factors influencing injury patterns and severity resulting from the 2020 Beirut blast",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 469
+  },
+  {
+   "doi": "10.1038/s41598-025-92389-8",
+   "title": "Flow cytometric analysis of the SARS coronavirus 2 antibodies in human plasma",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1038/s41598-025-95176-7",
+   "title": "Effects of prehospital advanced airway management on cardiac arrest patients who underwent extracorporeal cardiopulmonary resuscitation",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1038/s41598-025-85295-6",
+   "title": "Impact of hypertension on changes in peripapillary retinal nerve fiber layer thickness in type 2 diabetes patients",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1038/s41598-025-18659-7",
+   "title": "Heavy mental task has no effect on sex differences in muscle fatigability during moderate-intensity isometric contraction",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1038/s41598-025-85551-9",
+   "title": "Reference intervals of inhibin B in Chinese children on chemiluminescence analyzer",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 23
+  },
+  {
+   "doi": "10.1038/s41598-025-89441-y",
+   "title": "Improving case fatality ratio estimates in ongoing pandemics through case-to-death time distribution analysis",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41598-025-89020-1",
+   "title": "Mapping genomic regions affecting sensitivity to bovine respiratory disease on chromosome X using selective DNA pooling",
+   "received": "20 February 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 349
+  },
+  {
+   "doi": "10.1038/s41598-025-06215-2",
+   "title": "Enhancing cement properties for oil wells using MgO-PAM nanocomposites",
+   "received": "19 January 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1038/s41598-025-91301-8",
+   "title": "Traditional Chinese herbal formulas modulate inflammatory mediators, antioxidant enzyme levels, and ruminal microbiota composition in postpartum femal",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1038/s41598-025-05367-5",
+   "title": "Exploring mental health challenges and violence risks in high school population",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 322
+  },
+  {
+   "doi": "10.1038/s41598-025-14186-7",
+   "title": "Antibiotic carry over is a confounding factor for cell-based antimicrobial research applications",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 298
+  },
+  {
+   "doi": "10.1038/s41598-025-21710-2",
+   "title": "Stiffness optimization of electric spindle performance based on multi-layer perceptron integrated Bayesian",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s41598-025-90767-w",
+   "title": "Applying causality to environmental security in Iraq",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1038/s41598-025-12717-w",
+   "title": "Prevalence and associated factors of vitreoretinal interface disorders using multicolour OCT among Chinese population in Fujian eye study",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s41598-025-03025-4",
+   "title": "Nonmass lesions on preoperative MRI in breast cancer patients: clinical implications and prognostic significance",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 371
+  },
+  {
+   "doi": "10.1038/s41598-025-23274-7",
+   "title": "Simultaneous photovoltaic distributed generation and capacitor optimization for enhancing performance indices of radial power distribution system",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1038/s41598-025-27764-6",
+   "title": "Intraplate deformation of Gondwana terranes and implications for the Wilson Cycle",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "5 November 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1038/s41598-025-97194-x",
+   "title": "Immediate effect of ice and dry massage during rest breaks on recovery in MMA fighters : a randomized crossover clinical trial study",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1038/s41598-025-13939-8",
+   "title": "Prognostic value of myocardial bridging versus non-obstructive CAD: a long-term follow-up study",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 441
+  },
+  {
+   "doi": "10.1038/s41598-025-18427-7",
+   "title": "Clinical application value of erythroferrone (ERFE) and hepcidin in pregnant women with thalassemia and iron-deficiency anemia: a comprehensive study",
+   "received": "4 July 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1038/s41598-025-25275-y",
+   "title": "A predictive model for diagnosing peripheral pulmonary lesions using radial probe endobronchial ultrasound images",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 325
+  },
+  {
+   "doi": "10.1038/s41598-024-82589-z",
+   "title": "Impact of gut colonization by antibiotic-resistant bacteria on the outcomes of autologous stem cell transplantation in multiple myeloma",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 128
+  },
+  {
+   "doi": "10.1038/s41598-025-00135-x",
+   "title": "Performance and energy optimization of ternary optical computers based on tandem queuing system",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s41598-025-93350-5",
+   "title": "A multiscale investigation of uranium(VI) interaction with a freshwater diatom species",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1038/s41598-025-13680-2",
+   "title": "NSPLformer: exploration of non-stationary progressively learning model for time series prediction",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1038/s41598-025-21430-7",
+   "title": "Systemic hypoxia appears to attenuate autophagy in human peripheral blood mononuclear cells during repeated sprint exercises",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1038/s41598-025-06587-5",
+   "title": "Understanding the role of urban block morphology in innovation vitality through explainable machine learning",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1038/s41598-025-05766-8",
+   "title": "Effects of clonazepam and flunitrazepam on the development cycle of Calliphora vicina Robineau-Desvoidy 1830 and their forensic implications",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1038/s41598-025-93326-5",
+   "title": "Optimization of alumina leaching from microcline using particle swarm optimization and response surface methodology",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1038/s41598-025-92048-y",
+   "title": "A novel scale for anxiety-related fixation instability during laser in situ keratomileusis",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1038/s41598-025-20011-y",
+   "title": "Plastome phylogenomics of the Korean endemic plant Arisaema thunbergii subsp. geomundoense (Araceae)",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41598-025-13308-5",
+   "title": "Preliminary study on the neural mechanisms of four tone recognition in deaf children using fMRI",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 377
+  },
+  {
+   "doi": "10.1038/s41598-025-18095-7",
+   "title": "AMIGO2\u00a0accelerates tumor progression by inducing a cancer stem cell-like phenotype",
+   "received": "13 July 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1038/s41598-025-02464-3",
+   "title": "Pressure relief and gas outburst prevention in ultra close coal seams a case study on overlying underlying interactions",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1038/s41598-024-83104-0",
+   "title": "Theoretical modeling of hepatitis C acute infection in liver-humanized mice support pre-clinical assessment of candidate viruses for controlled-human-",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 202
+  },
+  {
+   "doi": "10.1038/s41598-025-09364-6",
+   "title": "Comparison of perioperative analgesia between posterior stabilized and posterior cruciate retaining prostheses following total knee arthroplasty",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 378
+  },
+  {
+   "doi": "10.1038/s41598-025-04904-6",
+   "title": "Isolation and identification of Alcaligenes faecalis W2-3 with high-yield production of dimethyl disulfide",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1038/s41598-025-16964-9",
+   "title": "A novel model for cultural-based classification of liberal arts using deep reinforcement learning",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1038/s41598-025-22982-4",
+   "title": "An experimental insight of the hydrodynamics of microjet assisted fluidized bed of ultrafine particles",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1038/s41598-025-24481-y",
+   "title": "Diagnostic and prognostic values of circulating growth differentiation factor-15 and osteopontin in uterine sarcoma",
+   "received": "4 August 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1038/s41598-025-07902-w",
+   "title": "Effect of dual optical pulse scheme with supra and subthreshold fluences on laser micro ablation of pigment",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1038/s41598-025-17070-6",
+   "title": "Comparative evaluation of propolis and Persea americana creams for epidermal wound healing in rats",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s41598-025-96053-z",
+   "title": "Three-dimensional organ segmentation-derived CT attenuation parameters for assessing hepatic steatosis in chronic hepatitis B patients",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1038/s41598-025-85335-1",
+   "title": "Toward based on concentrated multi-scale linear attention real-time UAV tracking using joint natural language specification",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1038/s41598-024-82390-y",
+   "title": "miR-548az-5p induces amniotic epithelial cell senescence by regulating KATNAL1 expression in labor",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 120
+  },
+  {
+   "doi": "10.1038/s41598-025-16185-0",
+   "title": "Machine learning comparison for biomarker level estimation in wastewater dynamics monitoring",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s41598-025-16069-3",
+   "title": "The deep separable convolution with DSC NCF model and optimization mechanism of digital economy for intelligent manufacturing under sales order recomm",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1038/s41598-025-03580-w",
+   "title": "Strong association between hypocalcemia and preeclampsia-eclampsia among pregnant women attending at a tertiary referral hospital in Northwestern Tanz",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1038/s41598-025-01371-x",
+   "title": "Effect of beak trimming and feather spraying with bitter taste compound on feather pecking and welfare of Muscovy ducks",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1038/s41598-025-22873-8",
+   "title": "The role of thrombospondin-1 in trehalose-induced autophagy and ocular hypertension in mice",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1038/s41598-024-80604-x",
+   "title": "Association between low fasting glucose of the living donor and risk of graft loss in the recipient after liver transplantation",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 109
+  },
+  {
+   "doi": "10.1038/s41598-025-87245-8",
+   "title": "Enlargement of microvascular dropout toward the disc-fovea axis indicates new central visual field defect in glaucoma",
+   "received": "19 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1038/s41598-025-04086-1",
+   "title": "Attention residual network for medical ultrasound image segmentation",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s41598-025-18959-y",
+   "title": "Rapid mobile inspection equipment for metro tunnels based on multi-sensor integration",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1038/s41598-025-07011-8",
+   "title": "Diverse cultural backgrounds influence language aptitude and working memory in adult Chinese language learning",
+   "received": "29 August 2023",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 653
+  },
+  {
+   "doi": "10.1038/s41598-025-17620-y",
+   "title": "Systematic metabolomic study on the plasma and urine of a mouse model of Alport syndrome",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1038/s41598-025-14544-5",
+   "title": "Detecting the purely imaginary Fisher zeros of an Ising spin system on a quantum computer",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 518
+  },
+  {
+   "doi": "10.1038/s41598-025-12683-3",
+   "title": "Motion sickness susceptibility modulates the impact of electrical vestibular stimulation on postural control",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1038/s41598-025-17654-2",
+   "title": "Evaluation of minimally invasive metabolomic methods for assessing the health of sturgeons",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1038/s41598-025-88053-w",
+   "title": "PDE4B promotes JNK/NLRP3 activation in the nucleus pulposus and mediates intervertebral disc degeneration",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1038/s41598-025-89299-0",
+   "title": "Comparative study of unbalanced mining disaster risk level prediction based on artificial intelligence algorithms",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1038/s41598-025-09670-z",
+   "title": "Centrifuge-free cell radiolabeling using acoustophoresis",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1038/s41598-025-00344-4",
+   "title": "Identification of transarterial chemoembolization candidates in advanced hepatocellular carcinoma patients classified solely by performance status 1: ",
+   "received": "12 January 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1038/s41598-025-13878-4",
+   "title": "Bayesian inference for dependent stress\u2013strength reliability of series\u2013parallel system based on copula",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 287
+  },
+  {
+   "doi": "10.1038/s41598-025-25574-4",
+   "title": "A bicentric study on the application of dual energy CT for predicting hemorrhagic transformation post endovascular thrombectomy",
+   "received": "10 May 2025",
+   "revised": null,
+   "accepted": "22 October 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1038/s41598-024-80643-4",
+   "title": "Photoregulatory functions drive variation in eye coloration across macaque species",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 101
+  },
+  {
+   "doi": "10.1038/s41598-025-91363-8",
+   "title": "Spontaneous evolution of density peaking factor in TEM turbulence-dominated H-mode plasma on the EAST Tokamak",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1038/s41598-025-89960-8",
+   "title": "A parallel texture-based region-growing algorithm implemented in OpenMP",
+   "received": "3 January 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 404
+  },
+  {
+   "doi": "10.1038/s41598-025-03579-3",
+   "title": "Factors influencing attrition among adults in HIV care at two referral hospitals in northern coastal Eritrea from 2005 to 2021",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1038/s41598-024-84041-8",
+   "title": "Experimental and theoretical assessment to investigate the impact of Gast Reg drug on the copper corrosion control in an acidic environment",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 93
+  },
+  {
+   "doi": "10.1038/s41598-025-92639-9",
+   "title": "The correlation between calcaneocuboid joint involvement and sustentacular fragment displacement among male patients with displaced intra-articular ca",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1038/s41598-025-96323-w",
+   "title": "A study on fine detection of moisture content in stone cultura relics by high-sensitivity wireless sensing",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1038/s41598-025-99926-5",
+   "title": "Mapping conservation conflicts by integrating social network analysis and Q methodology: A sea turtle case from Sri Lanka",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1038/s41598-024-72686-4",
+   "title": "The effect of adipose tissue on transdermal monochromatic light presented to the human fetus using Monte Carlo simulations",
+   "received": "1 February 2024",
+   "revised": null,
+   "accepted": "10 September 2024",
+   "days": 222
+  },
+  {
+   "doi": "10.1038/s41598-025-24121-5",
+   "title": "Clinical and electrophysiological study of polyneuropathy in patients with multiple sclerosis",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1038/s41598-025-89399-x",
+   "title": "Catalytic epoxidation of unsaturated fatty acids in palm stearin via in situ peracetic acids mechanism",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s41598-025-07426-3",
+   "title": "A novel Compound-Pareto model with applications and reliability peaks above a random threshold value at risk analysis",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1038/s41598-025-19133-0",
+   "title": "AgriFact framework for modelling the impact of farmers\u2019 information demand on nationwide wheat productivity in India",
+   "received": "24 May 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1038/s41598-025-96492-8",
+   "title": "Advantages of imperfect dice rolls over coin flips for random number generation",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1038/s41598-025-86452-7",
+   "title": "Urban pandemic governance personal protective equipment allocation strategies: a system dynamics simulation",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1038/s41598-025-92310-3",
+   "title": "Protein kinase C epsilon activation improves early survival in an acute porcine model of controlled hemorrhage",
+   "received": "10 August 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 200
+  },
+  {
+   "doi": "10.1038/s41598-025-22126-8",
+   "title": "DeepEGFR a graph neural network for bioactivity classification of EGFR inhibitors",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1038/s41598-025-87155-9",
+   "title": "Optimal design of a multistage slope using the multi-verse optimization algorithm",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s41598-025-16655-5",
+   "title": "Overexpression of androgen receptor signalling transactivator lncRNAs PRNCR1 and PCGEM1 are associated with the increased risk of PCOS",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1038/s41598-025-00251-8",
+   "title": "Gynoid lean muscle mass as mediator between menarche age, hand grip and bone mineral density in postmenopausal women",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1038/s41598-025-95657-9",
+   "title": "Cold hardiness of Corythucha marmorata (Hemiptera: Tingidae) on the functional crop Helianthus tuberosus",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1038/s41598-025-86402-3",
+   "title": "Study of the vibration frequency characteristics of tectonic coal containing assemblages at different loading rates",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1038/s41598-025-95540-7",
+   "title": "Using Mg isotopes to constrain the formation temperature of dolomite",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1038/s41598-024-82327-5",
+   "title": "Loss values of style transfer from UBM to AS-OCT images for plateau iris classification",
+   "received": "25 January 2023",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 679
+  },
+  {
+   "doi": "10.1038/s41598-025-86296-1",
+   "title": "Regional consensus of switched positive multi-agent systems with multiple equilibria",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1038/s41598-025-98640-6",
+   "title": "A novel knockout mouse model to assess the impact of one-copy loss of Hnrnpk in CD4\u2009+\u2009T cells in chronically inflamed skin as a prelude to CTCL",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 423
+  },
+  {
+   "doi": "10.1038/s41598-025-03018-3",
+   "title": "Machine learning for workpiece mass prediction using real and synthetic acoustic data",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1038/s41598-025-23297-0",
+   "title": "A novel rapid surface projection localization technique (RSPLT) using 3D slicer and smartphone-assisted registration for keyhole evacuation of intrace",
+   "received": "13 July 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1038/s41598-025-20185-5",
+   "title": "GAN-AVI: facial expression translator in Twitter avatar analogous to tweet sentiments",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1038/s41598-025-99394-x",
+   "title": "Multimorbidity of mental health and substance use disorders among housed and homeless U.S. veterans",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1038/s41598-025-95971-2",
+   "title": "18F-FDG PET/CT findings of intermediate bone tumors of the spine",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1038/s41598-025-89991-1",
+   "title": "Quantifying the impact of workshops promoting microbiome data standards and data stewardship",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1038/s41598-025-95148-x",
+   "title": "Nasal dominance potentiates intranasal oxytocin\u2019s anxiolytic effects",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 358
+  },
+  {
+   "doi": "10.1038/s41598-025-99352-7",
+   "title": "Evaluation of the impact of mandibular symphysis region alterations on profile aesthetics",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1038/s41598-024-80574-0",
+   "title": "Deep-learning-based extraction of circle of Willis topology with anatomical priors",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 124
+  },
+  {
+   "doi": "10.1038/s41598-024-84396-y",
+   "title": "Fascicle differentiation of upper extremity nerves on high-resolution ultrasound with multimodal microscopic verification",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 174
+  },
+  {
+   "doi": "10.1038/s41598-025-14863-7",
+   "title": "Synthesis, dyeing performance and surface finishing effects of aminoethyl methacrylate functionalized stilbene fluorescent whitening agents",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s41598-024-83225-6",
+   "title": "Sucker rod straightness measurement method based on probability statistics of edge point detection",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 108
+  },
+  {
+   "doi": "10.1038/s41598-025-13138-5",
+   "title": "Generation of transchromosomic mice harboring HLA-A/B/C and human B2M via mouse artificial chromosome and triple BAC integration",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1038/s41598-025-23117-5",
+   "title": "Valorizing the applicability of waste rubber tiles loaded with bagasse fibers in different epoxy resin systems",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1038/s41598-025-23772-8",
+   "title": "Integrating machine learning and experimental validation identifies a post-translational modification gene signature for prognosis and treatment respo",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1038/s41598-025-24191-5",
+   "title": "Analysis of full-term neonatal eye disease screening results and trends from 2016 to 2023",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1038/s41598-025-26352-y",
+   "title": "Evaluation of plant community composition and ecological benefits based on six urban greenway plant species",
+   "received": "23 May 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1038/s41598-025-25081-6",
+   "title": "Dietary acid load and mortality in the Japan Multi-Institutional Collaborative Cohort Study",
+   "received": "8 December 2024",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 313
+  },
+  {
+   "doi": "10.1038/s41598-025-99887-9",
+   "title": "Trend analysis and prediction of disease burden of occupational carbon monoxide poisoning in China based on the past two decades",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1038/s41598-025-86149-x",
+   "title": "Inversion of interlayer scale using dynamic data of production wells in bottom water reservoirs: Sangtamu Oilfield, Tarim basin",
+   "received": "1 April 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1038/s41598-025-28588-0",
+   "title": "Application of improved FP-tree algorithm in rural accurate information service",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "11 November 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1038/s41598-025-99657-7",
+   "title": "Platelet like cells differentiated from human adipose derived mesenchymal stem cells promote healing of tendinopathy in rats",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 391
+  },
+  {
+   "doi": "10.1038/s41598-025-94973-4",
+   "title": "Molecular analysis of the emergence of Allium cepa L. Seeds response to saline stress and treatment with essential oil of Cordia verbenacea",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 306
+  },
+  {
+   "doi": "10.1038/s41598-025-11594-7",
+   "title": "BDNF improves fracture healing through promoting osteoblasts proliferation and migration via trkb/akt regulated NUCKS1 expression",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1038/s41598-025-17241-5",
+   "title": "A prediction nomogram for mild cognitive impairment in type 2 diabetes mellitus based on the Chinese visceral adiposity index",
+   "received": "18 February 2024",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 551
+  },
+  {
+   "doi": "10.1038/s41598-025-94252-2",
+   "title": "Study of autocorrelations and uncertainties applied to patients with Parkinson\u2019s disease",
+   "received": "17 August 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1038/s41598-025-94965-4",
+   "title": "Biomechanical effects of LCWHTO vs. MOWHTO on medial meniscus posterior root repair: a finite element analysis",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1038/s41598-025-99937-2",
+   "title": "Development of hybrid computational model for simulation of heat transfer and temperature prediction in chemical reactors",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1038/s41598-025-19846-2",
+   "title": "Anatomical alignment of the acetabular component using transverse acetabular ligament in total hip replacement: a prospective cohort study",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 456
+  },
+  {
+   "doi": "10.1038/s41598-025-98734-1",
+   "title": "Cryptanalysis of efficient controlled semi-quantum secret sharing protocol with entangled state",
+   "received": "2 February 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1038/s41598-025-24603-6",
+   "title": "Portable mixed reality navigation system for neurosurgery: a clinical feasibility study",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1038/s41598-025-17765-w",
+   "title": "An efficient voltammetric platform integrating ZnS nanowires, reduced graphene oxide sheets, and ferrocene monocarboxylic acid for the sensitive detec",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1038/s41598-025-06345-7",
+   "title": "Rosemary essenitial oil counters MnO2 nanoparticle-induced fertility deficits in rats via antioxidant mechanisms and upregulation of StAR signalling",
+   "received": "23 March 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1038/s41598-025-13052-w",
+   "title": "Evaluation of a silicon carbide P\u2013N diode for thermal neutron detection in a radiotherapy LINAC",
+   "received": "16 April 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1038/s41598-024-80568-y",
+   "title": "Identifying and understanding the nonlinear behavior of memristive devices",
+   "received": "31 March 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 232
+  },
+  {
+   "doi": "10.1038/s41598-025-19146-9",
+   "title": "Explainable multi stream deep learning for fine grained camel breed classification using a Novel Arabian and Non Arabian dataset",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1038/s41598-025-99638-w",
+   "title": "Single-cell sequencing combined with bulk RNA seq reveals the roles of natural killer cell in prognosis and immunotherapy of hepatocellular carcinoma",
+   "received": "19 July 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 277
+  },
+  {
+   "doi": "10.1038/s41598-025-09382-4",
+   "title": "Anatomical evaluation of the major apical foramen of extracted maxillary and mandibular human teeth in an Iraqi subpopulation: a cross-sectional study",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1038/s41598-024-81455-2",
+   "title": "COP5/HKR1 changes ciliary beat pattern and biases cell steering during chemotaxis in Chlamydomonas reinhardtii",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1038/s41598-025-01721-9",
+   "title": "Serum lactate dehydrogenase as a prognostic marker for 90-day mortality in connective tissue disease patients receiving glucocorticoids and hospitaliz",
+   "received": "8 December 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1038/s41598-025-90442-0",
+   "title": "A highly efficient hybrid fiber optic laser using a cesium atom vapor cell as an optical gain medium",
+   "received": "15 August 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1038/s41598-025-98638-0",
+   "title": "The scaled sardine\u2019s unique metabolic phenotype and its implications for the susceptibility of small tropical pelagic fishes to climate change",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1038/s41598-025-16861-1",
+   "title": "The impact of confounders, spillovers and interactions on social distancing policy effects estimates",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 285
+  },
+  {
+   "doi": "10.1038/s41598-025-03776-0",
+   "title": "Fatigue safety factor of a transonic centrifugal compressor impeller subject to blade thickness",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1038/s41598-025-22867-6",
+   "title": "Children\u2019s drug research and development incentives and market pricing optimization based on medical imaging",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1038/s41598-025-15687-1",
+   "title": "Physics-informed residual learning with spatiotemporal local support for inverse ECG reconstruction",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1038/s41598-025-03515-5",
+   "title": "Circadian gene BMAL1 ameliorates renal ischaemia-reperfusion injury in diabetic mice by enhancing mitophagy via the HIF-1/BNIP3 pathway",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1038/s41598-024-80842-z",
+   "title": "MCGAN\u2014a cutting edge approach to real time investigate of multimedia deepfake multi collaboration of deep generative adversarial networks with transfe",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1038/s41598-025-00926-2",
+   "title": "Reevaluating the therapeutic role of extended lymph node dissection in the era of robot-assisted radical prostatectomy",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1038/s41598-025-17879-1",
+   "title": "Trends and patterns of work-related cyclist fatalities in Brazil, 2014\u20132022",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s41598-025-85339-x",
+   "title": "Factors involved in maintaining Karnofsky Performance Status (\u2265\u200950%) in glioblastoma, IDH-wildtype patients treated with temozolomide and radiotherapy",
+   "received": "19 May 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1038/s41598-024-80848-7",
+   "title": "Comparative study of quantitative identification methods for peri-urban areas based on a multi-indicator system",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 108
+  },
+  {
+   "doi": "10.1038/s41598-025-00441-4",
+   "title": "Floristic composition of Shamansir mountain, West Saudi Arabia, as sustainable economic resources",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1038/s41598-025-05686-7",
+   "title": "Red blood cell distribution width to albumin ratio is associated with osteoarthritis prevalence among US adults with diabetes using data from NHANES 2",
+   "received": "30 November 2024",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1038/s41598-025-90166-1",
+   "title": "Cortical parcellation optimized for magnetoencephalography with a clustering technique",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1038/s41598-025-04467-6",
+   "title": "Nonlinear electronic oscillators as time sensors for high-precision positioning applications",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s41598-025-03289-w",
+   "title": "Attention and stimulus structure interact during ensemble encoding of facial expression",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1038/s41598-025-03430-9",
+   "title": "Impact of a WeChat-based intervention on nurses knowledge and practice in peripheral venous catheter insertion",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1038/s41598-025-94204-w",
+   "title": "Analysis of combining ability and heterosis based on controlled pollination populations of eucalypt",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1038/s41598-024-76880-2",
+   "title": "Pathological studies on skeletal muscle atrophy in common fish products from El-Jubail Province, Saudi Arabia",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "17 October 2024",
+   "days": 67
+  },
+  {
+   "doi": "10.1038/s41598-025-97057-5",
+   "title": "Innovative approach for experimental investigation and monitoring and warning of the evolutionary patterns of dam body failure in earth dams",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1038/s41598-024-81669-4",
+   "title": "Comparison of leaf anatomical structure and photosynthetic characteristics between weedy rice and cultivated rice at the seedling stage",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 225
+  },
+  {
+   "doi": "10.1038/s41598-025-91935-8",
+   "title": "The association of serum CHI3L1 levels with the presence of Kawasaki disease",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1038/s41598-025-08841-2",
+   "title": "Impact of LULC changes on small watershed morphometry and delineation of sustainable conservation strategies for degraded transboundary rivers",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1038/s41598-024-83415-2",
+   "title": "Knowledge and beliefs on breast cancer screening and uptake among Yemeni female school teachers in Malaysia",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 85
+  },
+  {
+   "doi": "10.1038/s41598-024-81134-2",
+   "title": "Molecular identification of whole squids and calamari at fairs and markets in regions of Latin America",
+   "received": "10 May 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 199
+  },
+  {
+   "doi": "10.1038/s41598-025-22343-1",
+   "title": "Empirical analysis of the carbon-economy nexus in industrial parks using an integrated decoupling-decomposition framework from a major industrial regi",
+   "received": "18 June 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1038/s41598-024-82939-x",
+   "title": "Imaging phenotype reveals that disulfirams induce protein insolubility in the mitochondrial matrix",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 244
+  },
+  {
+   "doi": "10.1038/s41598-025-18831-z",
+   "title": "Assessing the potential of bacterial signal peptides for radiopharmaceutical applications",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1038/s41598-025-87455-0",
+   "title": "An optimized ensemble grey wolf-based pipeline for monkeypox diagnosis",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1038/s41598-024-80570-4",
+   "title": "A DNA methylation signature identified in the buccal mucosa reflecting active tuberculosis is changing during tuberculosis treatment",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s41598-025-02736-y",
+   "title": "Multivariate relationships between graft detachment after DMEK and twelve pre/perioperative factors",
+   "received": "27 January 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 474
+  },
+  {
+   "doi": "10.1038/s41598-025-02463-4",
+   "title": "Association of the TNFRSF1B-rs1061622 variant with nonresponse to infliximab in ulcerative colitis",
+   "received": "26 September 2023",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 595
+  },
+  {
+   "doi": "10.1038/s41598-025-16985-4",
+   "title": "Optimization of immobilized activated sludge performance in electro-sprayed matrices for treatment of cellulose industry wastewater",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1038/s41598-024-80636-3",
+   "title": "Adjuvants to the S1-subunit of the SARS-CoV-2 spike protein vaccine improve antibody and T cell responses and surrogate neutralization in mice",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s41598-025-08592-0",
+   "title": "Comparative performance and health economic analysis of prenatal screening for down syndrome in Fujian province, China",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1038/s41598-025-85796-4",
+   "title": "Research on spatial prediction technology for mitigating tunnel inrush disasters under complex geological conditions in China\u2019s Hengduan Mountain Rang",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1038/s41598-024-84764-8",
+   "title": "Isolation and identification of the causal agent of gummy stem blight disease in Cucumis sativus caused by a bacterial pathogen in China",
+   "received": "30 March 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 271
+  },
+  {
+   "doi": "10.1038/s41598-025-23050-7",
+   "title": "Machine learning prediction of osteoarthritis risk from volatile organic compound exposure using SHAP interpretation in US adults",
+   "received": "9 February 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1038/s41598-025-19942-3",
+   "title": "Effects of confined thermal cycling on sealants with different thermomechanical properties for CCS",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1038/s41598-025-08698-5",
+   "title": "PknB and STP as potential targets of luteolin in combating Trueperella pyogenes infections",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1038/s41598-025-29490-5",
+   "title": "Navigating the new normal: understanding the impact of COVID-19 on e-learning readiness among nursing students in Saudi Arabia: a cross-sectional stud",
+   "received": "29 June 2025",
+   "revised": null,
+   "accepted": "17 November 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1038/s41598-025-01180-2",
+   "title": "Unveiling the role of TCF19 in intervertebral disc degeneration with single-cell and bulk RNA sequencing",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1038/s41598-025-19813-x",
+   "title": "Bioinformatics identification of key genes correlating NOD1 and Endoplasmic Reticulum stress in Hepatitis B virus-induced acute liver failure",
+   "received": "21 June 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1038/s41598-025-15296-y",
+   "title": "Elman and feedforward neural network based models for predicting mechanical properties of flow formed AA6082 tubes",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 78
+  }
+ ]
+}

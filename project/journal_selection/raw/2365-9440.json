@@ -1,0 +1,597 @@
+{
+ "issn": "2365-9440",
+ "journal": "International Journal of Educational Technology in Higher Education",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:08.830979",
+ "source": "https://api.crossref.org/journals/2365-9440/works",
+ "articles": [
+  {
+   "doi": "10.1186/s41239-025-00518-0",
+   "title": "Leveraging Wikipedia for educational innovation: a higher education course model for enhancing students\u2019 competencies and collaborative knowledge crea",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s41239-025-00541-1",
+   "title": "Effect of Gamified, Mobile, Cloud-Based Learning Management System (GMCLMS) on student engagement and achievement",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s41239-024-00494-x",
+   "title": "Risk management strategy for generative AI in computing education: how to handle the strengths, weaknesses, opportunities, and threats?",
+   "received": "7 June 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s41239-025-00523-3",
+   "title": "A longitudinal study of interplay between student engagement and self-regulation",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s41239-025-00560-y",
+   "title": "Online project-based learning to foster students\u2019 course choices in data science: a longitudinal case study using Sankey visualization",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s41239-025-00548-8",
+   "title": "A systematic mapping review at the intersection of artificial intelligence and self-regulated learning",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s41239-025-00544-y",
+   "title": "How could GenAI work on in-service teachers\u2019 knowledge building process? An empirical study based on epistemic network analysis",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s41239-025-00510-8",
+   "title": "Examining the impact of video-feedback and academic engagement on students\u2019 feedback perceptions, feedback reviews, and academic achievement",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1186/s41239-025-00534-0",
+   "title": "Facilitator or hindrance? The impact of AI on university students' higher-order thinking skills in complex problem solving",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s41239-024-00501-1",
+   "title": "Enhancing peer assessment with artificial intelligence",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 282
+  },
+  {
+   "doi": "10.1186/s41239-025-00532-2",
+   "title": "Qualitatively different teacher experiences of teaching with generative artificial intelligence",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s41239-025-00531-3",
+   "title": "Evidence of the role of presence in enhancing engagement in virtual learning environments via psychological ownership and flow: a dual PLS-neural netw",
+   "received": "11 March 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 401
+  },
+  {
+   "doi": "10.1186/s41239-025-00564-8",
+   "title": "A person-centered perspective in assessing college students\u2032 self-regulated learning in an online learning environment: potential profiles, antecedent",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s41239-025-00527-z",
+   "title": "Enhancing academic stress assessment through self-disclosure chatbots: effects on engagement, accuracy, and self-reflection",
+   "received": "21 December 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s41239-025-00502-8",
+   "title": "The good, bad, and ugly of comment prompts: Effects on length and helpfulness of peer feedback",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 327
+  },
+  {
+   "doi": "10.1186/s41239-025-00520-6",
+   "title": "A novel group cognitive graph approach for improving collaborative problem solving",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s41239-025-00533-1",
+   "title": "Undergraduate students\u2019 perspectives of generative AI ethics",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1186/s41239-025-00509-1",
+   "title": "HELA-CMM: capability maturity model for adoption of learning analytics in higher education",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s41239-025-00554-w",
+   "title": "Enhancing student memorisation through teacher webcam usage and the interplay of social presence",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s41239-025-00519-z",
+   "title": "Assessment of AI ethical reflection: the development and validation of the AI ethical reflection scale (AIERS) for university students",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s41239-025-00512-6",
+   "title": "Supporting a bidirectional feedback process for self-assessment tasks in a digital learning environment",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s41239-024-00495-w",
+   "title": "Leveraging the Louvain algorithm for enhanced group formation and collaboration in online learning environments",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s41239-025-00556-8",
+   "title": "What students really think: unpacking AI ethics in educational assessments through a triadic framework",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s41239-025-00517-1",
+   "title": "Artificial intelligence in educational leadership: a comprehensive taxonomy and future directions",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s41239-024-00492-z",
+   "title": "The International Journal of Educational Technology in Higher Education: content and authorship analysis 2010\u20132024",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "24 October 2024",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s41239-024-00499-6",
+   "title": "Exploring the effects of elaborated and motivational feedback on learning engagement in online scripted role discussion",
+   "received": "11 April 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 238
+  },
+  {
+   "doi": "10.1186/s41239-024-00496-9",
+   "title": "AI ethics as a complex and multifaceted challenge: decoding educators\u2019 AI ethics alignment through the lens of activity theory",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s41239-025-00542-0",
+   "title": "Exploring students\u2019 experiences and perceptions of human-AI collaboration in digital content making",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s41239-025-00543-z",
+   "title": "How does university students\u2019 academic major (STEM vs. non-STEM) affect their acceptance of e-learning: a multi-group analysis",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s41239-025-00562-w",
+   "title": "Developing an AI framework for learning in higher education: a humanities perspective from English Literature",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1186/s41239-024-00498-7",
+   "title": "Empowering students\u2019 agentive engagement through formative assessment in online learning environment",
+   "received": "8 March 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 270
+  },
+  {
+   "doi": "10.1186/s41239-025-00563-9",
+   "title": "Ethical considerations for teaching with artificial intelligence: a scoping review in medical education settings",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 363
+  },
+  {
+   "doi": "10.1186/s41239-025-00539-9",
+   "title": "Highly informative feedback using learning analytics: how feedback literacy moderates student perceptions of feedback",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s41239-025-00545-x",
+   "title": "Exploring cognitive presence patterns in GenAI-integrated six-hat thinking technique scaffolded discussion: an epistemic network analysis",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s41239-025-00535-z",
+   "title": "Rethinking the importance of social norms in generative AI adoption: investigating the acceptance and use of generative AI among higher education stud",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s41239-025-00503-7",
+   "title": "Prompt engineering in higher education: a systematic review to help inform curricula",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s41239-025-00506-4",
+   "title": "Factors influencing academic staff satisfaction and continuous usage of generative artificial intelligence (GenAI) in higher education",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1186/s41239-025-00546-w",
+   "title": "Perceptions of artificial intelligence in academic teaching and research: a qualitative study from AI experts and professors\u2019 perspectives",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s41239-025-00553-x",
+   "title": "Promoting collaborative reflection to foster interprofessional collaboration skills: Putting laboratory findings to the test in the field",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 502
+  },
+  {
+   "doi": "10.1186/s41239-025-00504-6",
+   "title": "Unraveling temporally entangled multimodal interactions: investigating verbal and nonverbal contributions to collaborative construction of embodied ma",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1186/s41239-025-00552-y",
+   "title": "Exploring undergraduates\u2019 computational thinking and human-computer interaction patterns in generative progressive prompt-assisted programming learnin",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s41239-025-00547-9",
+   "title": "In GenAI we trust: An investigation of university students\u2019 reliance on and resistance to generative AI in language learning",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s41239-025-00526-0",
+   "title": "The effects of generative AI on collaborative problem-solving and team creativity performance in digital story creation: an experimental study",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s41239-025-00549-7",
+   "title": "Exploring nontraditional graduate students' online engagement: an instrumental case study of learners\u2019 perceptions of purposefully designed activities",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s41239-025-00555-9",
+   "title": "Student reactions to AI versus human feedback in teamwork skills assessment",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s41239-025-00508-2",
+   "title": "Interactions with generative AI chatbots: unveiling dialogic dynamics, students\u2019 perceptions, and practical competencies in creative problem-solving",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s41239-025-00511-7",
+   "title": "Artificial intelligence and communication technologies in academia: faculty perceptions and the adoption of generative AI",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s41239-025-00521-5",
+   "title": "Factors influencing positive perceptions of hybrid teaching in higher education: a case study of an engineering university",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s41239-025-00529-x",
+   "title": "From innovation to stress: analyzing hybrid technology adoption and its role in technostress among students",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s41239-025-00524-2",
+   "title": "Chatbots and student motivation: a scoping review",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s41239-025-00505-5",
+   "title": "\u201cScarlet Cloak and the Forest Adventure\u201d: a preliminary study of the impact of AI on commonly used writing tools",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s41239-025-00514-4",
+   "title": "Assessing and developing college students\u2019 digital learning power: an empirical study based on questionnaire survey in a Chinese university",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s41239-025-00565-7",
+   "title": "How does peer assessment support students\u2019 self-regulation? A case study in online education",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 364
+  },
+  {
+   "doi": "10.1186/s41239-024-00500-2",
+   "title": "From gaming to reality: effectiveness of skills transfer from competitive sandbox gaming environment to near and far contexts",
+   "received": "26 February 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 288
+  },
+  {
+   "doi": "10.1186/s41239-025-00561-x",
+   "title": "Pronunciation trainer for second language learning using generative AI",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s41239-025-00530-4",
+   "title": "Integrating AI in higher education: factors influencing ChatGPT acceptance among Chinese university EFL students",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s41239-025-00557-7",
+   "title": "University staff and student perspectives on competent and ethical use of AI: uncovering similarities and divergences",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s41239-025-00528-y",
+   "title": "The power of play: integrating competitive sandbox game for experiential learning to foster twenty-first century skills",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s41239-025-00538-w",
+   "title": "Intelligent teaching analytics for collaborative reflection: investigating pre-service teachers\u2019 perceptions, experiences and shared regulation proces",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1186/s41239-025-00567-5",
+   "title": "Assessing strategic use of artificial intelligence in self-regulated learning: Instrument development and evidence from Chinese university students",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s41239-025-00537-x",
+   "title": "You have a notification: the role of push notifications in shaping students\u2019 engagement, self-regulation and academic procrastination",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s41239-025-00558-6",
+   "title": "The value of GenAI for peer feedback provision: student perceptions and impacts",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s41239-025-00569-3",
+   "title": "Effects of two scenario approaches for digital sobriety education among higher education students",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s41239-025-00515-3",
+   "title": "Engagement with analytics feedback and its relationship to self-regulated learning competence and course performance",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "1 March 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1186/s41239-025-00507-3",
+   "title": "Investigating the higher education institutions\u2019 guidelines and policies regarding the use of generative AI in teaching, learning, research, and admin",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s41239-024-00497-8",
+   "title": "Remote STEM education in the post-pandemic period: challenges from the perspective of students and faculty",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s41239-024-00493-y",
+   "title": "Unpacking student engagement in higher education learning analytics: a systematic review",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s41239-025-00516-2",
+   "title": "Navigating the digital learning landscape: insights into ethical dilemmas and academic misconduct among university students",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1186/s41239-025-00550-0",
+   "title": "Digital divide as an explanatory variable for dropout in higher education",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s41239-025-00540-2",
+   "title": "Design and assessment of AI-based learning tools in higher education: a systematic review",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s41239-025-00525-1",
+   "title": "The impact of large language models on computer science student writing",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s41239-025-00522-4",
+   "title": "Promoting formative self-assessment through peer assessment: peer work quality matters for writing performance and internal feedback generation",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1186/s41239-025-00551-z",
+   "title": "From user needs to AI solutions: a human-centered design approach for AI-powered virtual teamwork competency training",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 80
+  }
+ ]
+}

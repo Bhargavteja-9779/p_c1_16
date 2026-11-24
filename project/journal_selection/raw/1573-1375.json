@@ -1,0 +1,1605 @@
+{
+ "issn": "1573-1375",
+ "journal": "Statistics and Computing",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:58.692908",
+ "source": "https://api.crossref.org/journals/1573-1375/works",
+ "articles": [
+  {
+   "doi": "10.1007/s11222-024-10557-8",
+   "title": "Penalized empirical likelihood estimation and EM algorithms for closed-population capture\u2013recapture models",
+   "received": "24 November 2022",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 763
+  },
+  {
+   "doi": "10.1007/s11222-024-10549-8",
+   "title": "Multivariate zero-inflated INGARCH models: Bayesian inference and composite likelihood approach",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s11222-025-10682-y",
+   "title": "Persistent Sampling: Enhancing the Efficiency of Sequential Monte Carlo",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 332
+  },
+  {
+   "doi": "10.1007/s11222-025-10603-z",
+   "title": "Fast Gibbs sampling for the local-seasonal-global trend Bayesian exponential smoothing model",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1007/s11222-025-10686-8",
+   "title": "Nonparametric empirical bayes prediction in mixed models",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1007/s11222-025-10778-5",
+   "title": "Valid asymptotic inference after sufficient dimension reduction in a single-index framework",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "11 November 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1007/s11222-025-10564-3",
+   "title": "Asymptotic post-selection inference for regularized graphical models",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1007/s11222-025-10683-x",
+   "title": "Improving the prediction accuracy of statistical models: A new hierarchical clustering approach",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s11222-025-10750-3",
+   "title": "Current tendencies in Free-Running Oscillators: a review",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1007/s11222-024-10535-0",
+   "title": "Gaussian measures conditioned on nonlinear observations: consistency, MAP estimators, and simulation",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 174
+  },
+  {
+   "doi": "10.1007/s11222-025-10731-6",
+   "title": "Adaptive stratified Monte Carlo using decision trees",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1007/s11222-025-10600-2",
+   "title": "A new p-value based multiple testing procedure for generalized linear models",
+   "received": "18 March 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 343
+  },
+  {
+   "doi": "10.1007/s11222-024-10560-z",
+   "title": "Constrained least squares simplicial-simplicial regression",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 175
+  },
+  {
+   "doi": "10.1007/s11222-025-10676-w",
+   "title": "Confidence intervals and one-sample-based hypothesis testing for Cronbach\u2019s $$\\alpha $$ coefficient for interval-valued data",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "22 June 2025",
+   "days": 327
+  },
+  {
+   "doi": "10.1007/s11222-024-10548-9",
+   "title": "Random perturbation subsampling for rank regression with massive data",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s11222-025-10717-4",
+   "title": "A new resampling method for meta Gaussian distributions",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1007/s11222-025-10681-z",
+   "title": "Subgroup Analysis of Differential Networks with Latent Variables",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s11222-024-10547-w",
+   "title": "Robust and efficient sparse learning over networks: a decentralized surrogate composite quantile regression approach",
+   "received": "28 July 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 130
+  },
+  {
+   "doi": "10.1007/s11222-025-10755-y",
+   "title": "Inverse probability weighting estimation under ultrahigh-dimensional error-prone covariates and misclassified treatments",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1007/s11222-024-10551-0",
+   "title": "A neural network-based adaptive cut-off approach to normality testing for dependent data",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s11222-025-10663-1",
+   "title": "Sparse estimation and inference for prediction-powered semi-supervised linear regression",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1007/s11222-025-10685-9",
+   "title": "Communication-efficient transfer learning for adaptive Huber regression",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1007/s11222-025-10722-7",
+   "title": "Spilt conformal prediction with missing response",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 277
+  },
+  {
+   "doi": "10.1007/s11222-025-10745-0",
+   "title": "Efficient Likelihood-Based Temporal Changepoint Detection in Spatio-Temporal Processes",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 364
+  },
+  {
+   "doi": "10.1007/s11222-025-10594-x",
+   "title": "Bayesian design for sampling anomalous spatio-temporal data",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s11222-025-10570-5",
+   "title": "Logit unfolding choice models for binary data",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1007/s11222-024-10537-y",
+   "title": "funBIalign: a hierachical algorithm for functional motif discovery based on mean squared residue scores",
+   "received": "26 October 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 382
+  },
+  {
+   "doi": "10.1007/s11222-025-10582-1",
+   "title": "Using prior-data conflict to tune Bayesian regularized regression models",
+   "received": "25 December 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 406
+  },
+  {
+   "doi": "10.1007/s11222-025-10569-y",
+   "title": "Anisotropic multidimensional smoothing using Bayesian tensor product P-splines",
+   "received": "7 April 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1007/s11222-025-10751-2",
+   "title": "Goodness of fit in relational event models",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 453
+  },
+  {
+   "doi": "10.1007/s11222-025-10758-9",
+   "title": "Wrapped Gaussian Process Functional Regression Model for Batch Data on Riemannian Manifolds",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s11222-025-10598-7",
+   "title": "Monotonic warpings for additive and deep Gaussian processes",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1007/s11222-025-10618-6",
+   "title": "On Bayesian wavelet shrinkage estimation of nonparametric regression models with stationary correlated noise",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1007/s11222-025-10660-4",
+   "title": "Optimal response-free Poisson subsampling for generalized linear models in increasing dimension",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s11222-025-10697-5",
+   "title": "Hierarchical Mixtures of Latent Trait Analyzers with concomitant variables for multivariate binary data",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1007/s11222-025-10592-z",
+   "title": "Variational Bayesian analysis for joint models of longitudinal and failure time data with interval censoring",
+   "received": "9 February 2025",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 7
+  },
+  {
+   "doi": "10.1007/s11222-025-10640-8",
+   "title": "Sequential Bayesian Registration for Functional Data",
+   "received": "7 June 2024",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 337
+  },
+  {
+   "doi": "10.1007/s11222-024-10561-y",
+   "title": "Empirical investigations of boosting with pseudo-outcome imputation for missing responses",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 229
+  },
+  {
+   "doi": "10.1007/s11222-025-10757-w",
+   "title": "Rank Test of Independence Based on Adaptive Hellinger Distance",
+   "received": "16 February 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1007/s11222-025-10769-6",
+   "title": "Robust variable selection in multiple functional linear models via group VIF regression",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 294
+  },
+  {
+   "doi": "10.1007/s11222-025-10770-z",
+   "title": "Estimating the causal treatment effect in multi-site current status data with the additive hazards model and neural networks",
+   "received": "6 July 2025",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1007/s11222-025-10687-7",
+   "title": "Robust and Efficient Estimation for the Block-Basu Bivariate Exponential Distribution",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1007/s11222-025-10620-y",
+   "title": "Graph sub-sampling for divide-and-conquer algorithms in large networks",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s11222-025-10734-3",
+   "title": "Adaptive Generalized P-Splines for Functional Data: A Statistical Framework via Blockwise GSVD",
+   "received": "16 June 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1007/s11222-025-10563-4",
+   "title": "An analysis of the modality and flexibility of the inverse stereographic normal distribution",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1007/s11222-025-10573-2",
+   "title": "Exploratory analysis of dynamic networks using latent functions",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s11222-025-10699-3",
+   "title": "Distributed empirical likelihood inference with or without Byzantine failures",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1007/s11222-025-10577-y",
+   "title": "Online structural break detection in financial durations",
+   "received": "19 July 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1007/s11222-025-10658-y",
+   "title": "Feature splitting parallel algorithm for Dantzig selectors",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1007/s11222-025-10589-8",
+   "title": "Frequentist model averaging under a linear exponential loss",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1007/s11222-025-10567-0",
+   "title": "Density regression via Dirichlet process mixtures of normal structured additive regression models",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1007/s11222-025-10568-z",
+   "title": "Geographically weighted quantile regression for count Data",
+   "received": "4 October 2023",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 467
+  },
+  {
+   "doi": "10.1007/s11222-025-10729-0",
+   "title": "Zero-inflation in the multivariate poisson lognormal family",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 448
+  },
+  {
+   "doi": "10.1007/s11222-025-10627-5",
+   "title": "Multivariate two-sample tests via random projection",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s11222-025-10619-5",
+   "title": "Nonlinear principal component analysis for two-dimensional functional data using neural networks",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s11222-025-10604-y",
+   "title": "Two-level D- and A-optimal main-effects designs with run sizes one and two more than a multiple of four",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s11222-025-10651-5",
+   "title": "Annealing Strategies for Variance Reduction in Balance Heuristic Estimators",
+   "received": "7 February 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 470
+  },
+  {
+   "doi": "10.1007/s11222-025-10607-9",
+   "title": "Debiased transfer learning estimation and inference for multinomial regression",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s11222-025-10732-5",
+   "title": "Statistical inference for matrix-vector linear regression without debiasing under Kronecker covariance structure",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1007/s11222-025-10705-8",
+   "title": "Testing mean independence with functional covariate",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s11222-025-10628-4",
+   "title": "Fast Bayesian inference in a class of sparse linear mixed effects models",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1007/s11222-025-10695-7",
+   "title": "Fast post-process Bayesian inference with Variational Sparse Bayesian Quadrature",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1007/s11222-025-10735-2",
+   "title": "A joint kriging model with application to constrained classification",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 419
+  },
+  {
+   "doi": "10.1007/s11222-025-10625-7",
+   "title": "On sufficient dimension reduction methods based on a graphical model with non-concave penalty",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1007/s11222-025-10656-0",
+   "title": "S-SIRUS: an explainability algorithm for spatial regression Random Forest",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s11222-025-10688-6",
+   "title": "Spatial autoregressive model for interval-valued data and applications",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s11222-025-10765-w",
+   "title": "A model identification and selection method for varying coefficient EV models with missing responses",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s11222-024-10528-z",
+   "title": "Estimating a signal subspace in the presence of impulsive noise",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "18 October 2024",
+   "days": 238
+  },
+  {
+   "doi": "10.1007/s11222-025-10708-5",
+   "title": "Random sampling of contingency tables and partitions: Two practical examples of the Burnside process",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "9 August 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s11222-025-10748-x",
+   "title": "Approximate Bayesian computation sequential Monte Carlo via random forests",
+   "received": "21 July 2024",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 441
+  },
+  {
+   "doi": "10.1007/s11222-024-10543-0",
+   "title": "Probabilistic time integration for semi-explicit PDAEs",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s11222-025-10712-9",
+   "title": "Predictive Subgroup Logistic Regression for Classification with Unobserved Heterogeneity",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s11222-025-10605-x",
+   "title": "Semiparametric efficient estimation of genetic relatedness with machine learning methods",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1007/s11222-025-10629-3",
+   "title": "Uncertainty Quantification in Bayesian Reduced-Rank Sparse Regressions",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s11222-025-10715-6",
+   "title": "Simulation based Bayesian Optimization",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1007/s11222-025-10597-8",
+   "title": "Uncertainty quantification and propagation in surrogate-based Bayesian inference",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 320
+  },
+  {
+   "doi": "10.1007/s11222-025-10738-z",
+   "title": "Post-transfer learning statistical inference in high-dimensional regression",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1007/s11222-025-10718-3",
+   "title": "Robust mean-shift clustering based on impartial trimming",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 397
+  },
+  {
+   "doi": "10.1007/s11222-025-10632-8",
+   "title": "Estimating the number of true null hypotheses based on change point of observed p values",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1007/s11222-025-10675-x",
+   "title": "Estimation of the Additive Hazards Model Based on Interval-censored Failure Time Data with Random Change Point",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1007/s11222-025-10710-x",
+   "title": "Distributed Estimation and Inference for High-Dimensional Confounded Models",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s11222-025-10646-2",
+   "title": "Bayesian quantile regression model with linear inequality constraints",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1007/s11222-025-10601-1",
+   "title": "Bayesian analysis of doubly semiparametric mixture cure models with interval-censored data",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1007/s11222-025-10635-5",
+   "title": "Local Polynomial $$L_p$$-norm Regression",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1007/s11222-025-10657-z",
+   "title": "Information preservation with wasserstein autoencoders: generation consistency and adversarial robustness",
+   "received": "18 August 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1007/s11222-025-10746-z",
+   "title": "Finding Interpretable Data Pockets in Tabular Data",
+   "received": "16 June 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1007/s11222-024-10559-6",
+   "title": "Inference issue in multiscale geographically and temporally weighted regression",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s11222-024-10553-y",
+   "title": "PCA-uCPD: an ensemble method for multiple change-point detection in moderately high-dimensional data",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 58
+  },
+  {
+   "doi": "10.1007/s11222-025-10637-3",
+   "title": "Numerical Generalized Randomized HMC processes for restricted domains",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 343
+  },
+  {
+   "doi": "10.1007/s11222-025-10572-3",
+   "title": "Real-time inference for smoothing quantile regression on streaming datasets with heterogeneity detection",
+   "received": "18 August 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1007/s11222-024-10556-9",
+   "title": "Power enhancing probability subsampling using side information",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 132
+  },
+  {
+   "doi": "10.1007/s11222-025-10701-y",
+   "title": "Optimal F-score Matching for Bipartite Record Linkage",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1007/s11222-025-10698-4",
+   "title": "Data-driven uncertainty quantification for constrained stochastic differential equations and application to solar photovoltaic power forecast data",
+   "received": "1 July 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 388
+  },
+  {
+   "doi": "10.1007/s11222-025-10720-9",
+   "title": "Finite mixtures of multivariate Poisson-log normal factor analyzers for clustering count data",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 298
+  },
+  {
+   "doi": "10.1007/s11222-025-10691-x",
+   "title": "Network-assisted Semi-supervised Logistic Regression",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1007/s11222-025-10641-7",
+   "title": "Mean-restricted Matrix-variate Normals with an application to clustering",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1007/s11222-025-10694-8",
+   "title": "RSFclust: Robust sparse clustering of functional data using quantile curves",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 321
+  },
+  {
+   "doi": "10.1007/s11222-024-10550-1",
+   "title": "Multi-task learning via robust regularized clustering with non-convex group penalties",
+   "received": "18 August 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s11222-025-10775-8",
+   "title": "Fair conformal prediction for incomplete covariate data",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "9 November 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1007/s11222-025-10583-0",
+   "title": "Directional data analysis: spherical Cauchy or Poisson kernel-based distribution?",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1007/s11222-024-10554-x",
+   "title": "K-fold cross-validation based frequentist model averaging for linear models with nonignorable missing responses",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 103
+  },
+  {
+   "doi": "10.1007/s11222-025-10742-3",
+   "title": "Two-Metric Variable Scaled Splitting Algorithm for Nonsmooth Nonconvex Sparsity-penalized Quantile Regression",
+   "received": "3 May 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1007/s11222-025-10728-1",
+   "title": "Significativity Indices for Agreement Values",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1007/s11222-025-10636-4",
+   "title": "An Online Updating Approach for Estimating and Testing Mediation Effects with Big Data Streams",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1007/s11222-025-10711-w",
+   "title": "Bayesian additive tree ensembles for composite quantile regressions",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s11222-025-10622-w",
+   "title": "Mixture cure semiparametric additive hazard models under partly interval censoring \u2014 a penalized likelihood approach",
+   "received": "9 January 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 464
+  },
+  {
+   "doi": "10.1007/s11222-025-10566-1",
+   "title": "Fuzzy K-expectiles clustering",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1007/s11222-025-10772-x",
+   "title": "Sparse Bayesian learning for label efficiency in cardiac real-time MRI",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "4 November 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s11222-025-10584-z",
+   "title": "Simulation based composite likelihood",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1007/s11222-025-10723-6",
+   "title": "Randomized Spectral Clustering for Large-Scale Multi-Layer Networks",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1007/s11222-025-10606-w",
+   "title": "Online Bayesian changepoint detection for network Poisson processes with community structure",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1007/s11222-025-10609-7",
+   "title": "An improved bisection-type algorithm for control chart calibration",
+   "received": "12 March 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 370
+  },
+  {
+   "doi": "10.1007/s11222-025-10771-y",
+   "title": "Sparse outlier-robust PCA for multi-source data",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "4 November 2025",
+   "days": 271
+  },
+  {
+   "doi": "10.1007/s11222-025-10623-9",
+   "title": "High order expansion method for Kuiper\u2019s $$V_n$$ statistic in goodness-of-fit test",
+   "received": "31 December 2023",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 473
+  },
+  {
+   "doi": "10.1007/s11222-025-10611-z",
+   "title": "Efficient estimation for varying coefficient modal regression",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s11222-025-10647-1",
+   "title": "Bayesian shared parameter joint models for heterogeneous populations",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1007/s11222-025-10689-5",
+   "title": "Quantile-based fitting for graph signals",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1007/s11222-025-10766-9",
+   "title": "Practical Considerations for Implementing the Isolation Forest EWMA Control Chart in Phase II Process Monitoring",
+   "received": "22 March 2025",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1007/s11222-025-10595-w",
+   "title": "Metropolis-adjusted interacting particle sampling",
+   "received": "21 December 2023",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 427
+  },
+  {
+   "doi": "10.1007/s11222-025-10678-8",
+   "title": "DeepJAM: Joint alignment of multivariate quasi-periodic functional data using deep learning",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 389
+  },
+  {
+   "doi": "10.1007/s11222-025-10739-y",
+   "title": "Ensemble Prediction via Covariate-dependent Stacking",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1007/s11222-024-10552-z",
+   "title": "A limit formula and recursive algorithm for multivariate Normal tail probability",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s11222-025-10593-y",
+   "title": "A multifacet hierarchical sentiment-topic model with application to multi-brand online review analysis",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s11222-025-10706-7",
+   "title": "Tests for simultaneous ordered alternatives in a two-way ANOVA with interaction",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 310
+  },
+  {
+   "doi": "10.1007/s11222-025-10768-7",
+   "title": "Unbiased parameter estimation for bayesian inverse problems",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "30 October 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s11222-025-10596-9",
+   "title": "Estimation and model selection for finite mixtures of Tukey\u2019s g- &amp;-h distributions",
+   "received": "2 December 2022",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 811
+  },
+  {
+   "doi": "10.1007/s11222-024-10540-3",
+   "title": "Huber-energy measure quantization",
+   "received": "9 June 2023",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 523
+  },
+  {
+   "doi": "10.1007/s11222-025-10664-0",
+   "title": "Estimation of ratios of normalizing constants using stochastic approximation: the SARIS algorithm",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1007/s11222-025-10579-w",
+   "title": "Multilevel latent class models for cross-classified categorical data: model definition and estimation through stochastic EM",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1007/s11222-025-10741-4",
+   "title": "A non-asymptotic error analysis for parallel Monte Carlo estimation from many short Markov chains",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 482
+  },
+  {
+   "doi": "10.1007/s11222-025-10777-6",
+   "title": "Novel Bayesian algorithms for ARFIMA long-memory processes: a comparison between MCMC and ABC approaches",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "10 November 2025",
+   "days": 391
+  },
+  {
+   "doi": "10.1007/s11222-025-10588-9",
+   "title": "Robust $$\\ell _{2,0}$$-penalized rank regression for high-dimensional group selection",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1007/s11222-024-10544-z",
+   "title": "Laplace-based strategies for Bayesian optimal experimental design with nuisance uncertainty",
+   "received": "1 April 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 239
+  },
+  {
+   "doi": "10.1007/s11222-025-10562-5",
+   "title": "Inference on diffusion processes related to a general growth model",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1007/s11222-025-10633-7",
+   "title": "Nonlinear Functional Sufficient Dimension Reduction via Principal Fitted Components",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "1 May 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s11222-025-10762-z",
+   "title": "Bootstrap tests for almost goodness-of-fit",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1007/s11222-025-10709-4",
+   "title": "Outcome-guided spike-and-slab Lasso Biclustering: A Novel Approach for Enhancing Biclustering Techniques for Gene Expression Analysis",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1007/s11222-025-10652-4",
+   "title": "Sampling from Conditional Distributions of Simplified Vines",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 355
+  },
+  {
+   "doi": "10.1007/s11222-025-10737-0",
+   "title": "Heterogeneity-aware debiased machine learning for high-dimensional partially linear models",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1007/s11222-025-10574-1",
+   "title": "Statistical inference and goodness-of-fit test in functional data via error distribution function",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s11222-025-10585-y",
+   "title": "Exact score and information matrix for panel hidden semi-Markov models",
+   "received": "30 May 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1007/s11222-025-10655-1",
+   "title": "Bayesian model selection for analyzing predictor-dependent directional data",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1007/s11222-025-10639-1",
+   "title": "The second\u2013derivative lower\u2013bound function (SeLF) algorithm and three acceleration techniques for maximization with strongly stable convergence",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1007/s11222-025-10692-w",
+   "title": "Distributed Estimation and Algorithm for Distributed Outcome Dependent Subsampling in Generalized Linear Regression with Large-scale Data",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s11222-025-10684-w",
+   "title": "Personalized federated learning on large-scale association networks",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s11222-025-10693-9",
+   "title": "Disclosure risk assessment with Bayesian non-parametric hierarchical modelling",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s11222-025-10679-7",
+   "title": "The Deep Latent Position Block Model for Block Clustering and Latent Representation of Nodes in Networks",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s11222-025-10702-x",
+   "title": "Bias-enhanced support detection and root finding approach",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 426
+  },
+  {
+   "doi": "10.1007/s11222-025-10713-8",
+   "title": "Integrating quantile regression for multi-source subgroup identification",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1007/s11222-025-10700-z",
+   "title": "Exact computation of angular halfspace depth",
+   "received": "1 February 2025",
+   "revised": null,
+   "accepted": "27 July 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1007/s11222-025-10662-2",
+   "title": "Wasserstein k-Centers Clustering for Distributional Data",
+   "received": "29 December 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1007/s11222-025-10716-5",
+   "title": "Heterogeneous Analysis of Longitudinal Profiles using Adaptive Banded Precision Matrices via Penalized Fusion",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1007/s11222-025-10707-6",
+   "title": "Tensor train approximation of multivariate Gaussian density by scaling and squaring",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1007/s11222-025-10665-z",
+   "title": "Expert-elicitation method for non-parametric joint priors using normalizing flows",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1007/s11222-025-10719-2",
+   "title": "Multi-network assisted clustering using a grouped factor model",
+   "received": "8 March 2023",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 905
+  },
+  {
+   "doi": "10.1007/s11222-025-10673-z",
+   "title": "Causal Segment Regression with Multiple Thresholds",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1007/s11222-025-10721-8",
+   "title": "Enhancing Proportional Hazards Mixture Cure Models with Transfer Learning for Interval-Censored Data",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1007/s11222-025-10674-y",
+   "title": "A Neural Network Integrated Accelerated Failure Time-Based Mixture Cure Model",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1007/s11222-025-10677-9",
+   "title": "Robust feature screening via Grothendieck\u2019s correlation with FDR control",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1007/s11222-025-10671-1",
+   "title": "From sparse to dense functional data: phase transitions from a simultaneous inference perspective",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1007/s11222-025-10650-6",
+   "title": "Unbalanced Longitudinal Data Clustering with a Copula Kernel Mixture Model",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1007/s11222-025-10648-0",
+   "title": "Nudging state-space models for Bayesian filtering under misspecified dynamics",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1007/s11222-025-10740-5",
+   "title": "On Semi-Parametric Progressive Censoring",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s11222-025-10587-w",
+   "title": "Hyperparameter optimization for randomized algorithms: a case study on random features",
+   "received": "19 July 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1007/s11222-025-10696-6",
+   "title": "Numerical approaches to finite-horizon optimal stopping problems for the Shiryaev process",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1007/s11222-024-10538-x",
+   "title": "Online robust estimation and bootstrap inference for function-on-scalar regression",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s11222-025-10781-w",
+   "title": "A note on auxiliary mixture sampling for Bayesian Poisson models",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1007/s11222-025-10744-1",
+   "title": "The effective number of parameters in kernel density estimation",
+   "received": "22 March 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1007/s11222-025-10644-4",
+   "title": "DGP-LVM: Derivative Gaussian process latent variable models",
+   "received": "6 April 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 403
+  },
+  {
+   "doi": "10.1007/s11222-025-10763-y",
+   "title": "BOB: Bayesian optimized bootstrap for approximate posterior sampling in Gaussian mixture models",
+   "received": "2 June 2024",
+   "revised": null,
+   "accepted": "22 October 2025",
+   "days": 507
+  },
+  {
+   "doi": "10.1007/s11222-025-10749-w",
+   "title": "Bayesian parameter estimation for partially observed McKean-Vlasov diffusions using multilevel Markov chain Monte Carlo",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1007/s11222-025-10724-5",
+   "title": "Adaptive Reduced Multilevel Splitting",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 316
+  },
+  {
+   "doi": "10.1007/s11222-025-10586-x",
+   "title": "On approximations of subordinators in $$L^p$$ and the simulation of tempered stable distributions",
+   "received": "13 February 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 362
+  },
+  {
+   "doi": "10.1007/s11222-025-10752-1",
+   "title": "Distance-based CUSUM statistics for high dimensional change points",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1007/s11222-025-10613-x",
+   "title": "Learning from data\u2019s evolution in normal equations: the DECK-principle and equations\u2019 adjustment",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s11222-025-10779-4",
+   "title": "Optimal sparse phase retrieval via a quasi-Bayesian approach",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "11 November 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1007/s11222-025-10726-3",
+   "title": "Bayesian additive weighted composite quantile regression",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 298
+  },
+  {
+   "doi": "10.1007/s11222-025-10616-8",
+   "title": "Wiener-type integral approximation for sampling distributions of irregularly spaced spatial data",
+   "received": "12 October 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1007/s11222-025-10591-0",
+   "title": "Group inference for high-dimensional mediation models",
+   "received": "5 January 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 408
+  },
+  {
+   "doi": "10.1007/s11222-025-10736-1",
+   "title": "Importance sampling for rare event tracking within the ensemble Kalman filtering framework",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 416
+  },
+  {
+   "doi": "10.1007/s11222-025-10645-3",
+   "title": "Double debiased estimation and inference for longitudinal generalized linear models with hidden confounders",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s11222-025-10659-x",
+   "title": "An algorithm aiming at unimodal density-based clustering using Gaussian mixture models",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1007/s11222-025-10624-8",
+   "title": "Extended fiducial inference for individual treatment effects via deep neural networks",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1007/s11222-025-10565-2",
+   "title": "Efficient modeling of quasi-periodic data with seasonal Gaussian process",
+   "received": "24 May 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1007/s11222-025-10703-w",
+   "title": "A Bayesian Model for Co-clustering Ordinal Data with Informative Missing Entries",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1007/s11222-025-10654-2",
+   "title": "Variational Bayesian inference for models with nuisance parameters and an intractable likelihood",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 362
+  },
+  {
+   "doi": "10.1007/s11222-025-10630-w",
+   "title": "Penalized quadratic inference functions estimation for fixed effects partially linear single index spatial error model",
+   "received": "21 December 2023",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 495
+  },
+  {
+   "doi": "10.1007/s11222-025-10631-9",
+   "title": "Parallel ADMM Algorithm with Gaussian Back Substitution for High-Dimensional Quantile Regression and Classification",
+   "received": "25 January 2025",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s11222-025-10730-7",
+   "title": "A Hybrid Variational Bayesian Approach for Spatial Random Effects Structural Equation Modeling",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1007/s11222-025-10642-6",
+   "title": "Gradient-free Gibbs sampler for shallow-wide Bayesian neural networks",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1007/s11222-025-10680-0",
+   "title": "Penalty Learning for Optimal Partitioning using Multilayer Perceptron",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1007/s11222-025-10669-9",
+   "title": "A nonparametric test of independence between the second-order structure of point patterns and covariates",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1007/s11222-024-10558-7",
+   "title": "Optimal distributed subsampling under heterogeneity",
+   "received": "21 July 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s11222-024-10546-x",
+   "title": "Optimal subsampling for generalized additive models on large-scale datasets",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 200
+  },
+  {
+   "doi": "10.1007/s11222-025-10670-2",
+   "title": "Subsampling for Big Data Linear Models with Measurement Errors",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1007/s11222-024-10539-w",
+   "title": "Simulating signed mixtures",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 288
+  },
+  {
+   "doi": "10.1007/s11222-025-10602-0",
+   "title": "Sparse and debiased Lasso estimation and statistical inference for long time series via divide-and-conquer",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1007/s11222-025-10576-z",
+   "title": "Testing common degree-correction parameters of multilayer networks",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1007/s11222-025-10668-w",
+   "title": "Tree-based variational inference for Poisson log-normal models",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 236
+  }
+ ]
+}

@@ -1,0 +1,1317 @@
+{
+ "issn": "2520-8942",
+ "journal": "Energy Informatics",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:49.122214",
+ "source": "https://api.crossref.org/journals/2520-8942/works",
+ "articles": [
+  {
+   "doi": "10.1186/s42162-025-00583-9",
+   "title": "An integrated energy system flexible resource feature extraction and identification method for electricity spot market",
+   "received": "17 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s42162-025-00536-2",
+   "title": "Information and Communication Technologies (ICT) for the intelligent operation of building energy systems: design, implementation and evaluation in a ",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s42162-025-00532-6",
+   "title": "Construction of health status recognition and prediction model for power communication equipment based on TFIDF-COS",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "18 May 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s42162-025-00482-z",
+   "title": "Sustainable PV-hydrogen-storage microgrid energy management using a hierarchical economic model predictive control framework",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s42162-024-00456-7",
+   "title": "Hierarchical quantitative prediction of photovoltaic power generation depreciation expense based on matrix task prioritization considering uncertainty",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s42162-025-00557-x",
+   "title": "Stochastic bi-level modelling and optimization of dynamic distribution networks with DG and EV integration",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s42162-025-00540-6",
+   "title": "Bridging IoT devices and machine learning for predicting power consumption: case study universitas Widya Dharma Pontianak",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s42162-025-00525-5",
+   "title": "Measurement error evaluation method for voltage transformers in distribution networks based on self-attention and graph convolutional networks",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s42162-025-00519-3",
+   "title": "Transformer fault diagnosis using machine learning: a method combining SHAP feature selection and intelligent optimization of LGBM",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "12 April 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s42162-024-00437-w",
+   "title": "Building energy efficiency evaluation based on fusion weight method and grey clustering method",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s42162-025-00576-8",
+   "title": "An integrated framework for ADN congestion management combining PLLM-based forecasting and goose optimization",
+   "received": "16 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s42162-025-00518-4",
+   "title": "Integrating BIM with Lean Principles for Enhanced Decision-making: Optimizing Insulation Material Selection in Sustainable Construction Project",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s42162-024-00457-6",
+   "title": "Optimizing power system trading processes using smart contract algorithms",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s42162-025-00568-8",
+   "title": "A multi-step day-ahead wind power forecasting based on VMD-LSTM-EFG-ABC technique",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s42162-025-00546-0",
+   "title": "Neural network-based forecasting and uncertainty analysis of new power generation capacity of electric energy",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s42162-024-00452-x",
+   "title": "Application of simulated annealing algorithm in multi-objective cooperative scheduling of load and storage of source network for load side of new powe",
+   "received": "12 October 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s42162-025-00535-3",
+   "title": "Intelligent guarantee power supply decision method based on reinforcement learning algorithm",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s42162-025-00500-0",
+   "title": "Rolling optimization method of virtual power plant demand response based on Bayesian Stackelberg game",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "8 March 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s42162-024-00438-9",
+   "title": "Research and development of intelligent bypass ring net cage and collaborative control technology of multi-source power supply system in flooded envir",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s42162-024-00420-5",
+   "title": "Local scour of composite cylindrical wind turbine foundation on fine sand seabed under combined waves and current",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "31 October 2024",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s42162-025-00561-1",
+   "title": "Analytical framework for household energy management: integrated photovoltaic generation and load forecasting mechanisms",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 44
+  },
+  {
+   "doi": "10.1186/s42162-025-00582-w",
+   "title": "Evaluation of market power and collusion in large power networks using structural decomposition of the electricity market",
+   "received": "22 August 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 37
+  },
+  {
+   "doi": "10.1186/s42162-025-00537-1",
+   "title": "A rapid Multi-source information integration method based on improved federated learning for a \u201cdual carbon\u201d smart monitoring center in a Dual-carbon ",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s42162-025-00563-z",
+   "title": "Sensorless real-time solar irradiance prediction in grid-connected PV systems using PSO-MPPT and IoT-enabled monitoring",
+   "received": "31 May 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s42162-024-00444-x",
+   "title": "User behavior and energy-saving potential of electric washing machines",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 44
+  },
+  {
+   "doi": "10.1186/s42162-025-00483-y",
+   "title": "Research on building energy consumption prediction algorithm based on customized deep learning model",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s42162-025-00499-4",
+   "title": "From balance to breach: cyber threats to battery energy storage systems",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s42162-025-00554-0",
+   "title": "A study of parameter aggregation algorithms for virtual power plant terminal decentralized resource scheduling characteristics in alpine regions",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s42162-025-00538-0",
+   "title": "Impact of electric vehicle charging demand on clean energy regional power grid control",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s42162-025-00543-3",
+   "title": "An adaptive prediction method for ultra-short-term generation power of power system based on the improved long- and short-term memory network of sparr",
+   "received": "18 April 2025",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s42162-024-00422-3",
+   "title": "Economic optimization scheduling of microgrid group based on chaotic mapping optimization BOA algorithm",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "31 October 2024",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s42162-025-00580-y",
+   "title": "Two-layer distributionally robust planning for hydro-wind-solar-storage systems based on reinforcement learning",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s42162-025-00531-7",
+   "title": "Day-ahead photovoltaic power forecasting with multi-source temporal-feature convolutional networks",
+   "received": "13 April 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 26
+  },
+  {
+   "doi": "10.1186/s42162-024-00463-8",
+   "title": "Transmission line trip faults under extreme snow and ice conditions: a case study",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 36
+  },
+  {
+   "doi": "10.1186/s42162-025-00474-z",
+   "title": "Research on new energy power plant network traffic anomaly detection method based on EMD",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s42162-024-00450-z",
+   "title": "Energy structure optimization and carbon emission control based on weighted mathematical modeling and CGE model",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s42162-025-00501-z",
+   "title": "A comprehensive metric study of distributed PV consumption capacity considering multiple uncertainties",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "8 March 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s42162-025-00495-8",
+   "title": "Selection method for hybrid energy storage schemes for supply reliability improvement in distribution networks",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s42162-024-00458-5",
+   "title": "Vulnerability analysis on random matrix theory for power grid with flexible impact loads",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s42162-025-00491-y",
+   "title": "Management system and optimal control for three-dimensional visualization and maintenance of thermal power plant",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s42162-025-00514-8",
+   "title": "Optimization of electric vehicle charging facility layout considering the enhancement of renewable energy consumption capacity and improvement of PSO ",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 31
+  },
+  {
+   "doi": "10.1186/s42162-024-00445-w",
+   "title": "EVLearn: extending the cityLearn framework with electric vehicle simulation",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s42162-025-00473-0",
+   "title": "Research on power plant security issues monitoring and fault detection using attention based LSTM model",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s42162-024-00467-4",
+   "title": "Optimization of power system load forecasting and scheduling based on artificial neural networks",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s42162-024-00439-8",
+   "title": "Rapid diagnosis of power battery faults in new energy vehicles based on improved boosting algorithm and big data",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s42162-025-00550-4",
+   "title": "Mapping hydrogen demand for heavy-duty vehicles: a spatial disaggregation approach",
+   "received": "16 April 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s42162-025-00489-6",
+   "title": "PIDE: Photovoltaic integration dynamics and efficiency for autonomous control on power distribution grids",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 30
+  },
+  {
+   "doi": "10.1186/s42162-025-00549-x",
+   "title": "A blockchain-enabled collaborative management framework for optimizing green power market transactions",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s42162-025-00512-w",
+   "title": "An equivalent modeling method for integrated water-wind-solar systems based on sparrow search algorithm",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "22 March 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s42162-025-00480-1",
+   "title": "Distributed photovoltaic cluster output monitoring method based on time series data acquisition",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s42162-025-00565-x",
+   "title": "Towards privacy-preserving anomaly-based intrusion detection in energy communities",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s42162-025-00510-y",
+   "title": "Data-driven power marketing strategy optimization and customer loyalty promotion",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s42162-025-00487-8",
+   "title": "The design of a real-time monitoring and intelligent optimization data analysis framework for power plant production systems by 5G networks",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s42162-025-00600-x",
+   "title": "Diesel waste heat cooling optimization in open-pit mines under 5G energy with an improved metaheuristic",
+   "received": "11 August 2025",
+   "revised": null,
+   "accepted": "19 October 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s42162-024-00421-4",
+   "title": "Multistep Brent oil price forecasting with a multi-aspect meta-heuristic optimization and ensemble deep learning model",
+   "received": "22 September 2024",
+   "revised": null,
+   "accepted": "31 October 2024",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s42162-024-00465-6",
+   "title": "Intelligent information systems for power grid fault analysis by computer communication technology",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 32
+  },
+  {
+   "doi": "10.1186/s42162-025-00592-8",
+   "title": "Artificial intelligence for energy optimization in smart buildings: A systematic review and meta-analysis",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s42162-025-00490-z",
+   "title": "Demand response and energy dispatch system for intelligent buildings based on improved MOALO algorithm",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s42162-025-00492-x",
+   "title": "Wind power generation prediction using LSTM model optimized by sparrow search algorithm and firefly algorithm",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1186/s42162-025-00593-7",
+   "title": "NLESO based integrated flexible planning method for AC/DC hybrid microgrid",
+   "received": "4 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s42162-025-00484-x",
+   "title": "Improving power distribution networks with dwarf mongoose optimization for improved photovoltaic incorporation in rural-urban settings",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s42162-025-00556-y",
+   "title": "Leveraging deep transfer learning and adaptive power models for enhanced charging time prediction in electric vehicles",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s42162-025-00502-y",
+   "title": "Optimization planning of new rural multi-energy distribution network based on fuzzy algorithm",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "8 March 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s42162-025-00524-6",
+   "title": "Machine learning applications in energy systems: current trends, challenges, and research directions",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s42162-025-00478-9",
+   "title": "Analysis of distribution network reliability based on distribution automation technology",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s42162-025-00493-w",
+   "title": "Real-time monitoring and energy consumption management strategy of cold chain logistics based on the internet of things",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s42162-025-00506-8",
+   "title": "Optimal control method of regional power grid based on elastic carrying capacity analysis and day-ahead evaluation",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s42162-025-00545-1",
+   "title": "Real-world case studies for a process-aware IDS",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 44
+  },
+  {
+   "doi": "10.1186/s42162-025-00528-2",
+   "title": "Power grid energy storage system planning method based on optimized butterfly algorithm",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s42162-025-00569-7",
+   "title": "Analysis of the monitoring and identification effect of system cognitive service technology on DC system in power grid",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "9 August 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s42162-025-00496-7",
+   "title": "Machine learning-based inertia estimation in power systems: a review of methods and challenges",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s42162-025-00488-7",
+   "title": "Hybrid energy storage system for intelligent electric vehicles incorporating improved PSO algorithm",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 30
+  },
+  {
+   "doi": "10.1186/s42162-025-00515-7",
+   "title": "Fuzzy logic-based automatic voltage regulator integrated adaptive vehicle-to-grid controller for ancillary services support",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "29 March 2025",
+   "days": 36
+  },
+  {
+   "doi": "10.1186/s42162-025-00521-9",
+   "title": "The relationship between economic growth and carbon emissions based on the combination of graph neural network and wavelet transform",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "12 April 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s42162-025-00497-6",
+   "title": "The development of an intelligent comprehensive detection instrument for circuit breakers in power systems and its key technologies",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s42162-025-00589-3",
+   "title": "Harnessing Artificial Intelligence to improve building performance and energy use: innovations, challenges, and future perspectives",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s42162-025-00555-z",
+   "title": "Dynamic assessment of distribution network-VPP interaction: an LSTM-entropy hybrid methodology",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s42162-024-00461-w",
+   "title": "Transforming the electrical grid: the role of AI in advancing smart, sustainable, and secure energy systems",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 31
+  },
+  {
+   "doi": "10.1186/s42162-025-00586-6",
+   "title": "Quantifying job-level carbon efficiency in HPC: an empirical study based on the PM100 dataset",
+   "received": "19 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s42162-025-00548-y",
+   "title": "Designing small green houses for the future: energy efficiency and adaptability assessment",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s42162-025-00523-7",
+   "title": "Optimizing energy flow in advanced microgrids: a prediction-independent two-stage hybrid system approach",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s42162-025-00547-z",
+   "title": "Design of intelligent energy management system for electric vehicles based on multi-objective optimization",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s42162-024-00466-5",
+   "title": "A photovoltaic power ultra short-term prediction method integrating Hungarian clustering and PSO algorithm",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s42162-025-00517-5",
+   "title": "Fostering non-intrusive load monitoring for smart energy management in industrial applications: an active machine learning approach",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s42162-025-00476-x",
+   "title": "Impact and optimization of vehicle charging scheduling on regional clean energy power supply network management",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s42162-025-00511-x",
+   "title": "Hybrid Intelligence-driven decision making for green energy technology innovation in manufacturing enterprises",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s42162-025-00577-7",
+   "title": "AI-Supported spherical fuzzy decision-making for barriers to renewable energy projects in hospitals: Comparative country analysis",
+   "received": "4 August 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s42162-025-00581-x",
+   "title": "Empirical analysis of industry 4.0 and the circular economy in accelerating the SDGs in G20 economies",
+   "received": "2 August 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s42162-025-00527-3",
+   "title": "A case study on the calculation of carbon emissions over the entire life cycle of commercial office buildings based on measured data",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1186/s42162-025-00504-w",
+   "title": "A novel framework for optimizing residential load response planning with consideration of user satisfaction",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 32
+  },
+  {
+   "doi": "10.1186/s42162-025-00566-w",
+   "title": "Comparative analysis of PV technologies across diverse solar regions using sustainability metrics",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s42162-025-00505-9",
+   "title": "Full life-cycle cost model for practical application of solar energy system",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s42162-025-00552-2",
+   "title": "Short-term residential electricity consumption forecast considering the cumulative effect of temperature, dual decomposition technology and integrated",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s42162-025-00560-2",
+   "title": "Double layered expansion planning for virtual power plants considering virtual energy storage systems",
+   "received": "1 June 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s42162-024-00442-z",
+   "title": "Loss reduction optimization strategies for medium and low-voltage distribution networks based on Intelligent optimization algorithms",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s42162-025-00575-9",
+   "title": "Efficient unmanned aerial vehicle inspection and management of transmission lines in modern electric power enterprises",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s42162-025-00573-x",
+   "title": "Research on data driven dynamic mechanism of energy enterprise investment: based on system dynamics simulation",
+   "received": "28 June 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s42162-025-00533-5",
+   "title": "Research on load frequency control system attack detection method based on multi-model fusion",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "18 May 2025",
+   "days": 31
+  },
+  {
+   "doi": "10.1186/s42162-024-00441-0",
+   "title": "Arrears behavior prediction of power users based on BP neural network and multi-scale feature learning: a refined risk assessment framework",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s42162-025-00472-1",
+   "title": "Low voltage user power internet of things monitoring system based on LoRa wireless technology",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s42162-025-00551-3",
+   "title": "Gas turbine capacity planning method incorporating tiered carbon trading and two-stage power-to-gas integration",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s42162-024-00459-4",
+   "title": "A machine learning approach for wind turbine power forecasting for maintenance planning",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 34
+  },
+  {
+   "doi": "10.1186/s42162-025-00507-7",
+   "title": "A novel LSTPA methodology for managing energy in electrical/thermal microgrids through CHP, battery resources, thermal storage, and demand-side strate",
+   "received": "19 January 2025",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s42162-025-00544-2",
+   "title": "Development and research of green building environment design and thermal energy management integrated system based on virtual reality technology",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s42162-025-00585-7",
+   "title": "A study of improved isolation forest algorithm for data management of transmission line defects and hazards",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s42162-025-00503-x",
+   "title": "Construction of source load uncertainty economic dispatch model based on distributed robust opportunity constraints",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s42162-024-00416-1",
+   "title": "Micro-grid source-load storage energy minimization method based on improved competitive depth Q - network algorithm and digital twinning",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "12 October 2024",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s42162-024-00440-1",
+   "title": "Operation monitoring platform of relay protection equipment at distribution network side under the background of new power system",
+   "received": "28 April 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s42162-025-00558-w",
+   "title": "MASSIVE: A scalable framework for agent-based scheduling of micro-grids using market mechanisms",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s42162-024-00430-3",
+   "title": "Combinatorial chance-constrained economic optimization of distributed energy resources",
+   "received": "3 August 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s42162-025-00578-6",
+   "title": "Prediction of electricity price intervals using dynamic bayesian networks",
+   "received": "17 May 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s42162-025-00574-w",
+   "title": "Application of machine learning in power grid fault detection and maintenance",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s42162-025-00590-w",
+   "title": "An effective IoT-based demand response for energy-efficient smart homes",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s42162-024-00460-x",
+   "title": "Realization and research of self-healing technology of power communication equipment based on power safety and controllability",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 37
+  },
+  {
+   "doi": "10.1186/s42162-025-00572-y",
+   "title": "A meta-learning framework with temporal feature integration for electricity load forecasting",
+   "received": "22 June 2025",
+   "revised": null,
+   "accepted": "9 August 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s42162-025-00522-8",
+   "title": "Fault location and isolation technology for power grid automation based on intelligent algorithms",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "12 April 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s42162-025-00479-8",
+   "title": "Impact of digital transformation on corporate sustainability: evidence from China\u2019s carbon emissions",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s42162-025-00481-0",
+   "title": "Hybrid feature-based neural network regression method for load profiles forecasting",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s42162-025-00591-9",
+   "title": "A method for detecting high-risk electricity theft in low-voltage distribution network stations based on density clustering of IoT sensing data",
+   "received": "16 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s42162-025-00520-w",
+   "title": "Hybrid energy storage device based on multi-port transformer and direct current bus connection",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "12 April 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s42162-025-00513-9",
+   "title": "Intelligent building design based on green and low-carbon concept",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s42162-024-00464-7",
+   "title": "A multi-agent approach with verifiable and data-sovereign information flows for decentralizing redispatch in distributed energy systems",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s42162-025-00567-9",
+   "title": "Multi-scale computational fluid dynamics and machine learning integration for hydrodynamic optimization of floating photovoltaic systems",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s42162-025-00541-5",
+   "title": "Electric supply restoration in self-healed smart distribution systems: a review",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s42162-024-00453-w",
+   "title": "Prediction of lithium-ion battery SOC based on IGA-GRU and the fusion of multi-head attention mechanism",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s42162-025-00562-0",
+   "title": "A data-driven framework for predicting solar rooftop adoption in Germany based on open-source data",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s42162-024-00448-7",
+   "title": "Intelligent adjustment and energy consumption optimization of the fresh air system in hospital buildings based on Fuzzy Logic and Genetic Algorithms",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s42162-024-00446-9",
+   "title": "Environmental impact study of the sightseeing electric vehicle supply chain based on the B2C e-commerce model and LCA framework",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s42162-025-00486-9",
+   "title": "Low-carbon economic optimization for flexible DC distribution networks based on the hiking optimization algorithm",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s42162-025-00494-9",
+   "title": "Optimal scheduling of clean energy storage and charging integrated system by fusing DE algorithm and kernel search algorithm",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 51
+  },
+  {
+   "doi": "10.1186/s42162-025-00508-6",
+   "title": "Soft-switching predictive Type-3 fuzzy control for microgrid energy management",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 32
+  },
+  {
+   "doi": "10.1186/s42162-025-00477-w",
+   "title": "Enhancing virtual power plant efficiency: three-stage optimization with energy storage integration",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1186/s42162-025-00587-5",
+   "title": "Electricity consumption prediction in smart buildings using deep learning approaches (2025)",
+   "received": "3 August 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1186/s42162-025-00579-5",
+   "title": "Double objective decentralized transactive energy market framework for multi-energy microgrid",
+   "received": "29 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s42162-025-00559-9",
+   "title": "Research on power dispatching model based on knowledge graph entity extraction task",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1186/s42162-025-00542-4",
+   "title": "The low-carbon development path of the civil aviation industry based on the LEAP model",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s42162-025-00485-w",
+   "title": "Dual-layer scheduling coordination algorithm for power supply guarantee using multi-objective optimization in spot market environment",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 51
+  },
+  {
+   "doi": "10.1186/s42162-025-00475-y",
+   "title": "Energy management in a microgrid equipped with an electric vehicle based on the internet of things considering responsive load",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s42162-025-00530-8",
+   "title": "Charging pile fault prediction method combining whale optimization algorithm and long short-term memory network",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s42162-025-00570-0",
+   "title": "From technological empowerment to green performance: empirical evidence on Digitalization-driven energy conservation and emission reduction in logisti",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "9 August 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s42162-025-00470-3",
+   "title": "Ground fault insulation monitoring method for smart substation based on Mahalanobis distance and automatic code generation",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s42162-024-00434-z",
+   "title": "Optimization algorithm of power system line loss management using big data analytics",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s42162-024-00455-8",
+   "title": "Eco-cities of tomorrow: how green finance fuels urban energy efficiency\u2014insights from prefecture-level cities in China",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s42162-025-00529-1",
+   "title": "AI in power systems: a systematic review of key matters of concern",
+   "received": "29 March 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s42162-025-00588-4",
+   "title": "The metering error prediction method for charging pile based on knowledge-assisted modal decomposition",
+   "received": "28 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s42162-025-00564-y",
+   "title": "Predictive modeling of energy demands for battery electric buses using real-world data",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s42162-024-00428-x",
+   "title": "Multiobjective optimization for sizing and placing electric vehicle charging stations considering comprehensive uncertainties",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 35
+  },
+  {
+   "doi": "10.1186/s42162-024-00449-6",
+   "title": "Cyber-physical threat mitigation in wind energy systems: a novel secure architecture for industry 4.0 power grids",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s42162-024-00435-y",
+   "title": "Two-stage optimization strategy for the active distribution network considering source-load uncertainty",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s42162-025-00553-1",
+   "title": "Energy optimization in intelligent sensor networks: application of particle swarm optimization algorithm in the deployment of electronic information s",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "5 July 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s42162-025-00594-6",
+   "title": "AI-based predictive maintenance of solar photovoltaics systems: a comprehensive review",
+   "received": "6 August 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s42162-025-00471-2",
+   "title": "Design and optimization of distributed energy management system based on edge computing and machine learning",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s42162-024-00432-1",
+   "title": "Evaluation method of distribution network operation status based on local fuzzy measure in boundary region",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s42162-025-00516-6",
+   "title": "The electromagnetic transient simulation acceleration algorithm based on delay mitigation of dynamic critical paths",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "29 March 2025",
+   "days": 296
+  },
+  {
+   "doi": "10.1186/s42162-025-00571-z",
+   "title": "A novel method for enhancing the accommodation of renewable energy in flexible AC/DC distribution networks based on energy router devices",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "9 August 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s42162-025-00534-4",
+   "title": "Synchronous phasor anomaly detection method of real-time electricity price data in power market considering recording deviation",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s42162-025-00601-w",
+   "title": "Energy consumption predictions using a neural network",
+   "received": "21 August 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s42162-024-00451-y",
+   "title": "Integrated energy trading algorithm for source-grid-load-storage energy system based on distributed machine learning",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 30
+  },
+  {
+   "doi": "10.1186/s42162-024-00454-9",
+   "title": "Distributed hybrid energy storage photovoltaic microgrid control based on MPPT algorithm and equilibrium control strategy",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s42162-024-00443-y",
+   "title": "Variations in green investment efficiency of enterprises under different low-carbon emission reduction strategies",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s42162-024-00447-8",
+   "title": "Research on the impact of enterprise digital transformation based on digital twin technology on renewable energy investment decisions",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s42162-025-00526-4",
+   "title": "Multi-objective optimization models for power load balancing in distributed energy systems",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s42162-024-00462-9",
+   "title": "Capacity planning for hydro-wind-photovoltaic-storage systems considering high-dimensional uncertainties",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 60
+  }
+ ]
+}

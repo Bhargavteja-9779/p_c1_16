@@ -1,0 +1,1581 @@
+{
+ "issn": "1743-0003",
+ "journal": "Journal of NeuroEngineering and Rehabilitation",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:17.672166",
+ "source": "https://api.crossref.org/journals/1743-0003/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12984-025-01757-y",
+   "title": "The role of surface EMG in predicting responsiveness of muscles to FES therapy after cervical SCI",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s12984-025-01725-6",
+   "title": "Effect of lower limb mirror visual feedback on cortical activation in healthy subjects: a self-controlled randomized trail",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 478
+  },
+  {
+   "doi": "10.1186/s12984-025-01661-5",
+   "title": "Use of the non-paretic arm reflects a habitual behaviour in chronic stroke",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 223
+  },
+  {
+   "doi": "10.1186/s12984-025-01698-6",
+   "title": "Diffusion tensor imaging biomarkers for assessing cognitive and physical function in aging",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s12984-025-01616-w",
+   "title": "Is physical therapy recommended for people with parkinson\u2019s disease treated with subthalamic deep brain stimulation? a delphi consensus study",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s12984-025-01585-0",
+   "title": "Evaluating the health and fitness benefits of a 6-month FES-cycling program on a recumbent trike for individuals with motor complete SCI: a pilot stud",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s12984-025-01660-6",
+   "title": "A pilot study for self-guided, active robotic training of proprioception of the upper limb in chronic stroke",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s12984-025-01673-1",
+   "title": "Transcutaneous spinal stimulation paired with visual feedback facilitates retention of improved weight transfer toward the affected side in people pos",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s12984-025-01650-8",
+   "title": "Cortical adaptations in Tai Chi practitioners during sensory conflict: an EEG-based effective connectivity analysis of postural control",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1186/s12984-025-01587-y",
+   "title": "Impact of an upper limb motion-driven virtual rehabilitation system on residual motor function in patients with complete spinal cord injury\uff1a a pilot s",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1186/s12984-025-01702-z",
+   "title": "Repetitive transcranial magnetic stimulation influences cognitive-motor dual-task performance in children with cerebral palsy: a randomized controlled",
+   "received": "19 July 2024",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 357
+  },
+  {
+   "doi": "10.1186/s12984-025-01763-0",
+   "title": "Dry-printed electrodes for transcutaneous electrical stimulation of innervated muscles: Towards wearable and closed-loop stimulation",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12984-025-01556-5",
+   "title": "Biomechanical models in the lower-limb exoskeletons development: a review",
+   "received": "9 October 2023",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 464
+  },
+  {
+   "doi": "10.1186/s12984-024-01522-7",
+   "title": "The trunk segmental motion complexity and balance performance in challenging seated perturbation among individuals with spinal cord injury",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s12984-025-01704-x",
+   "title": "Effects and neural mechanisms of a brain\u2013computer interface-controlled soft robotic glove on upper limb function in patients with subacute stroke: a r",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12984-025-01668-y",
+   "title": "Classification of left and right-hand motor imagery in acute stroke patients using EEG microstate",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12984-025-01541-y",
+   "title": "Myoelectric pattern recognition with virtual reality and serious gaming improves upper limb function in chronic stroke: a single case experimental des",
+   "received": "21 September 2023",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 468
+  },
+  {
+   "doi": "10.1186/s12984-025-01754-1",
+   "title": "Functional motor mapping of domestic pig lumbar spinal cord using penetrating microelectrodes",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1186/s12984-025-01621-z",
+   "title": "Hands-free Atalante exoskeleton in post-stroke gait and balance rehabilitation: a safety study",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s12984-025-01674-0",
+   "title": "High-intensity interval training with robot-assisted gait therapy vs. treadmill gait therapy in chronic stroke: a randomized controlled trial",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s12984-025-01592-1",
+   "title": "Submovements in manual tracking: people with Parkinson\u2019s disease produce more submovements than age-matched controls",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s12984-025-01676-y",
+   "title": "Effect of the Kickstart exoskeleton lower extremity walking system on improving lower extremity walking ability in subacute stroke patients: a randomi",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s12984-025-01724-7",
+   "title": "Dose\u2013response effectiveness of focused shockwave therapy on ultrasonographic muscular properties in patients with stroke exhibiting ankle spasticity",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s12984-025-01563-6",
+   "title": "Touchscreen-based assessment of upper limb kinematics after stroke: Reliability, validity and sensitivity to motor impairment",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s12984-025-01770-1",
+   "title": "Clinical usability and functional outcomes of a lightweight robotic orthosis (HKAFO) in chronic stroke patients with hemiplegic gait: a pilot study",
+   "received": "10 July 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12984-025-01773-y",
+   "title": "Innovative stimulated muscle contraction signals based digital muscle marker: a reliable tool for assessing muscle in persons with stroke",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1186/s12984-025-01710-z",
+   "title": "Automated planning and scheduling in robot-aided rehabilitation: a review",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12984-025-01740-7",
+   "title": "Analgesic effects and neural oscillatory mechanisms of music-synchronized virtual reality intervention",
+   "received": "20 July 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s12984-025-01596-x",
+   "title": "Abnormal activity in the brainstem affects gait in a neuromusculoskeletal model",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 283
+  },
+  {
+   "doi": "10.1186/s12984-025-01713-w",
+   "title": "Smartphone app to support goal setting in pediatric rehabilitation: app development, usability and acceptability study",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 359
+  },
+  {
+   "doi": "10.1186/s12984-024-01512-9",
+   "title": "Construct validity and responsiveness of clinical upper limb measures and sensor-based arm use within the first year after stroke: a longitudinal coho",
+   "received": "14 March 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s12984-025-01568-1",
+   "title": "Factors associated with upper extremity use after stroke: a scoping review of accelerometry studies",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s12984-025-01545-8",
+   "title": "Transcutaneous spinal cord stimulation combined with robotic-assisted body weight-supported treadmill training enhances motor score and gait recovery ",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s12984-025-01613-z",
+   "title": "First-in-human implementation of a bidirectional somatosensory neuroprosthetic system with wireless communication",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12984-025-01753-2",
+   "title": "A panoramic review of transcranial focused ultrasound neuromodulation: from basic research to clinical applications",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s12984-025-01737-2",
+   "title": "Enhancing astronaut training: effects of transcranial direct current stimulation on manual rendezvous and docking skill acquisition",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12984-025-01597-w",
+   "title": "Investigating the cortical effect of false positive feedback on motor learning in motor imagery based rehabilitative BCI training",
+   "received": "30 May 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1186/s12984-025-01636-6",
+   "title": "Activity-based recovery training with spinal cord epidural stimulation improves standing performance in cervical spinal cord injury",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s12984-025-01785-8",
+   "title": "Effect of upper-limb robot-assisted therapy combined with pneumatic gloves on upper limb function in young and middle-aged stroke patients: a pilot ra",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s12984-025-01714-9",
+   "title": "Detection of mild cognitive impairment using a virtual reality-based stroop task: a cross-sectional study of embodied behavioral markers",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s12984-025-01686-w",
+   "title": "A PRISMA systematic review through time on predictive musculoskeletal simulations",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12984-025-01679-9",
+   "title": "Different light color temperatures in the morning on the effectiveness of rehabilitation training in patients with ischemic stroke: a prospective, sin",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1186/s12984-025-01749-y",
+   "title": "Electrical vestibular stimulation to improve balance in older adults: a pilot randomized controlled trial",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12984-024-01536-1",
+   "title": "Overground robotic exoskeleton vs conventional therapy in inpatient stroke rehabilitation: results from a pragmatic, multicentre implementation progra",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s12984-025-01657-1",
+   "title": "Biomechanical analysis of patients with mild Parkinson\u2019s disease during indoor cycling training",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1186/s12984-025-01554-7",
+   "title": "PhantomAR: gamified mixed reality system for alleviating phantom limb pain in upper limb amputees\u2014design, implementation, and clinical usability evalu",
+   "received": "5 April 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 285
+  },
+  {
+   "doi": "10.1186/s12984-025-01701-0",
+   "title": "Opportunities and challenges for deep brain stimulation electrode-guided neurofeedback for symptom mitigation in neurological and psychiatric disorder",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 368
+  },
+  {
+   "doi": "10.1186/s12984-024-01504-9",
+   "title": "On the role of visual feedback and physiotherapist-patient interaction in robot-assisted gait training: an eye-tracking and HD-EEG study",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s12984-025-01726-5",
+   "title": "Differentiating post-stroke patients from healthy individuals via vision-based skeleton-optical fusion",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s12984-025-01745-2",
+   "title": "Effects of 10-Hz rTMS over the leg motor cortex using a double-cone coil on lower limb motor recovery in subacute stroke: a randomised, double-blind, ",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 283
+  },
+  {
+   "doi": "10.1186/s12984-024-01496-6",
+   "title": "Telerehabilitation using a 2-D planar arm rehabilitation robot for hemiparetic stroke: a feasibility study of clinic-to-home exergaming therapy",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "22 October 2024",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s12984-025-01627-7",
+   "title": "Exoskeleton-guided passive movement elicits standardized EEG patterns for generalizable BCIs in stroke rehabilitation",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12984-025-01727-4",
+   "title": "Safety assessment and feasibility of the TWIICE powered exoskeleton for assisted ambulation in individuals with spinal cord injury",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s12984-025-01604-0",
+   "title": "Exploring the impact of myoelectric prosthesis controllers on visuomotor behavior",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s12984-025-01776-9",
+   "title": "Transcranial magnetic stimulation regulates brain functional network dynamics in stroke patients: a randomised controlled trial",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1186/s12984-025-01653-5",
+   "title": "Effect of electroencephalography-based motor imagery neurofeedback on mu suppression during motor attempt in patients with stroke",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1186/s12984-025-01729-2",
+   "title": "The clinical effects of the \u00d6ssur Power Knee with phase-based and default control during sitting, standing, and walking",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s12984-025-01731-8",
+   "title": "The effects of combining anodal transcranial direct current stimulation with robot-assisted gait training on lower limb motor function and the motor c",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1186/s12984-025-01665-1",
+   "title": "Validity and usability for digital cognitive assessment tools to screen for mild cognitive impairment: a randomized crossover trial",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s12984-025-01620-0",
+   "title": "Gait speed-dependent modulation of paretic versus non-paretic propulsion in persons with chronic stroke",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s12984-024-01526-3",
+   "title": "Exploring pattern-specific components associated with hand gestures through different sEMG measures",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s12984-024-01531-6",
+   "title": "Compensating elastic faults in a torque-assisted knee exoskeleton: functional evaluation and user perception study",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12984-025-01768-9",
+   "title": "Predicting normative walking biomechanics across the lifespan using seven simple features",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s12984-025-01794-7",
+   "title": "Neuromuscular adaptations in soleus and tibialis anterior muscles in persons with spinal cord injury",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "29 October 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1186/s12984-025-01692-y",
+   "title": "Effects of transcranial direct current stimulation combined with acupuncture therapy on brain network functional connectivity in patients with knee os",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12984-024-01540-5",
+   "title": "Evaluation of an assistive exosuit for alleviating neck and shoulder muscle fatigue during prolonged flexed neck posture",
+   "received": "28 June 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12984-025-01680-2",
+   "title": "Exploratory development of human\u2013machine interaction strategies for post-stroke upper-limb rehabilitation",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1186/s12984-024-01502-x",
+   "title": "Accuracy deficits during robotic time-constrained reaching are related to altered prefrontal cortex activity in children with cerebral palsy",
+   "received": "12 April 2023",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 572
+  },
+  {
+   "doi": "10.1186/s12984-025-01761-2",
+   "title": "Botulinum toxin A combining with robot-assisted bimanual therapy integrating mirror therapy versus botulinum toxin A combining with robot-assisted bim",
+   "received": "9 August 2023",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 774
+  },
+  {
+   "doi": "10.1186/s12984-025-01574-3",
+   "title": "Mechanical peripheral stimulation for the treatment of gait disorders in patients with Parkinson\u2019s disease: a multi-centre, double-blind, crossover ra",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1186/s12984-024-01489-5",
+   "title": "Towards personalized immersive virtual reality neurorehabilitation: a human-centered design",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "11 October 2024",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s12984-025-01630-y",
+   "title": "Muscle-to-action mapping for intuitive training of muscle synergies in post-stroke upper-limb rehabilitation",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1186/s12984-024-01518-3",
+   "title": "Assessing hand motor function in chronic immune-mediated neuropathies: a proof-of-concept study using a data glove",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12984-025-01584-1",
+   "title": "Combined effects and timing of robotic training and botulinum toxin on upper limb spasticity and motor function: a single\u2011blinded randomized controlle",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s12984-025-01646-4",
+   "title": "Outcome measures of instrumented gait analysis in hereditary spastic paraplegia: a systematic review",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s12984-024-01533-4",
+   "title": "Unraveling EEG correlates of unimanual finger movements: insights from non-repetitive flexion and extension tasks",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12984-025-01662-4",
+   "title": "Upper limb robotic rehabilitation following stroke: a systematic review and meta-analysis investigating efficacy and the influence of device features ",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 353
+  },
+  {
+   "doi": "10.1186/s12984-025-01720-x",
+   "title": "Characterizing spinal reflexes evoked by sensory spinal cord stimulation in people with lower-limb amputation",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1186/s12984-025-01639-3",
+   "title": "A multi-label deep residual shrinkage network for high-density surface electromyography decomposition in real-time",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s12984-024-01514-7",
+   "title": "Free-living monitoring of ALS progression in upper limbs using wearable accelerometers",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12984-025-01629-5",
+   "title": "The Neuromusculoskeletal Modeling Pipeline: MATLAB-based model personalization and treatment optimization functionality for OpenSim",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12984-025-01562-7",
+   "title": "Improving research and development of wearable assistive and rehabilitation technologies: a systematic review on diversity factors",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1186/s12984-025-01637-5",
+   "title": "User accommodation to an active microprocessor-controlled knee in individuals with unilateral transfemoral amputation: a 5-week non-randomized trial",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s12984-024-01517-4",
+   "title": "A deep learning model for assistive decision-making during robot-aided rehabilitation therapies based on therapists\u2019 demonstrations",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s12984-025-01542-x",
+   "title": "Lower limb pointing to assess intersegmental dynamics after incomplete spinal cord injury and the associated role of proprioceptive impairments",
+   "received": "18 March 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1186/s12984-025-01619-7",
+   "title": "Safety and effectiveness of non-invasive brain stimulation on mobility and balance function in children with cerebral palsy: a systematic review and m",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s12984-025-01766-x",
+   "title": "The impact of non-invasive brain-computer interface technology on the therapeutic effect of patients with spinal cord injury: a summary of evidence ba",
+   "received": "14 June 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s12984-025-01594-z",
+   "title": "Exploration of working memory retrieval stage for mild cognitive impairment: time-varying causality analysis of electroencephalogram based on dynamic ",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1186/s12984-025-01573-4",
+   "title": "Telerehabilitation for visual field defects with a multisensory training: a feasibility study",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12984-025-01706-9",
+   "title": "AI-based patient monitoring for fall prevention in stroke patients: a pilot study at a Malaysian acute stroke unit",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12984-025-01651-7",
+   "title": "AGREE: an upper limb motorized exoskeleton for restoring arm functions: a single-blinded randomized controlled trial",
+   "received": "21 December 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s12984-025-01730-9",
+   "title": "Effects of dual-task mode brain-computer interface based on motor imagery and virtual reality on balance and attention in patients with stroke: a rand",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 338
+  },
+  {
+   "doi": "10.1186/s12984-025-01644-6",
+   "title": "Postural sway serves as a predictive biomarker in balance and gait assessments for diabetic peripheral neuropathy screening: a community-based study",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s12984-025-01678-w",
+   "title": "Effectiveness of a rehabilitation program involving functional proprioceptive stimulation for postural control and motor recovery among stroke patient",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s12984-024-01509-4",
+   "title": "A one-year follow-up case series on gait analysis and patient-reported outcomes for persons with unilateral and bilateral transfemoral amputations und",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12984-025-01712-x",
+   "title": "Nigral stimulation for freezing of gait: kinematic gait parameters inform optimization of stimulation frequency",
+   "received": "3 May 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 453
+  },
+  {
+   "doi": "10.1186/s12984-025-01664-2",
+   "title": "Modifying lumbar flexion pain thresholds in patients with chronic low back pain through visual-proprioceptive manipulation with virtual reality: a cro",
+   "received": "22 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s12984-025-01655-3",
+   "title": "Reveal the mechanism of brain function with fluorescence microscopy at single-cell resolution: from neural decoding to encoding",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s12984-025-01663-3",
+   "title": "Effect of transcranial direct current stimulation over the primary motor cortex on short-term balance acquisition in healthy individuals",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s12984-024-01535-2",
+   "title": "Efficacy of brain-computer interface training with motor imagery-contingent feedback in improving upper limb function and neuroplasticity among person",
+   "received": "1 July 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s12984-025-01566-3",
+   "title": "Efficacy of non-invasive brain stimulation interventions on cognitive impairment: an umbrella review of meta-analyses of randomized controlled trials",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s12984-024-01513-8",
+   "title": "Insights into the dependence of post-stroke motor recovery on the initial corticospinal tract connectivity from a computational model",
+   "received": "17 August 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s12984-025-01789-4",
+   "title": "Bilateral intermittent theta-burst stimulation as a priming strategy to enhance action observation and imitation training in early parkinson\u2019s disease",
+   "received": "16 July 2025",
+   "revised": null,
+   "accepted": "22 October 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s12984-025-01547-6",
+   "title": "Customization of manual wheelchair components: a state-of-the-art review",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12984-025-01672-2",
+   "title": "Real-time locomotion mode detection in individuals with transfemoral amputation and osseointegration",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s12984-024-01515-6",
+   "title": "Upper extremity function and disability recovery with vibration therapy after stroke: a systematic review and meta-analysis of RCTs",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s12984-025-01549-4",
+   "title": "Enhancing anticipation control of the posture system in the elderly wearing stroboscopic glasses",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s12984-025-01677-x",
+   "title": "Impact of sensorimotor mismatch on virtual reality sickness and user experience: age-related differences in a randomized trial",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1186/s12984-025-01593-0",
+   "title": "Healthcare practitioners and robotic-assisted rehabilitation: understanding needs and barriers",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s12984-025-01560-9",
+   "title": "Automatic gait EVENT detection in older adults during perturbed walking",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1186/s12984-025-01633-9",
+   "title": "A robotic rehabilitation intervention in a home setting during the Covid-19 outbreak: a feasibility pilot study in patients with stroke",
+   "received": "3 December 2023",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 498
+  },
+  {
+   "doi": "10.1186/s12984-024-01510-x",
+   "title": "Therapeutic effects of powered exoskeletal robot-assisted gait training in inpatients in the early stage after stroke: a pilot case-controlled study",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s12984-025-01565-4",
+   "title": "A review of concurrent sonified biofeedback in balance and gait training",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1186/s12984-025-01642-8",
+   "title": "Identification of needs for an assistive robotic arm in individuals with tetraplegia: a mixed-methods approach",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1186/s12984-025-01769-8",
+   "title": "A patient-specific, 3D printed neurostimulator enabling focal transcranial electrical stimulation and EEG at home",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s12984-025-01736-3",
+   "title": "Clinical feasibility of motor hotspot localization based on electroencephalography using convolutional neural networks in stroke",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 435
+  },
+  {
+   "doi": "10.1186/s12984-025-01608-w",
+   "title": "Posturographic sensory ratios provide evidence for neuroplasticity after computerized vestibular rehabilitation therapy in a single group intervention",
+   "received": "17 November 2023",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 486
+  },
+  {
+   "doi": "10.1186/s12984-025-01669-x",
+   "title": "Individual muscle strengths in rehabilitation outcomes of distal radius fracture",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1186/s12984-025-01682-0",
+   "title": "Neuroimaging and biological markers of different paretic hand outcomes after stroke",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s12984-025-01717-6",
+   "title": "Feasibility of post-stroke hand rehabilitation supported by a soft robotic hand orthosis in-clinic and at-home",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s12984-025-01696-8",
+   "title": "Evaluating self-assistance during functional reach with a passive hydrostatic exoskeleton under artificial impairment",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1186/s12984-025-01618-8",
+   "title": "Resting-state hemodynamic changes and effects on upper limb function after multi-channel transcranial direct current stimulation to the ipsilesional p",
+   "received": "15 April 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 351
+  },
+  {
+   "doi": "10.1186/s12984-025-01614-y",
+   "title": "The comparative evidence of efficacy of non-invasive brain and nerve stimulation in diabetic neuropathy: a systematic review and network meta-analysis",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s12984-025-01571-6",
+   "title": "Proficiency in motor imagery is linked to the lateralization of focused ERD patterns and beta PDC",
+   "received": "23 May 2022",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 990
+  },
+  {
+   "doi": "10.1186/s12984-025-01691-z",
+   "title": "Comparison of subject-specific musculoskeletal model calibration strategies on muscle force and fatigue estimation",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12984-024-01507-6",
+   "title": "Cognitive-motor dual-task training on gait and balance in stroke patients: meta-analytic report and trial sequential analysis of randomized clinical t",
+   "received": "22 June 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s12984-025-01767-w",
+   "title": "Estimating the contribution of musculoskeletal impairments to altered gait kinematics in children with cerebral palsy using predictive simulations",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12984-025-01575-2",
+   "title": "Precision neuroregulation combining liquid metal and magnetic stimulation",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1186/s12984-025-01581-4",
+   "title": "Effects of robot-assisted gait training within 1 week after stroke onset on degree of gait independence in individuals with hemiparesis: a propensity ",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1186/s12984-024-01491-x",
+   "title": "Examining the effectiveness of motor imagery combined with non-invasive brain stimulation for upper limb recovery in stroke patients: a systematic rev",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "15 October 2024",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s12984-024-01516-5",
+   "title": "Sub-acute stroke demonstrates altered beta oscillation and connectivity pattern in working memory",
+   "received": "17 November 2023",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 376
+  },
+  {
+   "doi": "10.1186/s12984-025-01719-4",
+   "title": "Quantitative assessment of dynamic movement reveals deficits due to hemiparetic stroke",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "2 August 2025",
+   "days": 519
+  },
+  {
+   "doi": "10.1186/s12984-025-01715-8",
+   "title": "Investigating the orthotic effect of a passive gravity-compensated exoskeletal device on upper-limb function in people with multiple sclerosis: a pilo",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12984-025-01645-5",
+   "title": "A data-centric and interpretable EEG framework for depression severity grading using SHAP-based insights",
+   "received": "5 January 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s12984-025-01756-z",
+   "title": "Optimal exercise modalities for post-intervention motor function changes in stroke survivors: a pairwise and network meta-analysis",
+   "received": "6 August 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s12984-025-01728-3",
+   "title": "Effective assistance timing using characteristics of paretic ground reaction force in ankle robotic gait training for individuals with hemiparesis aft",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s12984-025-01590-3",
+   "title": "Rehabilitation training robot using mirror therapy for the upper and lower limb after stroke: a prospective cohort study",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s12984-025-01634-8",
+   "title": "Comparative effectiveness of electroencephalogram-neurofeedback training of 3\u201345 frequency band on memory in healthy population: a network meta-analys",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1186/s12984-025-01598-9",
+   "title": "EEG-fMRI neurofeedback versus motor imagery after stroke, a randomized controlled trial",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "1 March 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12984-025-01748-z",
+   "title": "Integrating big data and artificial intelligence to predict progression in multiple sclerosis: challenges and the path forward",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s12984-025-01600-4",
+   "title": "Grip and manipulation forces are controlled independently in a coupled bimanual task",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1186/s12984-024-01539-y",
+   "title": "Neuroimaging and cognitive correlates of postural control in Parkinson\u2019s disease: a systematic review",
+   "received": "11 May 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 226
+  },
+  {
+   "doi": "10.1186/s12984-025-01624-w",
+   "title": "A wearable ankle-assisted robot for improving gait function and pattern in stroke patients",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1186/s12984-024-01521-8",
+   "title": "Enhanced gait tracking measures for individuals with stroke using leg-worn inertial sensors",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12984-025-01628-6",
+   "title": "Development and evaluation of a non-invasive brain-spine interface using transcutaneous spinal cord stimulation",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s12984-025-01586-z",
+   "title": "The association of upper limb sensorimotor capacity, everyday inpatient behavior, and the effects of neurorehabilitation in persons with multiple scle",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12984-025-01656-2",
+   "title": "Neural mechanisms underlying the improvement of gait disturbances in stroke patients through robot-assisted gait training based on QEEG and fNIRS: a r",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s12984-025-01778-7",
+   "title": "Impact of Neural network-quantified musical groove on cyclists\u2019 joint coordination and muscle synergy: a repeated measures study",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s12984-025-01741-6",
+   "title": "Enhanced episodic memory and LTP-like plasticity in subjective cognitive decline following 10-Hz repetitive transcranial magnetic stimulation",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s12984-025-01553-8",
+   "title": "Within-session propulsion asymmetry changes have a limited effect on gait asymmetry post-stroke",
+   "received": "8 September 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s12984-025-01551-w",
+   "title": "Clinical validation of an individualized auto-adaptative serious game for combined cognitive and upper limb motor robotic rehabilitation after stroke",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s12984-025-01709-6",
+   "title": "The interplay between haptic guidance and personality traits in robotic-assisted motor learning",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12984-025-01557-4",
+   "title": "Non-invasive cerebral and spinal cord stimulation for motor and gait recovery in incomplete spinal cord injury: systematic review and meta-analysis",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s12984-025-01734-5",
+   "title": "Intelligent prediction of dynamic characteristics during exercise in patients with stroke",
+   "received": "21 June 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s12984-025-01623-x",
+   "title": "Can virtual reality replace conventional vestibular rehabilitation tools in multisensory balance exercises for vestibular disorders? A non-inferiority",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12984-025-01685-x",
+   "title": "Electrophysiological-based automatic subgroups diagnosis of patients with chronic dysimmune polyneuropathies",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s12984-025-01659-z",
+   "title": "In vivo estimation of motor unit intrinsic properties in individuals with spinal cord injury",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12984-025-01546-7",
+   "title": "Timing of high-definition transcranial direct current stimulation to the nondominant primary motor cortex fails to modulate cortical hemodynamic activ",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12984-025-01721-w",
+   "title": "Individualized transcranial direct current stimulation combined with foot core exercise improves foot and ankle sensorimotor function and static postu",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 223
+  },
+  {
+   "doi": "10.1186/s12984-025-01643-7",
+   "title": "Enhancing lower-limb rehabilitation: a scoping review of augmented reality environment",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s12984-024-01532-5",
+   "title": "Environmental constraints for improving motor flexibility during obstacle crossing in older adults",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12984-025-01683-z",
+   "title": "A toolbox for the identification of foot-floor contact sequences to analyze atypical gait cycles in a real-life scenario: application on patients afte",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12984-025-01577-0",
+   "title": "Therapeutic and orthotic effects of an adaptive functional electrical stimulation system on gait biomechanics in participants with stroke",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1186/s12984-025-01580-5",
+   "title": "Two decades of breakthroughs: charting the future of NeuroEngineering and Rehabilitation",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 7
+  },
+  {
+   "doi": "10.1186/s12984-025-01647-3",
+   "title": "Evolution of joint power across the lifespan during walking",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s12984-025-01699-5",
+   "title": "Using game performance measure to assess upper limb motor function in children with neuromotor disorders: a systematic review",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s12984-025-01681-1",
+   "title": "Real-time cortical activity during virtual reality practice in people with multiple sclerosis: a pilot fNIRS study",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s12984-025-01747-0",
+   "title": "Disruption of low-frequency narrowband EEG microstate networks in Parkinson\u2019s disease with mild cognitive impairment",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12984-025-01544-9",
+   "title": "Automatic detection of human gait events: a simple but versatile 3D algorithm",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "5 January 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s12984-025-01744-3",
+   "title": "Superior efficacy of 100-Hz transcutaneous electrical nerve stimulation in reducing post-stroke spasticity: a systematic review and meta-analysis",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s12984-024-01530-7",
+   "title": "Methods to assess lower limb prosthetic adaptation: a systematic review",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "11 December 2024",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s12984-024-01538-z",
+   "title": "Functional electrical stimulation for walking in adults with cerebral palsy: a service evaluation",
+   "received": "28 June 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s12984-025-01684-y",
+   "title": "Wristful thinking: exploring the effects of robotic rehabilitation and cross-education for persons with multiple sclerosis",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12984-025-01675-z",
+   "title": "Effect of virtual reality training on dual-task performance in older adults: a systematic review and meta-analysis",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12984-025-01689-7",
+   "title": "Don\u2019t put words in my mouth: speech perception can falsely activate a brain-computer interface",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1186/s12984-025-01716-7",
+   "title": "Virtual reality-assisted rehabilitation for postoperative C5 palsy: a pilot exploratory randomized controlled trial",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s12984-025-01755-0",
+   "title": "Generalizability of neuromuscular coordination in the human upper extremity after stroke and its implications in neurorehabilitation",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12984-025-01617-9",
+   "title": "Closed-loop rehabilitation of upper-limb dyskinesia after stroke: from natural motion to neuronal microfluidics",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12984-025-01707-8",
+   "title": "A time-efficient continuous ramp protocol for data-driven walking energy expenditure estimation across multiple speeds",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s12984-025-01688-8",
+   "title": "iTBS on RDLPFC improves performance of motor imagery: a brain-computer interface study combining EEG and fNIRS",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s12984-025-01687-9",
+   "title": "Uncovering attempted movements of the paralyzed upper limb after stroke through EEG and EMG",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "28 June 2025",
+   "days": 465
+  },
+  {
+   "doi": "10.1186/s12984-025-01603-1",
+   "title": "Effect of virtual reality-based upper limb training on activity of daily living and quality of life among stroke survivors: a systematic review and me",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12984-025-01561-8",
+   "title": "Motor modules are largely unaffected by pathological walking biomechanics: a simulation study",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1186/s12984-025-01690-0",
+   "title": "Electromyography (EMG)-triggered transcutaneous spinal cord and hip stimulation for gait rehabilitation in persons with chronic stroke: a randomized, ",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12984-025-01602-2",
+   "title": "Imu-based kinematic analysis to enhance upper limb motor function assessment in neuromuscular diseases",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s12984-024-01525-4",
+   "title": "Multi-scale attention patching encoder network: a deployable model for continuous estimation of hand kinematics from surface electromyographic signals",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s12984-025-01612-0",
+   "title": "Exploring balance control mechanisms in people with multiple sclerosis in virtual reality environment: a systematic review",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s12984-025-01648-2",
+   "title": "Using machine learning to identify Parkinson\u2019s disease severity subtypes with multimodal data",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12984-025-01626-8",
+   "title": "Beat-aligned motor synergies and kinematic beat detection in street dance movements",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 292
+  },
+  {
+   "doi": "10.1186/s12984-025-01772-z",
+   "title": "Exploring transcutaneous electrostimulation for proprioceptive feedback in upper limb prostheses: a pilot study",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s12984-025-01607-x",
+   "title": "A clinical trial evaluating feasibility and acceptability of a brain-computer interface for telerehabilitation in patients with stroke",
+   "received": "21 February 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 387
+  },
+  {
+   "doi": "10.1186/s12984-024-01524-5",
+   "title": "Optimizing transcutaneous spinal stimulation: excitability of evoked spinal reflexes is dependent on electrode montage",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12984-025-01743-4",
+   "title": "Can machine learning improve on the early prediction of upper limb recovery after stroke?",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1186/s12984-025-01632-w",
+   "title": "Application of oscillating field stimulation in the treatment of spinal cord injury: a systematic review and meta-analysis of preclinical studies",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s12984-025-01555-6",
+   "title": "Plantar sensation associates with gait instability in older adults",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s12984-025-01550-x",
+   "title": "Can muscle synergies shed light on the mechanisms underlying motor gains in response to robot-assisted gait training in children with cerebral palsy?",
+   "received": "27 December 2023",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 383
+  }
+ ]
+}

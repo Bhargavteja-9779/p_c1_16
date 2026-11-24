@@ -1,0 +1,1581 @@
+{
+ "issn": "2196-1115",
+ "journal": "Journal of Big Data",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:17.716007",
+ "source": "https://api.crossref.org/journals/2196-1115/works",
+ "articles": [
+  {
+   "doi": "10.1186/s40537-025-01205-7",
+   "title": "Multi strategy Horned Lizard Optimization Algorithm for complex optimization and advanced feature selection problems",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s40537-025-01103-y",
+   "title": "Data generation and application using the neutrosophic Erlang distribution",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40537-025-01281-9",
+   "title": "Accurate and interpretable CTR prediction via distilled neural additive feature interaction network",
+   "received": "17 January 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 599
+  },
+  {
+   "doi": "10.1186/s40537-025-01144-3",
+   "title": "PF-PSS: a double-layer parallel embedded feature selection method for cancer gene expression data",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s40537-025-01077-x",
+   "title": "Survey on terminology extraction from texts",
+   "received": "16 January 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 367
+  },
+  {
+   "doi": "10.1186/s40537-025-01288-2",
+   "title": "Big data analytics in healthcare: current practices, innovations, and future prospects",
+   "received": "17 January 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 599
+  },
+  {
+   "doi": "10.1186/s40537-025-01242-2",
+   "title": "Studying riots through the lens of social media",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s40537-024-01034-0",
+   "title": "Dual-weight decay mechanism and Nelder-Mead simplex boosted RIME algorithm for optimal power flow",
+   "received": "11 May 2024",
+   "revised": null,
+   "accepted": "2 November 2024",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s40537-025-01238-y",
+   "title": "Optimization of EEG-based wheelchair control: machine learning, feature selection, outlier management, and explainable AI",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s40537-025-01233-3",
+   "title": "Intelligent text similarity assessment using Roberta with integrated chaotic perturbation optimization techniques",
+   "received": "22 February 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s40537-025-01107-8",
+   "title": "Interpretable machine learning model to predict the acute occurrence of delirium in elderly patients in the intensive care units: a retrospective coho",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s40537-025-01108-7",
+   "title": "Machine learning in biomedical and health big data: a comprehensive survey with empirical and experimental insights",
+   "received": "21 November 2023",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 448
+  },
+  {
+   "doi": "10.1186/s40537-025-01130-9",
+   "title": "Attention-based BiLSTM with positional embeddings for fake review detection",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s40537-024-01054-w",
+   "title": "Transformer enabled multi-modal medical diagnosis for tuberculosis classification",
+   "received": "22 December 2023",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 358
+  },
+  {
+   "doi": "10.1186/s40537-025-01305-4",
+   "title": "Information preservation-based hashing for image retrieval",
+   "received": "13 April 2024",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 543
+  },
+  {
+   "doi": "10.1186/s40537-024-01036-y",
+   "title": "Value-at-risk student prescription trees for price personalization",
+   "received": "15 July 2023",
+   "revised": null,
+   "accepted": "2 November 2024",
+   "days": 476
+  },
+  {
+   "doi": "10.1186/s40537-024-01031-3",
+   "title": "Distinguishing novel coronavirus influenza A virus pneumonia with CT radiomics and clinical features",
+   "received": "2 March 2024",
+   "revised": null,
+   "accepted": "31 October 2024",
+   "days": 243
+  },
+  {
+   "doi": "10.1186/s40537-024-01055-9",
+   "title": "An efficient binary spider wasp optimizer for multi-dimensional knapsack instances: experimental validation and analysis",
+   "received": "14 December 2023",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 366
+  },
+  {
+   "doi": "10.1186/s40537-025-01069-x",
+   "title": "Quantum-inspired framework for big data analytics: evaluating the impact of movie trailers and its financial returns",
+   "received": "18 December 2023",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 388
+  },
+  {
+   "doi": "10.1186/s40537-024-01017-1",
+   "title": "Topological variable neighborhood search",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "13 October 2024",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s40537-025-01307-2",
+   "title": "UniqueNOSD: a novel framework for NoSQL over SQL databases",
+   "received": "17 September 2023",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 752
+  },
+  {
+   "doi": "10.1186/s40537-024-01042-0",
+   "title": "Decentralized big data mining: federated learning for clustering youth tobacco use in India",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s40537-025-01215-5",
+   "title": "Enhance differential privacy mechanisms for clinical data analysis using CNNs and reinforcement learning",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s40537-025-01167-w",
+   "title": "Detecting hate in diversity: a survey of multilingual code-mixed image and video analysis",
+   "received": "2 June 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 320
+  },
+  {
+   "doi": "10.1186/s40537-025-01192-9",
+   "title": "Big Data Analytics in IoT, social media, NLP, and information security: trends, challenges, and applications",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s40537-025-01158-x",
+   "title": "FONDUE\u2014Fine-Tuned Optimization: Nurturing Data Usability &amp; Efficiency",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s40537-025-01109-6",
+   "title": "An enhanced machine learning framework for accurate diagnosis of tuberculous pleural effusion",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s40537-025-01282-8",
+   "title": "Axial compressive behavior of reinforced concrete-filled circular steel tubular columns: finite element and machine learning modelling",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1186/s40537-025-01249-9",
+   "title": "Optimizing group utility in itinerary planning: a strategic and crowd-aware approach",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1186/s40537-025-01226-2",
+   "title": "Surface defect detection on bolt surface using a real-time fine-tuned YOLOv6 model",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s40537-024-01038-w",
+   "title": "Advancing hospital healthcare: achieving IoT-based secure health monitoring through multilayer machine learning",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s40537-025-01150-5",
+   "title": "A novel ST-iTransformer model for spatio-temporal ambient air pollution forecasting",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s40537-025-01173-y",
+   "title": "Job recommender systems: a systematic literature review, applications, open issues, and challenges",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 468
+  },
+  {
+   "doi": "10.1186/s40537-025-01247-x",
+   "title": "Generative AI in depth: A survey of recent advances, model variants, and real-world applications",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 350
+  },
+  {
+   "doi": "10.1186/s40537-025-01126-5",
+   "title": "A novel dynamic weighted prediction framework with stability-enhanced dynamic thresholding feature selection for neurodegenerative disease detection u",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s40537-025-01092-y",
+   "title": "Towards algorithmic framing analysis: expanding the scope by using LLMs",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s40537-025-01145-2",
+   "title": "Improved RIME algorithm: CEC performance analysis and feature selection experiment of Sino foreign cooperative data sets",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s40537-025-01295-3",
+   "title": "A review of distinct machine learning classifiers for healthcare fraud detection",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s40537-025-01073-1",
+   "title": "Towards scalable medical image compression using hybrid model analysis",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1186/s40537-025-01199-2",
+   "title": "A fast and accurate segmentation model of lychee tree canopy from UAV remote sensing image based on big data and deep learning",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 200
+  },
+  {
+   "doi": "10.1186/s40537-025-01180-z",
+   "title": "An adaptive k-means clustering algorithm based on grid and domain centroid weights for digital twins in the context of digital transformation",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s40537-025-01080-2",
+   "title": "Multi-strategy enhanced marine predator algorithm: performance investigation and application in intrusion detection",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s40537-025-01269-5",
+   "title": "Exploring the landscape of post quantum cryptography: a bibliometric analysis of emerging trends and research impact",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s40537-025-01175-w",
+   "title": "An enhanced alpha evolution moss growth optimizer for prognostic prediction in spontaneous intracerebral hemorrhage",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s40537-025-01239-x",
+   "title": "Reassessing the impact of shared experience in football",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s40537-025-01137-2",
+   "title": "Effective k-nearest neighbor models\u00a0for data classification enhancement",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 315
+  },
+  {
+   "doi": "10.1186/s40537-025-01169-8",
+   "title": "A privacy-enhanced framework for collaborative Big Data analysis in healthcare using adaptive federated learning aggregation",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s40537-024-01048-8",
+   "title": "A systematic review of AI-enhanced techniques in credit card fraud detection",
+   "received": "21 September 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s40537-025-01085-x",
+   "title": "A novel artificial intelligence search algorithm and mathematical model for the hybrid flow shop scheduling problem",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1186/s40537-025-01067-z",
+   "title": "Refining prognostic assessment of diffuse large B-cell lymphoma: insights from multi-omics and single-cell analysis unveil SRM as a key target for reg",
+   "received": "5 November 2023",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 431
+  },
+  {
+   "doi": "10.1186/s40537-025-01298-0",
+   "title": "Enhancing LSM trees merge efficiency via coordinated sorted runs partitioning",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 560
+  },
+  {
+   "doi": "10.1186/s40537-025-01174-x",
+   "title": "Leveraging machine learning to proactively identify phishing campaigns before they strike",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s40537-025-01087-9",
+   "title": "A clustering-based approach for classifying data streams using graph matching",
+   "received": "1 April 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1186/s40537-025-01304-5",
+   "title": "A comprehensive review of LLM applications for lung cancer diagnosis and treatment: classification, challenges, and future directions",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s40537-024-01045-x",
+   "title": "Optimal strategy for improved estimation of population mean of sensitive variable using non-sensitive auxiliary variable",
+   "received": "1 January 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s40537-025-01208-4",
+   "title": "Disaggregating IMERG satellite precipitation over Czech Republic: an innovative approach using hybrid Extreme Gradient Boosting based on Fuzzy Spatial",
+   "received": "8 August 2023",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 653
+  },
+  {
+   "doi": "10.1186/s40537-024-01043-z",
+   "title": "Multi-level lag scheme significantly improves training efficiency in deep learning: a case study in air quality alert service over sub-tropical area",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s40537-025-01220-8",
+   "title": "Inverse link prediction with graph convolutional networks for knowledge-preserving sparsification in cheminformatics",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s40537-025-01270-y",
+   "title": "WalkGCN: a biased sampling strategy for GNNs on non-attributed graphs",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1186/s40537-024-01059-5",
+   "title": "Enhancing credit card fraud detection: highly imbalanced data case",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 259
+  },
+  {
+   "doi": "10.1186/s40537-025-01230-6",
+   "title": "Innovative approach for gauge-based QPE in arid climates: comparing neural networks and traditional methods",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s40537-025-01187-6",
+   "title": "Optimizing learning outcomes: a deep dive into hybrid AI models for adaptive educational feedback",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s40537-025-01113-w",
+   "title": "Adaptive Toeplitz convolution- enhanced classifier for anomaly detection in ECG big data",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1186/s40537-025-01241-3",
+   "title": "A deep learning-based adaptive cyber disaster management framework",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1186/s40537-025-01138-1",
+   "title": "Data-driven approaches for predicting Tommy John Surgery risk in major league baseball pitchers",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s40537-025-01094-w",
+   "title": "Modelling big data platforms as knowledge graphs: the data platform shaper",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1186/s40537-025-01110-z",
+   "title": "Dye-cleaning prediction with a variant of nature-inspired algorithms coupled with extreme gradient boosting",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s40537-025-01221-7",
+   "title": "Deep learning-based tumor segmentation and radiogenomic model for predicting EGFR amplification and assessing intratumoural heterogeneity in glioblast",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s40537-025-01153-2",
+   "title": "A software reliability model for open source big data system considering fault introduction and fault removal efficiency",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s40537-025-01072-2",
+   "title": "Ulnar variance detection from radiographic images using deep learning",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40537-025-01186-7",
+   "title": "The wisdom of the lexicon crowds: leveraging on decades of lexicon-based sentiment analysis for improved results",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s40537-025-01225-3",
+   "title": "A novel sub-network level ensemble deep neural network with a regularized loss function to improve prediction performance",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1186/s40537-025-01319-y",
+   "title": "Comparative analysis of AI techniques in pavement preservation materials: ensemble learning, deep learning, and simplified variance-matching diffusion",
+   "received": "21 April 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s40537-025-01274-8",
+   "title": "From chaos to clarity: unraveling credit card fraud with BGVOA-LS",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s40537-025-01256-w",
+   "title": "AI-driven knowledge-data graph for tracking global arbovirus research",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s40537-025-01275-7",
+   "title": "The evolution of the European football transfer network",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s40537-025-01119-4",
+   "title": "Resampling approaches to handle class imbalance: a review from a data perspective",
+   "received": "25 October 2023",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 489
+  },
+  {
+   "doi": "10.1186/s40537-025-01083-z",
+   "title": "I know your stance! Analyzing Twitter users\u2019 political stance on diverse perspectives",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s40537-025-01290-8",
+   "title": "CLSeq and Nscp: novel methods for reducing hallucinations in text summarization for pre-trained models and LLMs",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1186/s40537-025-01118-5",
+   "title": "Maximizing data quality while ensuring data protection in service-based data pipelines",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 257
+  },
+  {
+   "doi": "10.1186/s40537-025-01089-7",
+   "title": "Algorithm profiling for architectures with dataflow accelerators",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 271
+  },
+  {
+   "doi": "10.1186/s40537-024-01025-1",
+   "title": "A systematic review of deep learning applications in database query execution",
+   "received": "4 May 2024",
+   "revised": null,
+   "accepted": "13 October 2024",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s40537-025-01148-z",
+   "title": "A twin CNN-based framework for optimized rice leaf disease classification with feature fusion",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s40537-025-01262-y",
+   "title": "BlueEdge: application design for big data cleaning processing using mobile edge computing environments",
+   "received": "11 June 2023",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 784
+  },
+  {
+   "doi": "10.1186/s40537-025-01251-1",
+   "title": "Self-adaptive analytical querying over schemaless data streams",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 316
+  },
+  {
+   "doi": "10.1186/s40537-025-01299-z",
+   "title": "COLLAR: combating low-rank temporal latent representation for high-dimensional multivariate time series prediction using dynamic Koopman regularizatio",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1186/s40537-024-01051-z",
+   "title": "Correlation-based feature selection of single cell transcriptomics data from multiple sources",
+   "received": "4 May 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s40537-025-01127-4",
+   "title": "Multi-feature stock price prediction by LSTM networks based on VMD and TMFG",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s40537-025-01149-y",
+   "title": "Graph neural network approach with spatial structure to anomaly detection of network data",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s40537-025-01071-3",
+   "title": "Enhancing the performance of gradient boosting trees on regression problems",
+   "received": "6 July 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s40537-025-01163-0",
+   "title": "Data imputation in large and small-scale spatiotemporal time series gaps using BackForward Bi-LSTM",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s40537-025-01294-4",
+   "title": "Data provider research overview from a public management perspective: a bibliometric analysis utilizing CiteSpace",
+   "received": "1 February 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s40537-025-01188-5",
+   "title": "Self-organizing maps to evaluate optimal strategies for balancing binary class distributions: a methodological approach",
+   "received": "1 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s40537-025-01176-9",
+   "title": "BERT-GraphSAGE: hybrid approach to spam detection",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s40537-024-01035-z",
+   "title": "A real-time predicting online tool for detection of people\u2019s emotions from Arabic tweets based on big data platforms",
+   "received": "27 October 2023",
+   "revised": null,
+   "accepted": "2 November 2024",
+   "days": 372
+  },
+  {
+   "doi": "10.1186/s40537-025-01211-9",
+   "title": "Vision-based detection algorithm for monitoring dynamic change of fire progression",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 211
+  },
+  {
+   "doi": "10.1186/s40537-025-01291-7",
+   "title": "Crypto foretell: a novel hybrid attention-correlation based forecasting approach for cryptocurrency",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1186/s40537-025-01314-3",
+   "title": "Text-to-video generators: a comprehensive survey",
+   "received": "4 May 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s40537-025-01189-4",
+   "title": "Capturing research literature attitude towards sustainable development goals: an LLM-based topic modeling approach",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s40537-025-01147-0",
+   "title": "An accuracy-privacy optimization framework considering user\u2019s privacy requirements for data stream mining",
+   "received": "31 March 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 359
+  },
+  {
+   "doi": "10.1186/s40537-025-01166-x",
+   "title": "Multivariate response directional regression: a projective resampling approach",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s40537-025-01161-2",
+   "title": "Tri-Algo guardian ensemble approach for fake news detection in social media",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1186/s40537-025-01214-6",
+   "title": "Early crowd forecasting away from stations by geographically complemented regression using transit search and mobility logs",
+   "received": "7 March 2024",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 471
+  },
+  {
+   "doi": "10.1186/s40537-025-01081-1",
+   "title": "Machine learning-based prediction of elliptical double steel columns under compression loading",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1186/s40537-025-01143-4",
+   "title": "Leveraging deep learning for risk prediction and resilience in supply chains: insights from critical industries",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s40537-025-01132-7",
+   "title": "Breast cancer prediction with feature-selected XGB classifier, optimized by metaheuristic algorithms",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s40537-025-01068-y",
+   "title": "A computational analysis of aspect-based sentiment analysis research through bibliometric mapping and topic modeling",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s40537-025-01271-x",
+   "title": "A distributed architecture for MQTT messaging: the case of TBMQ",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 305
+  },
+  {
+   "doi": "10.1186/s40537-025-01099-5",
+   "title": "Adapting security and decentralized knowledge enhancement in federated learning using blockchain technology: literature review",
+   "received": "3 May 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1186/s40537-025-01213-7",
+   "title": "The method for approximate continuous Skyline query based on privacy protection in road network",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 368
+  },
+  {
+   "doi": "10.1186/s40537-025-01254-y",
+   "title": "Unmasking deception: detection of fake profiles in online social ecosystems",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s40537-025-01185-8",
+   "title": "Advancing stock price prediction through the development of hybrid ensembles: a comprehensive comparative analysis of machine learning approaches",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1186/s40537-025-01260-0",
+   "title": "IECO: an improved educational competition optimizer for state-of-the-art engineering optimization",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1186/s40537-025-01268-6",
+   "title": "Empowering sentiment analysis in social media: a comprehensive approach to enhance the classification of abusive Tamil comments using transformer mode",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s40537-025-01078-w",
+   "title": "Identification of key drought-tolerant genes in soybean using an integrative data-driven feature engineering pipeline",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s40537-025-01210-w",
+   "title": "Enhancing public art communication through emotional intelligence based on type-2 fractional fuzzy sets",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s40537-025-01301-8",
+   "title": "FCASR: a feature and content-aware service recommender for personalized hotel recommendations using big data",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s40537-025-01209-3",
+   "title": "An LLM-guided platform for multi-granular collection and management of data provenance",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s40537-025-01140-7",
+   "title": "GPSOM: group-based particle swarm optimization with multiple strategies for engineering applications",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s40537-025-01283-7",
+   "title": "An early and accurate diagnosis and detection of the coronary heart disease using deep learning and machine learning algorithms",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 399
+  },
+  {
+   "doi": "10.1186/s40537-025-01104-x",
+   "title": "A survey of reinforcement and deep reinforcement learning for coordination in intelligent traffic light control",
+   "received": "1 August 2023",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 560
+  },
+  {
+   "doi": "10.1186/s40537-025-01102-z",
+   "title": "SIMER: an accurate and intelligent tool for simulating customizable population data across species in complex scenarios",
+   "received": "20 June 2023",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 602
+  },
+  {
+   "doi": "10.1186/s40537-024-01041-1",
+   "title": "A problem-agnostic approach to feature selection and analysis using SHAP",
+   "received": "11 January 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 338
+  },
+  {
+   "doi": "10.1186/s40537-025-01252-0",
+   "title": "Towards a smart debt collection system: a Design Science Research approach",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1186/s40537-025-01060-6",
+   "title": "GeoTemporal clustering for aquifer delineation: a big data approach to synchronizing and analyzing variable-length groundwater time series",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s40537-025-01277-5",
+   "title": "Dynamic adaptive guided IVY Algorithm with search-hide mechanism for feature selection in human activity recognition for IoHT applications",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s40537-025-01181-y",
+   "title": "Overlapping community-based fair influence maximization under a multi-transformation optimization algorithm",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s40537-025-01084-y",
+   "title": "Big data and urban form: a systematic review",
+   "received": "3 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1186/s40537-025-01267-7",
+   "title": "Supervised autoencoder MLP for financial time series forecasting",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 320
+  },
+  {
+   "doi": "10.1186/s40537-025-01093-x",
+   "title": "A reasoning based explainable multimodal fake news detection for low resource language using large language models and transformers",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s40537-025-01264-w",
+   "title": "Advancing multimodal emotion recognition in big data through prompt engineering and deep adaptive learning",
+   "received": "20 April 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s40537-025-01090-0",
+   "title": "Developing a negative speech emotion recognition model for safety systems using deep learning",
+   "received": "9 August 2023",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 552
+  },
+  {
+   "doi": "10.1186/s40537-024-01005-5",
+   "title": "Online variational Gaussian process for time series data",
+   "received": "6 March 2023",
+   "revised": null,
+   "accepted": "7 October 2024",
+   "days": 581
+  },
+  {
+   "doi": "10.1186/s40537-025-01272-w",
+   "title": "An optimized hybrid ensemble machine learning model combining multiple classifiers for detecting advanced persistent threats in networks",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s40537-025-01155-0",
+   "title": "An artificial intelligence platform for predicting postoperative complications in metastatic spinal surgery: development and validation study",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s40537-025-01235-1",
+   "title": "Integrating deep learning and transfer learning: optimizing white blood cells classification in medical educational institutions",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s40537-025-01120-x",
+   "title": "Unsupervised label generation for severely imbalanced fraud data",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s40537-025-01228-0",
+   "title": "Identifying key genetic variants in Alzheimer\u2019s disease progression using Graph Convolutional Networks (GCN) and biological impact analysis",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s40537-025-01164-z",
+   "title": "Optimal Markowitz portfolio using returns forecasted with time series and machine learning models",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s40537-025-01154-1",
+   "title": "Unsupervised feature selection and class labeling for credit card fraud",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s40537-025-01178-7",
+   "title": "Comprehensive review of artificial intelligence applications in renewable energy systems: current implementations and emerging trends",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s40537-025-01141-6",
+   "title": "FunDa: scalable serverless data analytics and in situ query processing",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s40537-025-01206-6",
+   "title": "Particle swarm optimization with YOLOv8 for improved detection performance of tomato plants",
+   "received": "23 March 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 425
+  },
+  {
+   "doi": "10.1186/s40537-025-01117-6",
+   "title": "A secure hybrid deep learning framework for brain tumor detection and classification",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s40537-025-01195-6",
+   "title": "Comprehensive review of federated learning challenges: a data preparation viewpoint",
+   "received": "23 April 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 384
+  },
+  {
+   "doi": "10.1186/s40537-025-01133-6",
+   "title": "Long-term survival prediction in patients with acute brain lesions using ensemble machine learning algorithms: a cohort study with combined national h",
+   "received": "25 October 2023",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 503
+  },
+  {
+   "doi": "10.1186/s40537-025-01306-3",
+   "title": "Polytope: an algorithm for efficient feature extraction on hypercubes",
+   "received": "21 December 2024",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1186/s40537-024-01053-x",
+   "title": "Fast agglomerative clustering using approximate traveling salesman solutions",
+   "received": "11 December 2023",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 369
+  },
+  {
+   "doi": "10.1186/s40537-025-01222-6",
+   "title": "Combining review elements for modelling various multi-criteria collaborative recommendation models",
+   "received": "30 November 2023",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 569
+  },
+  {
+   "doi": "10.1186/s40537-025-01122-9",
+   "title": "SPINEX-anomaly: similarity-based predictions with explainable neighbors exploration for anomaly and outlier detection",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1186/s40537-025-01165-y",
+   "title": "Enhancing Byzantine robustness of federated learning via tripartite adaptive authentication",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s40537-025-01257-9",
+   "title": "Data augmentation for dense passage retrieval using corpus-passage frequency-based token deletion",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s40537-025-01125-6",
+   "title": "Enhanced Binary Kepler Optimization Algorithm for effective feature selection of supervised learning classification",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s40537-025-01065-1",
+   "title": "Efficient surface crack segmentation for industrial and civil applications based on an enhanced YOLOv8 model",
+   "received": "17 August 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s40537-025-01079-9",
+   "title": "Deep learning and statistical approaches for area-based PM2.5 forecasting in Hat Yai, Thailand",
+   "received": "7 February 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 345
+  },
+  {
+   "doi": "10.1186/s40537-025-01184-9",
+   "title": "Tca4rec: contrastive learning with popularity-aware asymmetric augmentation for robust sequential recommendation",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1186/s40537-025-01278-4",
+   "title": "SugarcaneNet: an optimized ensemble of LASSO-regularized pre-trained models for accurate sugarcane disease classification",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1186/s40537-025-01076-y",
+   "title": "Research on multiple enhanced k combination reverse Skyline query method",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1186/s40537-025-01201-x",
+   "title": "Advancement in public health through machine learning: a narrative review of opportunities and ethical considerations",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s40537-025-01193-8",
+   "title": "Overview of leakage scenarios in supervised machine learning",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1186/s40537-025-01219-1",
+   "title": "Sparse sufficient dimension reduction for directional regression",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1186/s40537-025-01285-5",
+   "title": "Unified multi-agent recovery framework via multi-scale diffusion and dependency-aware hierarchical PPO for resilience enhancement",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s40537-025-01309-0",
+   "title": "Block-level masking and feature importance-based adversarial example generation",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s40537-025-01124-7",
+   "title": "Analyzing key users\u2019 behavior trends in volunteer-based networks",
+   "received": "6 December 2023",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 461
+  },
+  {
+   "doi": "10.1186/s40537-024-01040-2",
+   "title": "Watch and learn: event-domain term extraction from social networks",
+   "received": "18 February 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 300
+  },
+  {
+   "doi": "10.1186/s40537-025-01182-x",
+   "title": "Truth be told: a multimodal ensemble approach for enhanced fake news detection in textual and visual media",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s40537-025-01253-z",
+   "title": "Data engineering for sustainable agriculture: developments, challenges, and case studies of a novel IoRT architecture",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1186/s40537-025-01284-6",
+   "title": "A toolbox for volleyball data analytics: a case study on the italian women\u2019s league",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s40537-025-01111-y",
+   "title": "Discovering customer segments through interaction behaviors for home appliance business",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 196
+  },
+  {
+   "doi": "10.1186/s40537-025-01086-w",
+   "title": "Automatic magnetic resonance imaging series labelling for large repositories",
+   "received": "4 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1186/s40537-025-01308-1",
+   "title": "\u03bb-CLOVR: looking for a needle in a haystack: a content-based video big data retrieval system in the cloud",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 342
+  },
+  {
+   "doi": "10.1186/s40537-025-01129-2",
+   "title": "An efficient enhanced exponential distribution optimizer: applications in global, engineering, and combinatorial optimization problems",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s40537-025-01100-1",
+   "title": "Uncovering employee insights: integrative analysis using structural topic modeling and support vector machines",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s40537-024-01047-9",
+   "title": "A GDPR-compliant solution for analysis of large-scale genomics datasets on HPC cloud infrastructure",
+   "received": "22 September 2023",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 449
+  },
+  {
+   "doi": "10.1186/s40537-025-01179-6",
+   "title": "Human collective emotional excess by novel Gaidai hypersurface risk prognostics methodology",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s40537-025-01236-0",
+   "title": "Chat-rgie: precision extraction of rice germplasm data using large language models and prompt engineering",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s40537-025-01246-y",
+   "title": "Remote sensing image protection using CTRSU-Net, SegNet\u2009+\u2009and ensemble learning",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1186/s40537-025-01075-z",
+   "title": "Supervised contrastive pre-training models for mammography screening",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1186/s40537-025-01279-3",
+   "title": "Effects of hearing difficulty on stroke: retrospective cohort and mendelian randomization studies",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s40537-025-01259-7",
+   "title": "Advanced multilevel feature fusion framework for enhanced image retrieval using convolutional neural network and benchmark datasets",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1186/s40537-025-01311-6",
+   "title": "Terramycelium: a reference architecture for adaptive big data systems",
+   "received": "31 May 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s40537-025-01168-9",
+   "title": "On the solution of intuitionistic fuzzy nonlinear Fredholm integral equation using direct computational method",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s40537-025-01300-9",
+   "title": "A multimodal fusion model for real-time environment emotion recognition using audio-visual-textual features",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s40537-025-01070-4",
+   "title": "Enhancing cardiac diagnostics: a deep learning ensemble approach for precise ECG image classification",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1186/s40537-025-01139-0",
+   "title": "FEL-FRN: fusion ECA long-CLIP feature reconstruction network for few-shot classification",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s40537-025-01265-9",
+   "title": "A deep learning-based framework for large-scale plant disease detection using big data analytics in precision agriculture",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s40537-025-01286-4",
+   "title": "Emergency hospital selection in Peshawar using fractional Diophantine neural network for risky decision-making",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1186/s40537-024-01044-y",
+   "title": "Bilingual hate speech detection on social media: Amharic and Afaan Oromo",
+   "received": "14 September 2023",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 457
+  },
+  {
+   "doi": "10.1186/s40537-025-01142-5",
+   "title": "Evaluation of predictive performance of modeling hyperuricemia using medical big data: comparison of data preprocessing methods",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s40537-025-01088-8",
+   "title": "Alzheimer\u2019s disease diagnosis by 3D-SEConvNeXt",
+   "received": "27 February 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 325
+  },
+  {
+   "doi": "10.1186/s40537-025-01287-3",
+   "title": "Facial emotion recognition using deep Siamese neural networks: multi-classifier fusion for single-emotion and multi-emotion models across age groups",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s40537-025-01114-9",
+   "title": "Breast cancer diagnosis with MFF-HistoNet: a multi-modal feature fusion network integrating CNNs and quantum tensor networks",
+   "received": "17 August 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s40537-025-01293-5",
+   "title": "Optimizing action recognition: a residual convolution with hierarchical and gram matrix based attention mechanisms",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s40537-025-01303-6",
+   "title": "HET-VQVAE: a novel encoder-decoder framework for irregularly-sampled multivariate time series of patients",
+   "received": "30 March 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s40537-025-01101-0",
+   "title": "Dataset for unflappable driving: UNFLAPSet",
+   "received": "4 April 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 313
+  },
+  {
+   "doi": "10.1186/s40537-025-01207-5",
+   "title": "Cloud based real-time multivariate multi-step prediction of systolic blood pressure and heart rate using temporal convolutional network and Apache Spa",
+   "received": "31 July 2023",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 661
+  }
+ ]
+}

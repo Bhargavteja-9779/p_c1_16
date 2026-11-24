@@ -1,0 +1,357 @@
+{
+ "issn": "2509-498X",
+ "journal": "Journal of Healthcare Informatics Research",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:04.856597",
+ "source": "https://api.crossref.org/journals/2509-498X/works",
+ "articles": [
+  {
+   "doi": "10.1007/s41666-025-00215-7",
+   "title": "Impact Detection in Fall Events: Leveraging Spatio-temporal Graph Convolutional Networks and Recurrent Neural Networks Using 3D Skeleton Data",
+   "received": "27 May 2025",
+   "revised": "13 August 2025",
+   "accepted": "5 September 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1007/s41666-025-00199-4",
+   "title": "Key Components of Participatory Design Workshops for Digital Health Solutions: Nominal Group Technique and Feasibility Study",
+   "received": "6 February 2025",
+   "revised": "19 April 2025",
+   "accepted": "5 May 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s41666-025-00197-6",
+   "title": "Behavioral Clusters and Lesion Distributions in Ischemic Stroke, Based on NIHSS Similarity Network",
+   "received": "27 August 2024",
+   "revised": "13 March 2025",
+   "accepted": "13 March 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s41666-025-00208-6",
+   "title": "Multi-Cohort Federated Learning Shows Synergy in Mortality Prediction for MRI-Based and Metabolomics-Based Age Scores",
+   "received": "4 March 2025",
+   "revised": "4 June 2025",
+   "accepted": "10 July 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1007/s41666-025-00207-7",
+   "title": "Smarter Together: Combining Large Language Models and Small Models for Physiological Signals Visual Inspection",
+   "received": "1 April 2025",
+   "revised": "16 June 2025",
+   "accepted": "10 July 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s41666-025-00205-9",
+   "title": "Joint Imbalance Adaptation for Radiology Report Generation",
+   "received": "31 July 2024",
+   "revised": "8 June 2025",
+   "accepted": "10 June 2025",
+   "days": 314
+  },
+  {
+   "doi": "10.1007/s41666-024-00184-3",
+   "title": "A Self-Supervised Graph Neural Network to Identify Temporal Phenotypes of End-Stage Renal Disease Using Longitudinal Electronic Health Records",
+   "received": "17 July 2024",
+   "revised": "23 November 2024",
+   "accepted": "23 December 2024",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s41666-025-00217-5",
+   "title": "Assessing the User Experience of an LLM-Based Conversational Assistant in Diabetes Mellitus Care",
+   "received": "7 October 2024",
+   "revised": "18 August 2025",
+   "accepted": "26 September 2025",
+   "days": 354
+  },
+  {
+   "doi": "10.1007/s41666-024-00182-5",
+   "title": "A Low Complexity Efficient Deep Learning Model for Automated Retinal Disease Diagnosis",
+   "received": "13 April 2024",
+   "revised": "8 August 2024",
+   "accepted": "17 December 2024",
+   "days": 248
+  },
+  {
+   "doi": "10.1007/s41666-025-00196-7",
+   "title": "Empirical Comparison of Post-processing Debiasing Methods for Machine Learning Classifiers in Healthcare",
+   "received": "1 October 2024",
+   "revised": "21 February 2025",
+   "accepted": "8 March 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s41666-025-00224-6",
+   "title": "MiniGPT-Pancreas: Multimodal Large Language Model for Pancreas Cancer Observation and Localization in CT Images",
+   "received": "18 May 2025",
+   "revised": "4 November 2025",
+   "accepted": "5 November 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1007/s41666-025-00195-8",
+   "title": "Effective Non-IID Degree Estimation for Robust Federated Learning in Healthcare Datasets",
+   "received": "23 February 2025",
+   "revised": "28 February 2025",
+   "accepted": "28 February 2025",
+   "days": 5
+  },
+  {
+   "doi": "10.1007/s41666-025-00202-y",
+   "title": "A Few-Shot Learning-Based Framework for Predicting Likelihood of In-patient\u2019s Mortality",
+   "received": "4 May 2024",
+   "revised": "28 April 2025",
+   "accepted": "19 May 2025",
+   "days": 380
+  },
+  {
+   "doi": "10.1007/s41666-025-00186-9",
+   "title": "Temporal Word Embeddings for Early Detection of Psychological Disorders on Social Media",
+   "received": "10 July 2024",
+   "revised": "21 November 2024",
+   "accepted": "13 January 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1007/s41666-025-00216-6",
+   "title": "Persuasive Design in a Digital Mindfulness Intervention: A Randomized Trial of a Skill-Based Achievement System and Automated Peer Encouragement",
+   "received": "8 April 2025",
+   "revised": "11 September 2025",
+   "accepted": "12 September 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s41666-025-00222-8",
+   "title": "Explanation Beyond Individual Features: Instance-wise Feature Grouping for EHR Predictive Analytics",
+   "received": "15 July 2024",
+   "revised": "17 September 2025",
+   "accepted": "20 October 2025",
+   "days": 462
+  },
+  {
+   "doi": "10.1007/s41666-025-00200-0",
+   "title": "Stress and Emotion Open Access Data: A Review on Datasets, Modalities, Methods, Challenges, and Future Research Perspectives",
+   "received": "10 February 2025",
+   "revised": "14 May 2025",
+   "accepted": "16 May 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s41666-025-00188-7",
+   "title": "Internal and External Validation of a Deep Learning-Based Early Warning System of Cardiac Arrest with Variable-Length and Irregularly Measured Time Se",
+   "received": "31 August 2024",
+   "revised": "25 December 2024",
+   "accepted": "15 January 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s41666-025-00212-w",
+   "title": "Multimodal Data Fusion for Whole-Slide Histopathology Image Classification",
+   "received": "17 April 2025",
+   "revised": "17 July 2025",
+   "accepted": "6 August 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1007/s41666-025-00209-5",
+   "title": "A Hybrid Bidirectional Deep Learning Model Using HRV for Prediction of ICU Mortality Risk in TBI Patients",
+   "received": "1 March 2025",
+   "revised": "29 May 2025",
+   "accepted": "10 July 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s41666-025-00189-6",
+   "title": "A Guided Variational Autoencoder for Targeted Molecule Optimization in Drug Discovery",
+   "received": "15 January 2025",
+   "revised": "19 January 2025",
+   "accepted": "23 January 2025",
+   "days": 8
+  },
+  {
+   "doi": "10.1007/s41666-025-00191-y",
+   "title": "Real-Time Forecasting from Wearable-Monitored Heart Rate Data Through Autoregressive Models",
+   "received": "13 June 2024",
+   "revised": "31 January 2025",
+   "accepted": "10 February 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1007/s41666-025-00193-w",
+   "title": "Assessing the Effectiveness of Automatic Speech Recognition Technology in Emergency Medicine Settings: a Comparative Study of Four AI-Powered Engines",
+   "received": "12 July 2024",
+   "revised": "23 January 2025",
+   "accepted": "24 February 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1007/s41666-025-00211-x",
+   "title": "Socio-Demographic Modifiers Shape Large Language Models\u2019 Ethical Decisions",
+   "received": "29 March 2025",
+   "revised": "11 July 2025",
+   "accepted": "4 August 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1007/s41666-025-00198-5",
+   "title": "Zero-Shot Extraction of Seizure Outcomes from Clinical Notes Using Generative Pretrained Transformers",
+   "received": "17 October 2024",
+   "revised": "10 March 2025",
+   "accepted": "15 April 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1007/s41666-025-00204-w",
+   "title": "LongHealth: A Question Answering Benchmark with Long Clinical Documents",
+   "received": "25 January 2025",
+   "revised": "6 May 2025",
+   "accepted": "3 June 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s41666-025-00187-8",
+   "title": "Integrating the Patient Perspective into Healthcare and Real-World Evidence: The Multi-site, Cross-Disease, Patient-Centered Outcomes Research Project",
+   "received": "29 February 2024",
+   "revised": "19 December 2024",
+   "accepted": "14 January 2025",
+   "days": 320
+  },
+  {
+   "doi": "10.1007/s41666-025-00214-8",
+   "title": "A Gated Multi-hop Attention Fusion Network for Extracting Inter-Sentential Adverse Drug Event Relation",
+   "received": "11 August 2024",
+   "revised": "20 November 2024",
+   "accepted": "27 August 2025",
+   "days": 381
+  },
+  {
+   "doi": "10.1007/s41666-025-00192-x",
+   "title": "Dynamic Prediction and Intervention of Serum Sodium in Patients with Stroke Based on Attention Mechanism Model",
+   "received": "25 January 2024",
+   "revised": "14 February 2025",
+   "accepted": "17 February 2025",
+   "days": 389
+  },
+  {
+   "doi": "10.1007/s41666-025-00223-7",
+   "title": "Methods for Generating and Evaluating Synthetic Longitudinal Patient Data: A Systematic Review",
+   "received": "16 April 2025",
+   "revised": "30 October 2025",
+   "accepted": "31 October 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s41666-025-00210-y",
+   "title": "Instruction-Tuned Large Language Models for Clinical Data Extraction: Creating an Aortic Measurement Database from CT Radiology Reports",
+   "received": "18 February 2025",
+   "revised": "25 May 2025",
+   "accepted": "10 July 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s41666-024-00181-6",
+   "title": "Comparing Care Pathways Between COVID-19 Pandemic Waves Using Electronic Health Records: A Process Mining Case Study",
+   "received": "4 February 2024",
+   "revised": "4 October 2024",
+   "accepted": "3 December 2024",
+   "days": 303
+  },
+  {
+   "doi": "10.1007/s41666-024-00183-4",
+   "title": "A User Typology for Digital Health Self-Management Technologies: A Qualitative Study of the Long-term User Experiences of Older Adults with a Digital ",
+   "received": "25 March 2024",
+   "revised": "18 December 2024",
+   "accepted": "20 December 2024",
+   "days": 270
+  },
+  {
+   "doi": "10.1007/s41666-025-00213-9",
+   "title": "Through the Speech and Vocal Signals Hidden Secrets: An Explainable Methodology for Neurological Diseases Early Detection",
+   "received": "2 April 2025",
+   "revised": "5 August 2025",
+   "accepted": "21 August 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1007/s41666-025-00220-w",
+   "title": "Unlocking Health Data for Research: Legal, Technical, and Organisational Lessons from a Belgian Interdisciplinary Case Study",
+   "received": "13 August 2025",
+   "revised": "9 October 2025",
+   "accepted": "14 October 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s41666-024-00179-0",
+   "title": "\u201cMy Back Exercise App\u201d\u2014mHealth for Low Back Pain: Development and Usability Testing",
+   "received": "7 April 2024",
+   "revised": "27 October 2024",
+   "accepted": "5 November 2024",
+   "days": 212
+  },
+  {
+   "doi": "10.1007/s41666-025-00221-9",
+   "title": "Benchmarking Large Language Models for MIMIC-IV Clinical Note Summarization",
+   "received": "7 March 2025",
+   "revised": "5 September 2025",
+   "accepted": "18 October 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1007/s41666-025-00190-z",
+   "title": "Adapting Generative Large Language Models for Information Extraction from Unstructured Electronic Health Records in Residential Aged Care: A Comparati",
+   "received": "17 May 2024",
+   "revised": "24 January 2025",
+   "accepted": "3 February 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1007/s41666-025-00185-w",
+   "title": "Understanding Complexities in Collaborative Management of Knowledge on Advance Care Planning for Multi-morbid Patients Within Personalized Integrated ",
+   "received": "5 July 2024",
+   "revised": "11 November 2024",
+   "accepted": "1 January 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1007/s41666-025-00203-x",
+   "title": "Clinical Assessment of Fine-Tuned Open-Source LLMs in Cardiology: From Progress Notes to Discharge Summary",
+   "received": "19 February 2025",
+   "revised": "26 May 2025",
+   "accepted": "30 May 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s41666-025-00201-z",
+   "title": "Novel Videographic-Free Framework for Tracking Anatomical Structures Using Swallowing Accelerometer Signals and Multi-task Transformers",
+   "received": "16 August 2024",
+   "revised": "13 April 2025",
+   "accepted": "19 May 2025",
+   "days": 276
+  },
+  {
+   "doi": "10.1007/s41666-025-00206-8",
+   "title": "FairAlloc: Learning Fair Organ Allocation Policy for Liver Transplant",
+   "received": "11 December 2024",
+   "revised": "2 June 2025",
+   "accepted": "19 June 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1007/s41666-025-00194-9",
+   "title": "Enhancing Patient-Physician Communication: Simulating African American Vernacular English in Medical Diagnostics with Large Language Models",
+   "received": "17 October 2024",
+   "revised": "2 February 2025",
+   "accepted": "25 February 2025",
+   "days": 131
+  }
+ ]
+}

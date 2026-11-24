@@ -1,0 +1,1573 @@
+{
+ "issn": "2662-4443",
+ "journal": "Communications Materials",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:11:28.791863",
+ "source": "https://api.crossref.org/journals/2662-4443/works",
+ "articles": [
+  {
+   "doi": "10.1038/s43246-025-00830-2",
+   "title": "Non-destructive in vivo tracking of gelatin hydrogels for advancing tissue engineering",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1038/s43246-025-00892-2",
+   "title": "Advancing antiferromagnetic nitrides via metal alloy nitridation",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s43246-025-00805-3",
+   "title": "Stress-tolerant sulfur cathode with a super-stretchable polymer coating via initiated chemical vapor deposition",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s43246-024-00718-7",
+   "title": "Low-temperature fabrication of amorphous carbon films as a universal template for remote epitaxy",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 176
+  },
+  {
+   "doi": "10.1038/s43246-025-00809-z",
+   "title": "Large trion binding energy in monolayer WS2 via strain-enhanced electron\u2013phonon coupling",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1038/s43246-024-00713-y",
+   "title": "Tuning a magnetic energy scale with pressure and field in UTe2",
+   "received": "17 October 2023",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 412
+  },
+  {
+   "doi": "10.1038/s43246-025-00983-0",
+   "title": "Enzyme-responsive biomaterials for biomedical applications",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1038/s43246-025-00844-w",
+   "title": "Optoelectronic reconfigurable 1T-VSe2/2H-MoTe2 Schottky junction for near-infrared switchable logic",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1038/s43246-025-00881-5",
+   "title": "Observation of two cascading screening processes in an iron-based superconductor",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1038/s43246-025-00841-z",
+   "title": "Predictions of molecular orientation and charge mobility in organic vacuum-deposited thin films by multiscale simulation",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1038/s43246-025-00988-9",
+   "title": "Hydrogen uptake and embrittlement in nickel-base superalloys during hydrogen flame charging",
+   "received": "21 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1038/s43246-025-00763-w",
+   "title": "Closed-loop enhancement of plant photosynthesis via biomass-derived carbon dots in biohybrids",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 13
+  },
+  {
+   "doi": "10.1038/s43246-025-00797-0",
+   "title": "Enhanced magnetic-field tunability of the Verwey transition in tailor-made magnetite thin films",
+   "received": "4 August 2024",
+   "revised": null,
+   "accepted": "4 April 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1038/s43246-025-00786-3",
+   "title": "Synthesis of tubular MXenes with carbon fiber template and use as anodes in lithium-ion batteries",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1038/s43246-025-00823-1",
+   "title": "Harnessing the bio-adhesive power of natural deep eutectic solvents for trichome-inspired pest control",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s43246-025-00814-2",
+   "title": "Narrowing band gap chemically and physically: conductive dense hydrocarbon",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1038/s43246-025-00843-x",
+   "title": "Disorder-induced universality and scaling in hole-doped iron-based superconductors",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1038/s43246-024-00724-9",
+   "title": "Predictive design of tactile friction for micro/nanostructured haptic surfaces",
+   "received": "2 June 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 199
+  },
+  {
+   "doi": "10.1038/s43246-024-00702-1",
+   "title": "Ultra-tough light-curing ionogels for UV shielding",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 138
+  },
+  {
+   "doi": "10.1038/s43246-024-00723-w",
+   "title": "Automated chain architecture screening for discovery of block copolymer assembly with graph enhanced self-consistent field theory",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 73
+  },
+  {
+   "doi": "10.1038/s43246-025-00734-1",
+   "title": "Improving lithium-sulfur battery performance using a polysaccharide binder derived from red algae",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1038/s43246-025-00846-8",
+   "title": "Biocarbon from olive pomace residue as a sulfur host for carbonate-based lithium-sulfur batteries",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1038/s43246-025-00794-3",
+   "title": "Intrinsic magnetic topological insulators of the MnBi2Te4 family",
+   "received": "1 July 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 270
+  },
+  {
+   "doi": "10.1038/s43246-025-00755-w",
+   "title": "Carbon-coating effect on the performance of photolithographically-structured Si nanowires for lithium-ion microbattery anodes",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1038/s43246-025-00744-z",
+   "title": "Spin polarised quantised transport via one-dimensional nanowire-graphene contacts",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1038/s43246-024-00690-2",
+   "title": "Strategies to achieve reproducible synthesis of phase-pure Zr-porphyrin metal-organic frameworks",
+   "received": "19 February 2024",
+   "revised": null,
+   "accepted": "29 October 2024",
+   "days": 253
+  },
+  {
+   "doi": "10.1038/s43246-025-00874-4",
+   "title": "Plant cell wall-inspired synthesis of biomolecular self-assembled stiff hydrogels",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1038/s43246-025-00987-w",
+   "title": "Mapping magnetization orientation within compositionally graded rare-earth transition-metal alloy thin films for spintronics",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1038/s43246-025-00818-y",
+   "title": "Tough, self-healing and weldable hydrogel via thermal engineering optimized multi-scale structures",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1038/s43246-025-00802-6",
+   "title": "Cellulose composite membranes induced by multiple hydrogen bonds as lightweight current collectors for high-performance batteries",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1038/s43246-025-00968-z",
+   "title": "Lead-free relaxor ferroelectric thin films with enhanced energy density through process optimization",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 347
+  },
+  {
+   "doi": "10.1038/s43246-025-00813-3",
+   "title": "Relation between 4f-magnetism and the low-temperature magnetocaloric effect in multiferroic hexagonal manganites",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1038/s43246-025-00825-z",
+   "title": "Building an end-to-end battery recipe knowledge base via transformer-based text mining",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1038/s43246-025-00858-4",
+   "title": "Short-wave magnons with multipole spin precession detected in the topological bands of a skyrmion lattice",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1038/s43246-024-00719-6",
+   "title": "Synergistic proton conduction via Ca-vacancy coupled with Li+-bridge in Ca5(PO4)3OH",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 169
+  },
+  {
+   "doi": "10.1038/s43246-025-00982-1",
+   "title": "Hyaluronic acid molecular orientation induces uniform distribution of polysulfides for high-performance lithium-sulfur battery",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1038/s43246-025-00759-6",
+   "title": "Scanning vortex microscopy reveals thickness-dependent pinning nano-network in superconducting niobium films",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 335
+  },
+  {
+   "doi": "10.1038/s43246-025-00779-2",
+   "title": "Advanced X-ray absorption spectroscopy for probing dynamics in CO2 reduction reaction electrocatalysts",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1038/s43246-025-00934-9",
+   "title": "GeSn quantum wells as a platform for spin-resolved hole transport",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1038/s43246-025-00752-z",
+   "title": "Resolving the fundamentals of the J-integral concept by multi-method in situ nanoscale stress-strain mapping",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1038/s43246-025-00958-1",
+   "title": "High photoelectrochemical response of SrTiO3/TiO2/TiN films synthesized via hydrothermal-galvanic couple method with reductive annealing",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s43246-025-00754-x",
+   "title": "Advancing extrapolative predictions of material properties through learning to learn using extrapolative episodic training",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1038/s43246-025-00907-y",
+   "title": "Progress towards efficient MXene sensors",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s43246-024-00708-9",
+   "title": "Data extraction from polymer literature using large language models",
+   "received": "25 April 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 219
+  },
+  {
+   "doi": "10.1038/s43246-025-00791-6",
+   "title": "Incipient ferroelectricity in methylammonium lead halide perovskites",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1038/s43246-025-00939-4",
+   "title": "Inhomogeneity in electronic phase and flat band in magnetic kagome metal Co3Sn2S2",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1038/s43246-025-00951-8",
+   "title": "Enhancing magnetoresistance and mobility in Co3+xSn2-xS2 via non-stoichiometric doping for fermi level engineering",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1038/s43246-025-00852-w",
+   "title": "Two-dimensional Mo4/3B2\u2212xTz boridene cathodes for Al-ion batteries",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1038/s43246-025-00873-5",
+   "title": "High harmonic spectroscopy reveals anisotropy of the charge-density-wave phase transition in TiSe2",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1038/s43246-025-00944-7",
+   "title": "Defensin-conjugated polymer fabrics combat drug-resistant biofilms and toxins in skin wounds",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 287
+  },
+  {
+   "doi": "10.1038/s43246-025-00937-6",
+   "title": "Closed loop recycling of functional carbon fiber epoxy laminates",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1038/s43246-025-00969-y",
+   "title": "Transforming pomelo peel waste into multifunctional biomaterials for hemostasis and wound healing",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1038/s43246-025-00903-2",
+   "title": "A light-fueled self-oscillator that senses force",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1038/s43246-025-00820-4",
+   "title": "Data-driven material screening of secondary and natural cementitious precursors",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1038/s43246-025-00894-0",
+   "title": "Evidence of underlying structural similarities of amorphous materials",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1038/s43246-025-00964-3",
+   "title": "Intrinsic defect intolerance in the ultra-pure metal PtSn4",
+   "received": "8 September 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 11
+  },
+  {
+   "doi": "10.1038/s43246-025-00911-2",
+   "title": "Highly reversible magnetocaloric effect in Gd5Si0.25Ge3.75 and Gd5Si0.5Ge3.5 under moderate magnetic fields for hydrogen liquefaction",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1038/s43246-025-00856-6",
+   "title": "Strain-induced superconductivity in RuO2(100) thin-films",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1038/s43246-025-00770-x",
+   "title": "High-sensitivity nanoscale quantum sensors based on a diamond micro-resonator",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1038/s43246-025-00898-w",
+   "title": "Waveguide quantum electrodynamics at the onset of spin-spin correlations",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1038/s43246-024-00704-z",
+   "title": "Partially recrystallized microstructures expand the strength-toughness envelope of CrCoNi medium-entropy alloy",
+   "received": "29 June 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s43246-025-00832-0",
+   "title": "Mechanical characterization of a 3D large strain zero Poisson\u2019s ratio helical metamaterial",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1038/s43246-025-00981-2",
+   "title": "Overcoming the thermal conductivity versus oxidation resistance barrier in high-temperature steels",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1038/s43246-025-00930-z",
+   "title": "Tantalo-gallate glass as robust nonlinear medium for mid-infrared photonics",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1038/s43246-025-00891-3",
+   "title": "NbN-based Josephson junctions grown by plasma-assisted molecular beam epitaxy",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1038/s43246-025-00971-4",
+   "title": "Ultra-flexible porous magnetorheological elastomers with controllable pore parameters",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1038/s43246-025-00790-7",
+   "title": "Bilayer sol-gel system for local prevention in prosthetic joint infections and osteointegration improvement",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1038/s43246-025-00868-2",
+   "title": "Anion vacancy-induced photochromism and lattice relaxation in yttrium oxyhydride",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1038/s43246-025-00850-y",
+   "title": "Properties governing dry-state stability of RNA in amorphous sugar formulations",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1038/s43246-024-00701-2",
+   "title": "Phonon-assisted Casimir interactions between piezoelectric materials",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 115
+  },
+  {
+   "doi": "10.1038/s43246-025-00940-x",
+   "title": "Random and unpredictable optical textures in biobased self-assembled ionogels for dynamic anti-counterfeiting tags",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1038/s43246-025-00800-8",
+   "title": "High-pressure high-temperature synthesis of magnetic perovskite BiCu0.4Mn0.6O3",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1038/s43246-025-00905-0",
+   "title": "Universal scaling behavior of transport properties in non-magnetic RuO2",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1038/s43246-025-00986-x",
+   "title": "The total stress approach to martensitic transformations in Ti\u2013Nb-based alloys",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 395
+  },
+  {
+   "doi": "10.1038/s43246-025-00838-8",
+   "title": "Surface-engineered nanostructured high-entropy alloys for advanced electrocatalysis",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s43246-025-00785-4",
+   "title": "Dynamics of nanoscale phase decomposition in laser ablation",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1038/s43246-024-00720-z",
+   "title": "Enhanced Weyl semimetal signature in Co3Sn2S2 Kagome ferromagnet by chlorine doping",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 259
+  },
+  {
+   "doi": "10.1038/s43246-025-00787-2",
+   "title": "High-temperature mid-wavelength infrared avalanche photodiode with modified fully-depleted absorption and multiplication region",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1038/s43246-025-00795-2",
+   "title": "Exploring cluster formation in uranium oxidation using high resolution X-ray spectroscopy at elevated temperatures",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1038/s43246-025-00837-9",
+   "title": "High-performance integrated thermoelectric coolers for electronics cooling",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1038/s43246-025-00895-z",
+   "title": "Stress-dependent \u03c7 phase transformation in a Ni-based superalloy",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1038/s43246-025-00904-1",
+   "title": "Tensor network analysis of the maple-leaf antiferromagnet spangolite",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 403
+  },
+  {
+   "doi": "10.1038/s43246-025-00764-9",
+   "title": "Analyzing long-period structural evolution of biaxially stretched ultra-high molecular weight polyethylene films",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1038/s43246-024-00705-y",
+   "title": "Exotic ferroelectricity in strained BaZrS3 chalcogenide perovskite for photovoltaics",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s43246-024-00709-8",
+   "title": "Stratification of fluoride uptake among enamel crystals with age elucidated by atom probe tomography",
+   "received": "26 June 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 157
+  },
+  {
+   "doi": "10.1038/s43246-024-00729-4",
+   "title": "Discovery of giant unit-cell super-structure in the infinite-layer nickelate PrNiO2+x",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "24 December 2024",
+   "days": 127
+  },
+  {
+   "doi": "10.1038/s43246-025-00799-y",
+   "title": "Crafting high-temperature stable and hydrophobic nanofiber membranes for particulate matter filtration",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s43246-025-00772-9",
+   "title": "Tunable topological transitions in the frustrated magnet HoAgGe",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s43246-025-00745-y",
+   "title": "Prediction of thermal conductivity in CALF-20 with first-principles accuracy via machine learning interatomic potentials",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1038/s43246-025-00780-9",
+   "title": "Green and large-scale production of covalent organic framework nanofiltration membranes",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1038/s43246-025-00747-w",
+   "title": "Advancing robust all-weather desalination: a critical review of emerging photothermal evaporators and hybrid systems",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s43246-025-00926-9",
+   "title": "3D/4D imaging of complex and deformed microstructures with pink-beam dark field X-ray microscopy",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1038/s43246-024-00712-z",
+   "title": "Gelatin-based spray for forest fire prevention and fertilization",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 106
+  },
+  {
+   "doi": "10.1038/s43246-025-00810-6",
+   "title": "Thermal and nonthermal exciton light emissions from carbon nanotubes above 1000\u2009K",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 200
+  },
+  {
+   "doi": "10.1038/s43246-025-00765-8",
+   "title": "The nature of low-temperature spin-freezing in frustrated Kitaev magnets",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1038/s43246-025-00807-1",
+   "title": "Realistic behavioral model for ReRAMs capturing non-idealities",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1038/s43246-024-00700-3",
+   "title": "Biochar-augmented climate-positive 3D printable concrete",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 206
+  },
+  {
+   "doi": "10.1038/s43246-025-00801-7",
+   "title": "Covalent organic framework-based cathodes for beyond lithium-ion batteries",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1038/s43246-024-00710-1",
+   "title": "Evidence of high-temperature magnetic spiral in YBaCuFeO5 single-crystal by spherical neutron polarimetry",
+   "received": "7 March 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 270
+  },
+  {
+   "doi": "10.1038/s43246-025-00871-7",
+   "title": "Multi-level phosphor storage enabled by synergistic up-conversion and photo-stimulated trap manipulation",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 17
+  },
+  {
+   "doi": "10.1038/s43246-025-00991-0",
+   "title": "Self-assembled metal organic frameworks enhance carbon fixation in Spirulina",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1038/s43246-025-00976-z",
+   "title": "Spin-modulated catalysis in sulfur cathodes for improved performance\u00a0in lithium\u2013sulfur batteries",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1038/s43246-025-00916-x",
+   "title": "Metal-organic frameworks derived single atom catalysts for lithium sulfur batteries",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1038/s43246-024-00695-x",
+   "title": "Atomistic origin of the entropy of melting from inelastic neutron scattering and machine learned molecular dynamics",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "5 November 2024",
+   "days": 88
+  },
+  {
+   "doi": "10.1038/s43246-025-00749-8",
+   "title": "Anionic lipids direct efficient microfluidic encapsulation of stable and functionally active proteins in lipid nanoparticles",
+   "received": "26 January 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 368
+  },
+  {
+   "doi": "10.1038/s43246-025-00888-y",
+   "title": "Pressure evolution of magnetic structure and quasiparticle excitations in anisotropic frustrated zigzag chains",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1038/s43246-025-00803-5",
+   "title": "Improving multifunctional monolithic nano-device by single (Al,Ga)N nanowire/graphene van der Waals heterostructure for neuromorphic computing, photod",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1038/s43246-025-00935-8",
+   "title": "Electrolyte engineering strategies for aqueous Zn-S batteries",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1038/s43246-025-00887-z",
+   "title": "Vapor phase epitaxy of cesium tin chloride perovskite films and quantum wells",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1038/s43246-025-00883-3",
+   "title": "Elucidating reaction dynamics in lithium\u2013sulfur batteries via operando X-ray diffraction of hollow carbon sphere hosts",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1038/s43246-025-00878-0",
+   "title": "Micron sized coils for the generation of high magnetic fields and field gradients",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1038/s43246-025-00760-z",
+   "title": "Glassy dynamics of SrTiO3-based two-dimensional electron gas",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1038/s43246-025-00966-1",
+   "title": "Unusual in-plane lattice collapse in layered La2O3Mn2Se2 initiated by pressure-driven spin-crossover",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1038/s43246-025-00882-4",
+   "title": "Cryogenic spatiotemporal characteristics and microevolution of 316LN discontinuous plastic flow",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s43246-025-00756-9",
+   "title": "Antibody-functionalized MXene-based electrochemical biosensor for point-of-care detection of vitamin D deficiency",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1038/s43246-025-00910-3",
+   "title": "Defect-modulated ionic friction at hBN/water interfaces",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1038/s43246-025-00771-w",
+   "title": "Ultra sensitive low-frequency visible light dielectric response measured by real capacitance method",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1038/s43246-025-00978-x",
+   "title": "Evaluation of radiochromic formulations for dosimetry in high-energy photon and proton beams",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1038/s43246-025-00931-y",
+   "title": "Hybrid diacrylate resin-gelatin methacryloyl composite with bone-to-brain stiffness range",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1038/s43246-025-00896-y",
+   "title": "Picosecond anisotropic phase separation governing photoinduced phase stability in submicron Ti3O5 crystals",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1038/s43246-025-00946-5",
+   "title": "Extracting effective solutions hidden in large language models via generated comprehensive specialists: case studies in developing electronic devices",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1038/s43246-025-00920-1",
+   "title": "Molecular origin of stress softening in elastomer-based nanocomposites via in situ elongational nuclear magnetic resonance spectroscopy",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1038/s43246-025-00901-4",
+   "title": "A quasi-solid-state high-rate lithium sulfur positive electrode incorporating Li10GeP2S12",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1038/s43246-025-00924-x",
+   "title": "Predicting hydrogen diffusion in nickel\u2013manganese random alloys using machine learning interatomic potentials",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1038/s43246-025-00876-2",
+   "title": "Transforming memristor noises into computational innovations",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1038/s43246-025-00746-x",
+   "title": "Electrically chargeable inorganic persistent luminescence in an alternating current driven electroluminescent device",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1038/s43246-025-01004-w",
+   "title": "Vacancy-free cubic superconducting NbN enabled by quantum anharmonicity",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "29 October 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1038/s43246-025-00849-5",
+   "title": "Bionic fractionalization in the trimer model of twisted bilayer graphene",
+   "received": "21 April 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1038/s43246-025-00869-1",
+   "title": "Pyramidal charged domain walls in ferroelectric BiFeO3",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1038/s43246-025-00806-2",
+   "title": "Field-induced spin liquid in the decorated square-kagome antiferromagnet nabokoite $${{{\\rm{KCu}}}}_{7}{{{\\rm{TeO}}}}_{4}{({{{\\rm{SO}}}}_{4})}_{5}{{\\r",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1038/s43246-025-00902-3",
+   "title": "Anisotropic charge transport in 2D single crystals of Ti3C2Tx MXenes",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s43246-025-00773-8",
+   "title": "Photoswitchable phospholipids for the optical control of membrane processes, protein function, and drug delivery",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1038/s43246-025-00826-y",
+   "title": "Lignin-derived bisguaiacol P vinyl ester as a bisphenol A-free resin alternative",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1038/s43246-025-00886-0",
+   "title": "Investigation of hybrid plasmons in a highly crystalline Bi2Se3/C60 heterostructure using low-loss electron energy loss spectroscopy",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1038/s43246-025-00748-9",
+   "title": "Dendritic phytic acid as a proton-conducting crosslinker for improved thermal stability and proton conductivity",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1038/s43246-024-00728-5",
+   "title": "Generating multi-scale Li-ion battery cathode particles with radial grain architectures using stereological generative adversarial networks",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 131
+  },
+  {
+   "doi": "10.1038/s43246-025-00833-z",
+   "title": "Magnetically controlled vortex dynamics in a ferromagnetic superconductor",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1038/s43246-025-00798-z",
+   "title": "Enhanced non-volatile resistive switching performance through ion-assisted magnetron sputtering of TiN bottom electrodes",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "4 April 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1038/s43246-025-00751-0",
+   "title": "Quantifying unit ratios in semiconducting copolymers and effect of structural deviations on photovoltaic performance",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1038/s43246-025-00855-7",
+   "title": "Multiferroicity in two dimensional Co2Cl2 monolayer",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1038/s43246-025-00733-2",
+   "title": "Direct observation of Mn-ion dissolution from LiMn2O4 lithium battery cathode to electrolyte",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1038/s43246-024-00698-8",
+   "title": "Photocontrol of ferroelectricity in multiferroic BiFeO3 via structural modification coupled with photocarrier",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 232
+  },
+  {
+   "doi": "10.1038/s43246-024-00727-6",
+   "title": "Static and dynamic Raman excitation mapping of chirality-pure carbon nanotube films",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s43246-025-00817-z",
+   "title": "Highly transparent lead-free piezoelectric haptic device",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1038/s43246-025-00890-4",
+   "title": "Bone mineral platelets are mesocrystals formed by monoclinic nanocrystals",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1038/s43246-025-00908-x",
+   "title": "Enhancement of electro-optic response in BaTiO3 films integrated on Si via heating and cooling rate control",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1038/s43246-025-00796-1",
+   "title": "Inverted CsPbI3 perovskite solar cells with all solution processed layers fabricated in high humidity",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1038/s43246-025-00872-6",
+   "title": "A chemically enriched, repeatedly deformable, and self-recoverable broadband wireless imager sheet",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1038/s43246-024-00706-x",
+   "title": "Fabrication of bendable and narrow bandgap Cu(In,Ga)(S,Se)2 for tandem photovoltaics",
+   "received": "27 February 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 273
+  },
+  {
+   "doi": "10.1038/s43246-025-00975-0",
+   "title": "Monitoring copper ions in C. elegans using porphyrin phosphonic acids",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1038/s43246-025-00831-1",
+   "title": "Understanding field-free single-shot laser-induced reversal of exchange bias",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1038/s43246-025-00925-w",
+   "title": "Experimental signatures of interstitial electron density in transparent dense sodium",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1038/s43246-025-00990-1",
+   "title": "Antifouling bismuth composite for robust electrochemical detection of heavy metals in complex matrices",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1038/s43246-025-00753-y",
+   "title": "Printable graphene inks with polypropylene carbonate for low-surface-tension solvents and mild-temperature post-processing",
+   "received": "18 April 2024",
+   "revised": null,
+   "accepted": "31 January 2025",
+   "days": 288
+  },
+  {
+   "doi": "10.1038/s43246-025-00913-0",
+   "title": "Aerodynamic performance of tailored microparticles as carriers in dry powder inhaler formulations made by multi-focus multi-photon 3D laser printing",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1038/s43246-025-00816-0",
+   "title": "Dichotomy of magnetic effect between Weyl fermions and anomalous Hall effect in PrAlSi",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 285
+  },
+  {
+   "doi": "10.1038/s43246-025-00956-3",
+   "title": "Thermochromic hydrogel with high transmittance modulation and fast response for flexible smart windows",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s43246-025-00793-4",
+   "title": "Enhanced strength and ductility in an additively manufactured Al10SiMg alloy at cryogenic temperatures",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s43246-025-00736-z",
+   "title": "High strength and ductility in a rare-earth free magnesium alloy processed by rotary swaging and flash annealing",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1038/s43246-024-00721-y",
+   "title": "Device-assisted strategies for drug delivery across the blood-brain barrier to treat glioblastoma",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 19
+  },
+  {
+   "doi": "10.1038/s43246-024-00711-0",
+   "title": "Electric-field manipulation of magnetization in an insulating dilute ferromagnet through piezoelectromagnetic coupling",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 125
+  },
+  {
+   "doi": "10.1038/s43246-025-00993-y",
+   "title": "Manufacturing planar perovskite solar cells in dusty environments",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1038/s43246-025-00870-8",
+   "title": "Chemical design rules for low-resistivity electrode\u2013electrolyte interfaces in all-solid-state lithium batteries",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1038/s43246-025-00836-w",
+   "title": "Control of the antiferromagnetic domain configuration and N\u00e9el axis orientation with epitaxial strain",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1038/s43246-025-00732-3",
+   "title": "Anti-icing properties of nonionic/hydrophilic concentrated polymer brushes and mechanistic insights via their swollen-state analysis",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1038/s43246-025-00804-4",
+   "title": "Skyrmion stabilisation and critical behaviour in tellurium-doped Cu2OSeO3",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1038/s43246-025-00977-y",
+   "title": "Chemical functionalities govern polyamide\u2013alumina adhesion through local conformational dynamics",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1038/s43246-025-00866-4",
+   "title": "Improved electrochemical kinetics and rate performance of lithium-ion batteries by Li2FeS2\u2212xFx cathode materials",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1038/s43246-025-00960-7",
+   "title": "Electrolyte strategies for practically viable all-solid-state lithium-sulfur batteries",
+   "received": "23 July 2025",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1038/s43246-025-00922-z",
+   "title": "Inkjet printing of adamantane-type organotin sulfide clusters featuring extreme nonlinear optical properties",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1038/s43246-025-00758-7",
+   "title": "2D borophene\u2013MoS2 nanosheet heterostructure as a flexible piezoelectric nanogenerator for self-powered piezotronic sensing",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1038/s43246-025-00769-4",
+   "title": "Reducing environmental burden of electroplating wastewater treatment by ternary cooperation of zero-valence iron, manganese, and graphitic biochar",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1038/s43246-025-00927-8",
+   "title": "Rich unconventional Hall effects in a single quasi-kagome Kondo Weyl semimetal candidate Ce3TiSb5",
+   "received": "30 May 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1038/s43246-025-00851-x",
+   "title": "Adsorbate-induced formation of a surface-polarity-driven nonperiodic superstructure",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1038/s43246-025-00948-3",
+   "title": "Light-induced thermomechanical reorientation and helicity flipping in ferroelectric nematic phase",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1038/s43246-025-00739-w",
+   "title": "Stiff, lightweight, and programmable architectured pyrolytic carbon lattices via modular assembling",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1038/s43246-024-00717-8",
+   "title": "A high-temperature multiferroic Tb2(MoO4)3",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 191
+  },
+  {
+   "doi": "10.1038/s43246-025-00945-6",
+   "title": "Early stages of self-healing at tungsten grain boundaries from ab initio machine learning simulations",
+   "received": "10 May 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1038/s43246-025-00915-y",
+   "title": "High-capacity information storage using peptide-encapsulated hydrogels for long-term data preservation",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1038/s43246-025-00967-0",
+   "title": "Invariance of liquid bismuth structure along the melting curve",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1038/s43246-025-00857-5",
+   "title": "Tunable network architecture in a hydrogel with extreme vibration damping properties",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1038/s43246-025-00738-x",
+   "title": "Three-dimensional imaging of topologically protected strings in a multiferroic nanocrystal",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1038/s43246-025-00900-5",
+   "title": "Impact of processing humidity on ionomer film structure and performance in hydroxide exchange membrane electrolyzers",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s43246-025-00893-1",
+   "title": "Biocompatible low-voltage electrothermal actuators with biological operational temperature range",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1038/s43246-025-00928-7",
+   "title": "Materials Expert-Artificial Intelligence for materials discovery",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1038/s43246-025-00963-4",
+   "title": "In situ characterization of the phase diagram of Ir via X-ray diffraction coupled with resistive and laser-heated diamond anvil cell",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1038/s43246-025-00953-6",
+   "title": "Suppression strategies for the polysulfide shuttle effect in electrolyte systems",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1038/s43246-025-00768-5",
+   "title": "Metal-like ductility and high hardness in nitrogen-rich HfN thin films by point defect superstructuring",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1038/s43246-025-00899-9",
+   "title": "Unexpected compound reformation in the dense selenium-hydrogen system",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s43246-025-00929-6",
+   "title": "Valence-change bipolar resistive switching devices based on ErMnO3 polymorphs",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1038/s43246-025-00776-5",
+   "title": "Effect of Peierls-like distortions on transport in amorphous phase change devices",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1038/s43246-025-00788-1",
+   "title": "Geometrical design of 3D superconducting diodes",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1038/s43246-025-00859-3",
+   "title": "Ultrahigh anomalous Nernst thermopower and thermal Hall angle in YbMnBi2",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1038/s43246-025-01012-w",
+   "title": "Elucidating and decoupling diverse fatigue mechanisms toward static self-recovery in ZrO2-based antiferroelectrics",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "6 November 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1038/s43246-025-00777-4",
+   "title": "Mechanistic origin of grain size and oxygen interstitial effects on strain-induced \u03b1\u201d martensitic transformation in Ti-12Mo alloy",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 87
+  }
+ ]
+}

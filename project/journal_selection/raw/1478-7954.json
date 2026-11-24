@@ -1,0 +1,589 @@
+{
+ "issn": "1478-7954",
+ "journal": "Population Health Metrics",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:19.749487",
+ "source": "https://api.crossref.org/journals/1478-7954/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12963-025-00428-3",
+   "title": "QALY loss associated with unhealthy behaviors: evidence from a multi-center cross-sectional study in Iran",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s12963-025-00393-x",
+   "title": "The global prevalence of single-child families with emphasis on influential factors: a comprehensive systematic review and meta-analysis",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s12963-025-00381-1",
+   "title": "Applying group-based trajectory modeling to understand under-five mortality trends and determinants in low-and lower-middle income countries",
+   "received": "9 May 2022",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 1090
+  },
+  {
+   "doi": "10.1186/s12963-025-00377-x",
+   "title": "Societies at risk: the association between conflict intensity and population health indicators in Venezuela",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s12963-025-00414-9",
+   "title": "Comparative impact of social isolation on mortality in adults aged 40 years and above with versus without metabolic syndrome: evidence from two large ",
+   "received": "7 May 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s12963-025-00380-2",
+   "title": "Conflict-attributable mortality in Tigray Region, Ethiopia: Evidence from a survey of the Tigrayan diaspora",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s12963-024-00355-9",
+   "title": "Empirical prediction intervals applied to short term mortality forecasts and excess deaths",
+   "received": "30 May 2024",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s12963-025-00418-5",
+   "title": "Estimates of non-communicable disease expenditure by disease phase, sex, and age group for all OECD countries",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 404
+  },
+  {
+   "doi": "10.1186/s12963-025-00425-6",
+   "title": "Estimated disability weights for the severity of health outcomes: a systematic review and meta-analysis",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1186/s12963-025-00372-2",
+   "title": "The role of education composition in shaping the burden of obesity and diabetes in Indonesia: a microsimulation-based projection study",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12963-025-00415-8",
+   "title": "Evaluation and forecasting methods to estimate number of patients with non-Hodgkin lymphoma: a systematic literature review",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s12963-025-00389-7",
+   "title": "The impact of the COVID-19 pandemic on all-cause mortality and life expectancy in northern Ghana: findings from the Navrongo Health and Demographic Su",
+   "received": "9 February 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 473
+  },
+  {
+   "doi": "10.1186/s12963-025-00364-2",
+   "title": "How much missing data is too much to impute for longitudinal health indicators? A preliminary guideline for the choice of the extent of missing propor",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s12963-024-00356-8",
+   "title": "Beyond the underlying cause of death: an algorithm to study multi-morbidity at death",
+   "received": "27 November 2023",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 354
+  },
+  {
+   "doi": "10.1186/s12963-025-00421-w",
+   "title": "Analysis of multimorbidity compression using a latent variable in a mixed mixture model",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s12963-024-00358-6",
+   "title": "Applying an ICD-10 to ICD-11 mapping tool to identify causes of death codes in an Alberta dataset",
+   "received": "11 January 2023",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 697
+  },
+  {
+   "doi": "10.1186/s12963-025-00388-8",
+   "title": "The impact of COVID-19 pandemic on mortality among adults receiving care for chronic health conditions in rural South Africa: findings from Agincourt ",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 484
+  },
+  {
+   "doi": "10.1186/s12963-025-00424-7",
+   "title": "Life-course socioeconomic status and obesity: scoping review",
+   "received": "23 June 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s12963-025-00416-7",
+   "title": "Epidemiological trends and determinants of suicide in Iran with insights into the COVID-19 period, 1980\u20132021",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12963-025-00406-9",
+   "title": "The effect of follow-up on the blood pressure control: a longitudinal study in rural areas of China",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 316
+  },
+  {
+   "doi": "10.1186/s12963-025-00399-5",
+   "title": "Reallocating diabetes-related garbage codes to improve mortality estimates: a case study in Weifang, China",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s12963-024-00360-y",
+   "title": "Number needed to isolate - a new population health metric to quantify transmission reductions from isolation interventions for infectious diseases",
+   "received": "1 February 2023",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 680
+  },
+  {
+   "doi": "10.1186/s12963-025-00432-7",
+   "title": "Methods for modelling composite indices of access to healthcare facilities: a systematic literature review",
+   "received": "19 August 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12963-025-00405-w",
+   "title": "The spatiotemporal dynamics of COVID-19 in Europe: time-series clustering maps 5 distinct trajectories to spatial patterns",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1186/s12963-025-00391-z",
+   "title": "Household crowding and mortality before and during the COVID-19 pandemic among adults: Findings from longitudinal population surveillance data in rura",
+   "received": "18 January 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 495
+  },
+  {
+   "doi": "10.1186/s12963-025-00369-x",
+   "title": "A demographic assessment of the impact of the war in the Gaza Strip on the mortality of children and their parents in 2023",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1186/s12963-025-00374-0",
+   "title": "A scoping review of the methods used to estimate health facility catchment populations for child health indicators in sub-Saharan Africa",
+   "received": "18 April 2023",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 685
+  },
+  {
+   "doi": "10.1186/s12963-025-00373-1",
+   "title": "Civilian death and injury from airstrikes: evidence from the war in Tigray, Ethiopia",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s12963-025-00429-2",
+   "title": "Exposing the loci of bias: a taxonomical exploration of sources of bias in population mental health research",
+   "received": "17 June 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s12963-025-00367-z",
+   "title": "Improving the validity of estimates of mortality inequalities by education in England &amp; Wales",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 24
+  },
+  {
+   "doi": "10.1186/s12963-025-00365-1",
+   "title": "Reassessing socioeconomic inequalities in mortality via distributional similarities",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s12963-025-00390-0",
+   "title": "Socio-economic inequalities in all-cause mortality during the COVID-19 period in north-western Tanzania, 2018\u20132021",
+   "received": "17 January 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 496
+  },
+  {
+   "doi": "10.1186/s12963-025-00395-9",
+   "title": "How impact factors, including the COVID-19 pandemic, change the quality of life of the elderly",
+   "received": "19 February 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 480
+  },
+  {
+   "doi": "10.1186/s12963-025-00423-8",
+   "title": "Development of novel DALY-based indices for assessing productivity loss and resource allocation for liver cancer in the MENA region",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 293
+  },
+  {
+   "doi": "10.1186/s12963-025-00427-4",
+   "title": "The assimilation affects research from three days\u2019 social facilitation of eating by using whole network autocorrelation analysis plus multilevel linea",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 569
+  },
+  {
+   "doi": "10.1186/s12963-025-00387-9",
+   "title": "A retrospective assessment of COVID-19 vulnerability index indicators and mortality rates pre-COVID-19 (2018\u20132020) and during COVID-19 (2020\u20132022) in ",
+   "received": "17 January 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 496
+  },
+  {
+   "doi": "10.1186/s12963-025-00382-0",
+   "title": "Socio-economic contextual determinants and behavioral changes during pregnancy: evidence from the \"MAMI-MED\" cohort",
+   "received": "24 January 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 475
+  },
+  {
+   "doi": "10.1186/s12963-025-00396-8",
+   "title": "Non-linear correlation between the ratio of high-density lipoprotein cholesterol to C-reactive protein and all-cause mortality in adults: an extensive",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1186/s12963-025-00400-1",
+   "title": "Excess and reduced work absence during COVID-19 in Poland: insights from cause-specific time-series models",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "22 June 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12963-025-00378-w",
+   "title": "NPR is an independent risk factor for predicting all-cause mortality in patients with metabolic dysfunction-associated steatotic liver disease: eviden",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s12963-025-00361-5",
+   "title": "Effect of census-based correction of population figures on mortality rates in Germany",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 326
+  },
+  {
+   "doi": "10.1186/s12963-025-00394-w",
+   "title": "Are contributory causes of death in part 2 of the death certificate mediators of chains of morbid events leading to death?",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1186/s12963-025-00392-y",
+   "title": "Associations of socioeconomic status and healthy lifestyle with incident early-onset and late-onset hypertension: a nationwide prospective cohort stud",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s12963-025-00412-x",
+   "title": "Chronic respiratory diseases risk during the COVID-19 pandemic: an integrated modelling approach based on hospital records across 30 countries",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1186/s12963-025-00401-0",
+   "title": "Socioeconomic inequalities and its spatial pattern in sanitary napkin use in Bangladesh: evidence from the 2019 multiple indicator cluster survey",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1186/s12963-025-00371-3",
+   "title": "Composite anthropometric data quality index for children under the age of 5 on the Brazilian National Food and Nutrition Surveillance System, 2019\u2013202",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s12963-024-00349-7",
+   "title": "Google trend analysis of the Indian population reveals a panel of seasonally sensitive comorbid symptoms with implications for monitoring the seasonal",
+   "received": "13 February 2024",
+   "revised": null,
+   "accepted": "13 October 2024",
+   "days": 243
+  },
+  {
+   "doi": "10.1186/s12963-025-00397-7",
+   "title": "Forecasting life expectancy in S\u00e3o Paulo City, Brazil, amidst the COVID-19 pandemic",
+   "received": "30 May 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 383
+  },
+  {
+   "doi": "10.1186/s12963-025-00384-y",
+   "title": "Linking mother\u2019s demographic disadvantages with children\u2019s demographic outcomes in India: a pseudo cohort study",
+   "received": "10 November 2023",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 554
+  },
+  {
+   "doi": "10.1186/s12963-025-00363-3",
+   "title": "Health dynamics in war-torn Yemen: insights from 32 years of epidemiological data (1990\u20132021)",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 273
+  },
+  {
+   "doi": "10.1186/s12963-025-00408-7",
+   "title": "Prevalence of mental illness, substance use disorder, and dual diagnosis among adults in custody",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12963-025-00417-6",
+   "title": "Disability weights measurement for 148 childhood health statuses in Hunan, China: a study based on face-to-face surveys",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "23 August 2025",
+   "days": 338
+  },
+  {
+   "doi": "10.1186/s12963-025-00419-4",
+   "title": "Improving racial data equity among minority groups in South Carolina using COVID-19 as an example: application of principal components analysis",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s12963-025-00385-x",
+   "title": "The global burden of climate-sensitive diseases in Brazil: the national and subnational estimates and analysis, 1990\u20132017",
+   "received": "11 June 2019",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 2128
+  },
+  {
+   "doi": "10.1186/s12963-025-00386-w",
+   "title": "Methods used to construct disability indicators in linked administrative datasets: a systematic scoping review",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1186/s12963-025-00404-x",
+   "title": "Patient-centred estimation of multimorbidity in chronic disease populations: a novel approach integrating global burden of disease metrics and healthc",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1186/s12963-025-00383-z",
+   "title": "Living arrangements and lonely life expectancy: a multistate life table based on Markov chains",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s12963-025-00398-6",
+   "title": "Navigating the next surge: a perspective on Egypt\u2019s preparedness and prospects for another COVID-19 outbreak",
+   "received": "4 February 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 500
+  },
+  {
+   "doi": "10.1186/s12963-025-00407-8",
+   "title": "Quantifying the association of Life\u2019s Crucial 9 with cardiovascular diseases among elderly hypertensive patients managed in primary care settings",
+   "received": "7 June 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 409
+  },
+  {
+   "doi": "10.1186/s12963-024-00359-5",
+   "title": "Newly estimated disability weights for 196 health states in Hubei Province, China",
+   "received": "26 July 2023",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 501
+  },
+  {
+   "doi": "10.1186/s12963-025-00409-6",
+   "title": "Contributions of injury deaths to changes in life expectancy and disparity: A comparative analysis of G7 countries over two decades",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 12
+  },
+  {
+   "doi": "10.1186/s12963-025-00402-z",
+   "title": "Validation of the consumer health activation index (CHAI) among community-dwelling adults in primary care clinics in Singapore",
+   "received": "23 May 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 35
+  },
+  {
+   "doi": "10.1186/s12963-025-00420-x",
+   "title": "Reducing inequalities using an unbiased machine learning approach to identify births with the highest risk of preventable neonatal deaths",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12963-025-00379-9",
+   "title": "The mediating role of family functioning between childhood adversity and adult Health- related risk behaviors: a moderated mediation analysis of gener",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s12963-025-00413-w",
+   "title": "Disaggregated level child morbidity in Zambia: an application of small area estimation method",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s12963-025-00422-9",
+   "title": "Accounting for uncertainty in conflict mortality estimation: an application to the Gaza War in 2023-2024",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s12963-025-00411-y",
+   "title": "Interplay of social integration, well-being, and fairness in older migrant workers: a four -year longitudinal analysis",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1186/s12963-025-00370-4",
+   "title": "Regional variations in Italy\u2019s COVID-19 death toll: a descriptive analysis of excess mortality and associated factors from 2020 to 2021",
+   "received": "18 December 2023",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 429
+  },
+  {
+   "doi": "10.1186/s12963-025-00366-0",
+   "title": "Quality-adjusted life expectancy norms for the Iranian population",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 314
+  },
+  {
+   "doi": "10.1186/s12963-025-00368-y",
+   "title": "Sex-selective abortions over the past four decades in China",
+   "received": "24 February 2022",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 1078
+  },
+  {
+   "doi": "10.1186/s12963-025-00410-z",
+   "title": "Predictive value of anthropometric indices for incident of dyslipidemia: a large population-based study",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1186/s12963-024-00357-7",
+   "title": "The global burden of disease study and Population Health Metrics",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 57
+  }
+ ]
+}

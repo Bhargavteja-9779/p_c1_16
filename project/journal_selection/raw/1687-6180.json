@@ -1,0 +1,533 @@
+{
+ "issn": "1687-6180",
+ "journal": "EURASIP Journal on Advances in Signal Processing",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:13.353486",
+ "source": "https://api.crossref.org/journals/1687-6180/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13634-025-01245-4",
+   "title": "Outlier detection and removal in multifractal analysis of electrophysiological brain signals",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1186/s13634-025-01239-2",
+   "title": "On the covariance estimation of the simple processes",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s13634-024-01197-1",
+   "title": "Deep learning-assisted arrhythmia classification using 2-D ECG spectrograms",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s13634-025-01254-3",
+   "title": "A Complex-valued hybrid deep learning models for automatic modulation recognition",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s13634-025-01206-x",
+   "title": "Coherent DOA estimation based on low-rank matrix recovery with coprime arrays in nonuniform noise",
+   "received": "6 January 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 374
+  },
+  {
+   "doi": "10.1186/s13634-025-01257-0",
+   "title": "Narrow-band comb interference suppression algorithm in spaceborne synthetic aperture radar",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s13634-025-01226-7",
+   "title": "Automatic model of sleep apnea detection using optimized weighted fusion process of hybrid convolution (1D/2D) efficient attention network from EEG si",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s13634-025-01240-9",
+   "title": "Performance analysis of RFID localization based on dual-tag range sensors",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1186/s13634-024-01193-5",
+   "title": "Stochastic analysis of frequency-domain adaptive filters",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s13634-025-01238-3",
+   "title": "Spatially and temporally correlated channel estimation and detection for comparator network-aided MIMO receivers with 1-bit ADCs",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13634-025-01260-5",
+   "title": "Fast algorithms for informed independent component/vector extraction",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s13634-024-01194-4",
+   "title": "Multi-domain analysis of ultra-short-term HRV for breathing pattern classification in wearable health devices",
+   "received": "13 March 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 251
+  },
+  {
+   "doi": "10.1186/s13634-025-01251-6",
+   "title": "HSPAN-GNN-based fault detection for power transmission lines",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13634-025-01209-8",
+   "title": "Navigation path extraction for garden mobile robot based on road median point",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s13634-025-01211-0",
+   "title": "Recovery of traffic information through graph signal processing",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s13634-025-01234-7",
+   "title": "Optimizing PAPR performance for 6G OTFS waveform using adaptive genetic PTS method for Rician fading channels",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "22 June 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13634-024-01199-z",
+   "title": "Improved empirical wavelet transform combined with particle swarm optimization-support vector machine for EEG-based depression recognition",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s13634-025-01255-2",
+   "title": "5D chaotic map-based image encryption trade-off analysis on various stages of encryption",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1186/s13634-025-01256-1",
+   "title": "On the spectral coherence between two discrete time harmonizable simple processes",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13634-025-01222-x",
+   "title": "Multidimensional second-order processes with time-dependent spectra: evolutionary and periodically correlated processes",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s13634-025-01233-8",
+   "title": "Energy efficiency maximization in MIMO links aided by metasurfaces with global reflection constraints",
+   "received": "30 March 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13634-025-01264-1",
+   "title": "Discrete radar based on modulo arithmetic",
+   "received": "21 August 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s13634-025-01259-y",
+   "title": "Transformer\u2013Mamba\u00a0based dynamic threshold generation for dual frame network and its application in compressed sensing MRI",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1186/s13634-025-01221-y",
+   "title": "Symbol error probability constrained precoding for systems with time-instance zero-crossing modulation and 1-bit ADCs",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s13634-025-01261-4",
+   "title": "Guest editorial: advanced signal processing for sustainable and low footprint wireless communications",
+   "received": "18 September 2025",
+   "revised": null,
+   "accepted": "20 September 2025",
+   "days": 2
+  },
+  {
+   "doi": "10.1186/s13634-025-01241-8",
+   "title": "The probability density function of spectral correlation function estimates",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s13634-025-01212-z",
+   "title": "Enhanced rain removal network with convolutional block attention module (CBAM): a novel approach to image de-raining",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s13634-024-01201-8",
+   "title": "Role of denoisers in simulation-based inference from graph-structured data: a case study for position inference in an astroparticle detector",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 295
+  },
+  {
+   "doi": "10.1186/s13634-025-01227-6",
+   "title": "PGLM: Piecewise Generalized Linear Modeling of Ventricular Repolarization for Estimation of ECG T-wave Alternans",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1186/s13634-025-01244-5",
+   "title": "Point set registration-based image stitching in unmanned aerial vehicle transmission line inspection",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1186/s13634-025-01205-y",
+   "title": "Low-complexity detection for MIMO visible light communication system using generalized spatial modulation",
+   "received": "22 December 2023",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 389
+  },
+  {
+   "doi": "10.1186/s13634-025-01229-4",
+   "title": "Dynamic Q value wavelet transform for IF estimation and seizure detection via QT plane-CNN framework",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13634-025-01235-6",
+   "title": "Performance analysis of multi-UAV-assisted backscatter communication system",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s13634-025-01228-5",
+   "title": "A rapid algorithm for millimeter-wave near-field three-dimensional image reconstruction based on FiNUFFT",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "18 May 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s13634-025-01232-9",
+   "title": "Radar target detector based on banded sample autocovariance matrices",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s13634-025-01236-5",
+   "title": "Human action recognition network containing hands based on NPoseC3D59",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1186/s13634-024-01196-2",
+   "title": "A blind extraction method of fetal electrocardiogram signal based on MNCMD-NLBCA",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s13634-025-01223-w",
+   "title": "Frequency-shifted FMCW method against DRFM spoofing attacks",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13634-025-01265-0",
+   "title": "Statistical BER analysis and comparison of several nonlinearity schemes in OFDM-based power line communications",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 292
+  },
+  {
+   "doi": "10.1186/s13634-025-01208-9",
+   "title": "Control filter design with convex-set-based uncertainty model for robust feedback active noise control",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s13634-025-01202-1",
+   "title": "Effective least squares approximation method for estimating the rhythm function of cyclic random process",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s13634-025-01266-z",
+   "title": "Fractional tap-length algorithm with uniformly adjusted parameters",
+   "received": "16 April 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1186/s13634-025-01250-7",
+   "title": "Early prediction of ventricular fibrillation through continuous ECG analysis and machine learning techniques",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13634-025-01217-8",
+   "title": "A receive-coherent detector for airborne distributed coherent aperture radar under heterogeneous clutter and random phase errors",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s13634-025-01220-z",
+   "title": "Double-path multiscale adaptive compressed sensing network for electronic data",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1186/s13634-025-01210-1",
+   "title": "TFDense-GAN: a generative adversarial network for single-channel speech enhancement",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s13634-025-01213-y",
+   "title": "Person identification using novel local triangular binary pattern-based texture descriptor",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s13634-025-01225-8",
+   "title": "Fast-converging decentralized alternating direction method of multipliers for consensus optimization",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1186/s13634-025-01231-w",
+   "title": "Secrecy energy efficiency maximization in dual-metasurface-aided wireless networks",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13634-025-01252-5",
+   "title": "Performance of accelerometer-based gait classification using different signal representations",
+   "received": "28 June 2024",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 428
+  },
+  {
+   "doi": "10.1186/s13634-025-01237-4",
+   "title": "A cognitive transmission and deployment strategy for UAV-assisted hybrid RIS relay network",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s13634-025-01263-2",
+   "title": "Correlation-based blind SINR estimation with statistical theoretic analysis for OFDM systems",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1186/s13634-024-01200-9",
+   "title": "Modulation recognition of underwater acoustic communication signals based on deep learning",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s13634-025-01215-w",
+   "title": "Measurement noise covariance estimation in Gaussian filters: an online Bayesian solution",
+   "received": "7 December 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s13634-025-01247-2",
+   "title": "Improved direction of arrival estimations with a wearable microphone array for dynamic environments by reliability weighting",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 318
+  },
+  {
+   "doi": "10.1186/s13634-025-01243-6",
+   "title": "Research and implementation of an authentication system fusing physical layer and behavioral fingerprinting for power systems",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 333
+  },
+  {
+   "doi": "10.1186/s13634-025-01248-1",
+   "title": "Assessment of signal strength in intelligent reflecting surface-aided wireless communication systems",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 245
+  },
+  {
+   "doi": "10.1186/s13634-025-01219-6",
+   "title": "A radically different method of moments",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s13634-025-01242-7",
+   "title": "Federated reinforcement learning for scheduling-offloading policies in multi-cluster NOMA systems",
+   "received": "30 March 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13634-025-01230-x",
+   "title": "Medical image fusion under diffusion-inspired multiframe super-resolution framework",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s13634-025-01203-0",
+   "title": "Cardiac sound classification using a hybrid approach: MFCC-based feature fusion and CNN deep features",
+   "received": "11 March 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 317
+  },
+  {
+   "doi": "10.1186/s13634-025-01207-w",
+   "title": "Discovering and modeling hidden periodicities in science data",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13634-025-01249-0",
+   "title": "TFSWA-ResUNet: music source separation with time\u2013frequency sequence and shifted window attention-based ResUNet",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "25 August 2025",
+   "days": 217
+  },
+  {
+   "doi": "10.1186/s13634-025-01253-4",
+   "title": "YOLO-DD: a lightweight framework for UAV detection in complex environments via boundary-aware fusion",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s13634-024-01192-6",
+   "title": "Training efficiency optimization algorithm of wireless federated learning based on processor performance and network condition awareness",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 84
+  }
+ ]
+}

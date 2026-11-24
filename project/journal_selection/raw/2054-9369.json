@@ -1,0 +1,597 @@
+{
+ "issn": "2054-9369",
+ "journal": "Military Medical Research",
+ "publisher": "Elsevier BV",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:00.924344",
+ "source": "https://api.crossref.org/journals/2054-9369/works",
+ "articles": [
+  {
+   "doi": "10.1186/s40779-025-00666-4",
+   "title": "Challenges, opportunities, and future perspectives of portable field endoscopy",
+   "received": "18 September 2025",
+   "revised": null,
+   "accepted": "30 October 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s40779-025-00589-0",
+   "title": "Short-term suborbital space flight curtails astronauts\u2019 dopamine levels increasing cortisol/BDNF and prompting pro-oxidative/inflammatory milieu",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s40779-025-00639-7",
+   "title": "Sudden cardiac arrest mortality in China: temporal trends and risk factors",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s40779-025-00610-6",
+   "title": "GSTM1 suppresses cardiac fibrosis post-myocardial infarction through inhibiting lipid peroxidation and ferroptosis",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s40779-024-00583-y",
+   "title": "Association between periodontal disease and systemic diseases: a cross-sectional analysis of current evidence",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s40779-025-00625-z",
+   "title": "Accelerating cartilage regeneration with DNA-SF hydrogel sustained release system-based cartilage organoids",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s40779-025-00624-0",
+   "title": "Building \u201cwalls\u201d to stop pathogens: neutrophils play a role in the repair of extracellular matrix",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 33
+  },
+  {
+   "doi": "10.1186/s40779-024-00581-0",
+   "title": "Viral sepsis: diagnosis, clinical features, pathogenesis, and clinical considerations",
+   "received": "4 March 2024",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 249
+  },
+  {
+   "doi": "10.1186/s40779-025-00662-8",
+   "title": "Neurogenic organ dysfunction syndrome after acute brain injury",
+   "received": "5 July 2025",
+   "revised": null,
+   "accepted": "26 October 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s40779-025-00591-6",
+   "title": "Build the virtual cell with artificial intelligence: a perspective for cancer research",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "12 January 2025",
+   "days": 10
+  },
+  {
+   "doi": "10.1186/s40779-025-00615-1",
+   "title": "The national and provincial prevalence and non-fatal burdens of diabetes in China from 2005 to 2023 with projections of prevalence to 2050",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s40779-025-00663-7",
+   "title": "Integrating artificial intelligence with human reasoning in oncology: questions on real-world implementation and patient-centric evidence",
+   "received": "4 October 2025",
+   "revised": null,
+   "accepted": "26 October 2025",
+   "days": 22
+  },
+  {
+   "doi": "10.1186/s40779-025-00629-9",
+   "title": "Ultrasound initiated tumor catalytic PANoptosis by mesoporous piezoelectric nanocatalysts",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s40779-025-00606-2",
+   "title": "Mini PCNL has gained more recognition in stone treatment guidelines",
+   "received": "1 December 2024",
+   "revised": null,
+   "accepted": "5 April 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s40779-025-00611-5",
+   "title": "Nanozyme-driven multifunctional dressings: moving beyond enzyme-like catalysis in chronic wound treatment",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s40779-025-00657-5",
+   "title": "Serum immunoglobulin G predicts mortality and stratifies intravenous immunoglobulin benefit in sepsis patients",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s40779-025-00638-8",
+   "title": "Clinical efficacy of optimized drug treatment for acute type A aortic dissection: insights from a multicenter retrospective cohort study",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s40779-025-00595-2",
+   "title": "Tumor dormancy and relapse: understanding the molecular mechanisms of cancer recurrence",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 200
+  },
+  {
+   "doi": "10.1186/s40779-025-00628-w",
+   "title": "Extracellular BAG3 is elevated in early diffuse systemic sclerosis",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s40779-025-00656-6",
+   "title": "Ex-vivo limb perfusion in military and civilian medicine: inspired by ex-vivo organ perfusion, pioneered for traumatic limb amputation and peripheral ",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1186/s40779-025-00641-z",
+   "title": "Early use of albumin may increase the risk of sepsis-associated acute kidney injury in sepsis patients: a target trial emulation",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "9 August 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s40779-024-00577-w",
+   "title": "Understanding immune system dysfunction and its context in mood disorders: psychoneuroimmunoendocrinology and clinical interventions",
+   "received": "6 September 2023",
+   "revised": null,
+   "accepted": "1 November 2024",
+   "days": 422
+  },
+  {
+   "doi": "10.1186/s40779-025-00651-x",
+   "title": "Charting bioethical frontiers: China\u2019s human organoid guidelines in a global context",
+   "received": "17 June 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s40779-025-00631-1",
+   "title": "Decreased IL-33 in the brain following repetitive mild traumatic brain injury contributes to cognitive impairment by inhibiting microglial phagocytosi",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1186/s40779-025-00604-4",
+   "title": "Fostering hope and recovery: enhancing psychological resources in military personnel with post-traumatic stress disorder",
+   "received": "19 March 2023",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 730
+  },
+  {
+   "doi": "10.1186/s40779-025-00601-7",
+   "title": "Stem cell-derived co-grafts contribute to retinal reconstruction and visual functional improvement in a laser damaged rat model",
+   "received": "28 October 2023",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 494
+  },
+  {
+   "doi": "10.1186/s40779-025-00649-5",
+   "title": "Are metformin-based combination approaches beneficial for non-small cell lung cancer: evidence from experimental and clinical studies",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1186/s40779-025-00614-2",
+   "title": "Salmonella enterica mediated epigenetic promotion of fibrosis is a novel factor in benign prostatic hyperplasia",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s40779-025-00599-y",
+   "title": "Global burden and cross-country inequalities in urinary tumors from 1990 to 2021 and predicted incidence changes to 2046",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 375
+  },
+  {
+   "doi": "10.1186/s40779-025-00593-4",
+   "title": "AKR1C3 as a therapeutic target to overcome erlotinib resistance in lung adenocarcinoma",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s40779-025-00622-2",
+   "title": "Toward phase contribution assessment in perioperative oncology: insights from NSCLC and a proposal for broader implementation",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s40779-025-00616-0",
+   "title": "Establishing integrated chronic non-communicable disease management clinics to address China\u2019s looming health burden",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "18 May 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s40779-025-00627-x",
+   "title": "Metal-based nanomedicines for cancer theranostics",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 360
+  },
+  {
+   "doi": "10.1186/s40779-025-00648-6",
+   "title": "Dual character of surface engineering on SN38 prodrug nano-assemblies: divergent effects on in vitro and in vivo behavior",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1186/s40779-024-00580-1",
+   "title": "Radiomics and radiogenomics: extracting more information from medical images for the diagnosis and prognostic prediction of ovarian cancer",
+   "received": "18 October 2023",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 386
+  },
+  {
+   "doi": "10.1186/s40779-025-00598-z",
+   "title": "Recent applications of EEG-based brain-computer-interface in the medical field",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s40779-024-00588-7",
+   "title": "MELK prevents radiofrequency ablation-induced immunogenic cell death and antitumor immune response by stabilizing FABP5 in hepatocellular malignancies",
+   "received": "11 April 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 243
+  },
+  {
+   "doi": "10.1186/s40779-025-00655-7",
+   "title": "Immunotherapy for tuberculosis: current strategies and future directions",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 332
+  },
+  {
+   "doi": "10.1186/s40779-025-00618-y",
+   "title": "Glucocorticoids trigger muscle-liver crosstalk to attenuate acute liver injury and promote liver regeneration via the FGF6-FGFBP1 axis",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s40779-024-00585-w",
+   "title": "Revolutionizing treatment for disorders of consciousness: a multidisciplinary review of advancements in deep brain stimulation",
+   "received": "25 March 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s40779-025-00597-0",
+   "title": "Impact of targeting the platelet-activating factor and its receptor in cancer treatment",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s40779-025-00670-8",
+   "title": "Diverging global incidence trends of early-onset cancers: comparisons with incidence trends of later-onset cancers and mortality trends of early-onset",
+   "received": "15 June 2025",
+   "revised": null,
+   "accepted": "3 November 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s40779-025-00650-y",
+   "title": "The evolving burden of heart failure in China: a 34-year subnational analysis of trends and causes from the Global Burden of Disease Study 2023",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "14 September 2025",
+   "days": 309
+  },
+  {
+   "doi": "10.1186/s40779-025-00621-3",
+   "title": "Performance of GPT-4 for automated prostate biopsy decision-making based on mpMRI: a multi-center evidence study",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 300
+  },
+  {
+   "doi": "10.1186/s40779-025-00632-0",
+   "title": "CRISPR-based assays for the detection of BK virus and JC virus infections post-kidney transplantation",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1186/s40779-025-00608-0",
+   "title": "Unresolved questions in the application of artificial intelligence virtual cells for cancer research",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 30
+  },
+  {
+   "doi": "10.1186/s40779-025-00654-8",
+   "title": "Clonal hematopoiesis of indeterminate potential: a multisystem hub bridging hematopoietic dysfunction with non-hematopoietic diseases",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s40779-025-00664-6",
+   "title": "Engineered immune-driven theranostics for clinical cardiology",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "26 October 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s40779-025-00653-9",
+   "title": "Chinese expert consensus on prevention, diagnosis, and management of venous thromboembolism in adult burn patients (2024)",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 359
+  },
+  {
+   "doi": "10.1186/s40779-025-00642-y",
+   "title": "Counteracting microgravity: preserving cardiovascular health in low earth orbit",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s40779-024-00576-x",
+   "title": "Bioactive peptides and proteins for tissue repair: microenvironment modulation, rational delivery, and clinical potential",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "25 October 2024",
+   "days": 196
+  },
+  {
+   "doi": "10.1186/s40779-025-00596-1",
+   "title": "Strategies for promoting neurovascularization in bone regeneration",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1186/s40779-025-00592-5",
+   "title": "Retrospective analysis of US veterans with inclusion body myositis: initial findings from the Veterans Affairs Corporate Data Warehouse",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s40779-025-00644-w",
+   "title": "Evaluation and application of an innovative portable field endoscope: addressing battlefield and biosafety concerns",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s40779-025-00652-w",
+   "title": "Substantia nigra-related gene polymorphisms associated with acute antipsychotic-induced movement disorders",
+   "received": "29 August 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 21
+  },
+  {
+   "doi": "10.1186/s40779-025-00602-6",
+   "title": "A comprehensive guide to miniaturized percutaneous nephrolithotomy: International Alliance of Urolithiasis (IAU) consensus on best practices",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s40779-025-00605-3",
+   "title": "Endovascular treatment for cerebral venous thrombosis: a multicenter study in China",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s40779-025-00646-8",
+   "title": "ALDH2 in autophagy and cell death: molecular mechanisms and implications for diseases",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s40779-024-00587-8",
+   "title": "Advancing space medicine: a global perspective on in-orbit research and future directions",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s40779-025-00613-3",
+   "title": "Diagnostic efficacy of fecal-based miR-92a for advanced colorectal neoplasia: a prospective multicenter screening trial",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s40779-025-00659-3",
+   "title": "Identification of the lymph node metastasis atlas and optimal lymph node dissection strategy in patients with resectable lung invasive mucinous adenoc",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s40779-025-00619-x",
+   "title": "\u03b3 neuromodulations: unraveling biomarkers for neurological and psychiatric disorders",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s40779-025-00637-9",
+   "title": "Clinical-transcriptomic classification of lumbar disc degeneration enhanced by machine learning",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 223
+  },
+  {
+   "doi": "10.1186/s40779-025-00590-7",
+   "title": "Exploring new horizons in CAR-based therapy for the treatment of thyroid-associated ophthalmopathy",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 24
+  },
+  {
+   "doi": "10.1186/s40779-024-00584-x",
+   "title": "Dietary methionine supplementation promotes mice hematopoiesis after irradiation",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 234
+  },
+  {
+   "doi": "10.1186/s40779-025-00612-4",
+   "title": "Age-stratified associations between radiotherapy and SPMs for FPHNC: a population-based cohort study",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s40779-025-00620-4",
+   "title": "Epileptic seizure biophysics: the role of local voltage difference",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s40779-024-00582-z",
+   "title": "Targeting RTKs/nRTKs as promising therapeutic strategies for the treatment of triple-negative breast cancer: evidence from clinical trials",
+   "received": "19 October 2023",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 386
+  },
+  {
+   "doi": "10.1186/s40779-025-00636-w",
+   "title": "Substantia nigra related gene polymorphisms associated with antipsychotic-induced acute movement disorders: a genome-wide association study and multi-",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s40779-025-00607-1",
+   "title": "High-salt-driven gut microbiota dysfunction aggravates prostatitis by promoting AHR/SGK1/FOXO1 axis-mediated Th17 cell differentiation",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1186/s40779-025-00617-z",
+   "title": "Leveraging artificial intelligence for clinical decision support in personalized standard regimen recommendation for cancer",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s40779-025-00671-7",
+   "title": "Effectiveness and cost-effectiveness of risk-adapted colorectal cancer screening: a randomized controlled trial and modeling analysis",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "4 November 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s40779-024-00586-9",
+   "title": "Role of PD-1/PD-L1 signaling axis in oncogenesis and its targeting by bioactive natural compounds for cancer immunotherapy",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 144
+  }
+ ]
+}

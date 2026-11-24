@@ -1,0 +1,1589 @@
+{
+ "issn": "2057-3960",
+ "journal": "npj Computational Materials",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:03.306592",
+ "source": "https://api.crossref.org/journals/2057-3960/works",
+ "articles": [
+  {
+   "doi": "10.1038/s41524-025-01832-x",
+   "title": "Unveiling Li-ions migration mechanism in Li6PS5Cl under applied constant potential: insights from classical molecular dynamics simulations",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1038/s41524-025-01627-0",
+   "title": "Probabilistic phase labeling and lattice refinement for autonomous materials research",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 422
+  },
+  {
+   "doi": "10.1038/s41524-025-01526-4",
+   "title": "Elucidation of molecular-level charge transport in an organic amorphous system",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1038/s41524-024-01507-z",
+   "title": "Inverse catalysts: tuning the composition and structure of oxide clusters through the metal support",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 100
+  },
+  {
+   "doi": "10.1038/s41524-025-01797-x",
+   "title": "Explainable machine learning-enabled dual-objective design of \u03b3' phase characteristic parameters in \u03b3'-strengthened Co-based superalloys",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1038/s41524-025-01524-6",
+   "title": "Optimizing casting process using a combination of small data machine learning and phase-field simulations",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s41524-025-01564-y",
+   "title": "Fine-tuning large language models for domain adaptation: exploration of training strategies, scaling, model merging and synergistic capabilities",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1038/s41524-025-01547-z",
+   "title": "A machine-learning framework for accelerating spin-lattice relaxation simulations",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1038/s41524-025-01801-4",
+   "title": "Generalizable image segmentation for microstructure characterization through integrated SEM and EBSD analysis",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1038/s41524-025-01562-0",
+   "title": "Reply to: Comment on \u201cMachine learning enhanced analysis of EBSD data for texture representation\u201d",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 87
+  },
+  {
+   "doi": "10.1038/s41524-025-01784-2",
+   "title": "Defect-sensitive high-frequency modes in a three-dimensional artificial magnetic crystal",
+   "received": "24 July 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 33
+  },
+  {
+   "doi": "10.1038/s41524-025-01612-7",
+   "title": "Ab initio mechanisms and design principles for photodesorption from TiO2",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1038/s41524-025-01631-4",
+   "title": "TiSe2 is a band insulator created by lattice fluctuations, not an excitonic insulator",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1038/s41524-025-01732-0",
+   "title": "5d orbital induced room temperature quantum anomalous Hall effect in TbCl",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1038/s41524-025-01514-8",
+   "title": "Heat transport in crystalline organic semiconductors: coexistence of phonon propagation and tunneling",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1038/s41524-025-01548-y",
+   "title": "EFTGAN: Elemental features and transferring corrected data augmentation for the study of high-entropy alloys",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1038/s41524-025-01577-7",
+   "title": "Latent Ewald summation for machine learning of long-range interactions",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1038/s41524-025-01597-3",
+   "title": "Design of BCC/FCC dual-solid solution refractory high-entropy alloys through CALPHAD, machine learning and experimental methods",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1038/s41524-025-01700-8",
+   "title": "Unified physio-thermodynamic descriptors via learned CO2 adsorption properties in metal-organic frameworks",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1038/s41524-025-01817-w",
+   "title": "AlphaNet: scaling up local-frame-based neural network interatomic potentials",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s41524-025-01529-1",
+   "title": "Soliquidy: a descriptor for atomic geometrical confusion",
+   "received": "14 February 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 343
+  },
+  {
+   "doi": "10.1038/s41524-025-01837-6",
+   "title": "Automated phase mapping of high-throughput X-ray diffraction data encoded with domain-specific materials science knowledge",
+   "received": "28 July 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1038/s41524-025-01816-x",
+   "title": "The impact of ionic anharmonicity on superconductivity in metal-stuffed B-C clathrates",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 254
+  },
+  {
+   "doi": "10.1038/s41524-025-01720-4",
+   "title": "High-accuracy physical property prediction for pure organics via molecular representation learning: bridging data to discovery",
+   "received": "4 January 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1038/s41524-025-01829-6",
+   "title": "Machine learning-enabled atomistic insights into phase boundary engineering of solid-solution ferroelectrics",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1038/s41524-025-01638-x",
+   "title": "Inverse mapping of properties to composition through generative modeling for designing molten salts",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1038/s41524-024-01445-w",
+   "title": "Structure, short-range order, and phase stability of the AlxCrFeCoNi high-entropy alloy: insights from a perturbative, DFT-based analysis",
+   "received": "19 April 2024",
+   "revised": null,
+   "accepted": "14 October 2024",
+   "days": 178
+  },
+  {
+   "doi": "10.1038/s41524-025-01703-5",
+   "title": "Learning atomic forces from uncertainty-calibrated adversarial attacks",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1038/s41524-025-01601-w",
+   "title": "Photoinduced ferroelectric phase transition triggering photocatalytic water splitting",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1038/s41524-025-01758-4",
+   "title": "Uncertainty quantification for misspecified machine learned interatomic potentials",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1038/s41524-025-01747-7",
+   "title": "Machine-learning-accelerated mechanistic exploration of interface modification in lithium metal anode",
+   "received": "21 April 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s41524-025-01641-2",
+   "title": "Electronic properties of stacking faults in Bernal graphite",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1038/s41524-024-01446-9",
+   "title": "Spectral operator representations",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "24 October 2024",
+   "days": 178
+  },
+  {
+   "doi": "10.1038/s41524-025-01733-z",
+   "title": "Range-separated hybrid functionals in full-potential LAPW using adaptively compressed exchange",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1038/s41524-024-01503-3",
+   "title": "Effect of Hubbard U-corrections on the electronic and magnetic properties of 2D materials: a high-throughput study",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 166
+  },
+  {
+   "doi": "10.1038/s41524-025-01834-9",
+   "title": "MP-ALOE: an r2SCAN dataset for universal machine learning interatomic potentials",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1038/s41524-025-01668-5",
+   "title": "Bridging deep learning force fields and electronic structures with a physics-informed approach",
+   "received": "10 May 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 367
+  },
+  {
+   "doi": "10.1038/s41524-025-01835-8",
+   "title": "Robust Wannierization including magnetization and spin-orbit coupling via projectability disentanglement",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1038/s41524-024-01444-x",
+   "title": "DenseGNN: universal and scalable deeper graph neural networks for high-performance property prediction in crystals and molecules",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "21 October 2024",
+   "days": 208
+  },
+  {
+   "doi": "10.1038/s41524-025-01791-3",
+   "title": "Pushing charge equilibration-based machine learning potentials to their limits",
+   "received": "14 June 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1038/s41524-025-01806-z",
+   "title": "Property-guided inverse design of metal-organic frameworks using quantum natural language processing",
+   "received": "22 July 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1038/s41524-025-01592-8",
+   "title": "Generative deep learning for predicting ultrahigh lattice thermal conductivity materials",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1038/s41524-025-01538-0",
+   "title": "Foundation models for materials discovery \u2013 current state and future directions",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s41524-025-01841-w",
+   "title": "Pseudo-equilibrium theory for extrinsic doping control of the topological semimetal Cd3As2",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s41524-025-01614-5",
+   "title": "Scalable machine learning approach to light induced order disorder phase transitions with ab initio accuracy",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1038/s41524-025-01515-7",
+   "title": "Unraveling the origins of ferroelectricity in doped hafnia through carrier-mediated phase transitions",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "1 January 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1038/s41524-025-01725-z",
+   "title": "Dynamical approach to realize room-temperature superconductivity in LaH10",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1038/s41524-025-01767-3",
+   "title": "A versatile multimodal learning framework bridging multiscale knowledge for material design",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1038/s41524-025-01632-3",
+   "title": "Importance of enforcing Hund\u2019s rules in density functional theory calculations of rare earth magnetocrystalline anisotropy",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1038/s41524-025-01714-2",
+   "title": "Dynamic oxygen-redox evolution of cathode reactions based on the multistate equilibrium potential model",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41524-025-01637-y",
+   "title": "Interpretable machine learning for atomic scale magnetic anisotropy in quantum materials",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41524-025-01823-y",
+   "title": "PolyMetriX: an ecosystem for digital polymer chemistry",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1038/s41524-025-01568-8",
+   "title": "Machine learning and high-throughput computational guided development of high temperature oxidation-resisting Ni-Co-Cr-Al-Fe based high-entropy alloys",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1038/s41524-024-01500-6",
+   "title": "Systematic softening in universal machine learning interatomic potentials",
+   "received": "23 May 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 211
+  },
+  {
+   "doi": "10.1038/s41524-024-01509-x",
+   "title": "Feature engineering descriptors, transforms, and machine learning for grain boundaries and variable-sized atom clusters",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 132
+  },
+  {
+   "doi": "10.1038/s41524-025-01607-4",
+   "title": "A machine learning model with minimize feature parameters for multi-type hydrogen evolution catalyst prediction",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1038/s41524-025-01663-w",
+   "title": "High-density natural active sites for efficient nitrogen reduction on Kagome surfaces promoted by flat bands",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1038/s41524-025-01790-4",
+   "title": "Learning non-local molecular interactions via equivariant local representations and charge equilibration",
+   "received": "18 June 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1038/s41524-025-01675-6",
+   "title": "A novel algorithm for circumventing the need to model large supercells of mismatched material interfaces",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1038/s41524-024-01459-4",
+   "title": "First principles methodology for studying magnetotransport in narrow gap semiconductors with ZrTe5 example",
+   "received": "27 April 2024",
+   "revised": null,
+   "accepted": "27 October 2024",
+   "days": 183
+  },
+  {
+   "doi": "10.1038/s41524-025-01810-3",
+   "title": "Ductility mechanisms in complex concentrated refractory alloys from atomistic fracture simulations",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 279
+  },
+  {
+   "doi": "10.1038/s41524-025-01657-8",
+   "title": "Human\u2013AI collaboration for modeling heat conduction in nanostructures",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1038/s41524-025-01550-4",
+   "title": "Data-efficient construction of high-fidelity graph deep learning interatomic potentials",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1038/s41524-025-01706-2",
+   "title": "High-throughput discovery of perturbation-induced topological magnons",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41524-024-01491-4",
+   "title": "Quantitative kinetic rules for plastic strain-induced \u03b1 - \u03c9 phase transformation in Zr under high pressure",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 115
+  },
+  {
+   "doi": "10.1038/s41524-025-01814-z",
+   "title": "Machine learning potentials for alloys: a detailed workflow to predict phase diagrams and benchmark accuracy",
+   "received": "21 July 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1038/s41524-024-01489-y",
+   "title": "Crosslinking degree variations enable programming and controlling soft fracture via sideways cracking",
+   "received": "14 July 2024",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 122
+  },
+  {
+   "doi": "10.1038/s41524-025-01615-4",
+   "title": "Unraveling charge effects on interface reactions and dendrite growth in lithium metal anode",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1038/s41524-025-01674-7",
+   "title": "Agent-based multimodal information extraction for nanomaterials",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1038/s41524-025-01731-1",
+   "title": "Acceleration of crystal structure relaxation with deep reinforcement learning",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1038/s41524-024-01471-8",
+   "title": "Shotgun crystal structure prediction using machine-learned formation energies",
+   "received": "2 May 2023",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 572
+  },
+  {
+   "doi": "10.1038/s41524-024-01484-3",
+   "title": "Predicting electronic screening for fast Koopmans spectral functional calculations",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 157
+  },
+  {
+   "doi": "10.1038/s41524-025-01776-2",
+   "title": "Giant valley splitting and tunable anisotropic spin plasmons in a Janus ferrovalley monolayer",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1038/s41524-025-01774-4",
+   "title": "Chemical foundation model-guided design of high ionic conductivity electrolyte formulations",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s41524-025-01609-2",
+   "title": "Theory of the divacancy in 4H-SiC: impact of Jahn-Teller effect on optical properties",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1038/s41524-025-01756-6",
+   "title": "Accelerating domain-aware electron microscopy analysis using deep learning models with synthetic data and image-wide confidence scoring",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "13 July 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1038/s41524-025-01777-1",
+   "title": "NEP-MB-pol: a unified machine-learned framework for fast and accurate prediction of water\u2019s thermodynamic and transport properties",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1038/s41524-025-01629-y",
+   "title": "Transferable machine learning model for multi-target nanoscale simulations in hydrogen-carbon system from crystal to amorphous",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1038/s41524-025-01795-z",
+   "title": "Magnetoelectricity of topological solitons in 2D magnets",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1038/s41524-025-01728-w",
+   "title": "Modeling crystal defects using defect informed neural networks",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1038/s41524-025-01736-w",
+   "title": "High-throughput computational analysis of kinetic barriers to ring-closing depolymerization for aliphatic polycarbonates",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 14
+  },
+  {
+   "doi": "10.1038/s41524-025-01759-3",
+   "title": "Multi-target digital material design via a conditional denoising diffusion probability model",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1038/s41524-025-01698-z",
+   "title": "Pretrained E(3)-equivariant message-passing neural networks with multi-level representations for organic molecule spectra prediction",
+   "received": "4 January 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s41524-025-01525-5",
+   "title": "Understanding the deformability of 2D van der Waals materials from the perspective of chemical bonds",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 105
+  },
+  {
+   "doi": "10.1038/s41524-025-01741-z",
+   "title": "An interleaved physics-based deep-learning framework as a new cycle jumping approach for microstructurally small fatigue crack growth simulations",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1038/s41524-025-01595-5",
+   "title": "P-type dopability in Half-Heusler thermoelectric semiconductors",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1038/s41524-025-01867-0",
+   "title": "High-throughput exfoliation of multiferroic ternary oxide monolayers with high transition temperature and giant spin splitting",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "11 November 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1038/s41524-025-01789-x",
+   "title": "Enhancing electrocaloric effects of KNN-based ceramics by phase- and ion-configurational entropy regulation based on phase-field modeling",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "31 August 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1038/s41524-025-01535-3",
+   "title": "Efficient equivariant model for machine learning interatomic potentials",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "19 January 2025",
+   "days": 383
+  },
+  {
+   "doi": "10.1038/s41524-025-01781-5",
+   "title": "Generalized modeling of carbon film deposition growth via hybrid MD/MC simulations with machine-learning potentials",
+   "received": "25 May 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s41524-024-01476-3",
+   "title": "Building up accurate atomistic models of biofunctionalized magnetite nanoparticles from first-principles calculations",
+   "received": "18 April 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 223
+  },
+  {
+   "doi": "10.1038/s41524-024-01506-0",
+   "title": "Exploring parameter dependence of atomic minima with implicit differentiation",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s41524-025-01517-5",
+   "title": "Realizing giant ferroelectricity in stable wz-Al1\u2212xBxN alloys by controlling the microstructure and elastic constant",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1038/s41524-025-01667-6",
+   "title": "Efficiently charting the space of mixed vacancy-ordered perovskites by machine-learning encoded atomic-site information",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s41524-025-01695-2",
+   "title": "Stochastic 3D reconstruction of cracked polycrystalline NMC particles using 2D SEM data",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1038/s41524-025-01588-4",
+   "title": "Atomistic simulations of out-of-equilibrium quantum nuclear dynamics",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1038/s41524-025-01788-y",
+   "title": "Virtual characterization via knowledge-enhanced representation learning: from organic conjugated molecules to devices",
+   "received": "7 May 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1038/s41524-025-01677-4",
+   "title": "A neural master equation framework for multiscale modeling of molecular processes: application to atomic-scale plasma processes",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1038/s41524-025-01530-8",
+   "title": "Learning to predict rare events: the case of abnormal grain growth",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s41524-024-01473-6",
+   "title": "Outlier-detection for reactive machine learned potential energy surfaces",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 240
+  },
+  {
+   "doi": "10.1038/s41524-024-01483-4",
+   "title": "Unlikelihood of a phonon mechanism for the high-temperature superconductivity in La3Ni2O7",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 161
+  },
+  {
+   "doi": "10.1038/s41524-025-01522-8",
+   "title": "Physics-informed Bayesian optimization suitable for extrapolation of materials growth",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1038/s41524-025-01787-z",
+   "title": "On-the-fly machine learning-assisted high accuracy second-principles model for BaTiO3",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s41524-025-01536-2",
+   "title": "LLM-Prop: predicting the properties of crystalline materials using large language models",
+   "received": "7 March 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 321
+  },
+  {
+   "doi": "10.1038/s41524-025-01555-z",
+   "title": "Hydrogen diffusion in magnesium using machine learning potentials: a comparative study",
+   "received": "20 July 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1038/s41524-025-01589-3",
+   "title": "Interpretable multimodal machine learning analysis of X-ray absorption near-edge spectra and pair distribution functions",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1038/s41524-025-01769-1",
+   "title": "Physics-informed neural operators for generalizable and label-free inference of temperature-dependent thermoelectric properties",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1038/s41524-024-01490-5",
+   "title": "Prediction of p-block-based ternary superconductors XC2H8 at low pressure",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 109
+  },
+  {
+   "doi": "10.1038/s41524-025-01680-9",
+   "title": "Data-driven low-rank approximation for the electron-hole kernel and acceleration of time-dependent GW calculations",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1038/s41524-025-01786-0",
+   "title": "From biomass waste to CO2 capture: a multi-fidelity machine learning workflow for high-throughput screening of activated carbons",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1038/s41524-025-01831-y",
+   "title": "Revealing the evolution of order in materials microstructures using multi-modal computer vision",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 329
+  },
+  {
+   "doi": "10.1038/s41524-025-01821-0",
+   "title": "Systematic cRPA study of two-dimensional MA2Z4 materials: from unconventional screening to correlation-driven instabilities",
+   "received": "7 August 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1038/s41524-025-01780-6",
+   "title": "Infrared markers of topological phase transitions in quantum spin Hall insulators",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1038/s41524-025-01616-3",
+   "title": "Strain and ligand effects in the 1-D limit: reactivity of steps",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1038/s41524-025-01683-6",
+   "title": "An informatics framework for the design of sustainable, chemically recyclable, synthetically accessible, and durable polymers",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1038/s41524-025-01697-0",
+   "title": "Coupled lattice-charge-magnetic fluctuations for nonlocal flux mediated pairing in cuprate superconductors",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 10
+  },
+  {
+   "doi": "10.1038/s41524-025-01839-4",
+   "title": "Mechanistic insights into colossal negative thermal expansion in Ca2RuO4 mott insulator via computational modeling approaches",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "12 October 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1038/s41524-025-01566-w",
+   "title": "Spin-splitting above room-temperature in Janus Mn2ClSeH antiferromagnetic semiconductor with a large out-of-plane piezoelectricity",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s41524-025-01623-4",
+   "title": "Cartesian atomic moment machine learning interatomic potentials",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1038/s41524-025-01604-7",
+   "title": "ELEQTRONeX: A GPU-accelerated exascale framework for non-equilibrium quantum transport in nanomaterials",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "16 March 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1038/s41524-025-01565-x",
+   "title": "Optical line shapes of color centers in solids from classical autocorrelation functions",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1038/s41524-025-01799-9",
+   "title": "Unveiling key descriptors for electrical resistivity of alloys using high-throughput experiments and explainable AI",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1038/s41524-025-01583-9",
+   "title": "Hierarchy-boosted funnel learning for identifying semiconductors with ultralow lattice thermal conductivity",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1038/s41524-025-01598-2",
+   "title": "Machine learning enabled accurate prediction of structural and magnetic properties of cobalt ferrite",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1038/s41524-025-01647-w",
+   "title": "Unexpected density functional dependence of the antipolar $$\\boldsymbol{Pbcn}$$ phase in HfO2",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1038/s41524-025-01590-w",
+   "title": "Identifying MOFs for electrochemical energy storage via density functional theory and machine learning",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1038/s41524-025-01761-9",
+   "title": "Transferable dispersion-aware machine learning interatomic potentials for multilayer transition metal dichalcogenide heterostructures",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1038/s41524-025-01722-2",
+   "title": "Capturing short-range order in high-entropy alloys with machine learning potentials",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1038/s41524-025-01662-x",
+   "title": "Light-induced above-room-temperature Chern insulators in group-IV Xenes",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1038/s41524-024-01475-4",
+   "title": "Accelerating superconductor discovery through tempered deep learning of the electron-phonon spectral function",
+   "received": "8 April 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 233
+  },
+  {
+   "doi": "10.1038/s41524-025-01859-0",
+   "title": "Nuclear spin-mediated relaxation mechanisms of the $${{\\rm{V}}}_{{\\rm{B}}}^{-}$$ center in hBN",
+   "received": "15 July 2025",
+   "revised": null,
+   "accepted": "2 November 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1038/s41524-025-01625-2",
+   "title": "Crystal-like thermal transport in amorphous carbon",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1038/s41524-025-01608-3",
+   "title": "Advancing organic photovoltaic materials by machine learning-driven design with polymer-unit fingerprints",
+   "received": "21 September 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1038/s41524-024-01480-7",
+   "title": "Discovering novel lead-free solder alloy by multi-objective Bayesian active learning with experimental uncertainty",
+   "received": "5 June 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 172
+  },
+  {
+   "doi": "10.1038/s41524-025-01593-7",
+   "title": "Nanoscale confinement of phonon flow and heat transport",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s41524-025-01701-7",
+   "title": "Data-driven microstructural optimization of Ag-Bi-I perovskite-inspired materials",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1038/s41524-025-01642-1",
+   "title": "Uncovering multiscale structure-property correlations via active learning in scanning tunneling microscopy",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1038/s41524-025-01591-9",
+   "title": "Bayesian exploration of the composition space of CuZrAl metallic glasses for mechanical properties",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1038/s41524-025-01552-2",
+   "title": "Leveraging high-throughput molecular simulations and machine learning for the design of chemical mixtures",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1038/s41524-025-01569-7",
+   "title": "Deep-learning real-time phase retrieval of imperfect diffraction patterns from X-ray free-electron lasers",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41524-025-01618-1",
+   "title": "An extensible open-source solution for research digitalisation in materials science",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1038/s41524-025-01587-5",
+   "title": "Verification and validation of zero-point electron-phonon renormalization of the bandgap, mass enhancement, and spectral functions",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1038/s41524-025-01745-9",
+   "title": "Accelerating discovery of next-generation power electronics materials via high-throughput ab initio screening",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1038/s41524-025-01730-2",
+   "title": "Multiscale computational framework linking alloy composition to microstructure evolution via machine learning and nanoscale analysis",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1038/s41524-025-01628-z",
+   "title": "Discovery of chemically modified higher tungsten boride by means of hybrid GNN/DFT approach",
+   "received": "22 June 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 291
+  },
+  {
+   "doi": "10.1038/s41524-025-01729-9",
+   "title": "Refining coarse-grained molecular topologies: a Bayesian optimization approach",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1038/s41524-025-01636-z",
+   "title": "Charting electronic-state manifolds across molecules with multi-state learning and gap-driven dynamics via efficient and robust active learning",
+   "received": "12 October 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1038/s41524-025-01737-9",
+   "title": "Ferromagnetic semiconductor nanotubes with room Curie temperatures",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1038/s41524-024-01469-2",
+   "title": "The ab initio non-crystalline structure database: empowering machine learning to decode diffusivity",
+   "received": "27 January 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 284
+  },
+  {
+   "doi": "10.1038/s41524-025-01812-1",
+   "title": "Orbital torques and orbital pumping in two-dimensional rare-earth dichalcogenides",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 232
+  },
+  {
+   "doi": "10.1038/s41524-025-01828-7",
+   "title": "Autonomous closed-loop exploration of composition-spread films for the anomalous Hall effect",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1038/s41524-024-01454-9",
+   "title": "Exploring the role of nonlocal Coulomb interactions in perovskite transition metal oxides",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "21 October 2024",
+   "days": 123
+  },
+  {
+   "doi": "10.1038/s41524-025-01805-0",
+   "title": "A self-driving physical vapor deposition system making sample-specific decisions on the fly",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1038/s41524-025-01678-3",
+   "title": "Machine learning revealed giant thermal conductivity reduction by strong phonon localization in two-angle disordered twisted multilayer graphene",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1038/s41524-025-01763-7",
+   "title": "Machine learning augmented design of 2D magnet with planar cyclo-tetranitrogen: ambient thermal stability from quantum to mesoscale",
+   "received": "17 June 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1038/s41524-025-01744-w",
+   "title": "Comparative convolutional neural networks for perovskite solar cell PCE predictions",
+   "received": "5 July 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 12
+  },
+  {
+   "doi": "10.1038/s41524-025-01624-3",
+   "title": "Exhaustive screening of high-fold degenerate topological semimetal with chiral structure",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1038/s41524-025-01813-0",
+   "title": "Accurate and convergent energetics of color centers by wavefunction theory",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1038/s41524-025-01639-w",
+   "title": "Unlocking the black box beyond Bayesian global optimization for materials design using reinforcement learning",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1038/s41524-025-01649-8",
+   "title": "Inverse design of catalytic active sites via interpretable topology-based deep generative models",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1038/s41524-025-01580-y",
+   "title": "APEX: an automated cloud-native material property explorer",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s41524-024-01466-5",
+   "title": "On-demand reverse design of polymers with PolyTAO",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 104
+  },
+  {
+   "doi": "10.1038/s41524-024-01465-6",
+   "title": "Deep learning potential model of displacement damage in hafnium oxide ferroelectric films",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "1 November 2024",
+   "days": 122
+  },
+  {
+   "doi": "10.1038/s41524-024-01501-5",
+   "title": "Machine learning Hubbard parameters with equivariant neural networks",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 198
+  },
+  {
+   "doi": "10.1038/s41524-025-01553-1",
+   "title": "Efficient modelling of anharmonicity and quantum effects in PdCuH2 with machine learning potentials",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1038/s41524-024-01502-4",
+   "title": "Magnetic anisotropy of 4f atoms on a WSe2 monolayer: a DFT\u2009+\u2009U study",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 178
+  },
+  {
+   "doi": "10.1038/s41524-025-01794-0",
+   "title": "Breaking the synchrony of sliding ferroelectricity and sliding energy barrier",
+   "received": "30 May 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s41524-025-01666-7",
+   "title": "Novel machine learning driven design strategy for high strength Zn Alloys optimization with multiple constraints",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1038/s41524-025-01534-4",
+   "title": "Design of 2D skyrmionic metamaterials through controlled assembly",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1038/s41524-025-01518-4",
+   "title": "Inverse design of photonic surfaces via multi fidelity ensemble framework and femtosecond laser processing",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1038/s41524-025-01865-2",
+   "title": "Machine learning-powered recognition of crystalline phases and orientations in epitaxial Y-doped HfO2 via atomic-resolution STEM",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "6 November 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1038/s41524-024-01477-2",
+   "title": "A general framework for active space embedding methods with applications in quantum computing",
+   "received": "2 May 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 209
+  },
+  {
+   "doi": "10.1038/s41524-025-01599-1",
+   "title": "Modeling extensive defects in metals through classical potential-guided sampling and automated configuration reconstruction",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1038/s41524-025-01738-8",
+   "title": "Advancing simulations of coupled electron and phonon nonequilibrium dynamics using adaptive and multirate time integration",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1038/s41524-025-01688-1",
+   "title": "NeuralMag: an open-source nodal finite-difference code for inverse micromagnetics",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1038/s41524-025-01574-w",
+   "title": "Development of an atomic cluster expansion potential for iron and its oxides",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1038/s41524-024-01499-w",
+   "title": "The interplay between the martensitic transformation rate and the rate of plastic relaxation during martensitic transformation in low-carbon steel, a ",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 200
+  },
+  {
+   "doi": "10.1038/s41524-025-01771-7",
+   "title": "Demonstration of an AI-driven workflow for dynamic x-ray spectroscopy",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1038/s41524-025-01765-5",
+   "title": "Anisotropic temperature-dependent lattice parameters and elastic constants from first principles",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s41524-025-01798-w",
+   "title": "Three-temperature model for predicting critical temperatures of charge density waves using Fermi smearing",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1038/s41524-025-01610-9",
+   "title": "Electron-mediated anharmonicity and its role in the Raman spectrum of graphene",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1038/s41524-025-01715-1",
+   "title": "Technical review: Time-dependent density functional theory for attosecond physics ranging from gas-phase to solids",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "21 June 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1038/s41524-025-01818-9",
+   "title": "Electron\u2013phonon vertex correction effect in superconducting H3S",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1038/s41524-025-01709-z",
+   "title": "Teaching oxidation states to neural networks",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1038/s41524-025-01778-0",
+   "title": "FerroAI: a deep learning model for predicting phase diagrams of ferroelectric materials",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s41524-025-01613-6",
+   "title": "Massive discovery of crystal structures across dimensionalities by leveraging vector quantization",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1038/s41524-025-01833-w",
+   "title": "Automated workflow for accurate high-throughput GW calculations using plane waves",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 353
+  },
+  {
+   "doi": "10.1038/s41524-025-01539-z",
+   "title": "Exploring high-performance viscosity index improver polymers via high-throughput molecular dynamics and explainable AI",
+   "received": "1 July 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 218
+  },
+  {
+   "doi": "10.1038/s41524-025-01746-8",
+   "title": "Understanding piezocatalysis of barium titanate in solution from quantum-continuum-electrochemical theory",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "19 July 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1038/s41524-025-01693-4",
+   "title": "Transition state structure detection with machine learning\u015b",
+   "received": "22 September 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1038/s41524-025-01594-6",
+   "title": "High entropy powering green energy: hydrogen, batteries, electronics, and catalysis",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s41524-025-01541-5",
+   "title": "MGNN: Moment Graph Neural Network for Universal Molecular Potentials",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1038/s41524-025-01563-z",
+   "title": "Active learning of effective Hamiltonian for super-large-scale atomic structures",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1038/s41524-025-01708-0",
+   "title": "Photo-induced manipulation and relaxation dynamics of Weyl-semimetals",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1038/s41524-025-01824-x",
+   "title": "Predicting dendrite growth in lithium metal batteries through iterative neural networks and voltage embedding",
+   "received": "14 July 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1038/s41524-025-01527-3",
+   "title": "Insights into defect cluster formation in non-stoichiometric wustite (Fe1\u2212xO) at elevated temperatures: accurate force field from deep learning",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1038/s41524-024-01458-5",
+   "title": "Microstructure analysis on complex surfaces enables digital quality control of metal parts",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "2 November 2024",
+   "days": 199
+  }
+ ]
+}

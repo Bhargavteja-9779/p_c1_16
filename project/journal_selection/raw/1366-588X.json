@@ -1,0 +1,1573 @@
+{
+ "issn": "1366-588X",
+ "journal": "International Journal of Production Research",
+ "publisher": "Informa UK Limited",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:57.399459",
+ "source": "https://api.crossref.org/journals/1366-588X/works",
+ "articles": [
+  {
+   "doi": "10.1080/00207543.2025.2561190",
+   "title": "Self-reconfiguration of manufacturing systems using Satisfiability Modulo Theory",
+   "received": "2024-11-10",
+   "revised": null,
+   "accepted": "2025-09-02",
+   "days": 296
+  },
+  {
+   "doi": "10.1080/00207543.2025.2526163",
+   "title": "A comprehensive decision-making approach: evaluating and managing risks associated with emerging technologies \u2013 a LineDrone technology case study",
+   "received": "2024-11-22",
+   "revised": null,
+   "accepted": "2025-06-16",
+   "days": 206
+  },
+  {
+   "doi": "10.1080/00207543.2025.2497956",
+   "title": "Passengers rescheduling to minimise check-in time and conveyor belt degradation",
+   "received": "2024-09-25",
+   "revised": null,
+   "accepted": "2025-04-14",
+   "days": 201
+  },
+  {
+   "doi": "10.1080/00207543.2025.2514256",
+   "title": "A review of analytic models for fairness concerns in supply chain management",
+   "received": "2024-09-22",
+   "revised": null,
+   "accepted": "2025-05-21",
+   "days": 241
+  },
+  {
+   "doi": "10.1080/00207543.2025.2507800",
+   "title": "Exploring blockchain technologies in sustainable supply chains \u2013 unveiling the latent research topics using an AI approach",
+   "received": "2025-01-30",
+   "revised": null,
+   "accepted": "2025-05-05",
+   "days": 95
+  },
+  {
+   "doi": "10.1080/00207543.2025.2496970",
+   "title": "The flow shop batch scheduling problem in a prefabricated component manufacturing system with two-dimensional bin packing constraints",
+   "received": "2024-10-08",
+   "revised": null,
+   "accepted": "2025-04-11",
+   "days": 185
+  },
+  {
+   "doi": "10.1080/00207543.2025.2572422",
+   "title": "Multilevel facility location optimisation: a novel integer programming formulation and approaches to heuristic solutions",
+   "received": "2025-04-14",
+   "revised": null,
+   "accepted": "2025-10-02",
+   "days": 171
+  },
+  {
+   "doi": "10.1080/00207543.2024.2432463",
+   "title": "Grand challenges in industrial and systems engineering",
+   "received": "2024-02-20",
+   "revised": null,
+   "accepted": "2024-09-10",
+   "days": 203
+  },
+  {
+   "doi": "10.1080/00207543.2025.2524514",
+   "title": "Integrating competence-aware operator assignment into the mixed model sequencing problem",
+   "received": "2025-01-04",
+   "revised": null,
+   "accepted": "2025-06-12",
+   "days": 159
+  },
+  {
+   "doi": "10.1080/00207543.2025.2507792",
+   "title": "Should firms invest in demand forecasting? Benefits of improving forecasting accuracy on order smoothing, dual-sourcing and multi-stage supply chain p",
+   "received": "2024-12-04",
+   "revised": null,
+   "accepted": "2025-05-06",
+   "days": 153
+  },
+  {
+   "doi": "10.1080/00207543.2025.2473067",
+   "title": "Improved dual-population genetic algorithm to solve human\u2013robot collaborative assembly line balancing problem",
+   "received": "2024-11-02",
+   "revised": null,
+   "accepted": "2025-02-19",
+   "days": 109
+  },
+  {
+   "doi": "10.1080/00207543.2024.2436652",
+   "title": "Dynamically dealing with requests in a stochastic multi-period home healthcare problem with consistency constraints",
+   "received": "2024-02-03",
+   "revised": null,
+   "accepted": "2024-11-04",
+   "days": 275
+  },
+  {
+   "doi": "10.1080/00207543.2024.2443793",
+   "title": "Pre-positioning supplies with blockchain-supported inventory sharing in relief supply chains",
+   "received": "2024-01-21",
+   "revised": null,
+   "accepted": "2024-12-13",
+   "days": 327
+  },
+  {
+   "doi": "10.1080/00207543.2024.2431172",
+   "title": "Real-time sustainable cobotic disassembly planning using fuzzy reinforcement learning",
+   "received": "2024-03-08",
+   "revised": null,
+   "accepted": "2024-11-03",
+   "days": 240
+  },
+  {
+   "doi": "10.1080/00207543.2025.2537344",
+   "title": "Additive manufacturing for improving supply chain resilience under the ripple effect",
+   "received": "2024-11-24",
+   "revised": null,
+   "accepted": "2025-07-10",
+   "days": 228
+  },
+  {
+   "doi": "10.1080/00207543.2025.2472296",
+   "title": "Robust fresh front distribution centre location problem considering resilience under demand uncertainty",
+   "received": "2024-04-28",
+   "revised": null,
+   "accepted": "2025-02-11",
+   "days": 289
+  },
+  {
+   "doi": "10.1080/00207543.2025.2503465",
+   "title": "A constraint programming-based decomposition strategy for the block assembly scheduling problem in shipbuilding",
+   "received": "2024-08-23",
+   "revised": null,
+   "accepted": "2025-04-26",
+   "days": 246
+  },
+  {
+   "doi": "10.1080/00207543.2025.2546028",
+   "title": "The missing puzzle piece: contextual insights for enhanced pharmaceutical supply chain forecasting",
+   "received": "2024-12-16",
+   "revised": null,
+   "accepted": "2025-07-28",
+   "days": 224
+  },
+  {
+   "doi": "10.1080/00207543.2025.2512228",
+   "title": "A combinatorial Benders decomposition approach for the constrained two-dimensional guillotine cutting problem with defects",
+   "received": "2024-10-27",
+   "revised": null,
+   "accepted": "2025-05-12",
+   "days": 197
+  },
+  {
+   "doi": "10.1080/00207543.2025.2496671",
+   "title": "Leveraging knowledge graphs in pharmaceutical supply chains: insights into key drivers of drug shortages",
+   "received": "2024-11-11",
+   "revised": null,
+   "accepted": "2025-04-11",
+   "days": 151
+  },
+  {
+   "doi": "10.1080/00207543.2025.2580535",
+   "title": "Exploring the impacts of employee-based blockchain adoption on supply chain finance and operational performance",
+   "received": "2025-02-18",
+   "revised": null,
+   "accepted": "2025-10-21",
+   "days": 245
+  },
+  {
+   "doi": "10.1080/00207543.2024.2436126",
+   "title": "Production control with Reinforcement Learning for a matrix-structured production system",
+   "received": "2024-04-10",
+   "revised": null,
+   "accepted": "2024-11-17",
+   "days": 221
+  },
+  {
+   "doi": "10.1080/00207543.2025.2470997",
+   "title": "Incorporating learning and fatigue effects in flowshop scheduling: a case study",
+   "received": "2024-09-06",
+   "revised": null,
+   "accepted": "2025-02-11",
+   "days": 158
+  },
+  {
+   "doi": "10.1080/00207543.2025.2563001",
+   "title": "Integrated optimisation of berth allocation and yard management in the parallel-layout automated container terminal under uncertainty",
+   "received": "2024-11-07",
+   "revised": null,
+   "accepted": "2025-09-11",
+   "days": 308
+  },
+  {
+   "doi": "10.1080/00207543.2025.2541018",
+   "title": "Combining simulation and virtual reality for enabling interoperable digital twins in collaborative human\u2013robot workspaces",
+   "received": "2025-03-18",
+   "revised": null,
+   "accepted": "2025-07-21",
+   "days": 125
+  },
+  {
+   "doi": "10.1080/00207543.2025.2463003",
+   "title": "An integrated response system for demand surges of emergency products: backup capacity investment and capacity sharing based on product flexibility",
+   "received": "2024-08-22",
+   "revised": null,
+   "accepted": "2025-01-27",
+   "days": 158
+  },
+  {
+   "doi": "10.1080/00207543.2025.2494081",
+   "title": "A human-centric analysis of life cycle assessments: development and validation of a subject-oriented model",
+   "received": "2024-12-20",
+   "revised": null,
+   "accepted": "2025-04-08",
+   "days": 109
+  },
+  {
+   "doi": "10.1080/00207543.2025.2472416",
+   "title": "Quality improvement and evaluation for profile responses in cloud-based additive manufacturing processes",
+   "received": "2024-02-21",
+   "revised": null,
+   "accepted": "2025-02-19",
+   "days": 364
+  },
+  {
+   "doi": "10.1080/00207543.2025.2580541",
+   "title": "A comprehensive causal AI framework for analysing factors affecting energy consumption and costs in customised manufacturing",
+   "received": "2025-02-13",
+   "revised": null,
+   "accepted": "2025-10-16",
+   "days": 245
+  },
+  {
+   "doi": "10.1080/00207543.2025.2561779",
+   "title": "Methodological approaches and managerial insights in supply chain stress testing",
+   "received": "2024-11-12",
+   "revised": null,
+   "accepted": "2025-07-25",
+   "days": 255
+  },
+  {
+   "doi": "10.1080/00207543.2025.2486492",
+   "title": "Financial constraints under carbon emissions trading: a quasi-natural experiment approach",
+   "received": "2024-08-30",
+   "revised": null,
+   "accepted": "2025-03-21",
+   "days": 203
+  },
+  {
+   "doi": "10.1080/00207543.2024.2425780",
+   "title": "An incentive theory of green supply chain finance",
+   "received": "2023-08-16",
+   "revised": null,
+   "accepted": "2024-09-23",
+   "days": 404
+  },
+  {
+   "doi": "10.1080/00207543.2025.2490826",
+   "title": "Ergonomics-aware operator-task allocation and scheduling in flexible job shop systems",
+   "received": "2024-11-18",
+   "revised": null,
+   "accepted": "2025-03-27",
+   "days": 129
+  },
+  {
+   "doi": "10.1080/00207543.2024.2441449",
+   "title": "From features to benefits: a data-driven approach for the economic design of adaptive quality control",
+   "received": "2024-06-10",
+   "revised": null,
+   "accepted": "2024-12-05",
+   "days": 178
+  },
+  {
+   "doi": "10.1080/00207543.2025.2579767",
+   "title": "A bundled dilemma: explaining the adoption paradox of digital vouchers in supply chain",
+   "received": "2025-08-07",
+   "revised": null,
+   "accepted": "2025-10-17",
+   "days": 71
+  },
+  {
+   "doi": "10.1080/00207543.2025.2459290",
+   "title": "The single machine scheduling problem with bio-mathematical fatigue constraints",
+   "received": "2023-09-14",
+   "revised": null,
+   "accepted": "2024-12-06",
+   "days": 449
+  },
+  {
+   "doi": "10.1080/00207543.2025.2498686",
+   "title": "Influencer strategies and consignment policy optimisation: paving the way for a sustainable circular economy in a clean world",
+   "received": "2024-04-05",
+   "revised": null,
+   "accepted": "2025-02-20",
+   "days": 321
+  },
+  {
+   "doi": "10.1080/00207543.2025.2550455",
+   "title": "Energy modelling and multi-objective tool path optimisation: an energy-efficient manufacturing approach for drill-reaming hybrid machining",
+   "received": "2025-05-04",
+   "revised": null,
+   "accepted": "2025-08-13",
+   "days": 101
+  },
+  {
+   "doi": "10.1080/00207543.2025.2464912",
+   "title": "A simulation-based decision support tool for circular manufacturing systems in the automotive industry using electric machines as a remanufacturing ca",
+   "received": "2024-02-09",
+   "revised": null,
+   "accepted": "2025-01-29",
+   "days": 355
+  },
+  {
+   "doi": "10.1080/00207543.2025.2464170",
+   "title": "Green robotic warehouses: analysis of carbon emissions in a rack-climbing robotic warehouse",
+   "received": "2024-03-20",
+   "revised": null,
+   "accepted": "2024-12-14",
+   "days": 269
+  },
+  {
+   "doi": "10.1080/00207543.2025.2532147",
+   "title": "Advanced virtual metrology using distribution alignment loss for practical quality control",
+   "received": "2024-07-24",
+   "revised": null,
+   "accepted": "2025-06-26",
+   "days": 337
+  },
+  {
+   "doi": "10.1080/00207543.2025.2540455",
+   "title": "Demand information sharing and service investment strategy in a third-party platform supply chain",
+   "received": "2025-01-09",
+   "revised": null,
+   "accepted": "2025-07-17",
+   "days": 189
+  },
+  {
+   "doi": "10.1080/00207543.2024.2440795",
+   "title": "Agent-based modelling for human\u2013robot collaborative order picking system considering workers\u2019 performance",
+   "received": "2023-12-29",
+   "revised": null,
+   "accepted": "2024-12-02",
+   "days": 339
+  },
+  {
+   "doi": "10.1080/00207543.2025.2473702",
+   "title": "Crafting a synergistic convergence: an integrated approach for lean and industry 4.0 transformation",
+   "received": "2024-07-09",
+   "revised": null,
+   "accepted": "2025-02-19",
+   "days": 225
+  },
+  {
+   "doi": "10.1080/00207543.2024.2448604",
+   "title": "Toward secure industrial internet of behaviours: a federated learning-based lightweight human behaviour recognition method with selective state space ",
+   "received": "2024-04-23",
+   "revised": null,
+   "accepted": "2024-12-15",
+   "days": 236
+  },
+  {
+   "doi": "10.1080/00207543.2025.2529550",
+   "title": "Actor-critic driven deep reinforcement learning for optimising agri-food supply chain",
+   "received": "2024-12-06",
+   "revised": null,
+   "accepted": "2025-06-10",
+   "days": 186
+  },
+  {
+   "doi": "10.1080/00207543.2024.2432470",
+   "title": "Insourcing additive manufacturing for spare parts production: is it profitable? An extensive analysis and the proposal of a Decision Support System",
+   "received": "2024-06-20",
+   "revised": null,
+   "accepted": "2024-11-08",
+   "days": 141
+  },
+  {
+   "doi": "10.1080/00207543.2025.2483442",
+   "title": "Analysis on emission-dependent supply chains with carbon option contract",
+   "received": "2024-06-24",
+   "revised": null,
+   "accepted": "2025-03-17",
+   "days": 266
+  },
+  {
+   "doi": "10.1080/00207543.2025.2470983",
+   "title": "Optimising centralisation in distribution networks for perishable products through mathematical modelling, parametric analysis, and machine learning",
+   "received": "2024-03-22",
+   "revised": null,
+   "accepted": "2025-01-10",
+   "days": 294
+  },
+  {
+   "doi": "10.1080/00207543.2025.2581253",
+   "title": "Blockchain innovations for addressing pharmaceutical counterfeit in the global supply chain: a PLS\u2013ANN approach",
+   "received": "2024-05-10",
+   "revised": null,
+   "accepted": "2025-10-07",
+   "days": 515
+  },
+  {
+   "doi": "10.1080/00207543.2025.2464919",
+   "title": "Manufacturers\u2019 horizontal green R&amp;D cooperation in a supply chain: effects of technological spillover",
+   "received": "2024-06-02",
+   "revised": null,
+   "accepted": "2025-02-03",
+   "days": 246
+  },
+  {
+   "doi": "10.1080/00207543.2025.2493948",
+   "title": "The implications of Industry 4.0 for managing supply chain disruption and enhancing supply chain resilience: a systematic literature review",
+   "received": "2024-09-13",
+   "revised": null,
+   "accepted": "2025-04-06",
+   "days": 205
+  },
+  {
+   "doi": "10.1080/00207543.2025.2487567",
+   "title": "Leveraging machine learning and decision analytics for sustainable and resilient environmental monitoring in metal processing industries: a step towar",
+   "received": "2024-11-20",
+   "revised": null,
+   "accepted": "2025-03-26",
+   "days": 126
+  },
+  {
+   "doi": "10.1080/00207543.2025.2573194",
+   "title": "Purposeful decision-support with Digital Shadows: a model catalog architecture and its implementation for production scheduling in the injection moldi",
+   "received": "2024-06-15",
+   "revised": null,
+   "accepted": "2025-09-26",
+   "days": 468
+  },
+  {
+   "doi": "10.1080/00207543.2025.2539309",
+   "title": "Service provider recommendation system in shared additive manufacturing: a case study on assistive technology platform in South Korea",
+   "received": "2024-11-14",
+   "revised": null,
+   "accepted": "2025-07-17",
+   "days": 245
+  },
+  {
+   "doi": "10.1080/00207543.2025.2534835",
+   "title": "Strategic implications of consumer overconfidence for pricing and live-streaming in a platform service supply chain",
+   "received": "2024-12-26",
+   "revised": null,
+   "accepted": "2025-07-09",
+   "days": 195
+  },
+  {
+   "doi": "10.1080/00207543.2024.2432464",
+   "title": "Bi-objective inventory routing problem with uncertain demand: a data-driven robust optimisation approach",
+   "received": "2024-04-18",
+   "revised": null,
+   "accepted": "2024-11-09",
+   "days": 205
+  },
+  {
+   "doi": "10.1080/00207543.2025.2532755",
+   "title": "Performance evaluation of 3D print farms in additive manufacturing-based supply chains",
+   "received": "2025-01-23",
+   "revised": null,
+   "accepted": "2025-07-03",
+   "days": 161
+  },
+  {
+   "doi": "10.1080/00207543.2024.2432469",
+   "title": "An adaptive federated learning system for information sharing in supply chains",
+   "received": "2023-11-29",
+   "revised": null,
+   "accepted": "2024-09-19",
+   "days": 295
+  },
+  {
+   "doi": "10.1080/00207543.2024.2442540",
+   "title": "The impact of contract types on carbon-capped food supply chains: options versus wholesale",
+   "received": "2024-02-20",
+   "revised": null,
+   "accepted": "2024-11-03",
+   "days": 257
+  },
+  {
+   "doi": "10.1080/00207543.2025.2512447",
+   "title": "A digital twin-based cyber-physical system for resilient short-term equipment leasing",
+   "received": "2025-01-25",
+   "revised": null,
+   "accepted": "2025-05-22",
+   "days": 117
+  },
+  {
+   "doi": "10.1080/00207543.2025.2567503",
+   "title": "Full transparency or restricted visibility? Mechanisms of blockchain enabled data sharing in supply chain",
+   "received": "2025-02-27",
+   "revised": null,
+   "accepted": "2025-09-20",
+   "days": 205
+  },
+  {
+   "doi": "10.1080/00207543.2025.2535518",
+   "title": "Modeling, analysis and improvement of production throughput and energy consumption in Li-ion battery manufacturing lines",
+   "received": "2025-01-22",
+   "revised": null,
+   "accepted": "2025-06-16",
+   "days": 145
+  },
+  {
+   "doi": "10.1080/00207543.2025.2532136",
+   "title": "Construction of resilient and sustainable supply chain based on multilayer Bayesian network",
+   "received": "2023-10-20",
+   "revised": null,
+   "accepted": "2025-05-31",
+   "days": 589
+  },
+  {
+   "doi": "10.1080/00207543.2025.2504157",
+   "title": "The dark and bright sides of dependence relationships and their effect on buyer-supplier unethical behaviour",
+   "received": "2024-02-17",
+   "revised": null,
+   "accepted": "2025-04-24",
+   "days": 432
+  },
+  {
+   "doi": "10.1080/00207543.2024.2427344",
+   "title": "Multi-line hybrid flow-shop scheduling problem with energy considerations",
+   "received": "2024-04-27",
+   "revised": null,
+   "accepted": "2024-10-26",
+   "days": 182
+  },
+  {
+   "doi": "10.1080/00207543.2025.2492747",
+   "title": "Lot-streaming flowshop scheduling under stochastic due dates",
+   "received": "2024-09-29",
+   "revised": null,
+   "accepted": "2025-04-01",
+   "days": 184
+  },
+  {
+   "doi": "10.1080/00207543.2025.2584720",
+   "title": "In-situ monitoring of stochastic textured surfaces with EWMA scheme using dynamic KDE-based probability limits",
+   "received": "2025-05-12",
+   "revised": null,
+   "accepted": "2025-10-25",
+   "days": 166
+  },
+  {
+   "doi": "10.1080/00207543.2025.2522858",
+   "title": "Should incumbents deter new entrants adopting cost transparency?",
+   "received": "2024-11-18",
+   "revised": null,
+   "accepted": "2025-06-10",
+   "days": 204
+  },
+  {
+   "doi": "10.1080/00207543.2025.2543493",
+   "title": "A mean-variance optimisation model for produce export distribution with postponed shipment and market allocation options",
+   "received": "2025-02-09",
+   "revised": null,
+   "accepted": "2025-07-26",
+   "days": 167
+  },
+  {
+   "doi": "10.1080/00207543.2024.2445704",
+   "title": "Digital transformation of electronic patient information leaflets (ePIL): the case of multinational pharmaceutical manufacturers",
+   "received": "2023-11-02",
+   "revised": null,
+   "accepted": "2024-12-11",
+   "days": 405
+  },
+  {
+   "doi": "10.1080/00207543.2024.2435583",
+   "title": "Cognitive digital twin in manufacturing process: integrating the knowledge graph for enhanced human-centric Industry 5.0",
+   "received": "2024-06-22",
+   "revised": null,
+   "accepted": "2024-11-20",
+   "days": 151
+  },
+  {
+   "doi": "10.1080/00207543.2024.2436127",
+   "title": "Enhancing supply chain resilience with recovery strategies under electricity shortages",
+   "received": "2024-05-09",
+   "revised": null,
+   "accepted": "2024-11-21",
+   "days": 196
+  },
+  {
+   "doi": "10.1080/00207543.2025.2542953",
+   "title": "Supplier encroachment through live-streaming: the role of channel structure and hybrid contract",
+   "received": "2025-03-28",
+   "revised": null,
+   "accepted": "2025-07-05",
+   "days": 99
+  },
+  {
+   "doi": "10.1080/00207543.2024.2432476",
+   "title": "The influence of neighbours\u2019 supply network structure on firm\u2019s environmental, social and governance controversies",
+   "received": "2023-09-21",
+   "revised": null,
+   "accepted": "2024-11-12",
+   "days": 418
+  },
+  {
+   "doi": "10.1080/00207543.2025.2470348",
+   "title": "Investigating disruption propagation and resilience of supply chain networks: interplay of tiers and connections",
+   "received": "2024-09-07",
+   "revised": null,
+   "accepted": "2025-02-11",
+   "days": 157
+  },
+  {
+   "doi": "10.1080/00207543.2025.2516770",
+   "title": "The impact of labor flexibility on operational efficiency in industry 5.0: a systematic literature review",
+   "received": "2024-07-31",
+   "revised": null,
+   "accepted": "2025-05-30",
+   "days": 303
+  },
+  {
+   "doi": "10.1080/00207543.2025.2520598",
+   "title": "Tariff shocks, ripple effect, and deep uncertainty in supply chains: we are entering a turbulence zone, please fasten your seatbelts",
+   "received": "2025-04-11",
+   "revised": null,
+   "accepted": "2025-06-08",
+   "days": 58
+  },
+  {
+   "doi": "10.1080/00207543.2025.2496668",
+   "title": "Blockchain-enabled horizontal capacity sharing under demand uncertainty",
+   "received": "2024-07-21",
+   "revised": null,
+   "accepted": "2025-04-14",
+   "days": 267
+  },
+  {
+   "doi": "10.1080/00207543.2024.2440786",
+   "title": "Land layout optimisation for virtual land sales in the metaverse: two-dimensional assortment problem",
+   "received": "2023-11-23",
+   "revised": null,
+   "accepted": "2024-11-30",
+   "days": 373
+  },
+  {
+   "doi": "10.1080/00207543.2025.2542965",
+   "title": "Complex network-based storage assignment strategy for item communities",
+   "received": "2025-01-06",
+   "revised": null,
+   "accepted": "2025-07-27",
+   "days": 202
+  },
+  {
+   "doi": "10.1080/00207543.2025.2582071",
+   "title": "Dynamic lot sizing with inventory bounds for a perishable product",
+   "received": "2025-04-27",
+   "revised": null,
+   "accepted": "2025-10-19",
+   "days": 175
+  },
+  {
+   "doi": "10.1080/00207543.2025.2487565",
+   "title": "Sizing and scheduling for a fleet of reconfigurable mobile robots",
+   "received": "2023-02-04",
+   "revised": null,
+   "accepted": "2025-03-17",
+   "days": 772
+  },
+  {
+   "doi": "10.1080/00207543.2025.2496965",
+   "title": "A bi-objective optimisation model for the drone scheduling problem in island delivery",
+   "received": "2024-09-30",
+   "revised": null,
+   "accepted": "2025-03-26",
+   "days": 177
+  },
+  {
+   "doi": "10.1080/00207543.2025.2577169",
+   "title": "Equilibrium analysis of live-streaming e-commerce supply chain in the AI era",
+   "received": "2025-01-02",
+   "revised": null,
+   "accepted": "2025-09-26",
+   "days": 267
+  },
+  {
+   "doi": "10.1080/00207543.2025.2568738",
+   "title": "Integrated optimisation of delivery and installation operations in home appliance last-mile logistics",
+   "received": "2024-12-21",
+   "revised": null,
+   "accepted": "2025-09-24",
+   "days": 277
+  },
+  {
+   "doi": "10.1080/00207543.2025.2568988",
+   "title": "Integrated layout design and space allocation in multi-purpose terminals: a bi-level simulation optimisation approach",
+   "received": "2025-04-03",
+   "revised": null,
+   "accepted": "2025-09-24",
+   "days": 174
+  },
+  {
+   "doi": "10.1080/00207543.2024.2443496",
+   "title": "Optimal and near-optimal control of a capacitated assemble-to-order system with component commonality and backordered demands",
+   "received": "2024-08-04",
+   "revised": null,
+   "accepted": "2024-11-16",
+   "days": 104
+  },
+  {
+   "doi": "10.1080/00207543.2024.2443798",
+   "title": "Exploiting travel sequences to optimise facility layouts with multiple input/output points",
+   "received": "2024-03-09",
+   "revised": null,
+   "accepted": "2024-12-10",
+   "days": 276
+  },
+  {
+   "doi": "10.1080/00207543.2024.2430447",
+   "title": "AI-driven dynamic pricing for high-value assets in manufacturing and services: optimizing finite horizon sales with demand sensitivity",
+   "received": "2024-03-01",
+   "revised": null,
+   "accepted": "2024-10-20",
+   "days": 233
+  },
+  {
+   "doi": "10.1080/00207543.2025.2478434",
+   "title": "A fast and scalable deepest-left-bottom-fill algorithm to solve irregular 3D cutting and packing problems using a semi-discrete representation",
+   "received": "2023-11-11",
+   "revised": null,
+   "accepted": "2025-01-12",
+   "days": 428
+  },
+  {
+   "doi": "10.1080/00207543.2025.2512442",
+   "title": "Financial contract invisibility in a competing supply chain",
+   "received": "2025-02-09",
+   "revised": null,
+   "accepted": "2025-05-06",
+   "days": 86
+  },
+  {
+   "doi": "10.1080/00207543.2025.2501165",
+   "title": "Route optimisation for sustainable cold chain logistics: a collaborative distribution model considering on-demand reuse of returnable transport items",
+   "received": "2024-07-02",
+   "revised": null,
+   "accepted": "2025-04-23",
+   "days": 295
+  },
+  {
+   "doi": "10.1080/00207543.2025.2535516",
+   "title": "Resource-constrained project scheduling problem with hybrid energy and dynamic energy prices",
+   "received": "2024-11-14",
+   "revised": null,
+   "accepted": "2025-06-18",
+   "days": 216
+  },
+  {
+   "doi": "10.1080/00207543.2025.2580542",
+   "title": "Deep learning-based energy consumption prediction and anomaly detection of drying system in automotive paint shop",
+   "received": "2024-11-12",
+   "revised": null,
+   "accepted": "2025-10-13",
+   "days": 335
+  },
+  {
+   "doi": "10.1080/00207543.2025.2543964",
+   "title": "Enhancing supply chain visibility with generative AI: an exploratory case study on relationship prediction in knowledge graphs",
+   "received": "2024-11-15",
+   "revised": null,
+   "accepted": "2025-07-30",
+   "days": 257
+  },
+  {
+   "doi": "10.1080/00207543.2025.2470354",
+   "title": "A systematic literature review and research agenda on carbon-neutral supply chains",
+   "received": "2024-06-25",
+   "revised": null,
+   "accepted": "2025-02-10",
+   "days": 230
+  },
+  {
+   "doi": "10.1080/00207543.2025.2579762",
+   "title": "The asymmetric industry contagion effects of peer behaviours for decisioning trade credit",
+   "received": "2025-03-29",
+   "revised": null,
+   "accepted": "2025-10-16",
+   "days": 201
+  },
+  {
+   "doi": "10.1080/00207543.2025.2513577",
+   "title": "A novel distributed fine-grained energy consumption monitoring for large-scale nonlinear dynamic industrial processes",
+   "received": "2025-03-13",
+   "revised": null,
+   "accepted": "2025-05-24",
+   "days": 72
+  },
+  {
+   "doi": "10.1080/00207543.2025.2568740",
+   "title": "HiMAR: a hierarchical context-aware mobile AR assembly for large-scale cable products",
+   "received": "2025-01-04",
+   "revised": null,
+   "accepted": "2025-09-22",
+   "days": 261
+  },
+  {
+   "doi": "10.1080/00207543.2025.2466049",
+   "title": "Robust design and planning of a bioenergy supply chain under multi-uncertainty",
+   "received": "2024-06-07",
+   "revised": null,
+   "accepted": "2025-01-27",
+   "days": 234
+  },
+  {
+   "doi": "10.1080/00207543.2025.2469164",
+   "title": "Robust cross-dock assignment problem with uncertain cost parameters",
+   "received": "2023-09-21",
+   "revised": null,
+   "accepted": "2025-01-05",
+   "days": 472
+  },
+  {
+   "doi": "10.1080/00207543.2025.2512446",
+   "title": "Multi-product pricing and carbon allocations under cap-and-trade regulation and uncertain carbon market",
+   "received": "2024-06-03",
+   "revised": null,
+   "accepted": "2025-05-19",
+   "days": 350
+  },
+  {
+   "doi": "10.1080/00207543.2025.2549139",
+   "title": "Integration strategies for a reverse supply chain with horizontal competitive recycling",
+   "received": "2025-01-06",
+   "revised": null,
+   "accepted": "2025-08-10",
+   "days": 216
+  },
+  {
+   "doi": "10.1080/00207543.2025.2487921",
+   "title": "Real-time shop floor operations improvement based on dynamic value stream mapping and hybrid simulation in Industry 4.0: an economic perspective",
+   "received": "2024-08-09",
+   "revised": null,
+   "accepted": "2025-03-21",
+   "days": 224
+  },
+  {
+   "doi": "10.1080/00207543.2025.2454331",
+   "title": "When is the supply chain resilient? Customer and operational perspectives",
+   "received": "2024-10-16",
+   "revised": null,
+   "accepted": "2025-01-10",
+   "days": 86
+  },
+  {
+   "doi": "10.1080/00207543.2025.2531393",
+   "title": "An edge-cloud collaborative framework for the online optimisation and control of milling deformation",
+   "received": "2024-09-03",
+   "revised": null,
+   "accepted": "2025-06-28",
+   "days": 298
+  },
+  {
+   "doi": "10.1080/00207543.2025.2515514",
+   "title": "Network flow-based deterministic and stochastic models for the integrated lot-sizing and scheduling problem with sequence-dependent set-up costs",
+   "received": "2024-10-16",
+   "revised": null,
+   "accepted": "2025-05-26",
+   "days": 222
+  },
+  {
+   "doi": "10.1080/00207543.2025.2470991",
+   "title": "Local search-based meta-heuristics combined with an improved K-Means++ clustering algorithm for unmanned surface vessel scheduling",
+   "received": "2024-05-06",
+   "revised": null,
+   "accepted": "2025-02-08",
+   "days": 278
+  },
+  {
+   "doi": "10.1080/00207543.2025.2490979",
+   "title": "Production and coopetition strategies in remanufacturing involving knowledge spillovers",
+   "received": "2024-11-18",
+   "revised": null,
+   "accepted": "2025-03-27",
+   "days": 129
+  },
+  {
+   "doi": "10.1080/00207543.2025.2559135",
+   "title": "Optimizing washing machine production at Vestel: a matheuristic approach to planning and scheduling",
+   "received": "2025-05-22",
+   "revised": null,
+   "accepted": "2025-09-02",
+   "days": 103
+  },
+  {
+   "doi": "10.1080/00207543.2024.2448605",
+   "title": "Digital twin-based shop-floor reconfiguration design for uncertainty management",
+   "received": "2024-06-22",
+   "revised": null,
+   "accepted": "2024-10-09",
+   "days": 109
+  },
+  {
+   "doi": "10.1080/00207543.2025.2452385",
+   "title": "Human-robot cooperation two-sided partial disassembly line balancing problem",
+   "received": "2024-07-24",
+   "revised": null,
+   "accepted": "2025-01-06",
+   "days": 166
+  },
+  {
+   "doi": "10.1080/00207543.2025.2545433",
+   "title": "Blockchain and pricing strategies in supply chains considering consumer traceability preference and power structure",
+   "received": "2025-04-07",
+   "revised": null,
+   "accepted": "2025-08-04",
+   "days": 119
+  },
+  {
+   "doi": "10.1080/00207543.2025.2592804",
+   "title": "Condition-Based maintenance for a multi-state weighted\n                    <i>k</i>\n                    -out-of-\n                    <i>n</i>\n        ",
+   "received": "2025-01-22",
+   "revised": null,
+   "accepted": "2025-11-11",
+   "days": 293
+  },
+  {
+   "doi": "10.1080/00207543.2025.2568181",
+   "title": "Facility layout optimisation of an intelligent manufacturing unit based on queueing network and deep reinforcement learning",
+   "received": "2025-05-11",
+   "revised": null,
+   "accepted": "2025-09-22",
+   "days": 134
+  },
+  {
+   "doi": "10.1080/00207543.2024.2442087",
+   "title": "A new MIP RCCP model for tackling tactical project planning",
+   "received": "2024-04-23",
+   "revised": null,
+   "accepted": "2024-11-28",
+   "days": 219
+  },
+  {
+   "doi": "10.1080/00207543.2025.2575847",
+   "title": "Information diffusion game model for a divisional\n                    <i>seru</i>\n                    design in\n                    <i>seru</i>\n      ",
+   "received": "2025-06-14",
+   "revised": null,
+   "accepted": "2025-10-08",
+   "days": 116
+  },
+  {
+   "doi": "10.1080/00207543.2024.2449240",
+   "title": "An end-to-end decentralised scheduling framework based on deep reinforcement learning for dynamic distributed heterogeneous flowshop scheduling",
+   "received": "2024-11-11",
+   "revised": null,
+   "accepted": "2024-12-26",
+   "days": 45
+  },
+  {
+   "doi": "10.1080/00207543.2024.2431178",
+   "title": "A multi-objective artificial bee colony algorithm for single machine scheduling with family setup under TOU tariffs",
+   "received": "2023-12-11",
+   "revised": null,
+   "accepted": "2024-11-06",
+   "days": 331
+  },
+  {
+   "doi": "10.1080/00207543.2025.2523527",
+   "title": "Competitive dynamics in blockchain-based supply chains under cryptocurrency volatility: a game theory approach",
+   "received": "2024-02-23",
+   "revised": null,
+   "accepted": "2025-06-05",
+   "days": 468
+  },
+  {
+   "doi": "10.1080/00207543.2024.2439369",
+   "title": "Scheduling of steelmaking-continuous casting process by integrating deep neural networks with mixed integer programming",
+   "received": "2024-03-04",
+   "revised": null,
+   "accepted": "2024-11-26",
+   "days": 267
+  },
+  {
+   "doi": "10.1080/00207543.2025.2564269",
+   "title": "An investigation into picking norm times and well-being: fatigue-aware order picking planning",
+   "received": "2024-12-18",
+   "revised": null,
+   "accepted": "2025-09-10",
+   "days": 266
+  },
+  {
+   "doi": "10.1080/00207543.2025.2462670",
+   "title": "An adaptive large neighborhood search method for the AGV scheduling problem with a limited number of chargers",
+   "received": "2024-04-15",
+   "revised": null,
+   "accepted": "2025-01-18",
+   "days": 278
+  },
+  {
+   "doi": "10.1080/00207543.2025.2532134",
+   "title": "A novel multi-time scale collaborative process parameters optimisation framework for hot strip rolling process",
+   "received": "2025-01-14",
+   "revised": null,
+   "accepted": "2025-06-26",
+   "days": 163
+  },
+  {
+   "doi": "10.1080/00207543.2025.2502848",
+   "title": "Viable-sustainable supplier selection and order allocation problem considering Industry 5.0 pillars under mixed uncertainty",
+   "received": "2024-03-09",
+   "revised": null,
+   "accepted": "2025-04-23",
+   "days": 410
+  },
+  {
+   "doi": "10.1080/00207543.2025.2534842",
+   "title": "Developing a strategic supply chain resiliency index: an assessment of the global lithium supply for U.S. automotive EV battery production",
+   "received": "2025-02-18",
+   "revised": null,
+   "accepted": "2025-07-01",
+   "days": 133
+  },
+  {
+   "doi": "10.1080/00207543.2024.2447535",
+   "title": "Carbon neutrality and synergy between industrial and innovation chains: green finance perspective",
+   "received": "2024-05-23",
+   "revised": null,
+   "accepted": "2024-12-16",
+   "days": 207
+  },
+  {
+   "doi": "10.1080/00207543.2025.2536191",
+   "title": "Improving asset management capabilities: a novel decision support system for maturity assessment",
+   "received": "2024-08-13",
+   "revised": null,
+   "accepted": "2025-07-13",
+   "days": 334
+  },
+  {
+   "doi": "10.1080/00207543.2025.2563746",
+   "title": "Digital assets in zero-defect manufacturing: literature review and proposed framework",
+   "received": "2025-02-10",
+   "revised": null,
+   "accepted": "2025-09-10",
+   "days": 212
+  },
+  {
+   "doi": "10.1080/00207543.2025.2561774",
+   "title": "Analysis of inspection allocation strategies for genetic manufacturing systems with a generalised nonlinear program",
+   "received": "2024-02-13",
+   "revised": null,
+   "accepted": "2025-08-27",
+   "days": 561
+  },
+  {
+   "doi": "10.1080/00207543.2024.2447933",
+   "title": "Green supply chain knowledge networks and corporate ESG performance: the role of green technology innovation and knowledge integration capability",
+   "received": "2024-04-22",
+   "revised": null,
+   "accepted": "2024-12-21",
+   "days": 243
+  },
+  {
+   "doi": "10.1080/00207543.2025.2584726",
+   "title": "An approximate dynamic programming approach to wafer-lot scheduling for parallel multi-chamber equipment in semiconductor fabrication lines",
+   "received": "2025-03-15",
+   "revised": null,
+   "accepted": "2025-10-27",
+   "days": 226
+  },
+  {
+   "doi": "10.1080/00207543.2025.2479831",
+   "title": "The beer game bullwhip effect mitigation: a deep reinforcement learning approach",
+   "received": "2024-08-27",
+   "revised": null,
+   "accepted": "2025-03-09",
+   "days": 194
+  },
+  {
+   "doi": "10.1080/00207543.2025.2516772",
+   "title": "Solving the slab selection and relocation problem in a real production yard using simulated annealing",
+   "received": "2024-12-11",
+   "revised": null,
+   "accepted": "2025-05-22",
+   "days": 162
+  },
+  {
+   "doi": "10.1080/00207543.2025.2572428",
+   "title": "Implications of retail media network in an online platform with co-opetitive sellers",
+   "received": "2025-03-14",
+   "revised": null,
+   "accepted": "2025-09-29",
+   "days": 199
+  },
+  {
+   "doi": "10.1080/00207543.2025.2571209",
+   "title": "An adaptive online learning scheme for anomaly detection in IIoT data streams under varying operating conditions",
+   "received": "2024-12-15",
+   "revised": null,
+   "accepted": "2025-09-22",
+   "days": 281
+  },
+  {
+   "doi": "10.1080/00207543.2025.2518262",
+   "title": "Blockchain-enabled sustainability of Li-ion batteries supply chain: tracking and sourcing eco-friendly materials",
+   "received": "2024-07-21",
+   "revised": null,
+   "accepted": "2025-06-03",
+   "days": 317
+  },
+  {
+   "doi": "10.1080/00207543.2025.2496976",
+   "title": "Workload control in dual-resource constrained flexible job shops: a simulation analysis",
+   "received": "2024-09-11",
+   "revised": null,
+   "accepted": "2025-04-12",
+   "days": 213
+  },
+  {
+   "doi": "10.1080/00207543.2025.2546653",
+   "title": "Building resilient closed-loop supply chains: resilience enablers and diversified sourcing under global disruptions",
+   "received": "2025-02-14",
+   "revised": null,
+   "accepted": "2025-07-17",
+   "days": 153
+  },
+  {
+   "doi": "10.1080/00207543.2024.2443795",
+   "title": "Request prompt response in same-day delivery problem with drone resupply",
+   "received": "2024-06-01",
+   "revised": null,
+   "accepted": "2024-12-11",
+   "days": 193
+  },
+  {
+   "doi": "10.1080/00207543.2024.2434948",
+   "title": "An LSTM network-based genetic algorithm for integrated procurement and scheduling optimisation",
+   "received": "2024-05-15",
+   "revised": null,
+   "accepted": "2024-11-19",
+   "days": 188
+  },
+  {
+   "doi": "10.1080/00207543.2025.2453648",
+   "title": "Welfare-oriented and public health-aware disaster sheltering network design",
+   "received": "2024-05-08",
+   "revised": null,
+   "accepted": "2025-01-06",
+   "days": 243
+  },
+  {
+   "doi": "10.1080/00207543.2025.2474214",
+   "title": "Delay-tolerated vehicle positioning and scheduling problem at terminal aprons: a target-oriented robust optimisation approach",
+   "received": "2024-09-30",
+   "revised": null,
+   "accepted": "2025-02-21",
+   "days": 144
+  },
+  {
+   "doi": "10.1080/00207543.2024.2436638",
+   "title": "Robust planning of production networks at an automotive supplier",
+   "received": "2023-09-22",
+   "revised": null,
+   "accepted": "2024-11-21",
+   "days": 426
+  },
+  {
+   "doi": "10.1080/00207543.2025.2555534",
+   "title": "Two\u2019s company, three\u2019s a crowd: on the bystander effect and other barriers to collaboration in multi-stage supply chains",
+   "received": "2025-03-20",
+   "revised": null,
+   "accepted": "2025-08-25",
+   "days": 158
+  },
+  {
+   "doi": "10.1080/00207543.2025.2524521",
+   "title": "Optimising batch scheduling on non-identical parallel machines: lower bounds, MIP, branch-and-price, and heuristics",
+   "received": "2024-11-18",
+   "revised": null,
+   "accepted": "2025-06-12",
+   "days": 206
+  },
+  {
+   "doi": "10.1080/00207543.2025.2575082",
+   "title": "Electric vehicle adoption in logistics supply chain",
+   "received": "2025-05-25",
+   "revised": null,
+   "accepted": "2025-10-07",
+   "days": 135
+  },
+  {
+   "doi": "10.1080/00207543.2025.2468391",
+   "title": "Minimum order quantity requirements in the presence of supply disruption risk and retail competition",
+   "received": "2024-03-21",
+   "revised": null,
+   "accepted": "2025-02-08",
+   "days": 324
+  },
+  {
+   "doi": "10.1080/00207543.2025.2452386",
+   "title": "Hierarchical production control and distribution planning under retail uncertainty with reinforcement learning",
+   "received": "2024-06-29",
+   "revised": null,
+   "accepted": "2024-12-26",
+   "days": 180
+  },
+  {
+   "doi": "10.1080/00207543.2025.2480204",
+   "title": "A framework and system architecture for value-oriented digital services in data-driven production logistics",
+   "received": "2023-08-04",
+   "revised": null,
+   "accepted": "2025-03-09",
+   "days": 583
+  },
+  {
+   "doi": "10.1080/00207543.2025.2541026",
+   "title": "Optimising coordination mechanisms for a sustainable ethanol-blended fuel supply chain in India's transportation sector",
+   "received": "2025-04-23",
+   "revised": null,
+   "accepted": "2025-07-20",
+   "days": 88
+  },
+  {
+   "doi": "10.1080/00207543.2024.2448284",
+   "title": "Industrial internet platform-driven decentralised multi-level synchronised reconfiguration of assembly supply chains",
+   "received": "2024-06-20",
+   "revised": null,
+   "accepted": "2024-12-05",
+   "days": 168
+  },
+  {
+   "doi": "10.1080/00207543.2025.2583479",
+   "title": "Preventing traffic manipulation in live-streaming selling: a signalling game perspective",
+   "received": "2025-02-09",
+   "revised": null,
+   "accepted": "2025-10-25",
+   "days": 258
+  },
+  {
+   "doi": "10.1080/00207543.2025.2555533",
+   "title": "Optimal dynamic pricing strategy for non-durable experience goods: the role of consumer AI learning",
+   "received": "2025-02-24",
+   "revised": null,
+   "accepted": "2025-08-26",
+   "days": 183
+  },
+  {
+   "doi": "10.1080/00207543.2025.2541864",
+   "title": "Embracing the new normal: leveraging industry 4.0 for supply chain optimisation and carbon footprint reduction",
+   "received": "2024-02-21",
+   "revised": null,
+   "accepted": "2025-07-24",
+   "days": 519
+  },
+  {
+   "doi": "10.1080/00207543.2025.2542513",
+   "title": "Should KOL live streaming be adopted? A target-oriented newsvendor analysis of supply chain performance",
+   "received": "2025-04-11",
+   "revised": null,
+   "accepted": "2025-07-24",
+   "days": 104
+  },
+  {
+   "doi": "10.1080/00207543.2025.2504165",
+   "title": "Beyond prototyping: mapping the relative advantages of adopting additive manufacturing for industrial production",
+   "received": "2024-08-16",
+   "revised": null,
+   "accepted": "2025-04-25",
+   "days": 252
+  },
+  {
+   "doi": "10.1080/00207543.2025.2497961",
+   "title": "Dynamic scheduling for flexible job-shop with reconfigurable manufacturing cells considering dynamic job arrivals based on deep reinforcement learning",
+   "received": "2024-12-30",
+   "revised": null,
+   "accepted": "2025-04-12",
+   "days": 103
+  },
+  {
+   "doi": "10.1080/00207543.2025.2487924",
+   "title": "Investigating the convenience of adopting passive exoskeletons in order picking",
+   "received": "2024-10-09",
+   "revised": null,
+   "accepted": "2025-03-26",
+   "days": 168
+  },
+  {
+   "doi": "10.1080/00207543.2024.2439367",
+   "title": "Joint optimisation of product family configuration and supply chain resilience",
+   "received": "2024-05-26",
+   "revised": null,
+   "accepted": "2024-11-26",
+   "days": 184
+  },
+  {
+   "doi": "10.1080/00207543.2025.2579766",
+   "title": "A complex product configuration design method considering supplier risk",
+   "received": "2025-06-04",
+   "revised": null,
+   "accepted": "2025-10-16",
+   "days": 134
+  },
+  {
+   "doi": "10.1080/00207543.2025.2508328",
+   "title": "Early payment, R&amp;D investment, and firm performance in a technology-intensive supply chain",
+   "received": "2024-11-29",
+   "revised": null,
+   "accepted": "2025-05-04",
+   "days": 156
+  },
+  {
+   "doi": "10.1080/00207543.2025.2508917",
+   "title": "An optimisation model and algorithm for job scheduling with extra resource allocation in shipbuilding",
+   "received": "2024-09-20",
+   "revised": null,
+   "accepted": "2025-04-28",
+   "days": 220
+  },
+  {
+   "doi": "10.1080/00207543.2024.2449238",
+   "title": "Collection and sorting debris management after technological disasters",
+   "received": "2024-03-08",
+   "revised": null,
+   "accepted": "2024-11-07",
+   "days": 244
+  },
+  {
+   "doi": "10.1080/00207543.2025.2507107",
+   "title": "Multi-level risk assessment in additive manufacturing systems: a multiplicative nonparametric approach",
+   "received": "2024-12-19",
+   "revised": null,
+   "accepted": "2025-04-25",
+   "days": 127
+  },
+  {
+   "doi": "10.1080/00207543.2025.2566975",
+   "title": "Optimal maintenance policy with degradation-shock dependence and a reliability constraint using simulation optimisation",
+   "received": "2024-07-22",
+   "revised": null,
+   "accepted": "2025-09-03",
+   "days": 408
+  },
+  {
+   "doi": "10.1080/00207543.2025.2513573",
+   "title": "How does human work behaviour affect the design of serial production lines?",
+   "received": "2024-11-28",
+   "revised": null,
+   "accepted": "2025-05-16",
+   "days": 169
+  },
+  {
+   "doi": "10.1080/00207543.2025.2542961",
+   "title": "Enabling pro-circular behaviours in SMEs: a role-based approach for sustainable metalworking industry",
+   "received": "2024-02-21",
+   "revised": null,
+   "accepted": "2025-07-20",
+   "days": 515
+  },
+  {
+   "doi": "10.1080/00207543.2025.2474215",
+   "title": "Dynamic layout design for scalable reconfigurable manufacturing systems",
+   "received": "2024-09-17",
+   "revised": null,
+   "accepted": "2025-02-18",
+   "days": 154
+  },
+  {
+   "doi": "10.1080/00207543.2025.2507112",
+   "title": "Integrating digital twin and blockchain for responsive working capital management in supply chains facing financial disruptions",
+   "received": "2024-11-28",
+   "revised": null,
+   "accepted": "2025-05-08",
+   "days": 161
+  },
+  {
+   "doi": "10.1080/00207543.2025.2533520",
+   "title": "Comparing fixed and walking worker strategies: design implications of individual worker efficiency on assembly line performance",
+   "received": "2024-11-22",
+   "revised": null,
+   "accepted": "2025-07-05",
+   "days": 225
+  },
+  {
+   "doi": "10.1080/00207543.2025.2555532",
+   "title": "Real-time AGV cluster scheduling using attention-enhanced PPO and strategy transfer in large-scale solar cell production workshops with multiple concu",
+   "received": "2024-08-22",
+   "revised": null,
+   "accepted": "2025-08-22",
+   "days": 365
+  },
+  {
+   "doi": "10.1080/00207543.2025.2552281",
+   "title": "Managing technology-related disruptions and vulnerabilities in highly automated warehouse systems: an integrative review and research agenda",
+   "received": "2024-10-01",
+   "revised": null,
+   "accepted": "2025-08-16",
+   "days": 319
+  },
+  {
+   "doi": "10.1080/00207543.2025.2543486",
+   "title": "Optimal decisions of power battery production and repurposing rate under different repurposed battery markets and repurposing parties",
+   "received": "2024-04-28",
+   "revised": null,
+   "accepted": "2025-07-26",
+   "days": 454
+  },
+  {
+   "doi": "10.1080/00207543.2025.2453828",
+   "title": "Digitalisation of spare parts provision: co-evolution of digital service providers and original equipment manufacturers",
+   "received": "2024-06-03",
+   "revised": null,
+   "accepted": "2025-01-06",
+   "days": 217
+  },
+  {
+   "doi": "10.1080/00207543.2025.2543492",
+   "title": "Integrated optimisation of production scheduling, maintenance, and quality control under non-homogeneous poisson process failures with multiple assign",
+   "received": "2024-10-07",
+   "revised": null,
+   "accepted": "2025-07-27",
+   "days": 293
+  },
+  {
+   "doi": "10.1080/00207543.2025.2535515",
+   "title": "AI-enabled vision systems for human-centered order picking \u2013 A design science research approach",
+   "received": "2024-12-10",
+   "revised": null,
+   "accepted": "2025-07-12",
+   "days": 214
+  },
+  {
+   "doi": "10.1080/00207543.2025.2509170",
+   "title": "Overcoming the productivity challenge in product life-extending operations: a multiple-case study of European facilities",
+   "received": "2023-12-11",
+   "revised": null,
+   "accepted": "2025-05-11",
+   "days": 517
+  },
+  {
+   "doi": "10.1080/00207543.2025.2514728",
+   "title": "Success criteria for value-oriented digital twin development and implementation: insights from an industry case study",
+   "received": "2024-11-01",
+   "revised": null,
+   "accepted": "2025-05-19",
+   "days": 199
+  },
+  {
+   "doi": "10.1080/00207543.2025.2466067",
+   "title": "Indirect health state prognosis of lithium-ion batteries based on VMD decomposition and neural network model",
+   "received": "2024-07-22",
+   "revised": null,
+   "accepted": "2025-01-26",
+   "days": 188
+  },
+  {
+   "doi": "10.1080/00207543.2025.2468883",
+   "title": "Digitalisation and technological innovation: panaceas for sustainability?",
+   "received": "2024-04-26",
+   "revised": null,
+   "accepted": "2025-02-03",
+   "days": 283
+  },
+  {
+   "doi": "10.1080/00207543.2025.2562971",
+   "title": "Mitigating the bullwhip effect through digital transformation: how customer firms shape supplier risk-taking behaviour",
+   "received": "2025-03-20",
+   "revised": null,
+   "accepted": "2025-09-10",
+   "days": 174
+  },
+  {
+   "doi": "10.1080/00207543.2025.2461131",
+   "title": "Flexible material handling system for multi-load autonomous mobile robots in manufacturing environments: a hierarchical reinforcement learning approac",
+   "received": "2024-08-06",
+   "revised": null,
+   "accepted": "2025-01-18",
+   "days": 165
+  },
+  {
+   "doi": "10.1080/00207543.2025.2513574",
+   "title": "A review of explainable artificial intelligence in smart manufacturing",
+   "received": "2025-01-03",
+   "revised": null,
+   "accepted": "2025-05-03",
+   "days": 120
+  },
+  {
+   "doi": "10.1080/00207543.2025.2578701",
+   "title": "Machine learning algorithms in intermittent demand forecasting: a review",
+   "received": "2025-04-26",
+   "revised": null,
+   "accepted": "2025-09-22",
+   "days": 149
+  },
+  {
+   "doi": "10.1080/00207543.2025.2550457",
+   "title": "Optimal mode selection strategy for blockchain-enabled remanufacturing trading platform operations: competition vs. cooperation",
+   "received": "2024-11-06",
+   "revised": null,
+   "accepted": "2025-08-13",
+   "days": 280
+  },
+  {
+   "doi": "10.1080/00207543.2025.2584731",
+   "title": "Mathematical modelling of carbon emissions and production-transportation joint scheduling for anodising workshop",
+   "received": "2025-02-09",
+   "revised": null,
+   "accepted": "2025-10-25",
+   "days": 258
+  },
+  {
+   "doi": "10.1080/00207543.2024.2445710",
+   "title": "Enhancing scalable reconfigurable manufacturing systems through robust optimisation: energy efficiency and cost minimisation under uncertainty",
+   "received": "2024-09-24",
+   "revised": null,
+   "accepted": "2024-12-10",
+   "days": 77
+  },
+  {
+   "doi": "10.1080/00207543.2025.2578700",
+   "title": "A matheuristic for lot-streaming scheduling in a flexible job shop with variable sublots and intermingling settings",
+   "received": "2025-04-02",
+   "revised": null,
+   "accepted": "2025-10-15",
+   "days": 196
+  },
+  {
+   "doi": "10.1080/00207543.2025.2569825",
+   "title": "The effects of individual abilities and training strategy on learning: an empirical investigation in assembly tasks",
+   "received": "2025-04-22",
+   "revised": null,
+   "accepted": "2025-09-26",
+   "days": 157
+  },
+  {
+   "doi": "10.1080/00207543.2025.2481184",
+   "title": "Towards Industry 5.0: digital twin-enhanced approach for dynamic supply chain rescheduling with real-time order arrival and acceptance",
+   "received": "2024-10-30",
+   "revised": null,
+   "accepted": "2025-03-10",
+   "days": 131
+  },
+  {
+   "doi": "10.1080/00207543.2025.2464904",
+   "title": "Social sustainability in manufacturing: where are we?",
+   "received": "2024-07-05",
+   "revised": null,
+   "accepted": "2025-02-03",
+   "days": 213
+  },
+  {
+   "doi": "10.1080/00207543.2025.2566248",
+   "title": "Strategic KOL-platform marketing cooperation in livestream commerce",
+   "received": "2024-12-31",
+   "revised": null,
+   "accepted": "2025-09-18",
+   "days": 261
+  },
+  {
+   "doi": "10.1080/00207543.2025.2502106",
+   "title": "Multi-objective scheduling for surface mount technology workshop: automatic design of two-layer decomposition-based approach",
+   "received": "2024-12-30",
+   "revised": null,
+   "accepted": "2025-04-28",
+   "days": 119
+  }
+ ]
+}

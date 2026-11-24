@@ -1,0 +1,1597 @@
+{
+ "issn": "1471-2288",
+ "journal": "BMC Medical Research Methodology",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:12.390443",
+ "source": "https://api.crossref.org/journals/1471-2288/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12874-024-02441-w",
+   "title": "Statistical methods in the analysis of multicentre HIV randomized controlled trials in the African region: a scoping review",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12874-025-02657-4",
+   "title": "BRIDGe recruitment strategies for frail older adults in intervention trials: lessons learned from the ACTIVE-AGE@home trial",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12874-025-02539-9",
+   "title": "Exploring the use of the aboriginal and Torres Strait Islander quality appraisal tool in Indigenous health research",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 316
+  },
+  {
+   "doi": "10.1186/s12874-025-02525-1",
+   "title": "A flexible framework for local-level estimation of the effective reproductive number in geographic regions with sparse data",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12874-025-02515-3",
+   "title": "Handling of missing component information for common composite score outcomes used in axial spondyloarthritis research when complete-case analysis is ",
+   "received": "28 November 2023",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 449
+  },
+  {
+   "doi": "10.1186/s12874-025-02647-6",
+   "title": "Prediction-powered inference for clinical trials: application to linear covariate adjustment",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1186/s12874-024-02430-z",
+   "title": "Efficient evidence selection for systematic reviews in traditional Chinese medicine",
+   "received": "11 December 2023",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 352
+  },
+  {
+   "doi": "10.1186/s12874-025-02463-y",
+   "title": "Externally validated and clinically useful machine learning algorithms to support patient-related decision-making in oncology: a scoping review",
+   "received": "9 November 2023",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 421
+  },
+  {
+   "doi": "10.1186/s12874-025-02561-x",
+   "title": "Comparison of methods for tuning machine learning model hyper-parameters: with application to predicting high-need high-cost health care users",
+   "received": "20 April 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 359
+  },
+  {
+   "doi": "10.1186/s12874-025-02555-9",
+   "title": "Two-stage multiple imputation with a longitudinal composite variable",
+   "received": "8 January 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 456
+  },
+  {
+   "doi": "10.1186/s12874-025-02579-1",
+   "title": "A new framework for disentangling different components of excess mortality applied to Dutch care home residents during Covid-19",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s12874-025-02639-6",
+   "title": "Prediction model developed on the basis of meta-analysis in the field of medicine: a systematic survey and methodological summaries",
+   "received": "24 May 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s12874-025-02516-2",
+   "title": "The reporting quality and methodological quality of dynamic prediction models for cancer prognosis",
+   "received": "27 January 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 390
+  },
+  {
+   "doi": "10.1186/s12874-025-02624-z",
+   "title": "Evaluation of SURUS: a named entity recognition NLP system to extract knowledge from interventional study records",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s12874-025-02564-8",
+   "title": "Equality, equity, diversity, and inclusion principles: how should we apply these to statistical methodology research?",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1186/s12874-025-02658-3",
+   "title": "Meta-analysis models relaxing the random-effects normality assumption: methodological systematic review and simulation study",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s12874-025-02613-2",
+   "title": "Integration of former child and adolescent study participants into a national health online panel for a longitudinal study on young adult mental healt",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12874-024-02422-z",
+   "title": "Detecting cardiovascular diseases using unsupervised machine learning clustering based on electronic medical records",
+   "received": "18 October 2023",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 404
+  },
+  {
+   "doi": "10.1186/s12874-025-02593-3",
+   "title": "Comparison of total event analysis and first event analysis in relation to heterogeneity in cardiovascular trials",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12874-025-02568-4",
+   "title": "Dietary misreporting: a comparative study of recalls vs energy expenditure and energy intake by doubly-labeled water in older adults with overweight o",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s12874-025-02597-z",
+   "title": "Trials evaluating drug discontinuation: a scoping review sub-analysis focusing on outcomes and research questions",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s12874-025-02491-8",
+   "title": "Quality of guidelines for infection management in sepsis: a critical appraisal using the AGREE II instrument",
+   "received": "13 April 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 662
+  },
+  {
+   "doi": "10.1186/s12874-025-02509-1",
+   "title": "A comparison of methods for analysing compositional data with fixed and variable totals: a simulation study using the examples of time-use and dietary",
+   "received": "25 May 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s12874-025-02638-7",
+   "title": "Pathfinder studies: a novel tool for process mapping data-driven health research to build global research capacity",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s12874-025-02696-x",
+   "title": "Identifying delayed human response to external risks: an econometric analysis of mobility change during a pandemic",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 346
+  },
+  {
+   "doi": "10.1186/s12874-025-02695-y",
+   "title": "Understanding the heterogeneity in healthcare expenditure in India",
+   "received": "1 November 2023",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 698
+  },
+  {
+   "doi": "10.1186/s12874-024-02432-x",
+   "title": "Detecting departures from the conditional independence assumption in diagnostic latent class models: a simulation study",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s12874-024-02423-y",
+   "title": "A data-driven approach to study temporal characteristics of COVID-19 infection and death Time Series for twelve countries across six continents",
+   "received": "9 November 2023",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 383
+  },
+  {
+   "doi": "10.1186/s12874-025-02711-1",
+   "title": "Estimating standard deviation via sample mean extended quantile estimation",
+   "received": "22 July 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s12874-025-02464-x",
+   "title": "Recruiting participants for focus groups in health research: a meta-research study",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 252
+  },
+  {
+   "doi": "10.1186/s12874-025-02671-6",
+   "title": "A-calibration: assessment of prediction models for survival data under censoring",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s12874-025-02649-4",
+   "title": "3D IntelliGenes: AI/ML application using multi-omics data for biomarker discovery and disease prediction with multi-dimensional visualization",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s12874-025-02499-0",
+   "title": "Ranking of treatments in network meta-analysis: incorporating minimally important differences",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s12874-025-02489-2",
+   "title": "Application of causal forests to randomised controlled trial data to identify heterogeneous treatment effects: a case study",
+   "received": "28 June 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 586
+  },
+  {
+   "doi": "10.1186/s12874-025-02551-z",
+   "title": "Flexible quantitative bias analysis for unmeasured confounding in subject-level indirect treatment comparisons with proportional hazards violation",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s12874-025-02531-3",
+   "title": "Evaluating methods to define place of residence in Canadian administrative data and the impact on observed associations with all-cause mortality in ty",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12874-025-02680-5",
+   "title": "Methodological and applicability pitfalls of clinical prediction models for asthma diagnosis: a systematic review and critical appraisal of evidence",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1186/s12874-025-02660-9",
+   "title": "Estimating comparative effectiveness using Single-Arm trials: A challenge in the field of agnosticism",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12874-025-02577-3",
+   "title": "Grey literature scoping review: a synthesis of the application of participatory methodologies in underrepresented groups at an elevated risk of dement",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s12874-024-02431-y",
+   "title": "A comprehensive guide to study the agreement and reliability of multi-observer ordinal data",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s12874-025-02535-z",
+   "title": "Investigator-initiated versus industry-sponsored trials \u2013 visibility and relevance of randomized controlled trials in clinical practice guidelines (IM",
+   "received": "12 January 2025",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s12874-024-02428-7",
+   "title": "The necessity of validity diagnostics when drawing causal inferences from observational data: lessons from a multi-database evaluation of the risk of ",
+   "received": "4 December 2023",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 359
+  },
+  {
+   "doi": "10.1186/s12874-024-02417-w",
+   "title": "Exploratory interviews with Australian clinical research staff on how they communicate with participants",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s12874-025-02506-4",
+   "title": "Cohort data with dropout: a simulation study comparing five longitudinal analysis methods",
+   "received": "26 August 2023",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 536
+  },
+  {
+   "doi": "10.1186/s12874-025-02659-2",
+   "title": "Key considerations and recommendations for recruiting older adults in physical activity studies",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s12874-025-02673-4",
+   "title": "Estimating the causal effects of exposure mixtures: a generalized propensity score method",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12874-024-02402-3",
+   "title": "Non-collapsibility and built-in selection bias of period-specific and conventional hazard ratio in randomized controlled trials",
+   "received": "29 December 2023",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 311
+  },
+  {
+   "doi": "10.1186/s12874-025-02478-5",
+   "title": "Construction of the cancer patients\u2019 database based on the US National Health and Nutrition Examination Survey (NHANES) datasets for cancer epidemiolo",
+   "received": "21 November 2023",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 423
+  },
+  {
+   "doi": "10.1186/s12874-025-02714-y",
+   "title": "Inference in group sequential designs with causal mechanisms: implications for power and mediation analysis",
+   "received": "10 July 2025",
+   "revised": null,
+   "accepted": "18 October 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s12874-025-02458-9",
+   "title": "Time and cost of linking administrative datasets for outcomes assessment in a follow-up study of participants from two randomised trials",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s12874-024-02449-2",
+   "title": "Development of a standardized patient-reported clinical questionnaire for children with spinal pain",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 269
+  },
+  {
+   "doi": "10.1186/s12874-025-02508-2",
+   "title": "Assessing racial disparities in healthcare expenditure using generalized propensity score weighting",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s12874-025-02485-6",
+   "title": "Joint modelling of longitudinal data: a scoping review of methodology and applications for non-time to event data",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "31 January 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12874-025-02655-6",
+   "title": "Two-stage sampling for better survival model performance",
+   "received": "8 December 2024",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1186/s12874-025-02529-x",
+   "title": "Comparison of health measures between survey self-reports and electronic health records among Millennium Cohort Study participants receiving Veterans ",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 298
+  },
+  {
+   "doi": "10.1186/s12874-024-02437-6",
+   "title": "Addressing treatment switching in the ALTA-1L trial with g-methods: exploring the impact of model specification",
+   "received": "17 March 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 261
+  },
+  {
+   "doi": "10.1186/s12874-025-02674-3",
+   "title": "A human-LLM collaborative annotation approach for screening articles on precision oncology randomized controlled trials",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 377
+  },
+  {
+   "doi": "10.1186/s12874-025-02549-7",
+   "title": "Development and validation of a distributed representation model of Japanese high-dimensional administrative claims data for clinical epidemiology stu",
+   "received": "9 January 2024",
+   "revised": null,
+   "accepted": "4 April 2025",
+   "days": 451
+  },
+  {
+   "doi": "10.1186/s12874-025-02556-8",
+   "title": "Interpretation of coefficients in segmented regression for interrupted time series analyses",
+   "received": "20 February 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 413
+  },
+  {
+   "doi": "10.1186/s12874-025-02459-8",
+   "title": "Improving patient clustering by incorporating structured variable label relationships in similarity measures",
+   "received": "16 June 2023",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 567
+  },
+  {
+   "doi": "10.1186/s12874-025-02588-0",
+   "title": "Veteran participation in the All of Us Research Program: applying an intersectionality lens to evaluate participant diversity",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s12874-025-02465-w",
+   "title": "Analysis methods for covariate-constrained cluster randomized trials with time-to-event outcomes",
+   "received": "9 May 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1186/s12874-025-02512-6",
+   "title": "A discrete-time split-state framework for multi-state modeling with application to describing the course of heart disease",
+   "received": "12 June 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1186/s12874-025-02594-2",
+   "title": "Comparison of methods to handle missing values in a continuous index test in a diagnostic accuracy study \u2013 a simulation study",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s12874-025-02706-y",
+   "title": "A methodology for developing dermatological datasets: lessons from retrospective data collection for AI-based applications",
+   "received": "19 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12874-025-02471-y",
+   "title": "Protocol publication rate and comparison between article, registry and protocol in RCTs",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12874-025-02611-4",
+   "title": "Over- and under-estimation of vaccine effectiveness",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1186/s12874-025-02532-2",
+   "title": "Evaluating the performance of artificial intelligence in summarizing pre-coded text to support evidence synthesis: a comparison between chatbots and h",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12874-025-02528-y",
+   "title": "Using artificial intelligence for systematic review: the example of elicit",
+   "received": "13 October 2023",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 511
+  },
+  {
+   "doi": "10.1186/s12874-025-02664-5",
+   "title": "Random-effects meta-analysis models for pooling rare events data: a comparison between frequentist and bayesian methods",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1186/s12874-025-02669-0",
+   "title": "Semiautomatic mapping of a national drug terminology to standardised OMOP drug concepts using publicly available supplementary information",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1186/s12874-025-02575-5",
+   "title": "The REFRACT trial: implementation of Bayesian power priors in a randomised, sequential phase II adaptive platform trial",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s12874-025-02537-x",
+   "title": "A comparison of frequentist and Bayesian approaches to the Personalised Randomised Controlled Trial (PRACTical)\u2014design and analysis considerations",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s12874-025-02481-w",
+   "title": "Propensity Score Matching: should we use it in designing observational studies?",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12874-025-02675-2",
+   "title": "Comparing causal inference methods for point exposures with missing confounders: a simulation study",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 342
+  },
+  {
+   "doi": "10.1186/s12874-025-02699-8",
+   "title": "Response to \u201cThe importance of considering variability in re-expression of effect estimates for use in meta-analysis.\u201d (Kopylev and Dzierlenga 2025)",
+   "received": "15 August 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s12874-025-02637-8",
+   "title": "Towards robust electronic health record systems: integrating formal verification and process modeling techniques",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s12874-025-02476-7",
+   "title": "Multiple states clustering analysis (MSCA), an unsupervised approach to multiple time-to-event electronic health records applied to multimorbidity ass",
+   "received": "30 June 2023",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 567
+  },
+  {
+   "doi": "10.1186/s12874-025-02609-y",
+   "title": "VAS value set still has its own application value compare with TTO value set of EQ-5D-3L in Chinese population",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s12874-025-02546-w",
+   "title": "Power analysis for concurrent balanced or imbalanced multiple-intervention stepped wedge design: a simulation-based approach",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12874-025-02627-w",
+   "title": "Inverse probability weighting for causal inference in hierarchical data",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12874-025-02467-8",
+   "title": "Reducing risk of bias in interventional studies during their design and conduct: a scoping review",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s12874-025-02524-2",
+   "title": "Building a synthesis-ready research ecosystem: fostering collaboration and open science to accelerate biomedical translation",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12874-024-02439-4",
+   "title": "The use of sequential multiple assignment randomized trials (SMARTs) in physical activity interventions: a systematic review",
+   "received": "8 September 2023",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 454
+  },
+  {
+   "doi": "10.1186/s12874-025-02521-5",
+   "title": "Measuring adversity in the ABCD\u00ae Study: systematic review and recommendations for best practices",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12874-025-02681-4",
+   "title": "Benefits of group sequential design and sample size re-estimation for randomised controlled trials evaluating the prevention of ventilator-associated ",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1186/s12874-025-02653-8",
+   "title": "Two-part model for ventilator-free days in a cluster randomized cross-over clinical trial",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 383
+  },
+  {
+   "doi": "10.1186/s12874-025-02552-y",
+   "title": "Assessing and adjusting for bias in ecological analysis using multiple sample datasets",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 178
+  },
+  {
+   "doi": "10.1186/s12874-025-02682-3",
+   "title": "Moving towards accurate and transparent AMSTAR 2 ratings and correcting the record on Cochrane reviews",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 578
+  },
+  {
+   "doi": "10.1186/s12874-025-02534-0",
+   "title": "Defining expert opinion in clinical guidelines: insights from 98 scientific societies \u2013 a methodological study",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s12874-025-02686-z",
+   "title": "HILAMA: High-dimensional multi-omics mediation analysis with latent confounding",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 415
+  },
+  {
+   "doi": "10.1186/s12874-025-02462-z",
+   "title": "Dropping out of a peripartum depression mHealth study: participants\u2019 motives and suggestions for improvement",
+   "received": "14 September 2023",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 477
+  },
+  {
+   "doi": "10.1186/s12874-025-02644-9",
+   "title": "Artificial intelligence for the science of evidence synthesis: how good are AI-powered tools for automatic literature screening?",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12874-024-02413-0",
+   "title": "CRIME-Q\u2014a unifying tool for critical appraisal of methodological (technical) quality, quality of reporting and risk of bias in animal research",
+   "received": "10 July 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 490
+  },
+  {
+   "doi": "10.1186/s12874-025-02501-9",
+   "title": "Evaluation of intervention systematic reviews on chronic non-communicable diseases and lifestyle risk factors in low-middle income countries: meta-res",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 307
+  },
+  {
+   "doi": "10.1186/s12874-025-02493-6",
+   "title": "Accounting for extent of non-compliance when estimating treatment effects on an ordinal outcome in randomized clinical trials",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s12874-025-02677-0",
+   "title": "Assessing the reporting quality of educational interventions in trials on caregiver education for children with developmental disabilities using the G",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s12874-025-02517-1",
+   "title": "Modeling the temporal prevalence peak drift of chronic diseases",
+   "received": "13 October 2023",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 500
+  },
+  {
+   "doi": "10.1186/s12874-025-02646-7",
+   "title": "Discovering heterogeneous treatment effects on slope-based endpoints in chronic kidney disease trials",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s12874-025-02692-1",
+   "title": "Utilizing stratified double response techniques in public health investigations to optimize privacy and efficiency via sensitive data estimation",
+   "received": "10 July 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s12874-025-02494-5",
+   "title": "Comprehensive implementations of multiple imputation using retrieved dropouts for continuous endpoints",
+   "received": "9 May 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 270
+  },
+  {
+   "doi": "10.1186/s12874-025-02640-z",
+   "title": "Effectiveness of a local recruitment registry in older adults in Southern California",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s12874-025-02533-1",
+   "title": "Longitudinal tracking of healthcare professionals: a methodological scoping review",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 364
+  },
+  {
+   "doi": "10.1186/s12874-025-02641-y",
+   "title": "Assessing the robustness of normality tests under varying skewness and kurtosis: a practical checklist for public health researchers",
+   "received": "31 May 2025",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s12874-025-02474-9",
+   "title": "Assessing the representativeness of large medical data using population stability index",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s12874-025-02527-z",
+   "title": "Overcoming challenges in prevalence meta-analysis: the case for the Freeman-Tukey transform",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s12874-025-02719-7",
+   "title": "Alternative tests and measures for between-study inconsistency in meta-analysis",
+   "received": "29 July 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12874-025-02622-1",
+   "title": "A scoping review of statistical methods used to report EORTC QLQ-C30 quality of life scores measured longitudinally",
+   "received": "22 November 2023",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 579
+  },
+  {
+   "doi": "10.1186/s12874-025-02492-7",
+   "title": "An algorithm to assess importance of predictors in systematic reviews of prediction models: a case study with simulations",
+   "received": "12 October 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 480
+  },
+  {
+   "doi": "10.1186/s12874-024-02390-4",
+   "title": "Predicting the time to get back to work using statistical models and machine learning approaches",
+   "received": "22 September 2023",
+   "revised": null,
+   "accepted": "28 October 2024",
+   "days": 402
+  },
+  {
+   "doi": "10.1186/s12874-024-02445-6",
+   "title": "Predicting kidney graft function and failure among kidney transplant recipients",
+   "received": "31 October 2023",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 412
+  },
+  {
+   "doi": "10.1186/s12874-024-02401-4",
+   "title": "Exploring the characteristics, methods and reporting of systematic reviews with meta-analyses of time-to-event outcomes: a meta-epidemiological study",
+   "received": "17 October 2023",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 384
+  },
+  {
+   "doi": "10.1186/s12874-025-02457-w",
+   "title": "Identify the underlying true model from other models for clinical practice using model performance measures",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1186/s12874-025-02565-7",
+   "title": "CASCADE: a community-engaged action model for generating rapid, patient-engaged decisions in clinical research",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s12874-025-02560-y",
+   "title": "Six solutions for clinical study data sharing in Germany",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s12874-025-02479-4",
+   "title": "Enhancing insight into regional differences: hierarchical linear models in multiregional clinical trials",
+   "received": "18 November 2023",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 429
+  },
+  {
+   "doi": "10.1186/s12874-024-02433-w",
+   "title": "A prediction approach to COVID-19 time series with LSTM integrated attention mechanism and transfer learning",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12874-025-02470-z",
+   "title": "Scalable information extraction from free text electronic health records using large language models",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s12874-024-02416-x",
+   "title": "Causal effect of chemotherapy received dose intensity on survival outcome: a retrospective study in osteosarcoma",
+   "received": "24 November 2023",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 355
+  },
+  {
+   "doi": "10.1186/s12874-025-02595-1",
+   "title": "Optimising dynamic treatment regimens using sequential multiple assignment randomised trials data with missing data",
+   "received": "12 May 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 366
+  },
+  {
+   "doi": "10.1186/s12874-024-02414-z",
+   "title": "A PubMed search filter for efficiently retrieving exercise training studies",
+   "received": "15 November 2023",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 362
+  },
+  {
+   "doi": "10.1186/s12874-025-02483-8",
+   "title": "The Danish Drowning Cohort: Utstein-style data from fatal and non-fatal drowning incidents in Denmark",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s12874-025-02604-3",
+   "title": "Power and sample size calculation for non-inferiority trials with treatment switching in intention-to-treat analysis comparing RMSTs",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s12874-025-02570-w",
+   "title": "Barriers and strategies for recruitment of pregnant women in contemporary longitudinal birth cohort studies",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s12874-025-02599-x",
+   "title": "Evaluating blood sampling strategies within the SIREN study: the experience from a large cohort of healthcare workers in the UK",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12874-025-02554-w",
+   "title": "Regularized win ratio regression for variable selection and risk prediction, with an application to a cardiovascular trial",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s12874-025-02591-5",
+   "title": "An extension of the Spiegelhalter-Knill-Jones method for continuous covariates in clinical decision making",
+   "received": "11 January 2024",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 484
+  },
+  {
+   "doi": "10.1186/s12874-025-02504-6",
+   "title": "Simulating hierarchical data to assess the utility of ecological versus multilevel analyses in obtaining individual-level causal effects",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 293
+  },
+  {
+   "doi": "10.1186/s12874-025-02553-x",
+   "title": "Causal inference methodologies to assess the effect of missed clinic visits on treatment success rate among people with tuberculosis in rural Uganda",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12874-025-02582-6",
+   "title": "DAGSLAM: causal Bayesian network structure learning of mixed type data and its application in identifying disease risk factors",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s12874-025-02585-3",
+   "title": "Reviewing methodological approaches to dose-response modelling in complex interventions: insights and perspectives",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1186/s12874-025-02507-3",
+   "title": "Combining treatment effects from mixed populations in meta-analysis: a review of methods",
+   "received": "29 May 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1186/s12874-025-02587-1",
+   "title": "Data sharing practices in high-impact rehabilitation journals",
+   "received": "22 February 2025",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12874-024-02315-1",
+   "title": "Tips from an expert panel on the development of a clinical research protocol",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "21 August 2024",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s12874-025-02497-2",
+   "title": "Assessing non-inferiority for binary matched-pairs data with missing values: a powerful and flexible GEE approach based on the risk difference",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12874-025-02480-x",
+   "title": "Unanchored simulated treatment comparison on survival outcomes using parametric and Royston-Parmar models with application to lenvatinib plus pembroli",
+   "received": "1 December 2023",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 416
+  },
+  {
+   "doi": "10.1186/s12874-024-02424-x",
+   "title": "Comparing Medical Record Abstraction (MRA) error rates in an observational study to pooled rates identified in the data quality literature",
+   "received": "14 March 2023",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 623
+  },
+  {
+   "doi": "10.1186/s12874-025-02701-3",
+   "title": "Use of quasi-experimental studies to evaluate causal effects of public health interventions in Portugal: a scoping review",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s12874-025-02606-1",
+   "title": "Agreement and utility of coded primary and secondary care data for long-term follow-up of clinical trial outcomes",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s12874-025-02473-w",
+   "title": "Artificial intelligence methods applied to longitudinal data from electronic health records for prediction of cancer: a scoping review",
+   "received": "30 May 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 232
+  },
+  {
+   "doi": "10.1186/s12874-025-02542-0",
+   "title": "Combining machine learning and dynamic system techniques to early detection of respiratory outbreaks in routinely collected primary healthcare records",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 323
+  },
+  {
+   "doi": "10.1186/s12874-024-02443-8",
+   "title": "Efficient analysis of drug interactions in liver injury: a retrospective study leveraging natural language processing and machine learning",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 211
+  },
+  {
+   "doi": "10.1186/s12874-025-02712-0",
+   "title": "\u201cCake causes herpes?\u201d - promiscuous dichotomisation induces false positives",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12874-025-02700-4",
+   "title": "The importance of considering variability in re-expression of effect estimates for use in meta-analyses",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 452
+  },
+  {
+   "doi": "10.1186/s12874-025-02530-4",
+   "title": "Public engagement with science: an inclusive approach to innovate in health research with real-world data",
+   "received": "30 November 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s12874-024-02452-7",
+   "title": "Integrating fractional-order SEI1I2I3QCR model with awareness and non-pharmaceutical interventions for optimal COVID-19 pandemic",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s12874-025-02705-z",
+   "title": "Characteristics of cohort data management systems (CDMS): a scoping review",
+   "received": "3 May 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s12874-025-02704-0",
+   "title": "Covariate selection strategies and estimands - a review of current practice of risk factor analysis from a causal perspective",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 331
+  },
+  {
+   "doi": "10.1186/s12874-024-02436-7",
+   "title": "An empirical study on 209 networks of treatments revealed intransitivity to be common and multiple statistical tests suboptimal to assess transitivity",
+   "received": "5 April 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 238
+  },
+  {
+   "doi": "10.1186/s12874-025-02486-5",
+   "title": "Discrepancies in safety reporting for chronic back pain clinical trials: an observational study from ClinicalTrials.gov and publications",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "31 January 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s12874-025-02475-8",
+   "title": "Framework for types of metainferences in mixed methods research",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s12874-024-02442-9",
+   "title": "Mixed-effects neural network modelling to predict longitudinal trends in fasting plasma glucose",
+   "received": "3 May 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 223
+  },
+  {
+   "doi": "10.1186/s12874-025-02598-y",
+   "title": "Development of time to event prediction models using federated learning",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12874-025-02519-z",
+   "title": "Poor reporting quality and high proportion of missing data in economic evaluations alongside pragmatic trials: a cross-sectional survey",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1186/s12874-025-02630-1",
+   "title": "Reporting and handling of missing data in published studies of co-morbid hypertension and diabetes among people living with HIV/AIDS: a systematic rev",
+   "received": "16 November 2023",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 594
+  },
+  {
+   "doi": "10.1186/s12874-025-02645-8",
+   "title": "Estimating area under the curve from graph-derived summary data: a systematic comparison of standard and Monte Carlo approaches",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s12874-025-02466-9",
+   "title": "Operationalising routinely collected patient data in research to further the pursuit of social justice and health equity: a team-based scoping review",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12874-025-02513-5",
+   "title": "The use of race and ethnicity in sickle cell disease research",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s12874-025-02469-6",
+   "title": "Cohort retention in a pandemic response study: lessons from the SARS-CoV2 Immunity &amp; Reinfection Evaluation (SIREN) study",
+   "received": "2 May 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s12874-024-02444-7",
+   "title": "Built-in selection or confounder bias? Dynamic Landmarking in matched propensity score analyses",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 172
+  },
+  {
+   "doi": "10.1186/s12874-025-02569-3",
+   "title": "Utilizing Large language models to select literature for meta-analysis shows workload reduction while maintaining a similar recall level as manual cur",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12874-025-02567-5",
+   "title": "Inference for the treatment effect in staircase designs with continuous outcomes: a simulation study",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s12874-024-02425-w",
+   "title": "Optimising research investment by simulating and evaluating monitoring strategies to inform a trial: a simulation of liver fibrosis monitoring",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s12874-025-02544-y",
+   "title": "Visualizing a marker\u2019s degrees of necessity and of sufficiency in the predictiveness curve",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12874-025-02573-7",
+   "title": "The impact of bias due to exponentiation in the estimation of hazard, risk, and odds ratios: an empirical investigation from 1,495,059 effect sizes fr",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12874-025-02651-w",
+   "title": "Survey of practices of handling exposure measurement errors in modern epidemiology: are the best practices in statistics being adopted by epidemiologi",
+   "received": "4 April 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12874-025-02652-9",
+   "title": "Development of a protocol complexity tool: a framework designed to stimulate discussion and simplify study design",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12874-025-02498-1",
+   "title": "A systematic review of mediation\u00a0analysis\u00a0frameworks\u00a0in\u00a0studies examining the\u00a0determinants of cardiometabolic outcomes\u00a0in people living with HIV",
+   "received": "4 January 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 399
+  },
+  {
+   "doi": "10.1186/s12874-025-02523-3",
+   "title": "Bayesian nested frailty model for evaluating surgical management of patulous Eustachian tube dysfunction",
+   "received": "15 January 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 408
+  },
+  {
+   "doi": "10.1186/s12874-024-02446-5",
+   "title": "Toward value-based care using cost mining: cost aggregation and visualization across the entire colorectal cancer patient pathway",
+   "received": "29 November 2023",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 383
+  },
+  {
+   "doi": "10.1186/s12874-025-02505-5",
+   "title": "Analysis of temporal survival trends: considerations and best practice",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1186/s12874-024-02418-9",
+   "title": "Penalized landmark supermodels (penLM) for dynamic prediction for time-to-event outcomes in high-dimensional data",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12874-025-02679-y",
+   "title": "What actually happens in partnered health research? A concordance analysis of agreement on partnership practices in funded Canadian projects between a",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1186/s12874-024-02426-9",
+   "title": "Multivariate filter methods for feature selection with the $$\\varvec{\\gamma }$$-metric",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s12874-025-02490-9",
+   "title": "How likely is unmeasured confounding to explain meta-analysis-derived associations between alcohol, other substances, and mood-related conditions with",
+   "received": "20 September 2023",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 502
+  },
+  {
+   "doi": "10.1186/s12874-025-02693-0",
+   "title": "Randomization in the age of platform trials: unexplored challenges and some potential solutions",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 433
+  },
+  {
+   "doi": "10.1186/s12874-025-02678-z",
+   "title": "Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 426
+  },
+  {
+   "doi": "10.1186/s12874-024-02434-9",
+   "title": "Partial-linear single-index Cox regression models with multiple time-dependent covariates",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s12874-025-02620-3",
+   "title": "Characterizing individual and methodological risk factors for survey non-completion using machine learning: findings from the U.S. Millennium Cohort S",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s12874-025-02618-x",
+   "title": "Reflections on dynamic prediction of Alzheimer\u2019s disease: advancements in modeling longitudinal outcomes and time-to-event data",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 365
+  },
+  {
+   "doi": "10.1186/s12874-025-02668-1",
+   "title": "Exploration of Likert scale in terms of continuous variable with parametric statistical methods",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s12874-024-02455-4",
+   "title": "Survival parametric modeling for patients with heart failure based on Kernel learning",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s12874-025-02576-4",
+   "title": "Summary measures in non-inferiority clinical trials with a time-to-event outcome: an empirical comparison of power",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s12874-025-02600-7",
+   "title": "The impact of life tables on age standardized net survival of real-life example databases",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s12874-025-02662-7",
+   "title": "Computationally efficient Bayesian inference for semi-parametric joint models of competing risks survival and skewed longitudinal data using integrate",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12874-025-02661-8",
+   "title": "Assessing the benefits of hypothetical air pollution reduction scenarios on stroke in belgium: a g-computation approach",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1186/s12874-025-02548-8",
+   "title": "OpenClustered: an R package with a benchmark suite of clustered datasets for methodological evaluation and comparison",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12874-025-02690-3",
+   "title": "Assessing the quality for integrated guidelines: systematic comparison between the AGREE \u2161 and AGREE-HS tools",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12874-025-02610-5",
+   "title": "Adherence to STARD guidelines in miRNA diagnostic accuracy studies for hepatocellular carcinoma: a systematic review",
+   "received": "14 March 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 441
+  },
+  {
+   "doi": "10.1186/s12874-025-02581-7",
+   "title": "Critically appraising the cass report: methodological flaws and unsupported claims",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s12874-025-02621-2",
+   "title": "Correcting for case-mix shift when developing clinical prediction models",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 511
+  },
+  {
+   "doi": "10.1186/s12874-025-02617-y",
+   "title": "Longitudinal graphics of patient-reported physical function in patients treated for hematologic malignancies",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 313
+  },
+  {
+   "doi": "10.1186/s12874-025-02522-4",
+   "title": "Discretizing multiple continuous predictors with U-shaped relationships with lnOR: introducing the recursive gradient scanning method in clinical and ",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1186/s12874-025-02684-1",
+   "title": "Could master protocols be adapted for effectiveness-implementation hybrid studies?",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s12874-025-02676-1",
+   "title": "Handling missing outcomes in time-to-event analyses in randomised controlled trials: a scoping review with a focus on multiple imputation",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s12874-025-02616-z",
+   "title": "A framework for clinical care pathway renewal: an example from inflammatory bowel disease",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1186/s12874-025-02702-2",
+   "title": "Evaluating the accuracy of survey data: a case study of COVID-19 vaccination rates in Germany",
+   "received": "7 June 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s12874-025-02635-w",
+   "title": "Quantitative bias analysis for mismeasured variables in health research: a review of software tools",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 88
+  }
+ ]
+}

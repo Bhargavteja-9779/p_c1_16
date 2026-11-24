@@ -1,0 +1,261 @@
+{
+ "issn": "1433-7479",
+ "journal": "Soft Computing",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:40.405842",
+ "source": "https://api.crossref.org/journals/1433-7479/works",
+ "articles": [
+  {
+   "doi": "10.1007/s00500-025-10916-1",
+   "title": "Mathematical modeling and computational investigation of the COVID-19 epidemic using wavelet neural networks and coupled optimization",
+   "received": "14 June 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s00500-025-10889-1",
+   "title": "Neuro-fuzzy control of commercial vehicles braking",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 357
+  },
+  {
+   "doi": "10.1007/s00500-025-10909-0",
+   "title": "Dynamic shapelet selection with soft label for enhanced time series classification",
+   "received": "27 February 2024",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 550
+  },
+  {
+   "doi": "10.1007/s00500-025-10906-3",
+   "title": "Using deep learning applied in computer vision for the inclusion of individuals with tetraplegia through assistive robotics via facial features",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 337
+  },
+  {
+   "doi": "10.1007/s00500-025-10911-6",
+   "title": "Automated classification of Acute Lymphocytic Leukemia (ALL) images using light residual cognitive attention based on human two visual streams hypothe",
+   "received": "14 February 2023",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 926
+  },
+  {
+   "doi": "10.1007/s00500-025-10864-w",
+   "title": "A novel optimization technique using deep learning approach for prediction of multiple sclerosis by implementing the architect of Hybrid\u2014RNN &amp; LST",
+   "received": "15 March 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 531
+  },
+  {
+   "doi": "10.1007/s00500-025-10900-9",
+   "title": "Enhanced palmprint recognition using a hybrid deep learning framework with Chebyshev layer integration",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1007/s00500-025-10913-4",
+   "title": "Intelligent system for fault diagnosis in a welding automotive process by optimal feature selection and one-class classification",
+   "received": "25 August 2020",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 1829
+  },
+  {
+   "doi": "10.1007/s00500-025-10875-7",
+   "title": "A novel neural reinforcement learning algorithm based on critic-only architecture for continuous state control problems",
+   "received": "22 June 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 432
+  },
+  {
+   "doi": "10.1007/s00500-025-10914-3",
+   "title": "Analysis of cryptocurrency preferences in Hungary using flexible fuzzy numbers",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s00500-025-10880-w",
+   "title": "A socially inspired optimization algorithm for multi-extremal function optimization: team innovation algorithm",
+   "received": "10 August 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 383
+  },
+  {
+   "doi": "10.1007/s00500-025-10942-z",
+   "title": "Numerical solution of a multi term time-fractional convection diffusion reaction equation with variable coefficients subjected to weakly singular solu",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1007/s00500-025-10943-y",
+   "title": "Decision-making method based on N-soft fuzzy expert set",
+   "received": "9 December 2022",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 1041
+  },
+  {
+   "doi": "10.1007/s00500-025-10882-8",
+   "title": "A principal component analysis based method for the priority vector derivation from pairwise comparison matrices",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s00500-025-10867-7",
+   "title": "Fuzzy logic based open circuit fault detection and localization in modular multi-level converter (MMC)",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 506
+  },
+  {
+   "doi": "10.1007/s00500-025-10895-3",
+   "title": "YOLOv5-CE-DAFF: A polyp detection model based on CBAM-ECA attention mechanism and dropout-based adaptive feature fusion",
+   "received": "8 May 2023",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 843
+  },
+  {
+   "doi": "10.1007/s00500-025-10886-4",
+   "title": "Pythagorean fuzzy multi-objective optimization with risk mitigation: A case study on pharmaceutical green supply chain",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 462
+  },
+  {
+   "doi": "10.1007/s00500-025-10884-6",
+   "title": "Few-shot learning for plant disease detection using DeepBDC",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1007/s00500-025-10902-7",
+   "title": "An economic decision-making approach to estimate the value for money of non-IBIPs insurance contracts",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1007/s00500-025-10870-y",
+   "title": "Topology of soft partial metric spaces",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 351
+  },
+  {
+   "doi": "10.1007/s00500-025-10863-x",
+   "title": "FruCapsNet: A shuffled attention based capsule network for multi-fruit quality assessment",
+   "received": "3 March 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 543
+  },
+  {
+   "doi": "10.1007/s00500-025-10903-6",
+   "title": "Optimizing cost and battery health in home energy management systems using actor-critic fuzzy-rule networks under renewable energy uncertainty",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1007/s00500-025-10908-1",
+   "title": "DEUNet: a dual encoder network based on multimodal MRI images for brain glioma segmentation",
+   "received": "27 January 2024",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 581
+  },
+  {
+   "doi": "10.1007/s00500-025-10890-8",
+   "title": "A spectral-spatial attention guided multi-scale convolutional network for hyperspectral image classification",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 350
+  },
+  {
+   "doi": "10.1007/s00500-025-10883-7",
+   "title": "An intelligent framework for hybrid nanofluid flow over a curved stretching sheet via recurrent neural networks",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1007/s00500-025-10918-z",
+   "title": "Antiideal theory in semigroups and its fuzzification",
+   "received": "30 August 2023",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 729
+  },
+  {
+   "doi": "10.1007/s00500-025-10922-3",
+   "title": "A Bi-objective mathematical model for resource constrained project scheduling problem: formulation and metaheuristics",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 308
+  },
+  {
+   "doi": "10.1007/s00500-025-10869-5",
+   "title": "An approximate solution to fixed charge fuzzy transshipment problems",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 407
+  },
+  {
+   "doi": "10.1007/s00500-025-10925-0",
+   "title": "On multi-objective multi-coverage covering salesman problem",
+   "received": "27 September 2023",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 727
+  },
+  {
+   "doi": "10.1007/s00500-025-10923-2",
+   "title": "Connected vehicle as a service: multi-modal selection of transportation services with composite particle swarm optimization",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1007/s00500-025-10931-2",
+   "title": "F2MCANet: joint frequency fusion and multi-channels attention neural network for surface defect recognition",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 183
+  }
+ ]
+}

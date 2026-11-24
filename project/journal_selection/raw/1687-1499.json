@@ -1,0 +1,821 @@
+{
+ "issn": "1687-1499",
+ "journal": "EURASIP Journal on Wireless Communications and Networking",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:23.316630",
+ "source": "https://api.crossref.org/journals/1687-1499/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13638-025-02481-w",
+   "title": "Improving the performance of the MIMO-OFDM-NOMA System using a V-BLAST ZF approach based on deep CNN in IoT",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s13638-025-02461-0",
+   "title": "Adaptive resource allocation and routing for integrated sensing and communications for wireless technologies",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1186/s13638-025-02435-2",
+   "title": "Eecs-fl: energy-efficient client selection for federated learning in AIoT",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s13638-024-02419-8",
+   "title": "FPGA-based dual-layer authentication scheme utilizing AES and ECC for unmanned aerial vehicles",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s13638-025-02469-6",
+   "title": "Key metrics for monitoring performance variability in edge computing applications",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1186/s13638-025-02453-0",
+   "title": "Comparative analysis of intelligent reflecting surfaces and AF/DF relaying for energy efficient wireless communication",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13638-025-02445-0",
+   "title": "Robust design of reconfigurable intelligent surfaces for parameter estimation in MTC",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13638-025-02450-3",
+   "title": "Dynamic resource provisioning in containerized edge systems with reconfigurable edge servers",
+   "received": "20 July 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1186/s13638-025-02447-y",
+   "title": "Implementation of multi-UAV communication relay function based on mobile telecommunication technology",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s13638-025-02441-4",
+   "title": "A standard network selection and resource allocation mechanism in 5G heterogeneous networks using hybrid heuristic algorithm with multi-objective cons",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s13638-025-02427-2",
+   "title": "Nonlinear power harvesting through $$\\alpha$$-fair resource allocation in SWIPT",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s13638-024-02426-9",
+   "title": "Joint trajectory design and resource allocation for UAV-assisted mobile edge computing in power convergence network",
+   "received": "4 January 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 349
+  },
+  {
+   "doi": "10.1186/s13638-025-02431-6",
+   "title": "Securing fog computing in healthcare with a zero-trust approach and blockchain",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13638-025-02478-5",
+   "title": "Semantic aware intelligent optimization for IRS/UAV-enabled MEC in wideband cognitive radio networks",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13638-025-02483-8",
+   "title": "YAMNet-based transfer learning for compact noise classification in urban and wireless systems",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1186/s13638-025-02524-2",
+   "title": "Balanced inter-relay charging buffer-aided IOT networks",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13638-024-02424-x",
+   "title": "Low SAR compact wideband/dual-band semicircular slot antenna structures for sub-6\u00a0GHz 5G wireless applications",
+   "received": "12 January 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 321
+  },
+  {
+   "doi": "10.1186/s13638-025-02434-3",
+   "title": "Lightweight and delay-aware resource management scheme in smart grid IoT networks",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13638-025-02458-9",
+   "title": "Enhancing outage performance and sum capacity in multi-user environments through IOS-aided hybrid NOMA under imperfect SIC",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s13638-025-02504-6",
+   "title": "Constant modulus constrained codebook synthesis for mmWave full-duplex ISAC devices",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 315
+  },
+  {
+   "doi": "10.1186/s13638-025-02498-1",
+   "title": "Enhancing resilience in cell-free massive MIMO networks via 2D-DOA-based zero-forcing precoding under pilot contamination",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13638-025-02428-1",
+   "title": "Secure ISAC MIMO systems: exploiting interference with Bayesian Cram\u00e9r\u2013Rao bound optimization",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13638-025-02451-2",
+   "title": "6G virtualized beamforming: a novel framework for optimizing massive MIMO in 6G networks",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13638-025-02492-7",
+   "title": "Enhanced nonlinear equalization for OFDM systems in IoT-based intelligent transportation using CGLS algorithms",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13638-025-02501-9",
+   "title": "Trade-off of cognition and semantic communication for UAV-IRS enhanced intelligent networks",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13638-025-02508-2",
+   "title": "Optimus: smart clock rate for WLAN",
+   "received": "17 July 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s13638-025-02507-3",
+   "title": "Helipad target detection method for low-altitude rotor UAVs based on improved YOLOv11 network model",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s13638-025-02520-6",
+   "title": "A shri yantra-shaped fractal flexible SWB antenna for wearable healthcare applications in 5G",
+   "received": "21 April 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s13638-025-02480-x",
+   "title": "Sinr-based slot reuse algorithm for multi-channel wireless sensor networks",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s13638-025-02471-y",
+   "title": "Data-oriented optimized nonuniform quantization for CR-enhanced communication efficiency in federated learning",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13638-025-02436-1",
+   "title": "Optimized antenna selection for mm-wave MIMO communication systems",
+   "received": "24 April 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1186/s13638-025-02430-7",
+   "title": "ABCD: advanced blockchain DSR algorithm for MANET to mitigate the different security threats",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s13638-024-02425-w",
+   "title": "Divisive hierarchical clustering for energy saving and latency reduction in UAV-assisted WSANs",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s13638-025-02485-6",
+   "title": "Improved MMSE channel estimation for ultra-high-speed mobile communication system with leaky coaxial cables",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13638-025-02519-z",
+   "title": "Energy efficiency optimization for a RIS-assisted MISO SWIPT system with discrete phase shifts",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13638-025-02503-7",
+   "title": "Performance assessment of hybrid and digital irregular array configurations for beyond 100-GHz multi-user MIMO systems",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1186/s13638-025-02497-2",
+   "title": "AI-powered cyber resilience: a reinforcement learning approach for automated threat hunting in 5G networks",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s13638-025-02454-z",
+   "title": "Secure communications for UAV relay networks: a MPC-based trajectory tracking approach",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 20
+  },
+  {
+   "doi": "10.1186/s13638-025-02525-1",
+   "title": "Optimizing the OFDM radar waveform for LATT using WAF criteria in smart cities",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13638-025-02459-8",
+   "title": "Enhancing dynamic resource management in decentralized federated learning for collaborative edge Internet of Things",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13638-025-02495-4",
+   "title": "Dual-band reconfigurable circularly polarized antenna with novel phase shifter and beamforming network",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1186/s13638-025-02463-y",
+   "title": "Enhanced reliability in mobility scenarios using multi-connectivity with packet duplication for next-generation networks",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1186/s13638-025-02456-x",
+   "title": "Utilizing the VITAL-5G platform to advance 5G standalone integration with vertical industries",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "29 March 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s13638-025-02530-4",
+   "title": "An electroencephalogram approach to explore the effect of social exclusion and smoking cues on smoking urge",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1186/s13638-025-02516-2",
+   "title": "DBIA-DA: dual-blockchain and ISCP-assisted data aggregation for fog-enabled smart grid",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s13638-025-02443-2",
+   "title": "A review on mid-band and high-band 5G MIMO antenna designs: challenges and research directions",
+   "received": "21 September 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s13638-025-02494-5",
+   "title": "Discovering authentic routes using a cryptographic approach against blackhole attack",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s13638-025-02518-0",
+   "title": "Discontinuous reception sleep mode based on beam training procedure in 5G mmWave communication systems",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1186/s13638-025-02475-8",
+   "title": "Communication and perception integrated positioning system in tunnel construction scenarios",
+   "received": "21 May 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 367
+  },
+  {
+   "doi": "10.1186/s13638-024-02412-1",
+   "title": "Resource allocation for multi-cell full-duplex wireless powered communication networks",
+   "received": "16 December 2022",
+   "revised": null,
+   "accepted": "14 October 2024",
+   "days": 668
+  },
+  {
+   "doi": "10.1186/s13638-024-02422-z",
+   "title": "RETRACTED ARTICLE: Energy-efficient artificial fish swarm-based clustering protocol for enhancing network lifetime in underwater wireless sensor netwo",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s13638-025-02486-5",
+   "title": "New design of microstrip patch antenna at 28 GHZ and $$4\\times 4$$ MIMO configuration with improved characteristics for IOT applications",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 306
+  },
+  {
+   "doi": "10.1186/s13638-025-02438-z",
+   "title": "CUDA-supported 5G multi-access edge computing modifications on 5G-air-simulator",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13638-024-02416-x",
+   "title": "Optimization of D2D emergency communication resources for UAV relay based on DA-STD3",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "3 November 2024",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s13638-025-02465-w",
+   "title": "Enhancing the reliability and accuracy of wireless sensor networks using a deep learning and blockchain approach with DV-HOP algorithm for DDoS mitiga",
+   "received": "30 November 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s13638-025-02468-7",
+   "title": "Resilient DNN for joint sub-band allocation and power control in mobile factory subnetworks",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s13638-025-02484-7",
+   "title": "Q-LME: Q-learning-based local mutual exclusion algorithm for flying ad\u00a0hoc networks",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s13638-025-02448-x",
+   "title": "Outage reduction in 5G uplink cooperative NOMA using PSO-optimized relay selection and successive interference cancelation",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1186/s13638-025-02470-z",
+   "title": "Enhancing adaptive beamforming by enhanced MUSIC algorithm for urban environments in O-RAN architecture",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s13638-025-02510-8",
+   "title": "Performance evaluation and UAV placement optimization in full-duplex hybrid satellite-UAV NOMA networks with CCI",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s13638-025-02515-3",
+   "title": "Mitigating energy holes and enhancing QoS in delay-tolerant networks: the EEEHR-M protocol",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 380
+  },
+  {
+   "doi": "10.1186/s13638-025-02433-4",
+   "title": "Energy-efficient synchronization for body sensor network in the metaverse: an optimized connectivity approach",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "19 January 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13638-025-02521-5",
+   "title": "Middleware architecture performance analysis for vehicular ad hoc network",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 334
+  },
+  {
+   "doi": "10.1186/s13638-024-02421-0",
+   "title": "Multiband in-band full-duplexing using fractal concentric circular antenna arrays",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s13638-024-02420-1",
+   "title": "A circular-shaped two-slot foam-based flexible UWB antenna for medical applications",
+   "received": "9 March 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 254
+  },
+  {
+   "doi": "10.1186/s13638-025-02493-6",
+   "title": "Support vector machines for optimal channel decoding",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "8 August 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1186/s13638-025-02439-y",
+   "title": "Secure and efficient cloudlet networks: blockchain integration with agent-based proof of trust mechanism",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s13638-025-02517-1",
+   "title": "Survey of challenges, development, and potential tera-wave wearable antennas for wireless body area networks",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 223
+  },
+  {
+   "doi": "10.1186/s13638-025-02442-3",
+   "title": "On the design and analysis of multi-band micro-strip patch antenna for wireless body area network applications",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1186/s13638-025-02528-y",
+   "title": "A neural network-based intelligent system for substation surveillance video analysis with edge and IoT integration",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s13638-025-02479-4",
+   "title": "Waveel: a wavelet-based ensemble learning framework for time series forecasting",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13638-025-02466-9",
+   "title": "A novel approach for peak-to-average power ratio reduction and spectral efficiency enhancement in 5G and beyond networks",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13638-025-02534-0",
+   "title": "Dynamic task scheduling in wireless edge computing using deep reinforcement learning with ordinal optimization",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s13638-025-02511-7",
+   "title": "A federated meta-learning aided intelligent edge framework by using the parameter optimization approach",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13638-025-02491-8",
+   "title": "Optimizing intra-layer data communication with adaptive beamforming for proactive flow control in wireless network-on-chip",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13638-025-02487-4",
+   "title": "The low-profile all-textile UWB antenna with AMC for WBAN Applications",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1186/s13638-025-02488-3",
+   "title": "Efficient resource management using 5G multi-connectivity for high throughput and reliable low latency communication",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s13638-025-02509-1",
+   "title": "Intelligent power optimization for capacity maximization in IRS-assisted NOMA networks",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13638-025-02477-6",
+   "title": "Deep learning enabled intrusion detection system for IoT security",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13638-025-02432-5",
+   "title": "Research on Automotive Radar Mutual Interference Mitigation Method based on V2X Communication Assistance",
+   "received": "15 August 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s13638-025-02472-x",
+   "title": "Intent-driven network automation through sustainable multimodal generative AI",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13638-025-02452-1",
+   "title": "Energy efficient resource and power allocation for uplink underlay D2D communication in HetNet-based 5G network",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13638-025-02444-1",
+   "title": "Optimization of 6G resource allocation using CyberTwin function-based service enhancement scheme",
+   "received": "12 October 2024",
+   "revised": null,
+   "accepted": "22 February 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13638-025-02523-3",
+   "title": "Automated detection of contradictions in 5G network specifications using reinforcement learning-trained small LLM",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s13638-025-02529-x",
+   "title": "Multi-UAV path planning based on IACO and improved YOLOV8 perception for maritime search and rescue",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s13638-025-02506-4",
+   "title": "Enhancing reliability of 3D portable SSDs by storing redundant data to RRAM cache considering layer-to-layer process variation",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13638-024-02418-9",
+   "title": "Estimating time and frequency under imperfect channel knowledge using ECM and SAGE algorithms in multi-relay cooperative networks",
+   "received": "13 January 2023",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 673
+  },
+  {
+   "doi": "10.1186/s13638-025-02473-w",
+   "title": "Application-centric congestion control",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s13638-025-02514-4",
+   "title": "A lexicographic hierarchical planning framework using motion primitives for autonomous vehicles",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13638-025-02502-8",
+   "title": "Dual optimization with convolutional coding and AI-based noise filtering to enhance LoRa resilience for IIoT",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1186/s13638-025-02489-2",
+   "title": "Radius divergence optimized round hash index blockchain-based transaction-secured unified data in smart environment",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s13638-025-02482-9",
+   "title": "Multi-timescale scheme for cooperative user association and hybrid beamforming in mmWave MIMO systems",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 299
+  },
+  {
+   "doi": "10.1186/s13638-025-02467-8",
+   "title": "GBiL: A hybrid gated recurrent units (GRU) and bidirectional long short-term memory (BiLSTM) model with Particle Swarm Optimization for a Robust VANET",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 277
+  },
+  {
+   "doi": "10.1186/s13638-025-02462-z",
+   "title": "Advanced intrusion detection technique (AIDT) for secure communication among devices in internet of medical things (IoMT)",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1186/s13638-025-02526-0",
+   "title": "A radar-video fusion method for 3D object detection based on on-board edge computing in intelligent connected environments",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s13638-024-02423-y",
+   "title": "User velocity estimation in HetNets utilizing vertical and horizontal handover counts via maximum likelihood estimation",
+   "received": "23 November 2023",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 359
+  },
+  {
+   "doi": "10.1186/s13638-025-02457-w",
+   "title": "Experimental demonstration of LED-to-LED visible light communication between a traffic light and a vehicle headlamp",
+   "received": "6 July 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 275
+  },
+  {
+   "doi": "10.1186/s13638-025-02460-1",
+   "title": "Space division and theory of graph-coloration-based protocol for multi-channel multi-transceiver operation in Internet of Vehicles",
+   "received": "31 January 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 435
+  },
+  {
+   "doi": "10.1186/s13638-025-02505-5",
+   "title": "Two-stage combining and beamforming for FDD massive MIMO relay system with user-pair scheduling",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13638-025-02464-x",
+   "title": "Enhanced energy-efficient cluster-based routing with spotted hyena optimization in heterogeneous WSNs",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1186/s13638-025-02449-w",
+   "title": "Improving energy efficiency and routing reliability in wireless sensor networks using modified ant colony optimization",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "15 March 2025",
+   "days": 89
+  }
+ ]
+}

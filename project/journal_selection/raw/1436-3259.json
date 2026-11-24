@@ -1,0 +1,309 @@
+{
+ "issn": "1436-3259",
+ "journal": "Stochastic Environmental Research and Risk Assessment",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:46.385751",
+ "source": "https://api.crossref.org/journals/1436-3259/works",
+ "articles": [
+  {
+   "doi": "10.1007/s00477-025-03099-6",
+   "title": "Apply data science and feature selection techniques to predict carbon dioxide emissions in Taiwan",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1007/s00477-025-03096-9",
+   "title": "New insights into 21st-century drought characteristics under climate change from CMIP6 multimodel ensemble analysis",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s00477-025-03087-w",
+   "title": "Unveiling precipitation patterns in Schleswig-Holstein: a 50-year study of trends and climatic influences",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s00477-025-03113-x",
+   "title": "Nitrate pollution source apportionment and uncertainty analysis in typical water diversion source area based on nitrogen and oxygen isotopes and the m",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s00477-025-03102-0",
+   "title": "Spatiotemporal analysis of PM2.5 and its cross-multifractality with black carbon and dust aerosols in Indian cities: crop residue burning impact",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s00477-025-03086-x",
+   "title": "Extreme rainfall system transitions of west African countries",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1007/s00477-025-03093-y",
+   "title": "Intelligent water resource optimization in desert greenhouse aquaponics: an ElasticNet multi-kernel SVM approach for sustainable agriculture",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s00477-025-03089-8",
+   "title": "A multivariate framework for assessing propagation thresholds from meteorological to hydrological drought across indus river Basins-South Asia",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s00477-025-03097-8",
+   "title": "Risk estimation for earth slopes with multiple failure modes based on the generalized subset simulation",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s00477-025-03110-0",
+   "title": "Physics-aware graph attention network for real-time water contamination forecasting",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s00477-025-03088-9",
+   "title": "DACSA: deformable average channel and spatial attention model for wildfire prediction and drivers",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1007/s00477-025-03085-y",
+   "title": "Preliminary approach to predict the reactivation of long-term kinematics landslides through noval synergistic stacked deep learning approach",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s00477-025-03095-w",
+   "title": "Sedimentation-induced vulnerabilities of large reservoirs in India",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1007/s00477-025-03107-9",
+   "title": "Development and application of a novel drought index for regional drought assessment: a case study from Pakistan",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 222
+  },
+  {
+   "doi": "10.1007/s00477-025-03114-w",
+   "title": "Study on the joint distribution of air temperature, solar radiation, and wind speed in the complex mountainous bridge sites based on field measurement",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1007/s00477-025-03082-1",
+   "title": "Optimizing wind-powered electric vehicle charging stations: a stochastic framework utilizing real-world wind speed data",
+   "received": "20 April 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1007/s00477-025-03120-y",
+   "title": "Pluvial flood warnings in a tidally influenced basin enhanced by rainfall\u2013tide compound indicators: Taipei case study",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1007/s00477-025-03084-z",
+   "title": "Direct scaling analysis of roughness bed formations in laboratory experiments",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s00477-025-03109-7",
+   "title": "Strategic renewable energy forecasting and monthly disaggregation in data-scarce regions: a cross-continental SARIMA-based framework for policy planni",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s00477-025-03094-x",
+   "title": "Improving drought index integration through kappa merged collocation relative to conventional methods",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s00477-025-03108-8",
+   "title": "A tailings dam displacement interval prediction model based on time series decomposition and an improved Elman neural network model",
+   "received": "20 March 2024",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 535
+  },
+  {
+   "doi": "10.1007/s00477-025-03083-0",
+   "title": "Quintic B-spline and chaotic differential evolution-based approach for identifying multiple contaminant source characteristics in groundwater systems",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s00477-025-03105-x",
+   "title": "A novel and robust Fourier-based Kolmogorov-Arnold Network in early warning of rockbursts from microseismic data",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s00477-025-03098-7",
+   "title": "The impact of window size on the performance and accuracy of time series forecasting models for meteorological drought prediction",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1007/s00477-025-03091-0",
+   "title": "High accuracy machine learning algorithms for predicting hygrothermal comfort in a western mediterranean environment",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s00477-025-03117-7",
+   "title": "Hybrid data-driven and process-based modeling for streamflow forecasting: comparative uncertainty analysis in the upper Baro watershed",
+   "received": "20 July 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1007/s00477-025-03118-6",
+   "title": "Evolutionary optimization of neural network for landslide susceptibility assessment",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1007/s00477-025-03103-z",
+   "title": "Integrating a hybrid statistical Downscaling-based HMM-RF model for enhanced rainfall prediction in Selangor",
+   "received": "13 June 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s00477-025-03101-1",
+   "title": "Improving the spatial prediction of machine learning-based landslide susceptibility models by integrating the particle swarm optimization algorithm",
+   "received": "22 August 2023",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 737
+  },
+  {
+   "doi": "10.1007/s00477-025-03100-2",
+   "title": "From bias to forecast: advancing satellite rainfall accuracy and flood prediction with transformer modeling in the Kosi basin (India)",
+   "received": "12 July 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1007/s00477-025-03115-9",
+   "title": "Rain gauge network design via implementation of global sensitivity analysis coupled with geostatistics and principal component analysis",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1007/s00477-025-03112-y",
+   "title": "Analysis of urban waterlogging disaster factors based on the complex network and ISM model",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 401
+  },
+  {
+   "doi": "10.1007/s00477-025-03104-y",
+   "title": "Hybrid iCNN\u2013RNN model for enhanced tidal level prediction: comparative analysis of multiple deep neural networks",
+   "received": "14 April 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1007/s00477-025-03119-5",
+   "title": "Resource allocation for resilience and safety enhancement in resource-based cities under multi-dimensional interdependencies",
+   "received": "25 July 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s00477-025-03090-1",
+   "title": "Multivariate return period and risk analysis of non-stationary extremes: dynamic drought severity-duration-frequency in India",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1007/s00477-025-03092-z",
+   "title": "Introducing a novel Standardized Precipitation Evaporation Differential Index (SPEDI) for improved flash drought detection and assessment: a case stud",
+   "received": "11 May 2024",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 466
+  },
+  {
+   "doi": "10.1007/s00477-025-03121-x",
+   "title": "Evaluating drought conditions and predicting return periods with the standard soil moisture index: a three-threshold run theory and GH copula approach",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 489
+  }
+ ]
+}

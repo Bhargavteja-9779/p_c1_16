@@ -1,0 +1,1589 @@
+{
+ "issn": "2398-6352",
+ "journal": "npj Digital Medicine",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:25.548730",
+ "source": "https://api.crossref.org/journals/2398-6352/works",
+ "articles": [
+  {
+   "doi": "10.1038/s41746-025-02103-1",
+   "title": "Reply to \u201cWhen do large language models cross the line: \u201creasoning\u201d red teaming in healthcare\u201d",
+   "received": "14 June 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s41746-025-01915-5",
+   "title": "Multimodal machine learning for risk-stratified bundled payments in spinal surgery",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1038/s41746-025-01785-x",
+   "title": "Evaluation of the NHS active 10 walking app intervention through time-series analysis in 201,688 individuals",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 283
+  },
+  {
+   "doi": "10.1038/s41746-025-01853-2",
+   "title": "Intelligent screening of narrow anterior chamber angle based on portable slit lamp",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1038/s41746-025-01473-w",
+   "title": "A hybrid multi model artificial intelligence approach for glaucoma screening using fundus images",
+   "received": "20 February 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1038/s41746-025-01839-0",
+   "title": "Effects of intervention design on engagement and outcomes in digital self-help for insomnia \u2013 factorial RCT",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1038/s41746-024-01337-9",
+   "title": "Leveraging natural language processing to aggregate field safety notices of medical devices across the EU",
+   "received": "31 January 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 285
+  },
+  {
+   "doi": "10.1038/s41746-024-01299-y",
+   "title": "A machine-learned model for predicting weight loss success using weight change features early in treatment",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "12 October 2024",
+   "days": 151
+  },
+  {
+   "doi": "10.1038/s41746-025-01854-1",
+   "title": "Communication strategies driving online health community patient awareness and engagement investigated within atrial fibrillation context",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1038/s41746-025-01448-x",
+   "title": "Challenges and recommendations for enhancing digital data protection in Indian Medical Research and Healthcare Sector",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s41746-025-01485-6",
+   "title": "Challenges with reinforcement learning model transportability for sepsis treatment in emergency care",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1038/s41746-025-01644-9",
+   "title": "A quantitative analysis of the use of anonymization in biomedical research",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1038/s41746-025-01948-w",
+   "title": "Culture-free detection of bacteria from blood for rapid sepsis diagnosis",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1038/s41746-025-01659-2",
+   "title": "Collection of the digital data from the neurological examination",
+   "received": "8 December 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41746-025-02086-z",
+   "title": "AI-driven smartphone screening for acute COPD exacerbations: enhancing health equity in developing regions",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1038/s41746-025-01942-2",
+   "title": "A novel sequence-based transformer model architecture for integrating multi-omics data in preterm birth risk prediction",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1038/s41746-025-01656-5",
+   "title": "Lessons from Henrietta Lacks inform a transparency framework to catalyze generative artificial intelligence in medicine",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1038/s41746-025-01522-4",
+   "title": "Weakly supervised language models for automated extraction of critical findings from radiology reports",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s41746-025-01655-6",
+   "title": "Effectiveness of digital healthcare to improve clinical outcomes in discharged patients with coronary artery disease",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1038/s41746-024-01423-y",
+   "title": "Impact of visual presentation of atherosclerotic carotid plaque on cardiovascular risk profile using mHealth technologies",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 121
+  },
+  {
+   "doi": "10.1038/s41746-025-01783-z",
+   "title": "High-dimensional item response theory analysis of patient-reported outcomes in total knee arthroplasty",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "8 June 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1038/s41746-025-01808-7",
+   "title": "An end-to-end multifunctional AI platform for intraoperative diagnosis",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1038/s41746-025-01680-5",
+   "title": "A sociotechnical approach to defining clinical responsibilities for patient-generated health data",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1038/s41746-024-01407-y",
+   "title": "Identification of cardiac wall motion abnormalities in diverse populations by deep learning of the electrocardiogram",
+   "received": "22 January 2024",
+   "revised": null,
+   "accepted": "22 December 2024",
+   "days": 335
+  },
+  {
+   "doi": "10.1038/s41746-024-01300-8",
+   "title": "Establishing responsible use of AI guidelines: a comprehensive case study for healthcare institutions",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "17 October 2024",
+   "days": 20
+  },
+  {
+   "doi": "10.1038/s41746-024-01366-4",
+   "title": "Probabilistic medical predictions of large language models",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 82
+  },
+  {
+   "doi": "10.1038/s41746-025-01868-9",
+   "title": "Worldwide willingness to share health data high but privacy, consent and transparency paramount, a meta-analysis",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1038/s41746-025-01507-3",
+   "title": "Foundations of a knee joint digital twin from qMRI biomarkers for osteoarthritis and knee replacement",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "9 February 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1038/s41746-025-01628-9",
+   "title": "Consumer insights from a feasibility study on remote and extended use of a novel non-invasive wearable fetal electrocardiogram monitor",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1038/s41746-025-02125-9",
+   "title": "Improving dataset transparency in dermatologic Artificial Intelligence using a dataset nutrition label",
+   "received": "4 July 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1038/s41746-025-01532-2",
+   "title": "Effect of computer aided detection system on esophageal neoplasm diagnosis in varied levels of endoscopists",
+   "received": "13 March 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 343
+  },
+  {
+   "doi": "10.1038/s41746-024-01344-w",
+   "title": "The path forward for large language models in medicine is open",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 37
+  },
+  {
+   "doi": "10.1038/s41746-025-01479-4",
+   "title": "The urgency of centering safety-net organizations in AI governance",
+   "received": "28 September 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1038/s41746-025-02066-3",
+   "title": "Reply to: Utilizing foundation models for developing clinical tools",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 399
+  },
+  {
+   "doi": "10.1038/s41746-024-01427-8",
+   "title": "Device based monitoring in digital care and its impact on hospital service use",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 165
+  },
+  {
+   "doi": "10.1038/s41746-025-01954-y",
+   "title": "Ophthalmic drug discovery and development using artificial intelligence and digital health technologies",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1038/s41746-025-01899-2",
+   "title": "Demographic and socioeconomic determinants of adherence in digital patient-reported outcomes among patients with chronic diseases",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1038/s41746-025-01927-1",
+   "title": "Developing a thyroid cancer differentiation state classification system using deep residual networks and metabolic signature profiling",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1038/s41746-025-01982-8",
+   "title": "Using a fine-tuned large language model for symptom-based depression evaluation",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1038/s41746-025-01621-2",
+   "title": "Advancing cardiovascular care through actionable AI innovation",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 26
+  },
+  {
+   "doi": "10.1038/s41746-025-01434-3",
+   "title": "Real world federated learning with a knowledge distilled transformer for cardiac CT imaging",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1038/s41746-025-02100-4",
+   "title": "Deep learning model for assessing survival benefits in hepatocellular carcinoma patients undergoing intra-arterial therapies based on proliferative su",
+   "received": "17 August 2025",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1038/s41746-025-01801-0",
+   "title": "Re-identification of patients from imaging features extracted by foundation models",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1038/s41746-025-01802-z",
+   "title": "Retrieval-augmented generation elevates local LLM quality in radiology contrast media consultation",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "15 June 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1038/s41746-025-01600-7",
+   "title": "A group concept mapping study of stakeholder perspectives on digital therapeutics economic value drivers",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1038/s41746-025-01871-0",
+   "title": "Evaluation of an integrated digital and mobile intervention to improve outcomes for patients with moderate to severe COPD",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1038/s41746-024-01316-0",
+   "title": "A Primer on Reinforcement Learning in Medicine for Clinicians",
+   "received": "8 June 2024",
+   "revised": null,
+   "accepted": "24 October 2024",
+   "days": 138
+  },
+  {
+   "doi": "10.1038/s41746-025-01664-5",
+   "title": "Evaluating sepsis watch generalizability through multisite external validation of a sepsis machine learning model",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1038/s41746-025-02089-w",
+   "title": "Electrophysiological signatures predict the therapeutic window of deep brain stimulation electrode contacts",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1038/s41746-025-02031-0",
+   "title": "Quantifying Early-Stage Lung Adenocarcinoma Progression with a Radiomic Trajectory",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1038/s41746-025-01894-7",
+   "title": "Returning to work in the digital age: why smartphone interventions must go further",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 27
+  },
+  {
+   "doi": "10.1038/s41746-025-01705-z",
+   "title": "Advancing efficacy prediction for electronic health records based emulated trials in repurposing heart failure therapies",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 400
+  },
+  {
+   "doi": "10.1038/s41746-025-01884-9",
+   "title": "Equity-enhanced glaucoma progression prediction from OCT with knowledge distillation",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1038/s41746-025-01967-7",
+   "title": "Machine learning analysis reveals tumor heterogeneity and stromal-immune niches in breast cancer",
+   "received": "21 June 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1038/s41746-024-01369-1",
+   "title": "Lessons for local oversight of AI in medicine from the regulation of clinical laboratory testing",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 80
+  },
+  {
+   "doi": "10.1038/s41746-025-01647-6",
+   "title": "The FAIIR conversational AI agent assistant for youth mental health service provision",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1038/s41746-025-02078-z",
+   "title": "Streamlined machine learning model for early sepsis risk prediction in burn patients",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1038/s41746-025-01514-4",
+   "title": "Systematic review and meta-analysis on fully automated digital cognitive behavioral therapy for insomnia",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1038/s41746-025-01766-0",
+   "title": "Development and validation of an interpretable risk prediction model for the early classification of thalassemia",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1038/s41746-025-01576-4",
+   "title": "Mitigating the risk of health inequity exacerbated by large language models",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s41746-024-01409-w",
+   "title": "A review on generative AI models for synthetic medical text, time series, and longitudinal data",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "22 December 2024",
+   "days": 296
+  },
+  {
+   "doi": "10.1038/s41746-025-01467-8",
+   "title": "Clinically meaningful interpretability of an AI model for ECG classification",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1038/s41746-025-01850-5",
+   "title": "Phenotypic screening and genetic insights for predicting major vascular-related diseases using retinal imaging",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1038/s41746-025-01784-y",
+   "title": "Empirically derived evaluation requirements for responsible deployments of AI in safety-critical settings",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1038/s41746-025-01554-w",
+   "title": "Wearable AI to enhance patient safety and clinical decision-making",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 14
+  },
+  {
+   "doi": "10.1038/s41746-025-01466-9",
+   "title": "Wearable microfluidic biosensors with haptic feedback for continuous monitoring of hydration biomarkers in workers",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1038/s41746-024-01328-w",
+   "title": "Impact of human and artificial intelligence collaboration on workload reduction in medical image interpretation",
+   "received": "27 May 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 161
+  },
+  {
+   "doi": "10.1038/s41746-025-01535-z",
+   "title": "Cross sectional pilot study on clinical review generation using large language models",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1038/s41746-024-01332-0",
+   "title": "Probing the limits and capabilities of diffusion models for the anatomic editing of digital twins",
+   "received": "22 January 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 292
+  },
+  {
+   "doi": "10.1038/s41746-025-01693-0",
+   "title": "Scoping review of deep learning research illuminates artificial intelligence chasm in otolaryngology-head and neck surgery",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s41746-025-02136-6",
+   "title": "The npj Digital Medicine Editorial Fellowship",
+   "received": "22 September 2025",
+   "revised": null,
+   "accepted": "30 October 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1038/s41746-025-01456-x",
+   "title": "Wearable data reveals distinct characteristics of individuals with persistent symptoms after a SARS-CoV-2 infection",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1038/s41746-025-02038-7",
+   "title": "A tree-structured multiobjective optimization framework for constructing diagnosis-related groups",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1038/s41746-025-02067-2",
+   "title": "An artificial intelligence system for qualified mucosal observation time during colonoscopic withdrawal",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 356
+  },
+  {
+   "doi": "10.1038/s41746-025-01708-w",
+   "title": "SQL on FHIR - Tabular views of FHIR data using FHIRPath",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1038/s41746-025-01625-y",
+   "title": "Digital twins enable stratification of persistent atrial fibrillation patients for ablation diminishing unnecessary heart damage",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1038/s41746-025-01637-8",
+   "title": "Systematic evaluation of patient-reported outcomes in clinical trials of digital health in cardiovascular diseases",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1038/s41746-025-01521-5",
+   "title": "Generalist medical AI reimbursement challenges and opportunities",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 31
+  },
+  {
+   "doi": "10.1038/s41746-025-01845-2",
+   "title": "Evaluating the role of large language models in traditional Chinese medicine diagnosis and treatment recommendations",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1038/s41746-025-02051-w",
+   "title": "Natural language processing techniques to detect delirium in hospitalized patients from clinical notes: a systematic review",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s41746-025-02092-1",
+   "title": "A randomized controlled trial of a trauma-informed smartphone application in reducing firefighters\u2019 mental health symptoms",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1038/s41746-025-01487-4",
+   "title": "Application of multimodal large language models for safety indicator calculation and contraindication prediction in laser vision correction",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 257
+  },
+  {
+   "doi": "10.1038/s41746-025-02023-0",
+   "title": "The human factor in explainable artificial intelligence: clinician variability in trust, reliance, and performance",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "20 September 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1038/s41746-024-01325-z",
+   "title": "Deep learning biomarker of chronometric and biological ischemic stroke lesion age from unenhanced CT",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "3 November 2024",
+   "days": 110
+  },
+  {
+   "doi": "10.1038/s41746-025-02070-7",
+   "title": "Automated triage of cancer-suspicious skin lesions with 3D total-body photography",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1038/s41746-025-01742-8",
+   "title": "Impact of pharmacist led mobile application on medication adherence and efficacy in chronic kidney disease",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1038/s41746-025-02046-7",
+   "title": "Promoting xenomorphic patient-facing AIs: The case against anthropomorphism in medical AIs",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1038/s41746-025-01848-z",
+   "title": "Systematic review and meta-analysis of deep learning for MSI-H in colorectal cancer whole slide images",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "28 June 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1038/s41746-025-01838-1",
+   "title": "Digital transformation with clinical alerts and personalized care systems in an integrated value based model",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1038/s41746-024-01428-7",
+   "title": "Explainable AI associates ECG aging effects with increased cardiovascular risk in a longitudinal population study",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 144
+  },
+  {
+   "doi": "10.1038/s41746-025-02162-4",
+   "title": "On the public dissemination and open sourcing of ultrasound resources, datasets and deep learning models",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "8 November 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1038/s41746-025-01763-3",
+   "title": "FedOcw: optimized federated learning for cross-lingual speech-based Parkinson\u2019s disease detection",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1038/s41746-025-01671-6",
+   "title": "Patient perceptions of empathy in physician and artificial intelligence chatbot responses to patient questions about cancer",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1038/s41746-025-01778-w",
+   "title": "Engagement and attrition in digital mental health: current challenges and potential solutions",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1038/s41746-025-01789-7",
+   "title": "A perspective for adapting generalist AI to specialized medical AI applications and their challenges",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1038/s41746-025-02069-0",
+   "title": "The explainable AI dilemma under knowledge imbalance in specialist AI for glaucoma referrals in primary care",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1038/s41746-025-01495-4",
+   "title": "Improving musculoskeletal care with AI enhanced triage through data driven screening of referral letters",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1038/s41746-025-02026-x",
+   "title": "SpeechCARE: dynamic multimodal modeling for cognitive screening in diverse linguistic and speech task contexts",
+   "received": "30 May 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1038/s41746-025-01911-9",
+   "title": "From ageing clocks to human digital twins in personalising healthcare through biological age analysis",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 328
+  },
+  {
+   "doi": "10.1038/s41746-025-01860-3",
+   "title": "Transdiagnostic-focused apps for depression and anxiety: a meta-analysis",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1038/s41746-025-01580-8",
+   "title": "Deep Gaussian process with uncertainty estimation for microsatellite instability and immunotherapy response prediction from histology",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1038/s41746-024-01346-8",
+   "title": "AI-enabled wearable cameras for assisting dietary assessment in African populations",
+   "received": "30 May 2023",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 536
+  },
+  {
+   "doi": "10.1038/s41746-025-01865-y",
+   "title": "Predicting outcomes following endovascular aortoiliac revascularization using machine learning",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1038/s41746-025-01933-3",
+   "title": "AI-assisted multi-modal information for the screening of depression: a systematic review and meta-analysis",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1038/s41746-024-01379-z",
+   "title": "Ecosystems and monopolies in digital surgery",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 111
+  },
+  {
+   "doi": "10.1038/s41746-024-01387-z",
+   "title": "Randomized clinical trial of a digital integrative medicine intervention among patients undergoing active cancer treatment",
+   "received": "19 July 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 144
+  },
+  {
+   "doi": "10.1038/s41746-025-01440-5",
+   "title": "A policy framework for leveraging generative AI to address enduring challenges in clinical trials",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1038/s41746-025-01515-3",
+   "title": "A scoping review of ethical aspects of public-private partnerships in digital health",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1038/s41746-025-01624-z",
+   "title": "Multicentre evaluation of deep learning CT autosegmentation of the head and neck region for radiotherapy",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1038/s41746-025-01716-w",
+   "title": "A randomized controlled trial of a digital lifestyle intervention involving postoperative patients with colorectal cancer",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s41746-025-01469-6",
+   "title": "3D convolutional deep learning for nonlinear estimation of body composition from whole body morphology",
+   "received": "6 February 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 349
+  },
+  {
+   "doi": "10.1038/s41746-025-01788-8",
+   "title": "Personalized federated learning for predicting disability progression in multiple sclerosis using real-world routine clinical data",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1038/s41746-025-01996-2",
+   "title": "Benchmarking large language models for personalized, biomarker-based health intervention recommendations",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1038/s41746-025-01952-0",
+   "title": "AI assisted prediction of unplanned intensive care admissions using natural language processing in elective neurosurgery",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1038/s41746-025-01642-x",
+   "title": "Monitoring the opioid epidemic via social media discussions",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "16 April 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1038/s41746-024-01359-3",
+   "title": "A scoping review of privacy and utility metrics in medical synthetic data",
+   "received": "9 January 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 321
+  },
+  {
+   "doi": "10.1038/s41746-025-01615-0",
+   "title": "Understanding contraceptive switching rationales from real world clinical notes using large language models",
+   "received": "9 March 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 393
+  },
+  {
+   "doi": "10.1038/s41746-025-01613-2",
+   "title": "Artificial intelligence guided imaging as a tool to fill gaps in health care delivery",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1038/s41746-025-02039-6",
+   "title": "Ensemble learning approaches for early prediction of chronic kidney disease based on polysomnographic phenotype analysis",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1038/s41746-025-01703-1",
+   "title": "Machine learning to predict penumbra core mismatch in acute ischemic stroke using clinical note data",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1038/s41746-025-02029-8",
+   "title": "Tandospirone augments cisplatin treatment by lowering cholesterol and managing distress in NSCLC patients",
+   "received": "17 July 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1038/s41746-025-01610-5",
+   "title": "A choice based conjoint analysis of mobile healthcare application preferences among physicians, patients, and individuals",
+   "received": "27 February 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 400
+  },
+  {
+   "doi": "10.1038/s41746-025-01484-7",
+   "title": "Predicting clinical pathways of traumatic brain injuries (TBIs) through process mining",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1038/s41746-025-01939-x",
+   "title": "Systematic review: digital biomarkers of fatigue in chronic diseases",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1038/s41746-025-01614-1",
+   "title": "A \u201cTrue Lifecycle Approach\u201d towards governing healthcare AI with the GCC as a global governance model",
+   "received": "28 December 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1038/s41746-025-01936-0",
+   "title": "Using the ICH estimand framework to improve the interpretation of treatment effects in internet interventions",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1038/s41746-025-01459-8",
+   "title": "CORE-MD clinical risk score for regulatory evaluation of artificial intelligence-based medical device software",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1038/s41746-024-01382-4",
+   "title": "Cost-effectiveness of AI for pediatric diabetic eye exams from a health system perspective",
+   "received": "4 April 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 250
+  },
+  {
+   "doi": "10.1038/s41746-024-01318-y",
+   "title": "Phenotyping people with a history of injecting drug use within electronic medical records using an interactive machine learning approach",
+   "received": "26 September 2023",
+   "revised": null,
+   "accepted": "28 October 2024",
+   "days": 398
+  },
+  {
+   "doi": "10.1038/s41746-025-01714-y",
+   "title": "Predicting outcomes after moderate and severe traumatic brain injury using artificial intelligence: a systematic review",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1038/s41746-025-01762-4",
+   "title": "A systematic review on patient and public attitudes toward health monitoring technologies across countries",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1038/s41746-025-01560-y",
+   "title": "Predicting response to neoadjuvant chemotherapy in muscle-invasive bladder cancer via interpretable multimodal deep learning",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1038/s41746-025-01500-w",
+   "title": "Identifying major depressive disorder in older adults through naturalistic driving behaviors and machine learning",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1038/s41746-024-01412-1",
+   "title": "Systematic review of machine learning applications using nonoptical motion tracking in surgery",
+   "received": "26 April 2024",
+   "revised": null,
+   "accepted": "21 December 2024",
+   "days": 239
+  },
+  {
+   "doi": "10.1038/s41746-025-01498-1",
+   "title": "Personalized decision making for coronary artery disease treatment using offline reinforcement learning",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1038/s41746-025-02006-1",
+   "title": "Reimagining patient-reported outcomes in the age of generative AI",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1038/s41746-024-01410-3",
+   "title": "A multitask deep learning model utilizing electrocardiograms for major cardiovascular adverse events prediction",
+   "received": "21 April 2024",
+   "revised": null,
+   "accepted": "22 December 2024",
+   "days": 245
+  },
+  {
+   "doi": "10.1038/s41746-025-01790-0",
+   "title": "Cognitive bias in clinical large language models",
+   "received": "7 May 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1038/s41746-025-01974-8",
+   "title": "Soft, all-in-one, nanomembrane wearable system for advancing neonatal health monitoring in Ethiopia",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s41746-025-01937-z",
+   "title": "Cost minimization analysis of digital-first healthcare pathways in primary care",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1038/s41746-025-01567-5",
+   "title": "A meta-analysis of persuasive design, engagement, and efficacy in 92 RCTs of mental health apps",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1038/s41746-025-01943-1",
+   "title": "A longitudinal analysis of declining medical safety messaging in generative AI models",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1038/s41746-025-02135-7",
+   "title": "The perils of politeness: how large language models may amplify medical misinformation",
+   "received": "21 October 2025",
+   "revised": null,
+   "accepted": "30 October 2025",
+   "days": 9
+  },
+  {
+   "doi": "10.1038/s41746-025-01701-3",
+   "title": "Psychological, economic, and ethical factors in human feedback for a chatbot-based smoking cessation intervention",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 218
+  },
+  {
+   "doi": "10.1038/s41746-025-01923-5",
+   "title": "Comparative analysis of AI support levels in clinical interpretation of traumatic pelvic radiographs",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1038/s41746-025-01499-0",
+   "title": "Self-supervised identification and elimination of harmful datasets in distributed machine learning for medical image analysis",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1038/s41746-024-01355-7",
+   "title": "AI technology to support adaptive functioning in neurodevelopmental conditions in everyday environments: a systematic review",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 161
+  },
+  {
+   "doi": "10.1038/s41746-025-01480-x",
+   "title": "Establishment of a machine learning model for predicting splenic hilar lymph node metastasis",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1038/s41746-025-01682-3",
+   "title": "The Nebraska Nomogram for Autograft Planning (NNAP) a surgical planning tool for ipsilateral rotational autokeratoplasty",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1038/s41746-025-01551-z",
+   "title": "Global 10 year ecological momentary assessment and mobile sensing study on tinnitus and environmental sounds",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1038/s41746-025-01773-1",
+   "title": "Detection of epileptic spasms using foundational AI and smartphone videos",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1038/s41746-025-02037-8",
+   "title": "Can human connection amplify digital health outcomes? Familial involvement in a mobile health app",
+   "received": "7 August 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1038/s41746-025-01612-3",
+   "title": "Classification of intracranial pressure epochs using a novel machine learning framework",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1038/s41746-025-01518-0",
+   "title": "Value of clinical review for AI-guided deep vein thrombosis diagnosis with ultrasound imaging by non-expert operators",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1038/s41746-025-01739-3",
+   "title": "Uncovering ethical biases in publicly available fetal ultrasound datasets",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1038/s41746-025-01985-5",
+   "title": "Evaluating the performance of general purpose large language models in identifying human facial emotions",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1038/s41746-025-01800-1",
+   "title": "How AI is used in FDA-authorized medical devices: a taxonomy across 1,016 authorizations",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1038/s41746-025-01568-4",
+   "title": "Attitudes of healthcare professionals and researchers toward wearable and app derived patient generated health data",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1038/s41746-025-02056-5",
+   "title": "Can co-designed educational interventions help consumers think critically about asking ChatGPT health questions? Results from a randomised-controlled ",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1038/s41746-025-01689-w",
+   "title": "Development and prospective implementation of a large language model based system for early sepsis prediction",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 276
+  },
+  {
+   "doi": "10.1038/s41746-025-01478-5",
+   "title": "AI prediction model for endovascular treatment of vertebrobasilar occlusion with atrial fibrillation",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1038/s41746-025-01969-5",
+   "title": "Optimizing large language models for detecting symptoms of depression/anxiety in chronic diseases patient communications",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1038/s41746-025-01752-6",
+   "title": "Evaluating evidence-based health information from generative AI using a cross-sectional study with laypeople seeking screening information",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1038/s41746-025-01677-0",
+   "title": "Integrating personalized shape prediction, biomechanical modeling, and wearables for bone stress prediction in runners",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1038/s41746-025-01769-x",
+   "title": "Liquid white box model as an explainable AI for surgery",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "30 May 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1038/s41746-024-01321-3",
+   "title": "Natural language processing in mixed-methods evaluation of a digital sleep-alcohol intervention for young adults",
+   "received": "21 February 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 252
+  },
+  {
+   "doi": "10.1038/s41746-025-01474-9",
+   "title": "Telemedicine expands cardiovascular care in China \u2013 lessons for health equity in the United States",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 13
+  },
+  {
+   "doi": "10.1038/s41746-025-01502-8",
+   "title": "The triple integration of data, users and policies required for successful climate health solutions",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1038/s41746-025-01588-0",
+   "title": "Vision transformer based interpretable metabolic syndrome classification using retinal Images",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 292
+  },
+  {
+   "doi": "10.1038/s41746-025-01666-3",
+   "title": "Rapid development of a registry to accelerate COVID-19 vaccine clinical trials",
+   "received": "9 May 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1038/s41746-025-01735-7",
+   "title": "Economic analysis of an AI-enabled ECG alert system: impact on mortality outcomes from a pragmatic randomized trial",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1038/s41746-025-01957-9",
+   "title": "Optimizing retinal images based carotid atherosclerosis prediction with explainable foundation models",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1038/s41746-025-02030-1",
+   "title": "Evaluation of the Allergy Fact Checker, a clinical decision support system for non-invasive beta-lactam delabeling: a mixed-methods study",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1038/s41746-025-01847-0",
+   "title": "A randomized controlled trial of a digital cognitive behavioral therapy for insomnia for older adults",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "28 June 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1038/s41746-025-01984-6",
+   "title": "A dynamical systems framework for precision psychiatry",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 274
+  },
+  {
+   "doi": "10.1038/s41746-025-02011-4",
+   "title": "SPEED-TR: a self-distilled and pre-trained transformer model for enhanced ECG detection of tricuspid regurgitation",
+   "received": "15 June 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1038/s41746-024-01364-6",
+   "title": "N2GNet tracks gait performance from subthalamic neural signals in Parkinson\u2019s disease",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 74
+  },
+  {
+   "doi": "10.1038/s41746-025-01999-z",
+   "title": "Actigraphy-based detection of isolated REM sleep behavior disorder: multicenter validation across devices and populations",
+   "received": "9 August 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 30
+  },
+  {
+   "doi": "10.1038/s41746-025-01893-8",
+   "title": "Specialized curricula for training vision language models in retinal image analysis",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1038/s41746-025-01741-9",
+   "title": "H&amp;E to IHC virtual staining methods in breast cancer: an overview and benchmarking",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1038/s41746-025-01725-9",
+   "title": "Artificial intelligence should genuinely support clinical reasoning and decision making to bridge the translational gap",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1038/s41746-025-01910-w",
+   "title": "A scoping review of human digital twins in healthcare applications and usage patterns",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 282
+  },
+  {
+   "doi": "10.1038/s41746-025-01975-7",
+   "title": "Validity of two subjective skin tone scales and its implications on healthcare model fairness",
+   "received": "30 March 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1038/s41746-025-01662-7",
+   "title": "A systematic review of clinicians\u2019 acceptance and use of clinical decision support systems over time",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 321
+  },
+  {
+   "doi": "10.1038/s41746-025-01706-y",
+   "title": "Advanced and interpretable corneal staining assessment through fine grained knowledge distillation",
+   "received": "16 April 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 384
+  },
+  {
+   "doi": "10.1038/s41746-025-01981-9",
+   "title": "Evidential deep learning-based ALK-expression screening using H&amp;E-stained histopathological images",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1038/s41746-025-01569-3",
+   "title": "Leveraging electronic medical records to evaluate a computerized decision support system for staphylococcus bacteremia",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 337
+  },
+  {
+   "doi": "10.1038/s41746-025-01863-0",
+   "title": "Personalized and real time hemodynamic management in critical care using Dynamic Cohort Ensemble Learning (DynaCEL)",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1038/s41746-025-01944-0",
+   "title": "Operationalizing machine-assisted translation in healthcare",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1038/s41746-025-01799-5",
+   "title": "Relative importance of temporal and location features in predicting smoking events",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1038/s41746-024-01380-6",
+   "title": "Advances in the estimation of body fat percentage using an artificial intelligence 2D-photo method",
+   "received": "12 May 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 212
+  },
+  {
+   "doi": "10.1038/s41746-025-01846-1",
+   "title": "Unlocking efficiency in real-world collaborative studies: a multi-site international study with one-shot lossless GLMM algorithm",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "28 June 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1038/s41746-025-01750-8",
+   "title": "Interpretable longitudinal glaucoma visual field estimation deep learning system from fundus images and clinical narratives",
+   "received": "7 March 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 445
+  },
+  {
+   "doi": "10.1038/s41746-025-01770-4",
+   "title": "Beyond Fitzpatrick: automated artificial intelligence-based skin tone analysis in dermatological patients",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1038/s41746-025-01829-2",
+   "title": "GH-UNet: group-wise hybrid convolution-VIT for robust medical image segmentation",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "22 June 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1038/s41746-025-01777-x",
+   "title": "Clinical decision support using pseudo-notes from multiple streams of EHR data",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1038/s41746-025-01617-y",
+   "title": "Label efficient phenotyping for Long COVID using electronic health records",
+   "received": "10 May 2024",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 331
+  }
+ ]
+}

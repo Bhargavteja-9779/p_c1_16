@@ -1,0 +1,1589 @@
+{
+ "issn": "1471-2105",
+ "journal": "BMC Bioinformatics",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:06.261913",
+ "source": "https://api.crossref.org/journals/1471-2105/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12859-024-06006-y",
+   "title": "Optimizing sequence data analysis using convolution neural network for the prediction of CNV bait positions",
+   "received": "3 May 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 216
+  },
+  {
+   "doi": "10.1186/s12859-025-06267-1",
+   "title": "Prior knowledge on context-driven DNA fragmentation probabilities can improve de novo genome assembly algorithms",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 421
+  },
+  {
+   "doi": "10.1186/s12859-025-06299-7",
+   "title": "Varaps: a python package for estimating SARS-CoV-2 lineages proportions from pooled sequencing data (ANRS0160)",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s12859-024-06007-x",
+   "title": "Not seeing the trees for the forest. The impact of neighbours on graph-based configurations in histopathology",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s12859-025-06230-0",
+   "title": "A densely connected framework for cancer subtype classification",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12859-025-06187-0",
+   "title": "Reduction of supervision for biomedical knowledge discovery",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s12859-025-06188-z",
+   "title": "Multi-task genomic prediction using gated residual variable selection neural networks",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s12859-025-06140-1",
+   "title": "Sensitivity analysis on protein-protein interaction networks through deep graph networks",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s12859-025-06310-1",
+   "title": "Talk2Biomodels: AI agent-based open-source LLM initiative for kinetic biological models",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "22 October 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s12859-025-06220-2",
+   "title": "NetStart 2.0: prediction of eukaryotic translation initiation sites using a protein language model",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s12859-024-06032-w",
+   "title": "CDPMF-DDA: contrastive deep probabilistic matrix factorization for drug-disease association prediction",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12859-025-06172-7",
+   "title": "MAFcounter: an efficient tool for counting the occurrences of k-mers in MAF files",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12859-025-06048-w",
+   "title": "Metadag: a web tool to generate and analyse metabolic networks",
+   "received": "15 August 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s12859-025-06106-3",
+   "title": "Methylmap: visualization of modified nucleotides for large cohort sizes",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12859-025-06062-y",
+   "title": "Direct coupling analysis and the attention mechanism",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s12859-025-06069-5",
+   "title": "Conditional similarity triplets enable covariate-informed representations of single-cell data",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12859-024-06020-0",
+   "title": "TopoQual polishes circular consensus sequencing data and accurately predicts quality scores",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s12859-024-06015-x",
+   "title": "A graph neural network approach for hierarchical mapping of breast cancer protein communities",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s12859-024-05949-6",
+   "title": "Hybrid natural language processing tool for semantic annotation of medical texts in Spanish",
+   "received": "28 February 2024",
+   "revised": null,
+   "accepted": "30 September 2024",
+   "days": 215
+  },
+  {
+   "doi": "10.1186/s12859-025-06148-7",
+   "title": "The application of compressed sensing on tumor mutation burden calculation from overlapped pooling sequencing data",
+   "received": "10 November 2023",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 531
+  },
+  {
+   "doi": "10.1186/s12859-025-06164-7",
+   "title": "FunFEA: an R package for fungal functional enrichment analysis",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s12859-025-06302-1",
+   "title": "AllergenAI: a deep learning model predicting allergenicity based on protein sequence",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12859-025-06121-4",
+   "title": "HPC-T-Assembly: a pipeline for de novo transcriptome assembly of large multi-specie datasets",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s12859-025-06146-9",
+   "title": "ProTaxoVis\u2014protein taxonomic visualisation of presence",
+   "received": "14 October 2023",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 557
+  },
+  {
+   "doi": "10.1186/s12859-025-06120-5",
+   "title": "M01 tool: an automated, comprehensive computational tool for generating small molecule-peptide hybrids and docking them into curated protein structure",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s12859-025-06153-w",
+   "title": "GNNs and ensemble models enhance the prediction of new sRNA-mRNA interactions in unseen conditions",
+   "received": "11 January 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 475
+  },
+  {
+   "doi": "10.1186/s12859-024-06005-z",
+   "title": "Solu: a cloud platform for real-time genomic pathogen surveillance",
+   "received": "5 June 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 183
+  },
+  {
+   "doi": "10.1186/s12859-025-06213-1",
+   "title": "Rprot-Vec: a deep learning approach for fast protein structure similarity calculation",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12859-025-06266-2",
+   "title": "MysteryMaster: scraping the bottom of the barrel of barcoded Oxford nanopore reads",
+   "received": "1 June 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s12859-025-06279-x",
+   "title": "ResynPy: a software for selecting pairs of complementary inbred lines to resynthesize valuable heterozygous genotypes",
+   "received": "14 August 2023",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 771
+  },
+  {
+   "doi": "10.1186/s12859-025-06059-7",
+   "title": "SEGT-GO: a graph transformer method based on PPI serialization and explanatory artificial intelligence for protein function prediction",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s12859-025-06270-6",
+   "title": "VESNA: an open-source tool for automated 3D vessel segmentation and network analysis",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s12859-024-06022-y",
+   "title": "BiomiX, a user-friendly bioinformatic tool for democratized analysis and integration of multiomics data",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 179
+  },
+  {
+   "doi": "10.1186/s12859-025-06207-z",
+   "title": "GeneRiskCalc: a web-based tool for genetic risk association analysis in case\u2013control studies",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s12859-025-06127-y",
+   "title": "KF-NIPT: K-mer and fetal fraction-based estimation of chromosomal anomaly from NIPT data",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s12859-025-06070-y",
+   "title": "goloco: a web application to create genome scale information from surprisingly small experiments",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s12859-025-06154-9",
+   "title": "One-sample missing DNA-methylation value imputation",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "1 May 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1186/s12859-024-05998-x",
+   "title": "MISDP: multi-task fusion visit interval for sequential diagnosis prediction",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s12859-025-06244-8",
+   "title": "JINet: easy and secure private data analysis for everyone",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 319
+  },
+  {
+   "doi": "10.1186/s12859-025-06102-7",
+   "title": "Prediction of drug\u2019s anatomical therapeutic chemical (ATC) code by constructing biological profiles of ATC codes",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1186/s12859-025-06181-6",
+   "title": "DualGCN-GE: integration of spatiotemporal representations from whole-blood expression data with dual-view graph convolution network to identify Parkin",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 241
+  },
+  {
+   "doi": "10.1186/s12859-025-06245-7",
+   "title": "Autoencoders with shared and specific embeddings for multi-omics data integration",
+   "received": "23 February 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12859-025-06247-5",
+   "title": "H3NGST: a fully automated, web-based platform for end-to-end ChIP-seq analysis",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12859-024-05984-3",
+   "title": "MTAF\u2013DTA: multi-type attention fusion network for drug\u2013target affinity prediction",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12859-025-06182-5",
+   "title": "Aryana-bs: context-aware alignment of bisulfite-sequencing reads",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12859-025-06203-3",
+   "title": "PhyloScape: interactive and scalable visualization platform for phylogenetic trees",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1186/s12859-025-06125-0",
+   "title": "PathNetDRP: a novel biomarker discovery framework using pathway and protein\u2013protein interaction networks for immune checkpoint inhibitor response pred",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12859-025-06123-2",
+   "title": "PPI-Graphomer: enhanced protein-protein affinity prediction using pretrained and graph transformer models",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12859-025-06054-y",
+   "title": "Flexible analysis of spatial transcriptomics data (FAST): a deconvolution approach",
+   "received": "16 October 2023",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 458
+  },
+  {
+   "doi": "10.1186/s12859-024-06012-0",
+   "title": "GLiDe: a web-based genome-scale CRISPRi sgRNA design tool for prokaryotes",
+   "received": "9 April 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s12859-025-06135-y",
+   "title": "Node and edge control strategy identification via trap spaces in Boolean networks",
+   "received": "21 March 2022",
+   "revised": null,
+   "accepted": "4 April 2025",
+   "days": 1110
+  },
+  {
+   "doi": "10.1186/s12859-025-06265-3",
+   "title": "MultiModalGraphics: an R package for graphical integration of multi-omics datasets",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1186/s12859-025-06275-1",
+   "title": "A shrinkage-based statistical method for testing group mean differences in quantitative bottom-up proteomics",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12859-025-06053-z",
+   "title": "A novel weighted pseudo-labeling framework based on matrix factorization for adverse drug reaction prediction",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 379
+  },
+  {
+   "doi": "10.1186/s12859-025-06131-2",
+   "title": "M-DeepAssembly: enhanced DeepAssembly based on multi-objective multi-domain protein conformation sampling",
+   "received": "22 January 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 437
+  },
+  {
+   "doi": "10.1186/s12859-025-06122-3",
+   "title": "HPOseq: a deep ensemble model for predicting the protein-phenotype relationships based on protein sequences",
+   "received": "14 January 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 438
+  },
+  {
+   "doi": "10.1186/s12859-025-06171-8",
+   "title": "Class-balanced negative training sets for improving classifier model predictions of enhancer-promoter interactions",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s12859-025-06185-2",
+   "title": "Adaptive gradient scaling: integrating Adam and landscape modification for protein structure prediction",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 296
+  },
+  {
+   "doi": "10.1186/s12859-025-06119-y",
+   "title": "PRED-LD: efficient imputation of GWAS summary statistics",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s12859-025-06118-z",
+   "title": "Phoenics: a novel statistical approach for longitudinal metabolomic pathway analysis",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12859-025-06110-7",
+   "title": "DMoVGPE: predicting gut microbial associated metabolites profiles with deep mixture of variational Gaussian Process experts",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s12859-025-06101-8",
+   "title": "Deep-ProBind: binding protein prediction with transformer-based deep learning model",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s12859-025-06168-3",
+   "title": "Pytrf: a python package for finding tandem repeats from genomic sequences",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12859-025-06226-w",
+   "title": "Delineating markers of disease-disease interaction: a systematic methodology and its application to multiple diabetes-helminth cohorts",
+   "received": "18 January 2024",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 536
+  },
+  {
+   "doi": "10.1186/s12859-025-06151-y",
+   "title": "Ensemble machine learning-based pre-trained annotation approach for scRNA-seq data using gradient boosting with genetic optimizer",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 44
+  },
+  {
+   "doi": "10.1186/s12859-025-06199-w",
+   "title": "Structure-sensitive transformer and multi-view graph contrastive learning enhanced prediction of drug-related microbes",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12859-024-05983-4",
+   "title": "Enhanced prediction of hemolytic activity in antimicrobial peptides using deep learning-based sequence analysis",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s12859-024-06026-8",
+   "title": "Joint embedding\u2013classifier learning for interpretable collaborative filtering",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s12859-025-06237-7",
+   "title": "Literature data-based de novo candidates for drug repurposing",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12859-025-06142-z",
+   "title": "py_ped_sim: a flexible forward pedigree and genetic simulator for complex family pedigree analysis",
+   "received": "18 February 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 421
+  },
+  {
+   "doi": "10.1186/s12859-025-06239-5",
+   "title": "Semi-supervised contrastive learning variational autoencoder Integrating single-cell multimodal mosaic datasets",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s12859-024-06030-y",
+   "title": "DFAST_QC: quality assessment and taxonomic identification tool for prokaryotic Genomes",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12859-025-06055-x",
+   "title": "A Dirichlet-multinomial mixed model for determining differential abundance of mutational signatures",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s12859-024-05994-1",
+   "title": "DNEA: an R package for fast and versatile data-driven network analysis of metabolomics data",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12859-025-06033-3",
+   "title": "UniAMP: enhancing AMP prediction using deep neural networks with inferred information of peptides",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12859-025-06075-7",
+   "title": "MFCADTI: improving drug-target interaction prediction by integrating multiple feature through cross attention mechanism",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s12859-025-06039-x",
+   "title": "ClearFinder: a Python GUI for annotating cells in cleared mouse brain",
+   "received": "24 May 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1186/s12859-025-06090-8",
+   "title": "UTAP2: an enhanced user-friendly transcriptome and epigenome analysis pipeline",
+   "received": "8 December 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12859-024-06023-x",
+   "title": "A metric and its derived protein network for evaluation of ortholog database inconsistency",
+   "received": "15 June 2023",
+   "revised": null,
+   "accepted": "24 December 2024",
+   "days": 558
+  },
+  {
+   "doi": "10.1186/s12859-025-06089-1",
+   "title": "Dual-approach co-expression analysis framework (D-CAF) enables identification of novel circadian co-regulation from multi-omic timeseries data",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s12859-025-06085-5",
+   "title": "A distribution-guided Mapper algorithm",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 372
+  },
+  {
+   "doi": "10.1186/s12859-025-06282-2",
+   "title": "ASET: an end-to-end pipeline for quantification and visualization of allele specific expression",
+   "received": "7 June 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s12859-025-06108-1",
+   "title": "DeBasher: a flow-based programming bash extension for the implementation of complex and interactive workflows with stateful processes",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s12859-025-06256-4",
+   "title": "DeepSEA: an alignment-free explainable approach to annotate antimicrobial resistance proteins",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s12859-025-06136-x",
+   "title": "PCVR: a pre-trained contextualized visual representation for DNA sequence classification",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s12859-025-06045-z",
+   "title": "Accurate assembly of full-length consensus for viral quasispecies",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s12859-025-06262-6",
+   "title": "Knowledge-augmented pre-trained language models for biomedical relation extraction",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12859-025-06100-9",
+   "title": "Uncovering latent biological function associations through gene set embeddings",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12859-025-06114-3",
+   "title": "Bayesian compositional generalized linear mixed models for disease prediction using microbiome data",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12859-025-06218-w",
+   "title": "Time-coexpress: temporal trajectory modeling of dynamic gene co-expression patterns using single-cell transcriptomics data",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s12859-025-06129-w",
+   "title": "Fast noisy long read alignment with multi-level parallelism",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s12859-025-06095-3",
+   "title": "Multi-proteins similarity-based sampling to select representative genomes from large databases",
+   "received": "25 January 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 396
+  },
+  {
+   "doi": "10.1186/s12859-025-06259-1",
+   "title": "Spatiotemporal segmentation of contraction waves in the extra-embryonic membranes of the red flour beetle",
+   "received": "15 September 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 347
+  },
+  {
+   "doi": "10.1186/s12859-025-06235-9",
+   "title": "Group-wise normalization in differential abundance analysis of microbiome samples",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12859-025-06297-9",
+   "title": "SeqForge: a scalable platform for alignment-based searches, motif detection, and sequence curation across meta/genomic datasets",
+   "received": "27 August 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 44
+  },
+  {
+   "doi": "10.1186/s12859-025-06295-x",
+   "title": "Graph convolution network based on meta-paths and mutual information for drug-target interaction prediction",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12859-025-06063-x",
+   "title": "AMEND 2.0: module identification and multi-omic data integration with multiplex-heterogeneous graphs",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s12859-024-06028-6",
+   "title": "Predicting drug combination side effects based on a metapath-based heterogeneous graph neural network",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 186
+  },
+  {
+   "doi": "10.1186/s12859-025-06296-w",
+   "title": "Denoising single-cell RNA-seq data with a deep learning-embedded statistical framework",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s12859-024-06024-w",
+   "title": "Adaptive deep feature representation learning for cross-subject EEG decoding",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "24 December 2024",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s12859-025-06116-1",
+   "title": "GRLGRN: graph representation-based learning to infer gene regulatory networks from single-cell RNA-seq data",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12859-024-05991-4",
+   "title": "A comprehensive survey of scoring functions for protein docking models",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12859-024-05996-z",
+   "title": "Informeasure: an R/bioconductor package for quantifying nonlinear dependence between variables in biological networks from an information theory persp",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12859-025-06077-5",
+   "title": "BHCox: Bayesian heredity-constrained Cox proportional hazards models for detecting gene-environment interactions",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 213
+  },
+  {
+   "doi": "10.1186/s12859-025-06050-2",
+   "title": "BioLake: an RNA expression analysis framework for prostate cancer biomarker powered by data lakehouse",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s12859-025-06043-1",
+   "title": "Bigpicc: a graph-based approach to identifying carcinogenic gene combinations from mutation data",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s12859-024-06009-9",
+   "title": "Novel artificial intelligence-based identification of drug-gene-disease interaction using protein-protein interaction",
+   "received": "1 June 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s12859-024-06018-8",
+   "title": "Identifying risk factors for Alzheimer\u2019s disease from multivariate longitudinal clinical data using temporal pattern mining",
+   "received": "12 February 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 309
+  },
+  {
+   "doi": "10.1186/s12859-025-06052-0",
+   "title": "HDN-DDI: a novel framework for predicting drug-drug interactions using hierarchical molecular graphs and enhanced dual-view representation learning",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1186/s12859-025-06210-4",
+   "title": "Incorporating exon\u2013exon junction reads enhances differential splicing detection",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s12859-025-06037-z",
+   "title": "GRAMEP: an alignment-free method based on the maximum entropy principle for identifying SNPs",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s12859-025-06097-1",
+   "title": "optRF: Optimising random forest stability by determining the optimal number of trees",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "26 February 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s12859-025-06111-6",
+   "title": "Amogel: a multi-omics classification framework using associative graph neural networks with prior knowledge for biomarker identification",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s12859-025-06073-9",
+   "title": "HarmonizR: blocking and singular feature data adjustment improve runtime efficiency and data preservation",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s12859-025-06174-5",
+   "title": "Efficient construction of Markov state models for stochastic gene regulatory networks by domain decomposition",
+   "received": "16 November 2023",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 551
+  },
+  {
+   "doi": "10.1186/s12859-025-06082-8",
+   "title": "Bacterial network for precise plant stress detection and enhanced crop resilience",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s12859-024-06001-3",
+   "title": "Loop-mediated isothermal amplification assays for the detection of antimicrobial resistance elements in Vibrio cholera",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s12859-024-06004-0",
+   "title": "NERVE 2.0: boosting the new enhanced reverse vaccinology environment via artificial intelligence and a user-friendly web interface",
+   "received": "14 July 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s12859-025-06036-0",
+   "title": "Comp\u00e0reGenome: a command-line tool for genomic diversity estimation in prokaryotes and eukaryotes",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1186/s12859-024-05999-w",
+   "title": "Prediction of miRNA-disease associations based on PCA and cascade forest",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s12859-025-06196-z",
+   "title": "DiscMycoVir: a user-friendly platform for discovering mycoviruses in fungal transcriptomes",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 303
+  },
+  {
+   "doi": "10.1186/s12859-024-06017-9",
+   "title": "An effective heuristic for developing hybrid feature selection in high dimensional and low sample size datasets",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s12859-025-06200-6",
+   "title": "Automated web-based typing of Clostridioides difficile ribotypes via MALDI-TOF MS",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1186/s12859-025-06198-x",
+   "title": "Drug-target interaction prediction based on graph convolutional autoencoder with dynamic weighting residual GCN",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12859-025-06233-x",
+   "title": "FlatProt: 2D visualization eases protein structure comparison",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s12859-025-06105-4",
+   "title": "Towards a standard benchmark for phenotype-driven variant and gene prioritisation algorithms: PhEval\u00a0-\u00a0Phenotypic inference Evaluation framework",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s12859-025-06130-3",
+   "title": "FastQTLmapping: an ultra-fast and memory efficient package for mQTL-like analysis",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12859-025-06117-0",
+   "title": "Improving data interpretability with new differential sample variance gene set tests",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 223
+  },
+  {
+   "doi": "10.1186/s12859-025-06109-0",
+   "title": "Goistrat: gene-of-interest-based sample stratification for the evaluation of functional differences",
+   "received": "11 March 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 364
+  },
+  {
+   "doi": "10.1186/s12859-025-06324-9",
+   "title": "OMetaNet: an efficient hybrid deep learning model based on multimodal data fusion and contrastive learning for predicting 2\u02b9-O-methylation sites in hu",
+   "received": "6 August 2025",
+   "revised": null,
+   "accepted": "10 November 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12859-025-06047-x",
+   "title": "scSMD: a deep learning method for accurate\u00a0clustering of single cells based on auto-encoder",
+   "received": "12 April 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 276
+  },
+  {
+   "doi": "10.1186/s12859-025-06079-3",
+   "title": "PyPropel: a Python-based tool for efficiently processing and characterising protein data",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12859-025-06191-4",
+   "title": "Accurate human genome analysis with element avidity sequencing",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 444
+  },
+  {
+   "doi": "10.1186/s12859-025-06209-x",
+   "title": "SCNT: an R package for data analysis and visualization of single-cell and spatial transcriptomics",
+   "received": "23 May 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s12859-025-06277-z",
+   "title": "Direct construction of sparse suffix arrays with Libsais",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12859-025-06094-4",
+   "title": "SNPeBoT: a tool for predicting transcription factor allele specific binding",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s12859-025-06176-3",
+   "title": "MultiVis.js: a software tool for the visualization of multiway chromatin interactions and SPRITE data",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s12859-025-06169-2",
+   "title": "LDA-SCGB: inferring lncRNA-disease associations based on condensed gradient boosting",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 289
+  },
+  {
+   "doi": "10.1186/s12859-025-06099-z",
+   "title": "TransST: transfer learning embedded spatial factor modeling of spatial transcriptomics data",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1186/s12859-025-06269-z",
+   "title": "CCNV: a user-friendly R package enabling large-scale cumulative copy number variation analyses of DNA methylation data",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12859-025-06115-2",
+   "title": "DeepMethyGene: a deep-learning model to predict gene expression using DNA methylations",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s12859-025-06189-y",
+   "title": "HIV-phyloTSI: subtype-independent estimation of time since HIV-1 infection for cross-sectional measures of population incidence using deep sequence da",
+   "received": "29 August 2022",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 1018
+  },
+  {
+   "doi": "10.1186/s12859-025-06092-6",
+   "title": "DconnLoop: a deep learning model for predicting chromatin loops based on multi-source data integration",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s12859-024-05993-2",
+   "title": "Pheno-Ranker: a toolkit for comparison of phenotypic data stored in GA4GH standards and beyond",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 236
+  },
+  {
+   "doi": "10.1186/s12859-025-06139-8",
+   "title": "PtWAVE: a high-sensitive deconvolution software of sequencing trace for the detection of large indels in genome editing",
+   "received": "18 April 2024",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 355
+  },
+  {
+   "doi": "10.1186/s12859-025-06214-0",
+   "title": "CYCLONE: recycle contrastive learning for integrating single-cell gene expression data",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 345
+  },
+  {
+   "doi": "10.1186/s12859-025-06080-w",
+   "title": "An alignment-free method for phylogeny estimation using maximum likelihood",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s12859-025-06212-2",
+   "title": "LM-Merger: a workflow for merging logical models with an application to gene regulatory network models",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12859-024-06016-w",
+   "title": "Deep learning-based metabolomics data study of prostate cancer",
+   "received": "29 May 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 201
+  },
+  {
+   "doi": "10.1186/s12859-025-06057-9",
+   "title": "Hybrid generative adversarial network based on frequency and spatial domain for histopathological image synthesis",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12859-025-06309-8",
+   "title": "scMFF: a machine learning framework with multiple feature fusion strategies for cell type identification",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "22 October 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12859-025-06208-y",
+   "title": "Unveiling molecular moieties through hierarchical Grad-CAM graph explainability",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12859-025-06064-w",
+   "title": "Harnessing pre-trained models for accurate prediction of protein-ligand binding affinity",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12859-025-06183-4",
+   "title": "PRCFX-DT: a new graph-based approach for feature selection and classification of genomic sequences",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s12859-025-06231-z",
+   "title": "Soft graph clustering for single-cell RNA sequencing data",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1186/s12859-025-06205-1",
+   "title": "Boosting K-nearest neighbor regression performance for longitudinal data through a novel learning approach",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s12859-025-06253-7",
+   "title": "Towards the genome-scale discovery of bivariate monotonic classifiers",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s12859-025-06216-y",
+   "title": "The FBA solution space kernel: introduction and illustrative examples",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s12859-025-06284-0",
+   "title": "Dual-channel heterogeneous feature fusion neural network for the prediction of post-transcriptional gene expression in Escherichia coli",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1186/s12859-024-05995-0",
+   "title": "The evaluation of transcription factor binding site prediction tools in human and Arabidopsis genomes",
+   "received": "23 June 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 151
+  },
+  {
+   "doi": "10.1186/s12859-025-06087-3",
+   "title": "SCITUNA: single-cell data integration tool using network alignment",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1186/s12859-024-06010-2",
+   "title": "CNVizard\u2014a lightweight streamlit application for an interactive analysis of copy number variants",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12859-025-06083-7",
+   "title": "Cross-validation for training and testing co-occurrence network inference algorithms",
+   "received": "1 March 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s12859-025-06206-0",
+   "title": "Calciumnetexplorer: an R package for network analysis of calcium imaging data",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s12859-025-06098-0",
+   "title": "Validating a web application\u2019s use of genetic distance to determine helminth species boundaries and aid in identification",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "27 February 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s12859-025-06268-0",
+   "title": "GRiNS: a python library for simulating gene regulatory network dynamics",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s12859-025-06248-4",
+   "title": "fuseMLR: an R package for integrative prediction modeling of multi-omics data",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1186/s12859-025-06193-2",
+   "title": "Automated sparse feature selection in high-dimensional proteomics data via 1-bit compressed sensing and K-Medoids clustering",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s12859-025-06160-x",
+   "title": "SEQSIM: A novel bioinformatics tool for comparisons of promoter regions\u2014a case study of calcium binding protein spermatid associated 1 (CABS1)",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s12859-025-06272-4",
+   "title": "DCMF-PPI: a protein-protein interaction predictor based on dynamic condition and multi-feature fusion",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s12859-025-06257-3",
+   "title": "Cancer detection via one-shot learning: integrating gene expression and genomic mutation analysis",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1186/s12859-025-06103-6",
+   "title": "ChIPbinner: an R package for analyzing broad histone marks binned in uniform windows from ChIP-Seq or CUT&amp;RUN/TAG data",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s12859-025-06306-x",
+   "title": "MCLCBA: multi-view contrastive learning network for RNA methylation site prediction",
+   "received": "31 July 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s12859-025-06238-6",
+   "title": "GenMasterTable: a user-friendly desktop application for filtering, summarising, and visualising large-scale annotated genetic variants",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12859-025-06065-9",
+   "title": "Using individual barcodes to increase quantification power of massively parallel reporter assays",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s12859-025-06281-3",
+   "title": "Denoising self-supervised learning for disease-gene association prediction",
+   "received": "28 July 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12859-025-06143-y",
+   "title": "Integrating genetic and gene expression data in network-based stratification analysis of cancers",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12859-024-06025-9",
+   "title": "Tisslet tissues-based learning estimation for transcriptomics",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s12859-025-06249-3",
+   "title": "GeneSetCluster 2.0: a comprehensive toolset for summarizing and integrating gene-sets analysis",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s12859-025-06051-1",
+   "title": "A hybrid machine learning framework for functional annotation of mitochondrial glutathione transport and metabolism proteins in cancers",
+   "received": "18 March 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 303
+  },
+  {
+   "doi": "10.1186/s12859-024-05952-x",
+   "title": "Managing false positives during detection of pathogen sequences in shotgun metagenomics datasets",
+   "received": "31 July 2023",
+   "revised": null,
+   "accepted": "7 October 2024",
+   "days": 434
+  },
+  {
+   "doi": "10.1186/s12859-025-06066-8",
+   "title": "Instance-level semantic segmentation of nuclei based on multimodal structure encoding",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12859-025-06152-x",
+   "title": "A new alignment-free method: K-mer Subsequence Natural Vector (K-mer SNV) for classification of fungi",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "30 April 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12859-025-06300-3",
+   "title": "TRAMbio: a flexible python package for graph rigidity analysis of macromolecules",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s12859-025-06058-8",
+   "title": "TockyPrep: data preprocessing methods for flow cytometric fluorescent timer analysis",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12859-025-06278-y",
+   "title": "SMILES alignment: a dynamic programming approach for the alignment of metabolites and other small organic molecules",
+   "received": "3 July 2024",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 447
+  },
+  {
+   "doi": "10.1186/s12859-024-06013-z",
+   "title": "AEGAN-Pathifier: a data augmentation method to improve cancer classification for imbalanced gene expression data",
+   "received": "7 September 2023",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 459
+  },
+  {
+   "doi": "10.1186/s12859-025-06190-5",
+   "title": "BPFun: a deep learning framework for bioactive peptide function prediction using multi-label strategy by transformer-driven and sequence rich intrinsi",
+   "received": "20 May 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 389
+  },
+  {
+   "doi": "10.1186/s12859-025-06241-x",
+   "title": "HolomiRA: a reproducible pipeline for miRNA binding site prediction in microbial genomes",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1186/s12859-025-06175-4",
+   "title": "Blastn2dotplots: multiple dot-plot visualizer for genome comparisons",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s12859-025-06314-x",
+   "title": "SynergyImage: image-based model for drug combinations synergy score prediction",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 341
+  },
+  {
+   "doi": "10.1186/s12859-025-06252-8",
+   "title": "MyClone: rapid and precise reconstruction of clonal population structures for tumors",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 225
+  },
+  {
+   "doi": "10.1186/s12859-025-06072-w",
+   "title": "Sculpting molecules in text-3D space: a flexible substructure aware framework for text-oriented molecular optimization",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12859-025-06232-y",
+   "title": "DiffCoRank: a comprehensive framework for discovering hub genes and differential gene co-expression in brain implant-associated tissue responses",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s12859-025-06328-5",
+   "title": "EGCPPIS: learning hierarchical equivariant graph representations with contrastive integration for protein\u2013protein interaction site identification",
+   "received": "15 September 2025",
+   "revised": null,
+   "accepted": "12 November 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12859-025-06158-5",
+   "title": "Universal multilayer network embedding reveals a causal link between GABA neurotransmitter and cancer",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12859-025-06229-7",
+   "title": "The BeeBiome data portal provides easy access to bee microbiome information",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 102
+  }
+ ]
+}

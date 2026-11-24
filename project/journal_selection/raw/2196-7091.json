@@ -1,0 +1,605 @@
+{
+ "issn": "2196-7091",
+ "journal": "Smart Learning Environments",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:07.576877",
+ "source": "https://api.crossref.org/journals/2196-7091/works",
+ "articles": [
+  {
+   "doi": "10.1186/s40561-025-00371-8",
+   "title": "An interactive mobile three-dimensional virtual laboratory for learning ear anatomy",
+   "received": "11 August 2023",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 538
+  },
+  {
+   "doi": "10.1186/s40561-024-00347-0",
+   "title": "Investigating the use of chatGPT as a tool for enhancing critical thinking and argumentation skills in international relations debates among undergrad",
+   "received": "25 April 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s40561-025-00378-1",
+   "title": "The effects of demographic factors on learners\u2019 flow experience in gamified educational quizzes",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s40561-024-00351-4",
+   "title": "The use of XR technology in criminal justice teaching and education: a scoping review",
+   "received": "17 August 2023",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 463
+  },
+  {
+   "doi": "10.1186/s40561-025-00385-2",
+   "title": "Using ChatGPT is easy, using it effectively is tough? A mixed methods study on K-12 students\u2019 perceptions, interaction patterns, and support for learn",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s40561-025-00403-3",
+   "title": "Artificial intelligence, generative artificial intelligence and research integrity: a hybrid systemic review",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s40561-024-00359-w",
+   "title": "Leveraging opportunities for self-regulated learning in smart learning environments",
+   "received": "20 April 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 243
+  },
+  {
+   "doi": "10.1186/s40561-025-00404-2",
+   "title": "Artificial intelligence application for museum to experiential transformation of cultural heritage and learning",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s40561-025-00401-5",
+   "title": "Teaching soft skills in higher education through serious games: validation of the Compete! gamification",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s40561-025-00390-5",
+   "title": "Barriers to AI adoption for women in higher education: a systematic review of the Asian context",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s40561-025-00402-4",
+   "title": "Students\u2019 experience and learning outcomes in multisensory environments: the moderating role of interaction modalities",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1186/s40561-025-00381-6",
+   "title": "Learning analytics in immersive virtual learning environments: a systematic literature review",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s40561-024-00330-9",
+   "title": "Cognitive engagement as a predictor of learning gain in Python programming",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "3 September 2024",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s40561-025-00399-w",
+   "title": "A comparative study of self-regulated English learning through mobile language-learning applications in post-pandemic Hong Kong and South Korea",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1186/s40561-025-00411-3",
+   "title": "A practical study of artificial intelligence-based real-time feedback in online physical education teaching",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s40561-024-00357-y",
+   "title": "Investigating continuous intention to use metaverse in higher education institutions: a dual-staged structural equation modeling-artificial neural net",
+   "received": "19 June 2023",
+   "revised": null,
+   "accepted": "20 October 2024",
+   "days": 489
+  },
+  {
+   "doi": "10.1186/s40561-024-00350-5",
+   "title": "A systematic review of literature reviews on artificial intelligence in education (AIED): a roadmap to a future research agenda",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s40561-025-00420-2",
+   "title": "The effect of using whiteboard animation in teaching introductory accounting concepts",
+   "received": "6 April 2025",
+   "revised": null,
+   "accepted": "1 November 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1186/s40561-025-00368-3",
+   "title": "Language learners\u2019 surface, deep, and organizing approaches to ChatGPT-assisted language learning: What contextual, individual, and ChatGPT-related fa",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s40561-025-00377-2",
+   "title": "Reinforcing L2 reading comprehension through artificial intelligence intervention: refining engagement to foster self-regulated learning",
+   "received": "26 January 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 385
+  },
+  {
+   "doi": "10.1186/s40561-025-00410-4",
+   "title": "Integrating multi-modal learning analytics dashboard in K-12 education: insights for enhancing orchestration and teacher decision-making",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s40561-025-00366-5",
+   "title": "Towards high-quality informatics K-12 education in Europe: key insights from the literature",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 33
+  },
+  {
+   "doi": "10.1186/s40561-025-00395-0",
+   "title": "Students\u2019 perceived impact of GenAI tools on learning and assessment in higher education: the role of individual AI competence",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s40561-024-00348-z",
+   "title": "Asking the classroom with technology: a systematic literature review",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s40561-025-00380-7",
+   "title": "Learning stream plot: classroom activity visualization with daily learning log data",
+   "received": "4 February 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 407
+  },
+  {
+   "doi": "10.1186/s40561-025-00407-z",
+   "title": "Technology-enhanced personalized learning environments based on prior knowledge in continuing education: An experimental study",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s40561-024-00363-0",
+   "title": "The role of interactive, constructive, active, and passive learning activities (ICAPCALL) in shaping students\u2019 online engagement, and learning approac",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s40561-025-00383-4",
+   "title": "Unboxing the gifts of WhatsApp in language learning: magnifying the impacts on english achievement, academic engagement, foreign language anxiety, and",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s40561-024-00340-7",
+   "title": "Impact of an adaptive environment based on learning analytics on pre-service science teacher behavior and self-regulation",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "23 October 2024",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s40561-024-00355-0",
+   "title": "Gameful education: a study of Gamifiter application's role in promoting physical activity and active lifestyle",
+   "received": "13 February 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 287
+  },
+  {
+   "doi": "10.1186/s40561-025-00400-6",
+   "title": "Differential effects of Moodle course design on student subpopulations: advancing personalized learning in higher education",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 31
+  },
+  {
+   "doi": "10.1186/s40561-024-00362-1",
+   "title": "Exploring the impact of robot interaction on learning engagement: a comparative study of two multi-modal robots",
+   "received": "23 October 2023",
+   "revised": null,
+   "accepted": "22 December 2024",
+   "days": 426
+  },
+  {
+   "doi": "10.1186/s40561-025-00397-y",
+   "title": "The effectiveness of blackboard wikis and the KWL strategy in promoting analytical, creative thinking and academic success in higher education",
+   "received": "12 November 2023",
+   "revised": null,
+   "accepted": "20 May 2025",
+   "days": 555
+  },
+  {
+   "doi": "10.1186/s40561-024-00349-y",
+   "title": "Do personal recommendations need to be personalized? Investigating the relationships between student differences and educational recommendations",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s40561-025-00393-2",
+   "title": "Exploring ChatGPT in education: unveiling learners\u2019 experiences through the lens of self-determination theory",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s40561-025-00418-w",
+   "title": "What is the Science of Learning? a comprehensive review and analysis of the existing definitions",
+   "received": "30 June 2025",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s40561-024-00345-2",
+   "title": "Like objects or like subjects? Effects of student\u2013robot interaction (SRI) and mathematical ability on students learning outcomes",
+   "received": "15 March 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 240
+  },
+  {
+   "doi": "10.1186/s40561-025-00414-0",
+   "title": "Systematic review of virtual reality's uses on vocabulary learning in higher education",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1186/s40561-025-00387-0",
+   "title": "A microlearning app for peer feedback training and its effect on learning performance and self-confidence during an EFL speaking task",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 309
+  },
+  {
+   "doi": "10.1186/s40561-025-00408-y",
+   "title": "Exploring structured reading groups: case studies on classroom conversation and engagement",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 310
+  },
+  {
+   "doi": "10.1186/s40561-024-00358-x",
+   "title": "Designing inclusive tech playful educative solutions for visually impaired learners in STEM education",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 282
+  },
+  {
+   "doi": "10.1186/s40561-025-00406-0",
+   "title": "How do generative artificial intelligence (AI) tools and large language models (LLMs) influence language learners\u2019 critical thinking in EFL education?",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "23 July 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s40561-024-00361-2",
+   "title": "Gamification, collaborative learning and transversal competences: analysis of academic performance and students\u2019 perceptions",
+   "received": "6 March 2024",
+   "revised": null,
+   "accepted": "22 December 2024",
+   "days": 291
+  },
+  {
+   "doi": "10.1186/s40561-024-00346-1",
+   "title": "LearningViz: a dashboard for visualizing, analyzing and closing learning performance gaps\u2014a case study approach",
+   "received": "14 July 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s40561-025-00372-7",
+   "title": "Student\u2019s experience in using simulators for the development of complex skills in logistics education: assessing enjoyment of learning",
+   "received": "30 August 2023",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 519
+  },
+  {
+   "doi": "10.1186/s40561-024-00360-3",
+   "title": "Intelligent educational technologies in individual learning: a systematic literature review",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "21 December 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s40561-025-00374-5",
+   "title": "Emotion recognition for enhanced learning: using AI to detect students\u2019 emotions and adjust teaching methods",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s40561-025-00405-1",
+   "title": "Incorporating teacher effect when modeling student engagement in smart STEM classrooms: a cluster analysis",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s40561-025-00370-9",
+   "title": "Enhancing architectural education through hybrid digital tools: investigating the impact on design creativity and cognitive processes",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1186/s40561-025-00415-z",
+   "title": "AI-driven predictive models for optimizing mathematics education technology: Enhancing decision-making through educational data mining and meta-analys",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s40561-025-00382-5",
+   "title": "Development and validation of a tool to explore the perspectives of the health sciences faculty towards blended learning",
+   "received": "22 June 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 283
+  },
+  {
+   "doi": "10.1186/s40561-025-00409-x",
+   "title": "Technologies and strategies in collaborative online international learning: systematic literature mapping",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 230
+  },
+  {
+   "doi": "10.1186/s40561-025-00364-7",
+   "title": "Comparison of the effect of quick response code-based training and traditional methods on the knowledge, skill, and satisfaction of the nursing studen",
+   "received": "10 May 2024",
+   "revised": null,
+   "accepted": "5 January 2025",
+   "days": 240
+  },
+  {
+   "doi": "10.1186/s40561-025-00373-6",
+   "title": "Workload perception in educational resource recommendation supported by artificial intelligence: a controlled experiment with teachers",
+   "received": "20 November 2023",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 437
+  },
+  {
+   "doi": "10.1186/s40561-025-00394-1",
+   "title": "Unveiling the reasons behind learners\u2019 dropout from educational platforms: analyzing sentiment intensity throughout texts",
+   "received": "30 April 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 371
+  },
+  {
+   "doi": "10.1186/s40561-025-00386-1",
+   "title": "Leveling up engagement: gamification\u2019s role in creating immersive online events",
+   "received": "30 August 2023",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 604
+  },
+  {
+   "doi": "10.1186/s40561-025-00392-3",
+   "title": "An adaptive virtual reality game for programming education using fuzzy cognitive maps and pedagogical models",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s40561-025-00398-x",
+   "title": "Immersive digital storytelling to understand the new learning ecosystem: the revised concentric circles model from both teacher and students\u2019 perspect",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 327
+  },
+  {
+   "doi": "10.1186/s40561-024-00356-z",
+   "title": "Student comprehension of biochemistry in a flipped classroom format",
+   "received": "5 March 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 266
+  },
+  {
+   "doi": "10.1186/s40561-025-00391-4",
+   "title": "Teachers\u2019 and students\u2019 perception, practices, and challenges of active learning strategy utilization in primary schools of North Wollo Zone, Ethiopia",
+   "received": "25 January 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 468
+  },
+  {
+   "doi": "10.1186/s40561-025-00369-2",
+   "title": "Factors influencing virtual lab adoption in marginalized rural schools: insights from South Africa",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1186/s40561-025-00375-4",
+   "title": "Modeling the physiological response of flow in groups: a mathematical approach",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s40561-024-00344-3",
+   "title": "Taking into account students' psychotypes and using their neuropsychological maps when implementing digital educational technologies within the Metave",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 218
+  },
+  {
+   "doi": "10.1186/s40561-024-00353-2",
+   "title": "Analysis of faculty readiness for online teaching: assessing impact and adaptability in diverse educational contexts",
+   "received": "5 April 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 235
+  },
+  {
+   "doi": "10.1186/s40561-025-00379-0",
+   "title": "Design language learning with artificial intelligence (AI) chatbots based on activity theory from a systematic review",
+   "received": "12 October 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s40561-025-00413-1",
+   "title": "From co-design to co-teaching: a comprehensive approach to an integrated AI curriculum in middle school STEM education",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s40561-025-00412-2",
+   "title": "Flipped classroom evaluation and blended learning potential: a case study of engagement and inclusion in quantitative education",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s40561-024-00352-3",
+   "title": "Exploring socio-cultural influences on generative AI engagement in Nigerian higher education: an activity theory analysis",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s40561-025-00388-z",
+   "title": "A linguistic comparison between ChatGPT-generated and nonnative student-generated short story adaptations: a stylometric approach",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 232
+  },
+  {
+   "doi": "10.1186/s40561-025-00389-y",
+   "title": "Adaptive intelligent tutoring systems for STEM education: analysis of the learning impact and effectiveness of personalized feedback",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1186/s40561-025-00365-6",
+   "title": "Taxonomy of digital curation activities that promote critical thinking",
+   "received": "22 June 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s40561-024-00354-1",
+   "title": "Harnessing large language models to develop research-based learning assistants for formative feedback",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 237
+  },
+  {
+   "doi": "10.1186/s40561-025-00376-3",
+   "title": "A learning experience design framework for multimodal learning in the early childhood",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 212
+  },
+  {
+   "doi": "10.1186/s40561-025-00384-3",
+   "title": "Exploring students\u2019 AI literacy and its effects on their AI output quality, self-efficacy, and academic performance",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 216
+  }
+ ]
+}

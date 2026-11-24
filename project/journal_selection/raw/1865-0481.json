@@ -1,0 +1,1589 @@
+{
+ "issn": "1865-0481",
+ "journal": "Earth Science Informatics",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:47.843574",
+ "source": "https://api.crossref.org/journals/1865-0481/works",
+ "articles": [
+  {
+   "doi": "10.1007/s12145-025-01892-z",
+   "title": "Cloud computing-based freshwater ice mapping using synthetic aperture radar imagery",
+   "received": "29 October 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1007/s12145-025-01732-0",
+   "title": "Enhanced underwater image classification using SAE-based adaptive golden eagle optimizer for high-accuracy marine species identification",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1007/s12145-024-01669-w",
+   "title": "RUSLE/SDR for assessment of soil erosion by a new non-convex regression",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s12145-025-01889-8",
+   "title": "Magnetic properties of agricultural soils and their relationships with environmental factors in Jinghong, Yunnan, China",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "21 April 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1007/s12145-024-01665-0",
+   "title": "Long-term shoreline dynamics of South Kerala Coast using satellite images",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s12145-025-02011-8",
+   "title": "G-ABORE: regularizing complex geometry building boundaries from pre-processed building LiDAR points using B\u00e9zier curve",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1007/s12145-025-01828-7",
+   "title": "Selecting the best backbone model: A comprehensive evaluation of deep learning models for satellite image-based land cover classification",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1007/s12145-025-01793-1",
+   "title": "An enhanced discovery of multiple natural disasters using machine learning model",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1007/s12145-025-01697-0",
+   "title": "Seismic-well tie using fuzzy properties of acoustic impedance in the dynamic time warping",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1007/s12145-025-02049-8",
+   "title": "Lithology prediction via multiscale feature-fusion convolutional neural networks",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s12145-025-01927-5",
+   "title": "Mapping trends and analyzing key themes in low-cost sensors for air quality monitoring",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "18 May 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s12145-024-01687-8",
+   "title": "DroughtStats: A comprehensive software for drought monitoring and analysis",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s12145-024-01528-8",
+   "title": "A hybrid wind speed forecasting model with two-stage data processing based on adaptive neuro-fuzzy inference systems and deep learning algorithms",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s12145-025-01897-8",
+   "title": "Ensemble machine learning approaches for estimating soil texture components in loess soils of Golestan Province",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s12145-025-01940-8",
+   "title": "Iterative geostatistical seismic inversion with adaptive local variogram models",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1007/s12145-025-01875-0",
+   "title": "Geomorphological evolution of small watershed on the Chinese Loess Plateau based on slope shape spectra",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s12145-025-01802-3",
+   "title": "Combining social media data and meteorological sensors for urban flood detection: a statistical analysis in S\u00e3o Paulo City",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1007/s12145-025-01900-2",
+   "title": "Estimating saltwater wedge length in sloping coastal aquifers using explainable machine learning models",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s12145-025-01713-3",
+   "title": "Improving permeability modeling using artificial neural networks in Lower Safa sand reservoir, JG field, Abu El-Gharadig basin, Western Desert, Egypt",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1007/s12145-025-01966-y",
+   "title": "A novel TCN-augmented CNN-LSTM architecture for accurate monthly runoff forecasting",
+   "received": "2 March 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s12145-024-01524-y",
+   "title": "A singular spectrum analysis-enhanced BiTCN-selfattention model for runoff prediction",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "10 November 2024",
+   "days": 44
+  },
+  {
+   "doi": "10.1007/s12145-025-01896-9",
+   "title": "Sequence-to-sequence and meta LSTM techniques enhanced by remote sensing for advanced evapotranspiration estimation",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s12145-024-01619-6",
+   "title": "Bathymetric estimation of mumbai coast using landsat OLI imagery and machine learning models",
+   "received": "17 June 2024",
+   "revised": null,
+   "accepted": "19 September 2024",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s12145-025-01971-1",
+   "title": "SCAFaultNet: application of a hybrid attention network based on multi-scale feature fusion in seismic fault identification",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1007/s12145-024-01659-y",
+   "title": "Rapid automatic detection of collapsed buildings with single period LiDAR data after an earthquake",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s12145-024-01586-y",
+   "title": "Data mining techniques for LULC analysis using sparse labels and multisource data integration for the hilly terrain of Nilgiris district, Tamil Nadu, ",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "4 October 2024",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s12145-025-01720-4",
+   "title": "Comparative analysis of sensors and classification algorithms for land cover classification in Islamabad, Pakistan",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s12145-025-02047-w",
+   "title": "Artificial intelligence models for seepage analysis through embankment dam-case study: Khasa Chi Dam",
+   "received": "2 June 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1007/s12145-025-02012-7",
+   "title": "Fault stick-slip behavior at different dip angles using the DEM method",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "30 August 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1007/s12145-024-01495-0",
+   "title": "Analysing spatial distribution and variability of vadose zone moisture in different subsidence areas using 3D empirical Bayesian kriging and pixel-by-",
+   "received": "2 May 2024",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 205
+  },
+  {
+   "doi": "10.1007/s12145-025-01811-2",
+   "title": "Rotation-based outlier detection for geochemical anomaly identification in stream sediment multivariate data",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s12145-024-01602-1",
+   "title": "Deep learning in the advanced core sample porosity determination with XCT image",
+   "received": "3 June 2024",
+   "revised": null,
+   "accepted": "28 September 2024",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s12145-024-01679-8",
+   "title": "PAR-YOLO: a precise and real-time YOLO water surface garbage detection model",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 103
+  },
+  {
+   "doi": "10.1007/s12145-025-01831-y",
+   "title": "Orogenic gold mineral prospectivity mapping of the geraldton area, ontario: discussion of key issues",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s12145-025-01869-y",
+   "title": "IoT tank level measurement device for improving water distribution system operation",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s12145-025-01749-5",
+   "title": "Optimized modified single shot multibox detector with hybrid encryption algorithm for satellite image security and classification",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1007/s12145-024-01639-2",
+   "title": "Prediction of the height of water-conducting fracture zone using the FA-ALO-SVR model",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1007/s12145-025-01928-4",
+   "title": "Assessment of ecological restoration effectiveness and quantitative analysis of multiple driving forces in high groundwater-level coal mining subsiden",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "18 May 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1007/s12145-024-01547-5",
+   "title": "Mapping flood inundation in Baro Akobo Basin, Itang area, Ethiopia: integrating machine learning and process-based models",
+   "received": "3 August 2024",
+   "revised": null,
+   "accepted": "28 October 2024",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12145-024-01631-w",
+   "title": "Analysis and classification of seismic signals based on wavelet packet tree structures and self-organizing feature map",
+   "received": "25 May 2024",
+   "revised": null,
+   "accepted": "13 September 2024",
+   "days": 111
+  },
+  {
+   "doi": "10.1007/s12145-025-01973-z",
+   "title": "Dynamic evaluation of water inrush potential in ultra-wide working face mining on confined aquifer driven by geophysical data",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 261
+  },
+  {
+   "doi": "10.1007/s12145-024-01502-4",
+   "title": "Improving the modeling of bathymetry in the Persian Gulf and the Oman Sea using data assimilation of geodetic observation data",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s12145-024-01652-5",
+   "title": "Daily Wildfire Risk Prediction by Mining Global and local spatio-temporal dependency",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s12145-024-01522-0",
+   "title": "PyGeoRS: a QGIS plugin for automating landsat data processing in environmental mapping",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 146
+  },
+  {
+   "doi": "10.1007/s12145-025-01743-x",
+   "title": "Solid waste classification using deep neural network: A transfer learning approach",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1007/s12145-025-01727-x",
+   "title": "Optimizing landslide susceptibility mapping using integrated forest by penalizing attributes model with ensemble algorithms",
+   "received": "25 August 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1007/s12145-024-01520-2",
+   "title": "Utilizing contemporary machine learning techniques for determining soilcrete properties",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s12145-025-01773-5",
+   "title": "A novel task offloading model for IoT: enhancing resource utilization with actor-critic-based reinforcement learning",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1007/s12145-025-02038-x",
+   "title": "GTMod 1.0: a geological and geotectonic tool for ore body modeling - case study of the Trep\u00e7a mine",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s12145-025-01830-z",
+   "title": "Evaluation of similarity-checking methods for reference samples migration to monitor land cover changes in the complex terrain of the Alborz Mountains",
+   "received": "30 November 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1007/s12145-024-01650-7",
+   "title": "Development of deep learning approaches for drought forecasting: a comparative study in a cold and semi-arid region",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 81
+  },
+  {
+   "doi": "10.1007/s12145-024-01543-9",
+   "title": "DAPNet++: density adaptive PointNet\u2009+\u2009+\u2009for airborne laser scanning data",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s12145-024-01690-z",
+   "title": "Machine learning methods for wildfire risk assessment",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s12145-025-01696-1",
+   "title": "A dimension-independent method for updating topological models of 4D spatio-temporal data based on generalized maps",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s12145-025-01731-1",
+   "title": "Dimensionality analysis in assessing the unconfined strength of lime-treated soil using machine learning approaches",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1007/s12145-024-01625-8",
+   "title": "Siamese-LSTM: A predictive model for predicting green space of a location through historical image analysis",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "18 September 2024",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s12145-025-01874-1",
+   "title": "Knowledge graphs analysis for research on minerals in coal",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1007/s12145-024-01643-6",
+   "title": "Monitoring and modeling vulnerability of land use changes in the current flood hazard conditions using novel hybrid GIS-based approaches and remote se",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s12145-025-01945-3",
+   "title": "Levy flight and secretary bird optimization for cloud security: implementing an advanced DCGAN model for attack prediction",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1007/s12145-025-01899-6",
+   "title": "Multivariate Adaptive Regression Splines (MARS) analysis and complementary machine learning approaches in predicting earthquake-induced slope displace",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "3 May 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s12145-024-01591-1",
+   "title": "Accuracy and interpretability of machine learning-based approaches for daily ETo estimation under semi-arid climate in the West African Sahel",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "30 September 2024",
+   "days": 37
+  },
+  {
+   "doi": "10.1007/s12145-025-01819-8",
+   "title": "Integration of convolutional neural networks with parcel-based image analysis for crop type mapping from time-series images",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s12145-024-01539-5",
+   "title": "Spatial prediction of flood susceptible areas using machine learning methods in the Siahkhor Watershed of Kermanshah province",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s12145-024-01562-6",
+   "title": "Estimation of flow resistance in natural rivers based on deep forest",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "18 October 2024",
+   "days": 52
+  },
+  {
+   "doi": "10.1007/s12145-025-01818-9",
+   "title": "Multi-scale feature pyramid-based crater detection on lunar surface",
+   "received": "19 November 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s12145-025-02010-9",
+   "title": "Frequency-aware variational autoencoder with reinforcement learning for borehole strain anomaly detection",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1007/s12145-025-01764-6",
+   "title": "Integrating nature-inspired refined red-tailed hawk algorithm with enhanced time-series dense encoder for seismic event prediction",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s12145-025-02007-4",
+   "title": "LLM-GeoCWS: a semi-supervised chinese word segmentation method using large language model for geoscience domain",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1007/s12145-025-01876-z",
+   "title": "Research on prediction method of reservoir key parameters using deep network architecture based on cross feature fusion with optimization mechanism",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "29 March 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s12145-025-01969-9",
+   "title": "Assessment of future groundwater level using modflow code under different managerial scenarios in the Serres river basin, Greece",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "29 June 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1007/s12145-025-01947-1",
+   "title": "Innovative strategies for hourly global horizontal irradiance forecasting using a hybrid gated recurrent unit and long short-term memory architecture ",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1007/s12145-025-01933-7",
+   "title": "Enhanced error correction and spatial downscaling of precipitation and air temperature in the middle and low reaches of the Yangtze River using a rand",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 228
+  },
+  {
+   "doi": "10.1007/s12145-025-02041-2",
+   "title": "Machine learning-based mineral prospectivity mapping of epithermal gold mineralization in Northern new brunswick: a comparative study of random forest",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1007/s12145-025-01701-7",
+   "title": "Monitoring the rehabilitation process of the windthrow area using UAS images and performance comparison of Sentinel-2A based different vegetation inde",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12145-024-01648-1",
+   "title": "Machine learning and deep learning approaches for PM2.5 prediction: a study on urban air quality in Jaipur, India",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 44
+  },
+  {
+   "doi": "10.1007/s12145-025-01742-y",
+   "title": "Deep learning-driven rainfall prediction leveraging hybrid child drawing development optimization and time series data",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s12145-025-01779-z",
+   "title": "DSSFT: Dual branch spectral-spatial feature fusion transformer network for hyperspectral image unmixing",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1007/s12145-024-01560-8",
+   "title": "Short term wind speed prediction based on CEESMDAN and improved seagull optimization kernel extreme learning machine",
+   "received": "31 August 2024",
+   "revised": null,
+   "accepted": "18 October 2024",
+   "days": 48
+  },
+  {
+   "doi": "10.1007/s12145-024-01663-2",
+   "title": "Hierarchical intelligent lithology recognition for thin section images using enhanced DenseNet",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 167
+  },
+  {
+   "doi": "10.1007/s12145-025-01698-z",
+   "title": "Empirical mode decomposition feature based Bi-LSTM and GRU neural network predictions of thermospheric density during rising and minimum solar activit",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1007/s12145-025-02034-1",
+   "title": "Alteration and lithological mapping using Landsat-8 and ASTER remote sensing sensors in Kafta Humera, Ethiopia",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "26 September 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s12145-024-01620-z",
+   "title": "Fast fusion-based underwater image enhancement with adaptive color correction and contrast enhancement",
+   "received": "22 June 2024",
+   "revised": null,
+   "accepted": "19 September 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s12145-024-01604-z",
+   "title": "Superposed epoch analysis of GPS ionospheric TEC and scintillations over low latitude Indian region during multiple geomagnetic storm events",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "27 September 2024",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s12145-024-01507-z",
+   "title": "Changes in remotely sensed Forel-Ule Index for the coastal seas of Japan, 2013\u20132023",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 53
+  },
+  {
+   "doi": "10.1007/s12145-025-01816-x",
+   "title": "Predicting flood risks using advanced machine learning algorithms with a focus on Bangladesh: influencing factors, gaps and future challenges",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s12145-025-01850-9",
+   "title": "Hyperspectral data classification using spline curve fitting and random forest classifier",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1007/s12145-025-02024-3",
+   "title": "A systematic evaluation methodology of deep learning on seismic facies classification",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s12145-024-01627-6",
+   "title": "A deep dive into delhi's air pollution: forecasting $${\\varvec{P}}{{\\varvec{M}}}_{2.5}$$ levels using a Bi-LSTM-GRU hybrid model",
+   "received": "1 July 2024",
+   "revised": null,
+   "accepted": "18 September 2024",
+   "days": 79
+  },
+  {
+   "doi": "10.1007/s12145-024-01636-5",
+   "title": "A hybrid univariate data preprocessing using overlapping flexible sliding window and DWT\u00a0for rainfall prediction\u00a0using deep learning ensemble techniqu",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 76
+  },
+  {
+   "doi": "10.1007/s12145-025-01695-2",
+   "title": "Prediction of the petroliferous area in WZ6-1 structure of Beibu Gulf Basin in the South China Sea based on PCA-SOM model",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1007/s12145-025-02004-7",
+   "title": "Correlation between alteration textures and varieties of chromite: case study in Chongjin ophiolite, NE Korean Peninsula",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s12145-025-01926-6",
+   "title": "Detection of changes in the heat emissions signature of buildings related to indoor activity using publicly available satellite data",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1007/s12145-025-01730-2",
+   "title": "Spatial analysis of potential natural vegetation and habitat suitability changes on the Loess Plateau using high-resolution climate data and LPJ-GUESS",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1007/s12145-024-01509-x",
+   "title": "Research on flood peak prediction in the three gorges region based on similarity search with multisource information fusion",
+   "received": "11 August 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s12145-024-01573-3",
+   "title": "DPMFformer: an underwater image enhancement network based on deep pooling and multi-scale fusion transformer",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12145-025-01977-9",
+   "title": "Optimizing analysis and interpretation of portable XRF data: a case study in the pre-salt Santos Basin, Brazil",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s12145-025-01824-x",
+   "title": "Precise quantitative evaluation of the risk level of coal mine water inrush accidents based on the CW-BN model",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "18 February 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1007/s12145-024-01656-1",
+   "title": "A fidelity evaluation model for watermarked vector maps based on improved fuzzy comprehensive evaluation and random forest",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 51
+  },
+  {
+   "doi": "10.1007/s12145-025-01912-y",
+   "title": "A hybrid deep learning approach for accurate water body segmentation in satellite imagery",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1007/s12145-025-01814-z",
+   "title": "Research on object detection in remote sensing images based on improved horizontal target detection algorithm",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1007/s12145-025-01853-6",
+   "title": "Geomechanical characterization of Asmari formation in the Dezful embayment via simultaneous inversion and extended elastic impedance techniques, SW Ir",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1007/s12145-025-01812-1",
+   "title": "Improving the usability of global SRTM DEM for reach-scale floodplain inundation mapping in data-scarce regions through bias correction",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s12145-024-01496-z",
+   "title": "Enhancing landslide susceptibility mapping through advanced hybridization of bootstrap aggregating based decision tree algorithms",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 156
+  },
+  {
+   "doi": "10.1007/s12145-025-01903-z",
+   "title": "Intelligent growth of holy basil: an iot-based hydroponics system empowered by the CRL-SHS Algorithm",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1007/s12145-024-01530-0",
+   "title": "A hybrid physics-based method for estimating land surface temperature using radiative transfer simulations and machine learning model from Sentinel-3A",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1007/s12145-025-01761-9",
+   "title": "Advanced machine learning techniques for enhanced landslide susceptibility mapping: Integrating geotechnical parameters in the case of Southwestern Cy",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s12145-025-01714-2",
+   "title": "Uncertainty effect of saturated depth on large scale assessment of landslide: Case study at Saka town, Hiroshima Prefecture, Japan",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12145-025-01913-x",
+   "title": "U-TWGAN: Underwater image enhancement via wavelet-transformer and sparse multilayer perceptrons generative adversarial network",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s12145-024-01512-2",
+   "title": "Performance of various gridded precipitation and temperature products against gauged observations over Turkey",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 48
+  },
+  {
+   "doi": "10.1007/s12145-024-01498-x",
+   "title": "Enhancing sediment load predictions: a comparative analysis of local and global fuzzy cerebellar model articulation controller (FCMAC)",
+   "received": "4 October 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 49
+  },
+  {
+   "doi": "10.1007/s12145-024-01576-0",
+   "title": "Modelling of GNSS station position time series using deep learning approaches",
+   "received": "27 July 2024",
+   "revised": null,
+   "accepted": "9 October 2024",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s12145-025-01775-3",
+   "title": "Application of the cramer method for the prediction of geotechnical parameters of soils in an intertropical zone in road construction",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12145-025-01954-2",
+   "title": "Impact of major tropical volcanic eruptions on air temperatures in the Middle East",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s12145-024-01541-x",
+   "title": "Comparison of LSTM and SVM methods through wavelet decomposition in drought forecasting",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s12145-024-01668-x",
+   "title": "Study on frost deformation of rock and calculation method of frost heaving rate of tunnel surrounding rock in cold regions",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s12145-025-01801-4",
+   "title": "Estimation of suspended sediment load utilizing a super-optimized deep learning approach informed by the red fox optimization algorithm",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1007/s12145-025-01783-3",
+   "title": "Spatial and temporal evolution characteristics of land subsidence in Fuyang: time series InSAR monitoring and analysis of impacting factors",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s12145-025-02042-1",
+   "title": "The influence of spectral window smoothing on the calculation of high frequency attenuating factor (\u03ba): a case study of the Luding Mw 6.6 earthquake",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1007/s12145-025-01724-0",
+   "title": "A pioneering approach to deterministic rainfall forecasting for wet period in the\u00a0Northern Territory of Australia using machine learning",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1007/s12145-025-01916-8",
+   "title": "Development of a computational deep learning model for detecting people in aerial images and videos degraded by compression artifacts",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1007/s12145-025-01910-0",
+   "title": "Two-stage landslide satellite image recognition in the southeastern tibet region based on Cascade R-CNN and SAM2",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 167
+  },
+  {
+   "doi": "10.1007/s12145-024-01521-1",
+   "title": "Modified MobileNet with leaky ReLU and LSTM with balancing technique to classify the soil types",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s12145-025-01988-6",
+   "title": "A convolutional neural network-based segmentation approach for oil spill detection in satellite imagery with explainable AI",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1007/s12145-024-01592-0",
+   "title": "Predictive modeling of reservoir geomechanical parameters through computational intelligence approach, integrating core and well logging data",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "30 September 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1007/s12145-025-01907-9",
+   "title": "Global to local: a novel encoder-decoder framework for urban real-time rainfall-runoff forecasting",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1007/s12145-025-01974-y",
+   "title": "Identifying suitable dam sites using geospatial data and machine learning: a case study of the katsina-ala river in Benue State, Nigeria",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1007/s12145-025-01871-4",
+   "title": "Segmentation of urban green space and water body based on high-resolution remote sensing images",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1007/s12145-025-01799-9",
+   "title": "Enhanced identification of hydrologically sensitive areas via digital soil mapping and hydrological modeling in semi-arid regions",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12145-025-01700-8",
+   "title": "Landslide susceptibility assessment using information quantity and machine learning integrated models: a case study of Sichuan province, southwestern ",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s12145-025-01736-w",
+   "title": "Enhancing streamflow drought prediction: integrating wavelet decomposition with deep learning and quantile regression neural network models",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1007/s12145-024-01519-9",
+   "title": "Evaluating P-Wave detection algorithms for earthquake early warning: insights from GeoNet data in Canterbury, Aotearoa New Zealand",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s12145-024-01570-6",
+   "title": "Upper limit analysis for seismic sliding stability of double-sided limited narrow slope retaining wall",
+   "received": "10 August 2024",
+   "revised": null,
+   "accepted": "15 October 2024",
+   "days": 66
+  },
+  {
+   "doi": "10.1007/s12145-024-01633-8",
+   "title": "Processing of Sentinel-1B imaginary to extract water surface salinity incursion using observed data and hybrid models of particle swarm optimization",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "8 September 2024",
+   "days": 151
+  },
+  {
+   "doi": "10.1007/s12145-024-01617-8",
+   "title": "Swarm optimization based heterogeneous machine learning techniques for enhanced landslide susceptibility assessment with comprehensive uncertainty qua",
+   "received": "30 June 2024",
+   "revised": null,
+   "accepted": "21 September 2024",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s12145-024-01616-9",
+   "title": "Deep learning approaches for short-crop reference evapotranspiration estimation: a case study in Southeastern Australia",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "21 September 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1007/s12145-025-01936-4",
+   "title": "A method for training while drilling to predict electromagnetic wave logging curves based on long short-term memory neural networks",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12145-025-01841-w",
+   "title": "Multispectral UAV-based LULC mapping performance improvement by integrating precise NDSM data and machine learning algorithms",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s12145-024-01531-z",
+   "title": "Basement characteristics of Wan\u2019an Basin in southwestern South China sea based on temporal and spatial evolution",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 57
+  },
+  {
+   "doi": "10.1007/s12145-025-01837-6",
+   "title": "Predicting rock mass strength from drilling data using synergistic unsupervised and supervised machine learning approaches",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1007/s12145-025-02033-2",
+   "title": "Benchmarking coastal boundary datasets in deep learning applications",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s12145-024-01492-3",
+   "title": "Subsurface structural mapping a tool in understanding the Geodynamics of Mineralization within the North-Central Precambrian Basement of Nigeria, usin",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s12145-025-01951-5",
+   "title": "CNN-based transfer learning for self-potential inversion",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "15 June 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s12145-025-01711-5",
+   "title": "Determination of the performance of training algorithms and activation functions in meteorological drought index prediction with nonlinear autoregress",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s12145-024-01675-y",
+   "title": "A UAV attitude fusion algorithm based on gradient descent-improved EKF",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "21 December 2024",
+   "days": 109
+  },
+  {
+   "doi": "10.1007/s12145-025-01946-2",
+   "title": "A visual balance calculation method for wemaps combining fuzzy clustering and multi-factor driving",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "7 June 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1007/s12145-025-02028-z",
+   "title": "Research on intelligent classification of limestone photomicrographs based on the improved FasterNet architecture",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 207
+  },
+  {
+   "doi": "10.1007/s12145-024-01661-4",
+   "title": "Has climate change affected the fire regimes in semi-arid areas of northeastern Iran?",
+   "received": "6 August 2024",
+   "revised": null,
+   "accepted": "14 December 2024",
+   "days": 130
+  },
+  {
+   "doi": "10.1007/s12145-025-01982-y",
+   "title": "Four decades of trends in invisible gold research: a web of science-based bibliometric analysis (1985\u20132024)",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1007/s12145-025-01745-9",
+   "title": "Concatenating data-driven and reduced-physics models for smart production forecasting",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "24 January 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s12145-025-02045-y",
+   "title": "Hybrid model for high-speed rail wind speed forecasting based on improved transformer",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 404
+  },
+  {
+   "doi": "10.1007/s12145-024-01683-y",
+   "title": "Multi-scenario carbon storage analysis based on PLUS model and InVEST model: a case study of Zhejiang province, China",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "27 December 2024",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12145-024-01606-x",
+   "title": "Geolocation bias correction for CARTOSAT-1 stereo images through virtual ground control points generation over mountainous areas",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "27 September 2024",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12145-024-01638-3",
+   "title": "A regional-scale distribution changes and influencing factors of glacial lakes in Xizang autonomous region",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s12145-024-01601-2",
+   "title": "GNSS-A observation model with attached oceanic slowness gradient",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "29 September 2024",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s12145-024-01578-y",
+   "title": "Deep learning based denoising and enhancement of satellite images using DA-CNN and ORHE techniques",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "9 October 2024",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s12145-025-01894-x",
+   "title": "MSAFNet: a multi-scale data fusion-based drought recognition method for three-dimensional images of the\u00a0soybean\u00a0plant",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1007/s12145-024-01544-8",
+   "title": "A stacking ensemble machine learning model for improving monthly runoff prediction",
+   "received": "29 June 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 123
+  },
+  {
+   "doi": "10.1007/s12145-025-01827-8",
+   "title": "Determination of a destressing scheme for the stiff main roof of an evaporite deposit using distinct element method",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1007/s12145-025-01769-1",
+   "title": "Climate change impacts on wildfire risk indices forecast based on an improved genetic neural network algorithm: a case study of Guangxi, China",
+   "received": "12 August 2024",
+   "revised": null,
+   "accepted": "31 January 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1007/s12145-024-01634-7",
+   "title": "Probabilistic analysis of the bearing capacity of spatially random Hoek\u2012Brown rock masses by integrating finite element limit analysis, random field t",
+   "received": "10 August 2024",
+   "revised": null,
+   "accepted": "7 September 2024",
+   "days": 28
+  },
+  {
+   "doi": "10.1007/s12145-024-01691-y",
+   "title": "Deformation patterns and failure mechanism of rock slopes with fault fracture zone induced by over-excavation",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s12145-025-01934-6",
+   "title": "Generating microscopic images of rocks using generative artificial intelligence (GenAI)",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "24 May 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1007/s12145-025-01790-4",
+   "title": "Kernel-based machine learning model for liquefaction probability prediction and its application to the seismically active indo-gangetic plain",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s12145-025-01939-1",
+   "title": "Analysis of landscape pattern evolution based on MCE-CA\u2013Markov model",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s12145-024-01572-4",
+   "title": "Protecting location privacy: An approach with error-based transformation and mercator projection-based transformation for geospatial vector data",
+   "received": "29 June 2024",
+   "revised": null,
+   "accepted": "12 October 2024",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s12145-025-01937-3",
+   "title": "An automatic Lithofacies sample labeling method by integrating deep learning and Gaussian mixture model",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s12145-025-01898-7",
+   "title": "Scene point cloud classification based on stacked ensemble learning algorithm",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s12145-024-01624-9",
+   "title": "TDPM-CNN: a comprehensive daytime and nighttime PM2.5 estimation method using multi-kernel convolutional neural networks",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "18 September 2024",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12145-025-01976-w",
+   "title": "Trend surface analysis for sub- and supra-ore geochemical anomaly discrimination",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s12145-025-01863-4",
+   "title": "Enhanced wildfire detection and semantic segmentation via fine-tuned deep learning models",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s12145-024-01587-x",
+   "title": "Comparative analysis of machine learning and deep learning methods for coastal erosion susceptibility mapping",
+   "received": "20 May 2024",
+   "revised": null,
+   "accepted": "4 October 2024",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s12145-024-01613-y",
+   "title": "A knowledge-driven modeling formalism for automatic structural interpretation",
+   "received": "29 May 2024",
+   "revised": null,
+   "accepted": "23 September 2024",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s12145-024-01580-4",
+   "title": "Sparrow search algorithm optimized LSTM model for CSI-based indoor localization",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "9 October 2024",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s12145-024-01516-y",
+   "title": "AI-driven environmental monitoring for hydroponic agriculture: ExCNN-LFCP approach",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s12145-024-01598-8",
+   "title": "Multidimensional spatiotemporal autocorrelation analysis theory based on Multi-observation spatiotemporal Moran\u2019s I and its application in resource al",
+   "received": "5 January 2024",
+   "revised": null,
+   "accepted": "30 September 2024",
+   "days": 269
+  },
+  {
+   "doi": "10.1007/s12145-024-01614-x",
+   "title": "Remote sensing-based structural and lithological mapping for prospecting polymetallic mineralization at Xiaoshan region, China",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "21 September 2024",
+   "days": 53
+  },
+  {
+   "doi": "10.1007/s12145-025-01948-0",
+   "title": "Enhanced generalized normal distribution optimization for interpreting magnetic data caused by subsurface mineral deposits",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s12145-025-01776-2",
+   "title": "Designing a deep learning-based framework for the prediction of lake surface closed curves",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s12145-024-01565-3",
+   "title": "Detection of multivariate geochemical anomalies using machine learning (ML) algorithms in Dehaq Pb-Zn mineralization, Sanandaj-Sirjan zone, Isfahan, I",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "17 October 2024",
+   "days": 97
+  },
+  {
+   "doi": "10.1007/s12145-024-01640-9",
+   "title": "Projection of groundwater level fluctuations using deep learning and dynamic system response models in a drought affected area",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s12145-025-01705-3",
+   "title": "Enhancing spatial accuracy in disaster response: a DTBiFP-YOLOv8 model for drone-based search and rescue operations",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1007/s12145-025-01703-5",
+   "title": "Metakaolin as a soil stabilizing admixture: A comprehensive analysis of California bearing ratio and consolidation behavior using experimental and mac",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1007/s12145-025-01838-5",
+   "title": "EADCN-BCSR: A novel framework for accurate and real-time waste detection and classification",
+   "received": "19 August 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 195
+  },
+  {
+   "doi": "10.1007/s12145-024-01666-z",
+   "title": "Development of a three-dimensional magnetotelluric inversion program considering topography with cell-centered finite volume method",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 57
+  },
+  {
+   "doi": "10.1007/s12145-024-01597-9",
+   "title": "GEOT-IDF equations: an R-based tool for intense rainfall studies",
+   "received": "27 March 2024",
+   "revised": null,
+   "accepted": "30 September 2024",
+   "days": 187
+  },
+  {
+   "doi": "10.1007/s12145-024-01630-x",
+   "title": "Large-scale subpixel mapping of impervious surface in Yellow River Delta High-efficiency Ecological Economic Zone: An artificial intelligence approach",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "14 September 2024",
+   "days": 51
+  },
+  {
+   "doi": "10.1007/s12145-024-01693-w",
+   "title": "BDCN_UNet: Advanced shoreline extraction techniques integrating deep learning",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s12145-025-01914-w",
+   "title": "Mapping wildfire susceptibility in the tropical region of Brunei: a machine learning and explainable AI approach using google earth engine with remote",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "8 May 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1007/s12145-025-02020-7",
+   "title": "HiLoF-GAN: high and low frequency information separation GAN for underwater image enhancement",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s12145-024-01564-4",
+   "title": "Flash flood susceptibility modeling using optimized deep learning method in the Uttarakhand Himalayas",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "17 October 2024",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s12145-025-01718-y",
+   "title": "Ensemble machine learning model for exploration and targeting of Pb-Zn deposits in Algeria",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1007/s12145-025-01847-4",
+   "title": "Revealing hidden risks: advanced assessment of urban land subsidence",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1007/s12145-024-01538-6",
+   "title": "Landsat 8 and ASTER remote sensing data for ore prospecting in the postmasburg manganese ore field, South Africa",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1007/s12145-025-01851-8",
+   "title": "Short-term wind speed prediction model based on long short-term memory network with feature extraction",
+   "received": "11 December 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s12145-024-01505-1",
+   "title": "Urban flood risk assessment using fuzzy logic and real-time flood simulation model \u2013 a geomatics techniques",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1007/s12145-024-01588-w",
+   "title": "A domain-decomposition-based parallel approach for 3D geological modeling using radial basis functions interpolation on GPUs",
+   "received": "31 May 2024",
+   "revised": null,
+   "accepted": "2 October 2024",
+   "days": 124
+  },
+  {
+   "doi": "10.1007/s12145-024-01629-4",
+   "title": "Assessment of long-term channel morphological changes by river bars\u2019 size estimation based on remote sensing techniques, Vistula River, Poland",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "16 September 2024",
+   "days": 40
+  }
+ ]
+}

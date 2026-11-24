@@ -1,0 +1,1597 @@
+{
+ "issn": "1572-8145",
+ "journal": "Journal of Intelligent Manufacturing",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:34.773173",
+ "source": "https://api.crossref.org/journals/1572-8145/works",
+ "articles": [
+  {
+   "doi": "10.1007/s10845-024-02515-y",
+   "title": "Time series fault prediction via dual enhancement",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "10 October 2024",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10845-025-02646-w",
+   "title": "Analysis of the performance of LSTM-DNN models with the consideration of signal complexity in milling processes",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1007/s10845-025-02619-z",
+   "title": "Reinforcement learning-based laser cutting machine parameter optimization",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "1 May 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1007/s10845-024-02550-9",
+   "title": "Real-time detection of blade surface defects based on the improved RT-DETR",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 170
+  },
+  {
+   "doi": "10.1007/s10845-025-02589-2",
+   "title": "Towards label-free defect detection in additive manufacturing via dual-classifier semi-supervised learning for vision-language models",
+   "received": "20 April 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 317
+  },
+  {
+   "doi": "10.1007/s10845-025-02617-1",
+   "title": "Few-shot working condition classification within a meta-learning framework based on multi-head attention autoencoder",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s10845-025-02699-x",
+   "title": "Rapid digital twin modeling method and system for equipment",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1007/s10845-024-02538-5",
+   "title": "A new method for predicting workpiece fatigue life based on segmentation features of titanium alloy surface morphology",
+   "received": "1 November 2023",
+   "revised": null,
+   "accepted": "19 July 2024",
+   "days": 261
+  },
+  {
+   "doi": "10.1007/s10845-025-02668-4",
+   "title": "Surface reconstruction of glass bottles using neural implicit representations for manufacturing system",
+   "received": "14 February 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1007/s10845-025-02658-6",
+   "title": "A novel data augmentation method for few-shot industrial surface defect detection based on segment anything model adapter",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 414
+  },
+  {
+   "doi": "10.1007/s10845-025-02603-7",
+   "title": "Real-time forging process control: integrating billet-related surrogate and machine behavior models",
+   "received": "11 April 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 351
+  },
+  {
+   "doi": "10.1007/s10845-024-02534-9",
+   "title": "Discovering Granger causality with convolutional neural networks",
+   "received": "30 May 2024",
+   "revised": null,
+   "accepted": "15 November 2024",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s10845-025-02660-y",
+   "title": "A zone-based Wi-Fi fingerprinting indoor positioning system for factory noise mapping",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s10845-025-02717-y",
+   "title": "A method for reconstructing large-scale part models based on feature point cloud data",
+   "received": "13 April 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 183
+  },
+  {
+   "doi": "10.1007/s10845-025-02620-6",
+   "title": "Nest smarter, not harder: a hybrid vision-based deep reinforcement learning agent for packing 2D irregular geometries by rotational placement",
+   "received": "5 January 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 479
+  },
+  {
+   "doi": "10.1007/s10845-025-02602-8",
+   "title": "A dynamic surface roughness prediction system based on machine learning for the 3D-printed carbon-fiber-reinforced-polymer (CFRP) turning",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s10845-025-02636-y",
+   "title": "A study on degradation prediction modeling method for mechanical rotating components based on multi-modal data and improved structured state-space seq",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1007/s10845-025-02733-y",
+   "title": "Statistically-aligned feature augmentation for robust unsupervised domain adaptation in industrial fault diagnosis",
+   "received": "31 August 2025",
+   "revised": null,
+   "accepted": "29 October 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s10845-025-02571-y",
+   "title": "A review of artificial intelligence application for machining surface quality prediction: from key factors to model development",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s10845-025-02706-1",
+   "title": "AI agent-driven process automation for dynamic production efficiency and intelligent equipment integration",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1007/s10845-024-02535-8",
+   "title": "A systematic review of innovations for real-time image security in IoT applications using machine learning and blockchain",
+   "received": "19 July 2023",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 489
+  },
+  {
+   "doi": "10.1007/s10845-025-02678-2",
+   "title": "Detection and localization system for surface defects of automotive forgings based on machine vision",
+   "received": "23 March 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1007/s10845-024-02547-4",
+   "title": "New classification method of nonstandard parts for CNC selection based on machine learning and geometric analysis",
+   "received": "7 September 2023",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 447
+  },
+  {
+   "doi": "10.1007/s10845-025-02675-5",
+   "title": "A robust optimization model for the supplier portfolio selection problem using a combination of artificial fish swarm algorithm and simulated annealin",
+   "received": "13 June 2023",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 790
+  },
+  {
+   "doi": "10.1007/s10845-025-02691-5",
+   "title": "Automated detection and classification of soldering defects in printed circuit boards using deep learning and optical and thermal imaging",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s10845-025-02604-6",
+   "title": "Generative AI in industrial machine vision: a review",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 219
+  },
+  {
+   "doi": "10.1007/s10845-024-02520-1",
+   "title": "Adaptive servo system for die-sinking micro-EDM driven by deep Q-network with online-offline combined data",
+   "received": "6 April 2024",
+   "revised": null,
+   "accepted": "23 October 2024",
+   "days": 200
+  },
+  {
+   "doi": "10.1007/s10845-025-02743-w",
+   "title": "Dgfnet: deformable attention and flow-guided feature learning for fine-grained surface defect segmentation",
+   "received": "9 August 2025",
+   "revised": null,
+   "accepted": "10 November 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s10845-025-02666-6",
+   "title": "Anomaly image detection method based on one-step denoising diffusion model with high- and low-frequency information enhanced",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s10845-025-02590-9",
+   "title": "A method to benchmark high-dimensional process drift detection",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1007/s10845-025-02723-0",
+   "title": "At-dicnet: a novel framework based speckle pattern for non-contact micron-level tool vibration deformation precision measurement",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 369
+  },
+  {
+   "doi": "10.1007/s10845-025-02685-3",
+   "title": "Multi-source feature augmentation adversarial domain generalization method for tool wear condition monitoring on unseen machine tools",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1007/s10845-025-02600-w",
+   "title": "Collaborative robots for quality control: an overview of recent studies and emerging trends",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s10845-025-02638-w",
+   "title": "Large language models for extrapolative modeling of manufacturing processes",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s10845-025-02629-x",
+   "title": "Optimization of scanning path in laser powder bed fusion: training and application of deep learning model using small dataset",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s10845-025-02735-w",
+   "title": "Machine-learning-driven synergistic optimization of multi-objective mechanical properties in steel materials",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "1 November 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1007/s10845-025-02698-y",
+   "title": "Quality improvement in sand casting process: a hybrid approach based on machine learning and metaheuristic optimization methods",
+   "received": "16 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1007/s10845-024-02554-5",
+   "title": "Machine learning for density prediction and process optimization of 316L stainless steel fabricated by selective laser melting",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 156
+  },
+  {
+   "doi": "10.1007/s10845-025-02628-y",
+   "title": "Employing natural language processing to build a knowledge graph in the realm of additive manufacturing",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s10845-025-02595-4",
+   "title": "Development of a dynamic beam stabilization system for a six-axis ultrashort pulsed laser robot",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s10845-024-02558-1",
+   "title": "A cyber-physical architecture to monitor human-centric reconfigurable manufacturing systems",
+   "received": "12 March 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 286
+  },
+  {
+   "doi": "10.1007/s10845-025-02728-9",
+   "title": "Digital twin-enabled real-time control for robot arm-based manufacturing via reinforcement learning",
+   "received": "23 May 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 153
+  },
+  {
+   "doi": "10.1007/s10845-025-02575-8",
+   "title": "VIRL: Volume-Informed Representation Learning towards few-shot manufacturability estimation",
+   "received": "18 June 2024",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s10845-024-02542-9",
+   "title": "Analysis of models for IoT-driven predictive maintenance under constraints in the case of the biopharmaceutical industry",
+   "received": "9 May 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 203
+  },
+  {
+   "doi": "10.1007/s10845-024-02537-6",
+   "title": "Optimizing operations of flexible assembly systems: demonstration of a digital twin concept with optimized planning and control, sensors and visualiza",
+   "received": "11 August 2023",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 470
+  },
+  {
+   "doi": "10.1007/s10845-025-02598-1",
+   "title": "Deep learning-based real-time monitoring of electron beam powder bed fusion (EB-PBF) via electron emission",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1007/s10845-024-02543-8",
+   "title": "Automated defects detection in extrusion 3D printing using YOLO models",
+   "received": "13 September 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s10845-025-02607-3",
+   "title": "Blockchained on-device federated learning-based delivery capacity prediction in a social manufacturing paradigm",
+   "received": "26 May 2024",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1007/s10845-025-02570-z",
+   "title": "Data management in industry: concepts, systematic review and future directions",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1007/s10845-025-02683-5",
+   "title": "S2GA-VM: self-supervised and global-aware virtual metrology for accurate film thickness prediction in semiconductor manufacturing",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s10845-025-02653-x",
+   "title": "LEIS-net: lightweight and efficient industrial surface defect detection network",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1007/s10845-025-02635-z",
+   "title": "Improving rotating machinery fault diagnosis across heterogeneous machines with domain adversarial perturbation in semi-supervised domain adaptation s",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s10845-025-02605-5",
+   "title": "Knowledge representation and reasoning in the context of automated production planning",
+   "received": "14 March 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 383
+  },
+  {
+   "doi": "10.1007/s10845-025-02680-8",
+   "title": "No label left behind: a unified surface defect detection model for all supervision regimes",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s10845-025-02588-3",
+   "title": "A new characterization method for rapid prediction of recrystallization damage in single crystal superalloys considering plastic deformation",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "1 March 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s10845-025-02694-2",
+   "title": "DeepMachining: online prediction of machining errors of lathe machines",
+   "received": "4 May 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s10845-025-02673-7",
+   "title": "One-shot learning for rapid generation of structured robotic manipulation tasks from 3D video demonstrations",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s10845-024-02512-1",
+   "title": "Online force prediction by neural networks in single point incremental hole flanging operations",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "17 October 2024",
+   "days": 128
+  },
+  {
+   "doi": "10.1007/s10845-025-02688-0",
+   "title": "Cross-scene object relationship-driven object detection for flexible printed circuit production",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "6 September 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1007/s10845-025-02679-1",
+   "title": "A scientometric review of digital twin in 3G to 6G networks: industry applications and trends",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s10845-025-02707-0",
+   "title": "Automated neural network generation for industrial datasets, application to laser powder bed fusion",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1007/s10845-025-02687-1",
+   "title": "Data-driven based intelligent grinding process system: construction strategies and applications",
+   "received": "25 May 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s10845-025-02578-5",
+   "title": "A planning and execution framework for robotic assembly with deformable objects using a centralized database based on the R\u03b1\u03b2\u03b3 categorization",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1007/s10845-025-02682-6",
+   "title": "ZSCIAD: a preliminary exploration of zero-shot class incremental anomaly detection method",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1007/s10845-025-02618-0",
+   "title": "Hybrid knowledge-based deep learning method for tool wear state monitoring",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s10845-025-02566-9",
+   "title": "Development of an adaptive tool condition monitoring system: integration of case-based reasoning with CNN",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1007/s10845-025-02645-x",
+   "title": "Systematic review and future directions in dynamic flexible job shop scheduling: a decade of research",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 270
+  },
+  {
+   "doi": "10.1007/s10845-024-02545-6",
+   "title": "A digital twin emulator for production performance prediction and optimization using multi-scale 1DCNN ensemble and surrogate models",
+   "received": "19 March 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 252
+  },
+  {
+   "doi": "10.1007/s10845-025-02661-x",
+   "title": "Mechanism-fused Gaussian process regression model for tool-tip operational modes prediction in complex milling",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 370
+  },
+  {
+   "doi": "10.1007/s10845-025-02643-z",
+   "title": "Deep reinforcement learning based approach for the search and engagement phase of the robotic screw unfastening process",
+   "received": "13 June 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 369
+  },
+  {
+   "doi": "10.1007/s10845-024-02526-9",
+   "title": "A high-precision in-situ monitoring system for laser directed energy deposition melt pool 3D morphology based on deep learning",
+   "received": "20 December 2023",
+   "revised": null,
+   "accepted": "5 November 2024",
+   "days": 321
+  },
+  {
+   "doi": "10.1007/s10845-025-02674-6",
+   "title": "Inkartgan: a deep learning-based approach for digital generation of ink painting",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s10845-025-02731-0",
+   "title": "A deep learning based method for identifying product manufacturing information in engineering drawings",
+   "received": "13 August 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s10845-025-02695-1",
+   "title": "Assembly task planning framework based on knowledge graph",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s10845-025-02684-4",
+   "title": "Lightweight re-imaging quality assessment for detecting small defects on steel plate surfaces in the context of the internet of things",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1007/s10845-024-02559-0",
+   "title": "Simulation of semiconductor wafer dicing induced faults on chips and their application as augmentation method for a deep learning based visual inspect",
+   "received": "31 March 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 267
+  },
+  {
+   "doi": "10.1007/s10845-025-02677-3",
+   "title": "Fluorescent penetrant inspection system for minor defects in jet-engine blade surface",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s10845-025-02670-w",
+   "title": "Data-driven fault collaborative diagnosis in mechatronic equipment: a meta-action based spatiotemporal fusion approach",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s10845-025-02719-w",
+   "title": "Manufacturing cybersecurity from threat to action: a taxonomy-guided decision support framework",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "18 October 2025",
+   "days": 628
+  },
+  {
+   "doi": "10.1007/s10845-025-02709-y",
+   "title": "Modern trends and industrial use cases of digital twin technology with 3D behavioral representation",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1007/s10845-025-02597-2",
+   "title": "Structured sampling strategies in Bayesian optimization: evaluation in mathematical and real-world scenarios",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1007/s10845-025-02689-z",
+   "title": "A digital twin-based neutrosophic multi-objective optimization model for smart supply chains in the food industry",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1007/s10845-024-02529-6",
+   "title": "A review of advances in 3D and 4D bioprinting: toward mass individualization paradigm",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s10845-024-02557-2",
+   "title": "Switch ON/OFF learning of one-dimensional convolutional neural network and one-dimensional generative adversarial network for fault detection",
+   "received": "2 January 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 356
+  },
+  {
+   "doi": "10.1007/s10845-024-02552-7",
+   "title": "Sheet metal localization using deep learning and synthetic data",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "7 December 2024",
+   "days": 215
+  },
+  {
+   "doi": "10.1007/s10845-025-02710-5",
+   "title": "Collaborative automation in factories of the future: review and survey",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s10845-025-02621-5",
+   "title": "Blockchain-based intelligent equipment assessment in manufacturing industry",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1007/s10845-024-02560-7",
+   "title": "Multi-stage tool wear prediction method based on multi-dimensional digital twin",
+   "received": "13 August 2023",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 506
+  },
+  {
+   "doi": "10.1007/s10845-024-02553-6",
+   "title": "Design and platform realization of comprehensive evaluation method for quality of complex product assembly process",
+   "received": "6 July 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 160
+  },
+  {
+   "doi": "10.1007/s10845-025-02671-9",
+   "title": "Deep learning based computer vision for predicting electrospinning stability via Taylor cone analysis",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s10845-025-02624-2",
+   "title": "Development of an AI-based informational assistance system for assembly accounting for dyslexia",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1007/s10845-025-02692-4",
+   "title": "MeltpoolINR: predicting temperature field, melt pool geometry and their rate of change in laser powder bed fusion",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 293
+  },
+  {
+   "doi": "10.1007/s10845-024-02562-5",
+   "title": "DHCEN-DTC: an ensemble learning approach for small-feature recognition in machining process classification",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 48
+  },
+  {
+   "doi": "10.1007/s10845-025-02630-4",
+   "title": "Geometry-aware multi-task learning network for outlier removal and denoising in scanned point clouds of aerospace thin-walled parts",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 169
+  },
+  {
+   "doi": "10.1007/s10845-025-02663-9",
+   "title": "Multi-task deep learning-empowered in-situ monitoring methodology for visible and invisible defects in laser melt injection: ceramic reinforced metal ",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s10845-025-02574-9",
+   "title": "Data computation platform (DCP): empowering pharma 4.0 innovation through GxP-compliant and scalable software platform enabling advanced data analytic",
+   "received": "17 March 2023",
+   "revised": null,
+   "accepted": "18 January 2025",
+   "days": 673
+  },
+  {
+   "doi": "10.1007/s10845-025-02601-9",
+   "title": "Use of optical sensors and artificial neural networks for precision measurement and fault detection in metallurgical environments",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s10845-025-02569-6",
+   "title": "Handling data drift in deep learning-based quality monitoring: evaluating calibration methods using the example of friction stir welding",
+   "received": "14 March 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 301
+  },
+  {
+   "doi": "10.1007/s10845-025-02615-3",
+   "title": "Machine learning-driven multi-objective parameter optimization for sustainable, efficient, and high-quality ultrasonic wire bonding",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1007/s10845-025-02662-w",
+   "title": "3D form generation and perceptual evaluation for mechanical products",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1007/s10845-025-02701-6",
+   "title": "Towards health monitoring of laser powder bed fusion using acoustic emissions: identify manufacturing parameters",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1007/s10845-025-02686-2",
+   "title": "Intelligent digital twin process for the end-milling simulation combined with a multi-physical model",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s10845-024-02511-2",
+   "title": "A novel unsupervised graph wavelet autoencoder for mechanical system fault detection",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "14 October 2024",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s10845-025-02703-4",
+   "title": "A spatio-temporal hybrid method with multi-scale BiTCN and modified informer for remaining useful life prediction",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "27 September 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1007/s10845-024-02536-7",
+   "title": "Large scale foundation models for intelligent manufacturing applications: a survey",
+   "received": "22 January 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 303
+  },
+  {
+   "doi": "10.1007/s10845-025-02648-8",
+   "title": "Automated guided vehicles intelligent scheduling in dynamic environments for automobile manufacturing stamping production",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1007/s10845-025-02568-7",
+   "title": "Machine learning in additive manufacturing: enhancing design, manufacturing and performance prediction intelligence",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s10845-024-02530-z",
+   "title": "Machine learning-based non-destructive method for identifying defect causes in OLED displays to enhance productivity",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s10845-025-02704-3",
+   "title": "Semi-supervised techniques to address the scarcity of experimental data: a case study of single point incremental forming",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1007/s10845-025-02726-x",
+   "title": "RAMPSeg: A robust calibration-free image segmentation method for reliable melt pool analysis in laser powder bed fusion",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s10845-025-02736-9",
+   "title": "Data-driven decision support for furnace loading in steel tempering: a machine learning approach based on industrial operations",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "4 November 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s10845-025-02581-w",
+   "title": "An augmented reality-based wearable system for handheld-free and intuitive robot programming",
+   "received": "12 January 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 392
+  },
+  {
+   "doi": "10.1007/s10845-025-02627-z",
+   "title": "A Time-Frequency Domain Feature Fusion Model Based on Unimodal Binomial Distribution for Fault Severity Classification",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 303
+  },
+  {
+   "doi": "10.1007/s10845-025-02669-3",
+   "title": "Intelligent GD&amp;T symbol detection in mechanical drawings: a comparative study of YOLOv11, Faster R-CNN, and RetinaNet for quality assurance",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1007/s10845-025-02720-3",
+   "title": "Automatic melt pool tracking and segmentation in laser powder bed fusion using X-ray image sequence",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 142
+  },
+  {
+   "doi": "10.1007/s10845-024-02544-7",
+   "title": "Enhancing industrial prognostic accuracy in noisy and missing data context: assessing multimodal learning performance",
+   "received": "25 December 2023",
+   "revised": null,
+   "accepted": "4 December 2024",
+   "days": 345
+  },
+  {
+   "doi": "10.1007/s10845-025-02583-8",
+   "title": "Digital twin designs with generative AI: crafting a comprehensive framework for manufacturing systems",
+   "received": "6 October 2023",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 491
+  },
+  {
+   "doi": "10.1007/s10845-025-02665-7",
+   "title": "Bayesian federated causal inference and its application in manufacturing",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10845-025-02655-9",
+   "title": "Enhancing injection molding quality prediction using an improved DTBO-based ANFIS model",
+   "received": "24 May 2024",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 413
+  },
+  {
+   "doi": "10.1007/s10845-025-02649-7",
+   "title": "Predicting wall thickness changes in cold forging processes: an integrated FEM and neural network approach",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 362
+  },
+  {
+   "doi": "10.1007/s10845-024-02541-w",
+   "title": "Hybrid sampling assisted BiRRT for enhanced robotic arm path planning in complex industrial scenarios",
+   "received": "31 March 2023",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 607
+  },
+  {
+   "doi": "10.1007/s10845-025-02593-6",
+   "title": "A novel quality inspection method based on free-form surface digital twin model",
+   "received": "13 June 2023",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 637
+  },
+  {
+   "doi": "10.1007/s10845-025-02572-x",
+   "title": "Real-to-sim: automatic simulation model generation for a digital twin in semiconductor manufacturing",
+   "received": "23 February 2023",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 694
+  },
+  {
+   "doi": "10.1007/s10845-024-02548-3",
+   "title": "Multi-layer process control in selective laser melting: a reinforcement learning approach",
+   "received": "27 April 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 214
+  },
+  {
+   "doi": "10.1007/s10845-025-02563-y",
+   "title": "Optimizing electrohydrodynamic direct-writing with multilayer perceptron: accurate and efficient predictions of jet profiles",
+   "received": "1 January 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 367
+  },
+  {
+   "doi": "10.1007/s10845-025-02594-5",
+   "title": "Predictive quality analytics for the viscosity of water-based architectural paint manufacturing by using improved supervised machine learning and maxi",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 245
+  },
+  {
+   "doi": "10.1007/s10845-025-02614-4",
+   "title": "Gen-JEMA: enhanced explainability using generative joint embedding multimodal alignment for monitoring directed energy deposition",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s10845-025-02715-0",
+   "title": "Adaptive learning strategies for addressing chamber variations in real-time endpoint detection of semiconductor plasma etching",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s10845-024-02521-0",
+   "title": "Observational and experimental insights into machine learning-based defect classification in wafers",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "26 October 2024",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s10845-025-02667-5",
+   "title": "Mitigating manufacturing defects in laser-powder bed fusion: a design-led compensation framework for truss-based metallic lattices",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "1 August 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s10845-025-02640-2",
+   "title": "AdditiveGDL: generative deep learning for predicting local thermal distributions in metal 3D-printed layers",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 234
+  },
+  {
+   "doi": "10.1007/s10845-025-02651-z",
+   "title": "Reverse engineering for programmable logic controller structure estimation via white box networks",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s10845-024-02531-y",
+   "title": "Identification of sensors in smart manufacturing via mutually exclusive multiple time series classification",
+   "received": "29 January 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 285
+  },
+  {
+   "doi": "10.1007/s10845-024-02528-7",
+   "title": "In-situ evaluation of hole quality and cutting tool condition in robotic drilling of composite materials using machine learning",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s10845-025-02708-z",
+   "title": "Joint distribution domain adaptation: a novel meta-learning framework for cross-domain few-shot fault diagnosis",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1007/s10845-025-02586-5",
+   "title": "An unsupervised domain adaptation method for intelligent fault diagnosis based on target feature enhancement and feature-boundary alignment",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "21 February 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1007/s10845-025-02659-5",
+   "title": "Application of physics-informed neural network to calculate heat transfer and deuterium diffusion-trapping in tungsten plasma facing materials",
+   "received": "28 March 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1007/s10845-024-02556-3",
+   "title": "Research on intelligent design of debugging processes for complex electronic products based on knowledge graphs",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 103
+  },
+  {
+   "doi": "10.1007/s10845-025-02700-7",
+   "title": "Key technologies and latest research progress of automated robotic welding: a review",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 247
+  },
+  {
+   "doi": "10.1007/s10845-025-02634-0",
+   "title": "A cloud-edge-based digital twin architecture for cyber-physical shop floors: design principles, function analysis, and case study",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "24 May 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1007/s10845-025-02718-x",
+   "title": "CNN-BiLSTM-attention based synchronous prediction model for multi-stand rolling force and deformation resistance in cold rolling",
+   "received": "25 May 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1007/s10845-025-02565-w",
+   "title": "Modeling of thermal errors in electric spindle based on a hybrid approach of thermal deformation theory and data drive",
+   "received": "4 July 2023",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 553
+  },
+  {
+   "doi": "10.1007/s10845-025-02690-6",
+   "title": "Harnessing computational modelling to drive progress in additive manufacturing: a state-of-the-art review",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s10845-025-02585-6",
+   "title": "Reinforcement learning in dynamic job shop scheduling: a comprehensive review of AI-driven approaches in modern manufacturing",
+   "received": "10 April 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 315
+  },
+  {
+   "doi": "10.1007/s10845-025-02610-8",
+   "title": "A deep learning based visual inspection of small-batch electronic assembly using few-shot-driven synthetic data",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s10845-025-02577-6",
+   "title": "Machine learning of the dynamics of strain hardening based on contact transformations",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s10845-025-02713-2",
+   "title": "Density-aware multi-modal feature fusion for wafer map defect classification in semiconductor manufacturing",
+   "received": "10 May 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 151
+  },
+  {
+   "doi": "10.1007/s10845-025-02613-5",
+   "title": "AMFNet: aggregated multi-level feature interaction fusion network for defect detection on steel surfaces",
+   "received": "9 November 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s10845-025-02650-0",
+   "title": "Automated leaders and followers selection in Stackelberg games for modular manufacturing systems",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1007/s10845-025-02579-4",
+   "title": "Infill pattern strategy impact on the cross-sectional area at gauge length of material extrusion 3D printed polylactic acid parts",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s10845-025-02647-9",
+   "title": "Machine learned and explainable prediction of melt pressure and temperature for polypropylene extrusion",
+   "received": "27 February 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s10845-025-02632-2",
+   "title": "Trade-offs in Bayesian active learning for feasible region identification",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "24 May 2025",
+   "days": 269
+  },
+  {
+   "doi": "10.1007/s10845-024-02527-8",
+   "title": "Deep reinforcement learning-based energy-aware disassembly planning for end-of-life products with stimuli-activated self-disassembly",
+   "received": "14 April 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 204
+  },
+  {
+   "doi": "10.1007/s10845-024-02524-x",
+   "title": "A systematic online update method for reduced-order-model-based digital twin",
+   "received": "16 May 2024",
+   "revised": null,
+   "accepted": "5 November 2024",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s10845-025-02587-4",
+   "title": "An intelligent energy management method for the manufacturing systems using the knowledge graph and large language model",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "28 February 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s10845-025-02652-y",
+   "title": "A responsive digital twin approach for machining based on biomimetic perception and cognition",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "4 July 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s10845-025-02625-1",
+   "title": "COGNIMAN Digital Twin Architecture for Flexible Manufacturing",
+   "received": "15 February 2024",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 450
+  },
+  {
+   "doi": "10.1007/s10845-024-02540-x",
+   "title": "CSSA-XGBoost: a novel algorithm for inspecting spot welding quality based on dynamic resistance signal",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 144
+  },
+  {
+   "doi": "10.1007/s10845-025-02616-2",
+   "title": "Multi-task learning with state propagation for quality forecasts in polymer extrusion lines",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1007/s10845-025-02732-z",
+   "title": "Natural language-driven production planning: integrating large language models with automatic simulation model generation in manufacturing systems",
+   "received": "14 June 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s10845-024-02555-4",
+   "title": "Mechanism and data hybrid-driven cutting forces prediction model for end milling",
+   "received": "20 July 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s10845-025-02611-7",
+   "title": "Enabling production re-configurability through Digital Twins: a case study approach",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1007/s10845-025-02564-x",
+   "title": "Interpretable data-driven framework for life prediction of homogenous lead-free solder joints in ball grid array packages",
+   "received": "14 June 2024",
+   "revised": null,
+   "accepted": "4 January 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1007/s10845-025-02672-8",
+   "title": "Benchmarking deep learning models for surface defect detection: a reproducible and statistically-rigorous approach",
+   "received": "13 June 2025",
+   "revised": null,
+   "accepted": "6 August 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1007/s10845-025-02596-3",
+   "title": "Explainable neural network for time series-based condition monitoring in sheet metal shearing",
+   "received": "26 November 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s10845-025-02580-x",
+   "title": "Exploring the synergy of human-robot teaming, digital twins, and machine learning in Industry 5.0: a step towards sustainable manufacturing",
+   "received": "2 August 2023",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 553
+  },
+  {
+   "doi": "10.1007/s10845-025-02714-1",
+   "title": "Multimodal deep learning-based on and off-axis melt pool monitoring for layer height and surface metrology predictions in directed energy deposition",
+   "received": "9 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10845-025-02696-0",
+   "title": "Sustainable multi-diamond wire sawing of 4H-SiC: cooling strategies and hybrid VMD-ML for CO2 reduction and prediction",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 192
+  },
+  {
+   "doi": "10.1007/s10845-024-02551-8",
+   "title": "Viral mutation-inspired evolutionary algorithm for permutation flowshop scheduling",
+   "received": "12 May 2023",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 577
+  },
+  {
+   "doi": "10.1007/s10845-025-02664-8",
+   "title": "Numerical data driven operation support for manufacturing of automotive body components",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1007/s10845-025-02657-7",
+   "title": "EBPC: a deep learning cloud computing framework for hybrid stack drilling monitoring",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s10845-025-02639-9",
+   "title": "A modeling method of digital twin connection model based on virtual sensor",
+   "received": "29 December 2024",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1007/s10845-025-02693-3",
+   "title": "Geometry-informed multimodal variational autoencoder for real-time prediction of properties for Ti\u20136Al\u20134V fabricated using PBF-LB",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s10845-025-02711-4",
+   "title": "Self-supervised cross-domain open-set fault diagnosis method based on graph learning under time-varying speed conditions",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s10845-025-02676-4",
+   "title": "Improving safety in human\u2013robot collaboration towards sustainable production in Industry 5.0",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1007/s10845-025-02582-9",
+   "title": "Advanced predictive quality assessment for ultrasonic additive manufacturing with deep learning model",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s10845-025-02623-3",
+   "title": "Focus to generalize (F2G): physics-guided attention for sample efficient and generalizable deep learning defect detection",
+   "received": "30 October 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1007/s10845-025-02606-4",
+   "title": "Intelligent real-time tool life prediction for a digital twin framework",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1007/s10845-025-02608-2",
+   "title": "Streamlining digital twin development and operation with DTOps",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1007/s10845-024-02519-8",
+   "title": "Computer vision-enabled real-time job hazard analysis for safe human\u2013robot collaboration in disassembly tasks",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "23 October 2024",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s10845-025-02702-5",
+   "title": "Spatiotemporal deep learning using infrared thermography for real-time monitoring and process parameter adjustment in material extrusion",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1007/s10845-024-02539-4",
+   "title": "Motion stage precision prediction for photonic integrated circuit assembly",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 145
+  },
+  {
+   "doi": "10.1007/s10845-025-02642-0",
+   "title": "Artificial intelligence augmented digital twin for improving the machinability in a robotic carbon fiber reinforced plastics machining process",
+   "received": "20 March 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s10845-024-02549-2",
+   "title": "Deep learning-based rotational alignment technique using image generation and Fourier transform",
+   "received": "5 May 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 206
+  },
+  {
+   "doi": "10.1007/s10845-025-02681-7",
+   "title": "Prediction of spindle power during cutting using Gaussian process regression",
+   "received": "14 May 2024",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 472
+  },
+  {
+   "doi": "10.1007/s10845-025-02622-4",
+   "title": "Reinforcement learning approach for decision making in disassembly processes",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "1 May 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1007/s10845-025-02626-0",
+   "title": "Integrating digital twin models into continuous carbon fiber-reinforced nylon additive manufacturing for process parameters verification and anomaly d",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s10845-025-02641-1",
+   "title": "Physics-informed machine learning in intelligent manufacturing: a review",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1007/s10845-025-02637-x",
+   "title": "A digital twin framework for enhancing human\u2013agentic AI\u2013machine collaboration",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1007/s10845-025-02612-6",
+   "title": "A proposed adaptive navigation architecture to improve safety of self-guided vehicles in dynamic manufacturing environments",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1007/s10845-025-02631-3",
+   "title": "Explainable AI for reinforcement learning based dynamic scheduling solutions in semiconductor manufacturing",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10845-025-02716-z",
+   "title": "Toward human-centric Industry 5.0: a framework for cognitive workload assessment in maintenance and assembly",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "11 October 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1007/s10845-025-02584-7",
+   "title": "Optimizing chamber systems for deposition processes in the semiconductor industry with deep learning framework: tackling small simulation datasets",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "12 February 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1007/s10845-025-02697-z",
+   "title": "Remb: regularized embedding memory book to extend metric learning in fault diagnosis",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1007/s10845-025-02599-0",
+   "title": "Machine learning approach for laser-drilled Ni-alloy plates fabrication technology",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1007/s10845-024-02532-x",
+   "title": "Enhanced prediction accuracy in high-speed grinding of brittle materials using advanced machine learning techniques",
+   "received": "4 July 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s10845-025-02654-w",
+   "title": "Topology-aware and highly generalizable deep reinforcement learning for efficient retrieval in multi-deep storage systems",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1007/s10845-025-02567-8",
+   "title": "Six-dimensional digital twin modeling and software platform design for complex industrial systems",
+   "received": "6 February 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 337
+  }
+ ]
+}

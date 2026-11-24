@@ -1,0 +1,1581 @@
+{
+ "issn": "1869-4101",
+ "journal": "Insights into Imaging",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:08:17.957554",
+ "source": "https://api.crossref.org/journals/1869-4101/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13244-025-02104-4",
+   "title": "Guidelines and recommendations for radiographer education from the EU-REST project",
+   "received": "4 June 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13244-025-01999-3",
+   "title": "Neuroimaging features of immune-related adverse events due to immune checkpoint inhibitor therapy",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s13244-025-01915-9",
+   "title": "A machine learning model based on preoperative multiparametric quantitative DWI can effectively predict the survival and recurrence risk of pancreatic",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13244-025-02119-x",
+   "title": "Diagnostic performance of dual-energy CT for opportunistic detection of rotator cuff disease: a retrospective multireader study",
+   "received": "18 May 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13244-024-01877-4",
+   "title": "Application and progress of non-invasive imaging in predicting lung invasive non-mucinous adenocarcinoma under the new IASLC grading guidelines",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s13244-025-02014-5",
+   "title": "Predicting mucosal healing in Crohn\u2019s disease: development of a deep-learning model based on intestinal ultrasound images",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s13244-025-02121-3",
+   "title": "Comparative Evaluation of Large Language Models in Explaining Radiology Reports: Expert Assessment of Readability, Understandability, and Communicatio",
+   "received": "26 July 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s13244-025-01972-0",
+   "title": "The interpretable CT-based vision transformer model for preoperative prediction of clear cell renal cell carcinoma SSIGN score and outcome",
+   "received": "16 November 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13244-025-02133-z",
+   "title": "The role of 4DCT in the localization of parathyroid adenomas in primary hyperparathyroidism: a retrospective cohort study",
+   "received": "7 August 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s13244-025-01946-2",
+   "title": "Ischiofemoral impingement in joint preserving hip surgery: prevalence and imaging predictors",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13244-025-01958-y",
+   "title": "Classification and segmentation of hip fractures in x-rays: highlighting fracture regions for interpretable diagnosis",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s13244-024-01883-6",
+   "title": "Analysis of spatial patellofemoral alignment using novel three-dimensional measurements based on weight-bearing cone-beam CT",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13244-025-02130-2",
+   "title": "Performance of image-guided bone biopsies in malignant lesions: impact of PET/CT metabolic activity on the number of samples required",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s13244-025-01957-z",
+   "title": "Renal angiomyolipoma-investigating radiological signs indicative of risk for bleeding",
+   "received": "5 July 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1186/s13244-025-02053-y",
+   "title": "Pulmonary cysts as a diagnostic indicator of Birt-Hogg-Dub\u00e9 syndrome in patients with renal neoplasm",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s13244-025-01945-3",
+   "title": "Radiological approach to metatarsalgia in current practice: an educational review",
+   "received": "23 November 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13244-024-01894-3",
+   "title": "Critical reflection on the indication for computed tomography: an interdisciplinary survey of risk and benefit management in patients with sepsis",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "21 December 2024",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13244-025-01904-y",
+   "title": "MRI-based deep learning radiomics to differentiate dual-phenotype hepatocellular carcinoma from HCC and intrahepatic cholangiocarcinoma: a multicenter",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s13244-025-02050-1",
+   "title": "Computed tomography radiomics to predict microsatellite instability status and immunotherapy response in gastric cancer",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 216
+  },
+  {
+   "doi": "10.1186/s13244-024-01852-z",
+   "title": "The value of restriction spectrum imaging in predicting lymph node metastases in rectal cancer: a comparative study with diffusion-weighted imaging an",
+   "received": "16 June 2024",
+   "revised": null,
+   "accepted": "22 October 2024",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13244-025-02027-0",
+   "title": "Challenges and insights from implementing clinical decision support systems for radiologic imaging: experience from the MIDAS trial",
+   "received": "18 August 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 284
+  },
+  {
+   "doi": "10.1186/s13244-025-01916-8",
+   "title": "Exploratory high b value diffusion-weighted MR for quantitative differentiation of ileocecal inflammatory conditions and tumors",
+   "received": "5 April 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 298
+  },
+  {
+   "doi": "10.1186/s13244-025-01959-x",
+   "title": "AI-based automatic estimation of single-kidney glomerular filtration rate and split renal function using non-contrast CT",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s13244-025-02073-8",
+   "title": "A pictorial essay of thoracic wall diseases: multiple pathologies in the same anatomical site",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s13244-025-01998-4",
+   "title": "Vanishing pancreas: CT and MRI features and imaging diagnostic strategies",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s13244-025-01902-0",
+   "title": "Deep learning reconstruction of zero-echo time sequences to improve visualization of osseous structures and associated pathologies in MRI of cervical ",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "3 January 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s13244-024-01858-7",
+   "title": "Contrast-enhanced US Bosniak Classification: intra- and inter-rater agreement, confounding features, and diagnostic performance",
+   "received": "28 July 2024",
+   "revised": null,
+   "accepted": "26 October 2024",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13244-025-02103-5",
+   "title": "CT-based radiomics nomogram to predict response of advanced adenocarcinoma of esophagogastric junction to neoadjuvant chemotherapy",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1186/s13244-025-02029-y",
+   "title": "Diagnostic performance of the clear cell likelihood score integrated with cystic degeneration or necrosis on MR imaging for identifying clear cell ren",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 239
+  },
+  {
+   "doi": "10.1186/s13244-025-02007-4",
+   "title": "An MRI-based model for preoperative prediction of tertiary lymphoid structures in patients with gallbladder cancer",
+   "received": "10 June 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 350
+  },
+  {
+   "doi": "10.1186/s13244-025-02039-w",
+   "title": "Individualized prediction of post-acute pancreatitis diabetes mellitus by combining lipid metabolism and anatomical features",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s13244-025-01924-8",
+   "title": "A project to define standards for radiology staffing, education and training across the European Union",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s13244-025-01906-w",
+   "title": "Determining the status of tertiary lymphoid structures in invasive pulmonary adenocarcinoma based on chest CT radiomic features",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13244-025-02101-7",
+   "title": "Creeping fat is associated with transmural healing in patients with Crohn\u2019s disease receiving ustekinumab",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s13244-025-02098-z",
+   "title": "Segmentation-model-based framework to detect aortic dissection on non-contrast CT images: a retrospective study",
+   "received": "18 June 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13244-025-01992-w",
+   "title": "Entrustable professional activities in Finnish radiology training: a national survey",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s13244-025-02078-3",
+   "title": "Integrated PET-IVIM-DKI MRI for predicting lymphovascular invasion in NSCLC",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 263
+  },
+  {
+   "doi": "10.1186/s13244-025-02085-4",
+   "title": "Representation of women authorship in the top-cited articles published in the medical imaging literature",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13244-025-01989-5",
+   "title": "Predictive value of subacromial motion metrics for the effectiveness of ultrasound-guided dual-target injection: a longitudinal follow-up cohort trial",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "4 May 2025",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s13244-025-02035-0",
+   "title": "Interpretable and generalizable deep learning model for preoperative assessment of microvascular invasion and outcome in hepatocellular carcinoma base",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "14 June 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13244-025-02115-1",
+   "title": "Mediation and prognostic value of apparent diffusion coefficient in HCC patients receiving immune checkpoint inhibitors",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s13244-025-01935-5",
+   "title": "RadLex and SNOMED CT integration: a pilot study for standardising radiology classification",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 232
+  },
+  {
+   "doi": "10.1186/s13244-025-02055-w",
+   "title": "Controversies in contrast-enhanced ultrasound (CEUS): pregnancy, paediatric, abdominal trauma, complex renal cysts, and endovascular aortic repair fol",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s13244-025-01930-w",
+   "title": "MRI assessment of body composition for prediction of therapeutic response to biologic agents in patients with Crohn\u2019s disease",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13244-025-02058-7",
+   "title": "Prognostic and predictive imaging markers of hepatocellular carcinoma: a pictorial essay",
+   "received": "15 February 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1186/s13244-025-01913-x",
+   "title": "Empowering cancer research in Europe: the EUCAIM cancer imaging infrastructure",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 10
+  },
+  {
+   "doi": "10.1186/s13244-025-01936-4",
+   "title": "Preliminary study on the feasibility of united compressed sensing with radial acquisition as a routine method for liver dynamic contrast-enhanced exam",
+   "received": "19 April 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 300
+  },
+  {
+   "doi": "10.1186/s13244-025-02106-2",
+   "title": "What imaging modalities should be considered in suspected acute acalculous cholecystitis? A review of the evidence",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13244-025-01921-x",
+   "title": "Diagnosis of adult midgut malrotation in CT: sign of absent retromesenteric duodenum reliable",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13244-025-02123-1",
+   "title": "Quantitative assessment of hepatic steatosis by ultrasound-guided attenuation parameter in patients with impaired glucose tolerance",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 260
+  },
+  {
+   "doi": "10.1186/s13244-025-02069-4",
+   "title": "Myocardial characterization using late enhancement photon-counting detector CT in ventricular arrhythmia: comparison with electroanatomical mapping",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s13244-025-02068-5",
+   "title": "Predicting pediatric age from chest X-rays using deep learning: a novel approach",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13244-025-01969-9",
+   "title": "Habitat radiomics assists radiologists in accurately diagnosing lymph node metastasis of adenocarcinoma of the esophagogastric junction",
+   "received": "5 January 2025",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13244-025-02056-9",
+   "title": "Foundation models for radiology\u2014the position of the AI for Health Imaging (AI4HI) network",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 37
+  },
+  {
+   "doi": "10.1186/s13244-024-01870-x",
+   "title": "Assessment of vascular invasion of pancreatic ductal adenocarcinoma based on CE-boost black blood CT technique",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s13244-025-02080-9",
+   "title": "Radiofrequency ablation for recurrent hepatocellular carcinoma: 10-year outcomes of local tumor progression vs intrahepatic distant recurrence",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s13244-025-02122-2",
+   "title": "Transjugular intrahepatic portosystemic shunt with ePTFE-covered stentgrafts: incidence and predictors of shunt dysfunction",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 323
+  },
+  {
+   "doi": "10.1186/s13244-025-01991-x",
+   "title": "Solitary fibrous tumors from A to Z: a pictorial review with radiologic-pathologic correlation",
+   "received": "6 March 2025",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s13244-025-02117-z",
+   "title": "Pathology of the conus medullaris and cauda equina. Beyond the usual suspects",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13244-025-01985-9",
+   "title": "MRI-based quantification of intratumoral heterogeneity for intrahepatic mass-forming cholangiocarcinoma grading: a multicenter study",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s13244-024-01884-5",
+   "title": "Multiparametric MRI and artificial intelligence in predicting and monitoring treatment response in bladder cancer",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13244-025-02148-6",
+   "title": "Contrast-enhanced mammography-guided biopsy: principles, challenges, and opportunities",
+   "received": "6 April 2025",
+   "revised": null,
+   "accepted": "29 October 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s13244-025-01898-7",
+   "title": "Characterization of adrenal glands on computed tomography with a 3D V-Net-based model",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13244-024-01872-9",
+   "title": "Fully automated MRI-based convolutional neural network for noninvasive diagnosis of cirrhosis",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 3
+  },
+  {
+   "doi": "10.1186/s13244-025-02018-1",
+   "title": "Development and psychometric evaluation of the fear of medical imaging radiation scale (FOMIRS): insights from multimethod analysis",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1186/s13244-025-02059-6",
+   "title": "Left ventricular remodeling index to predict ventricular tachyarrhythmia in dilated cardiomyopathy with ejection fraction &lt;\u200935%",
+   "received": "12 April 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13244-025-02040-3",
+   "title": "Bone Reporting and Data System on MRI (Bone-RADS-MRI): a validation study by four readers on 275 cases from three local and two public databases",
+   "received": "6 April 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s13244-025-01923-9",
+   "title": "Preoperative prediction of the Lauren classification in gastric cancer using automated nnU-Net and radiomics: a multicenter study",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s13244-025-01980-0",
+   "title": "CT-based AI framework leveraging multi-scale features for predicting pathological grade and Ki67 index in clear cell renal cell carcinoma: a multicent",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 251
+  },
+  {
+   "doi": "10.1186/s13244-025-01903-z",
+   "title": "Periapical bone edema volume in 3D MRI is positively correlated with bone architecture changes",
+   "received": "10 July 2024",
+   "revised": null,
+   "accepted": "31 December 2024",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s13244-025-02137-9",
+   "title": "Concavities of the margins of focal bone lesions on MRI: a retrospective study of 586 cases",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 217
+  },
+  {
+   "doi": "10.1186/s13244-025-02034-1",
+   "title": "Cross-validation of an artificial intelligence tool for fracture classification and localization on conventional radiography in Dutch population",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "13 June 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1186/s13244-025-02026-1",
+   "title": "Developments in MRI radiomics research for vascular cognitive impairment",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13244-025-02072-9",
+   "title": "The influence of AI on surgical and ablative treatments for colorectal liver metastases: a review of the current literature",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 214
+  },
+  {
+   "doi": "10.1186/s13244-025-01975-x",
+   "title": "Workplace equity in radiology: a nationwide survey by the Radiological Society of Finland",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13244-024-01885-4",
+   "title": "Decreased attenuation difference between non-contrast and portal-venous phases of CT predicts the ultrasonography-unspecified adnexal torsion",
+   "received": "29 May 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 191
+  },
+  {
+   "doi": "10.1186/s13244-025-02075-6",
+   "title": "Pretreatment intravoxel incoherent motion histogram metrics and clinical characteristics for prediction of perineural invasion status and survival in ",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s13244-025-01967-x",
+   "title": "Enhanced diagnosis of axial spondyloarthritis using machine learning with sacroiliac joint MRI: a multicenter study",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13244-025-02016-3",
+   "title": "Quality appraisal of radiomics-based studies on chondrosarcoma using METhodological RadiomICs Score (METRICS) and Radiomics Quality Score (RQS)",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s13244-025-02054-x",
+   "title": "Subspecialisation recognition in European Radiology\u2014follow-up survey by the Accreditation Council in Imaging and European Society of Radiology Nationa",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s13244-025-02024-3",
+   "title": "Enhancing OSCE reliability and effectiveness in radiology resident training with long-term systemic evaluation",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "7 June 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13244-025-02131-1",
+   "title": "AI-assisted differentiation of nontuberculous mycobacterial pulmonary disease from colonization: a multi-center study",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1186/s13244-025-02109-z",
+   "title": "Spectral CT in practice: insights from an International Atomic Energy Agency survey",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s13244-025-02090-7",
+   "title": "Can ADC changes help mRECIST or LI-RADS treatment response algorithm better diagnose pathological response of HCC after preoperative radiotherapy? Sec",
+   "received": "9 February 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1186/s13244-025-01977-9",
+   "title": "CT-based quantification of intratumoral heterogeneity for predicting distant metastasis in retroperitoneal sarcoma",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13244-025-01997-5",
+   "title": "Added value of 3D fast-field-echo (FRACTURE) sequences for cervical spondylosis diagnosis: a prospective multi-reader non-inferiority study",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s13244-025-01986-8",
+   "title": "Acute arterial mesenteric ischaemia: comparison of partial and complete occlusion of the superior mesenteric artery",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s13244-024-01893-4",
+   "title": "Upskilling or deskilling? Measurable role of an AI-supported training for radiology residents: a lesson from the pandemic",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13244-025-01965-z",
+   "title": "Multi-model quantitative MRI of uterine cancers in precision medicine\u2019s era\u2014a narrative review",
+   "received": "23 September 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1186/s13244-025-02097-0",
+   "title": "Intratumoral heterogeneity score enhances invasiveness prediction in pulmonary ground-glass nodules via stacking ensemble machine learning",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s13244-025-02077-4",
+   "title": "Benefits and challenges of multi-delay arterial spin labeling in clinical practice: measuring perfusion and cerebrovascular reactivity in intracranial",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "24 August 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13244-025-02025-2",
+   "title": "A radiomics-based model for predicting lymph nodes metastasis of pancreatic ductal adenocarcinoma: a multicenter study",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13244-025-02036-z",
+   "title": "CT-based radiomics models decode fibrosis content and molecular differences in pancreatic ductal adenocarcinoma: a multi-institutional study",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "16 June 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s13244-024-01888-1",
+   "title": "Ultra-low dose dual-layer detector spectral CT for pulmonary nodule screening: image quality and diagnostic performance",
+   "received": "29 June 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 169
+  },
+  {
+   "doi": "10.1186/s13244-024-01873-8",
+   "title": "Fifteen years and counting: looking towards the future",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 7
+  },
+  {
+   "doi": "10.1186/s13244-025-02105-3",
+   "title": "Guidelines and recommendations for radiographer staffing from the EU-REST project",
+   "received": "30 May 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13244-025-02019-0",
+   "title": "Association between ultrasound-based biliary and parenchymal intrahepatic mass-forming cholangiocarcinoma subtypes and clinicopathological features an",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1186/s13244-025-02044-z",
+   "title": "Repeatability and prognostic value of radiomic features: a study in esophageal cancer and nasopharyngeal carcinoma",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 28
+  },
+  {
+   "doi": "10.1186/s13244-025-01949-z",
+   "title": "CT acquisition protocols for lung cancer screening\u2014current landscape and the urgent need for consistency",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s13244-025-02113-3",
+   "title": "Predicting pathological subtypes of pure ground-glass nodules using Swin Transformer deep learning model",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1186/s13244-024-01860-z",
+   "title": "The value of MRI in differentiating ovarian clear cell carcinoma from other adnexal masses with O-RADS MRI scores of 4\u20135",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13244-024-01897-0",
+   "title": "Recognising the role of radiographers in MR safety and the contributions of the European Federation of Radiographer Societies",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 26
+  },
+  {
+   "doi": "10.1186/s13244-025-01961-3",
+   "title": "Harnessing routine MRI for the early screening of Parkinson\u2019s disease: a multicenter machine learning study using T2-weighted FLAIR imaging",
+   "received": "28 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s13244-024-01861-y",
+   "title": "A multi-scene deep learning model for automated segmentation of acute vertebral compression fractures from radiographs: a multicenter cohort study",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 231
+  },
+  {
+   "doi": "10.1186/s13244-025-01950-6",
+   "title": "The clinical implications and interpretability of computational medical imaging (radiomics) in brain tumors",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1186/s13244-025-02063-w",
+   "title": "Macrotrabecular-massive subtype in hepatocellular carcinoma based on contrast-enhanced CT: deep learning outperforms machine learning",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1186/s13244-025-01995-7",
+   "title": "A two-step automatic identification of contrast phases for abdominal CT images based on residual networks",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 191
+  },
+  {
+   "doi": "10.1186/s13244-025-02020-7",
+   "title": "Development, deployment, and feature interpretability of a three-class prediction model for pulmonary diseases",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1186/s13244-025-02099-y",
+   "title": "Risk factor analysis of iodinated contrast medium-related hypersensitivity reactions",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s13244-025-01939-1",
+   "title": "Bronchial wall T2w MRI signal as a new imaging biomarker of severe asthma",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13244-025-02012-7",
+   "title": "Diagnostic work-up of lipomatous tumors: a decision-making analysis among European sarcoma centers",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 244
+  },
+  {
+   "doi": "10.1186/s13244-025-01920-y",
+   "title": "Spectrum of neuropathic skeletal injuries in children: a pictorial essay",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13244-025-02046-x",
+   "title": "Deep learning in rib fracture imaging: study quality assessment using the Must AI Criteria-10 (MAIC-10) checklist for artificial intelligence in medic",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1186/s13244-025-01941-7",
+   "title": "Generative pre-trained transformer 4o (GPT-4o) in solving text-based multiple response questions for European Diploma in Radiology (EDiR): a comparati",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1186/s13244-025-02076-5",
+   "title": "Prospective multicenter study on the reproducibility of ultrasound-derived fat fraction in assessing hepatic steatosis",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 248
+  },
+  {
+   "doi": "10.1186/s13244-025-02023-4",
+   "title": "Advantages of BioMatrix respiratory gating in free-breathing three-dimensional magnetic resonance cholangiopancreatography: a prospective comparative ",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s13244-025-01954-2",
+   "title": "Reply to the Letter to the Editor: Should all trainees \u201cdo research\u201d?",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 3
+  },
+  {
+   "doi": "10.1186/s13244-025-02062-x",
+   "title": "Preoperative ternary classification using DCE-MRI radiomics and machine learning for HCC, ICC, and HIPT",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13244-025-02128-w",
+   "title": "Global gender disparities in editorial leadership of radiology journals: a cross-sectional analysis of bibliometric and economic associations",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13244-025-02083-6",
+   "title": "Percutaneous microwave ablation of bone lesions: a retrospective cohort study",
+   "received": "6 April 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1186/s13244-025-01952-4",
+   "title": "CT-based radiomics deep learning signatures for non-invasive prediction of metastatic potential in pheochromocytoma and paraganglioma: a multicohort s",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s13244-024-01881-8",
+   "title": "Diagnostic value of dual-layer spectral detector CT parameters for differentiating high- from low-grade bladder cancer",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13244-025-01943-5",
+   "title": "Insulinoma detection on low-dose pancreatic CT perfusion: comparing with conventional contrast-enhanced CT and MRI",
+   "received": "23 July 2024",
+   "revised": null,
+   "accepted": "1 March 2025",
+   "days": 221
+  },
+  {
+   "doi": "10.1186/s13244-025-01927-5",
+   "title": "Influence of virtual monoenergetic reconstructions on coronary CT angiography-based fractional flow reserve with photon-counting detector CT: intra-in",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s13244-024-01891-6",
+   "title": "Assessing the perceived impact of ESOR training programs on radiologists\u2019 professional development",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 130
+  },
+  {
+   "doi": "10.1186/s13244-024-01853-y",
+   "title": "Machine learning-based radiomics prognostic model for patients with proximal esophageal cancer after definitive chemoradiotherapy",
+   "received": "28 January 2024",
+   "revised": null,
+   "accepted": "28 October 2024",
+   "days": 274
+  },
+  {
+   "doi": "10.1186/s13244-025-02107-1",
+   "title": "Functional liver imaging score derived from hepatobiliary-specific contrast-enhanced MRI: a study on agreement and correlation",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 145
+  },
+  {
+   "doi": "10.1186/s13244-025-02111-5",
+   "title": "Can radiology requisition quality reflect clinical reasoning? Insights from a RI-RADS evaluation of emergency CT referrals",
+   "received": "15 June 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13244-025-02139-7",
+   "title": "Why study design matters: evaluating bias and generalizability in contrast-enhanced mammography research",
+   "received": "12 August 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s13244-025-01925-7",
+   "title": "Current status of radiologist staffing, education and training in the 27 EU Member States",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s13244-025-02041-2",
+   "title": "Transient hepatic intensity differences: correlations with treatment outcomes and adverse events following DEB-TACE in hepatocellular carcinoma",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s13244-025-02100-8",
+   "title": "Imaging insights in veno-venous and veno-arterial extracorporeal membrane oxygenation (ECMO): CT protocols, underlying pathophysiology, and main compl",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s13244-025-01934-6",
+   "title": "Intratumoral and peritumoral ultrasound-based radiomics for preoperative prediction of HER2-low breast cancer: a multicenter retrospective study",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "8 February 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13244-025-01984-w",
+   "title": "Evaluation of a deep-learning segmentation model for patients with colorectal cancer liver metastases (COALA) in the radiological workflow",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13244-025-01970-2",
+   "title": "Colour map displays",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "10 April 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1186/s13244-024-01874-7",
+   "title": "Automatic segmentation model and machine learning model grounded in ultrasound radiomics for distinguishing between low malignant risk and intermediat",
+   "received": "10 October 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13244-025-01910-0",
+   "title": "Multiparameter body composition analysis on chest CT predicts clinical outcomes in resectable non-small cell lung cancer",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1186/s13244-025-02108-0",
+   "title": "Factors associated with research activity among radiologists: results of a Nordic survey",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s13244-025-02052-z",
+   "title": "Dynamic contrast-enhanced ultrasound perfusion analysis for preoperative prediction of aggressive hepatocellular carcinoma subtypes",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 189
+  },
+  {
+   "doi": "10.1186/s13244-025-02066-7",
+   "title": "3D gadolinium-enhanced high-resolution near-isotropic pancreatic imaging at 3.0-T MR using deep-learning reconstruction",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s13244-025-02138-8",
+   "title": "Enhanced subfibular ossicle diagnosis: CT-MRI integration of morphology and ligament attachments",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s13244-025-01899-6",
+   "title": "Hereditary multiple exostoses: an educational review",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13244-025-02060-z",
+   "title": "CT and MR in peritoneal malignancies: pearls and pitfalls at preoperative examination",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1186/s13244-024-01871-w",
+   "title": "CT imaging findings of invasive pulmonary fungal infections in hemato-oncologic children",
+   "received": "27 June 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s13244-025-02110-6",
+   "title": "Prostate MRI cancer detection rate by deep learning-assisted image quality categorization: gas-induced susceptibility artifacts in diffusion-weighted ",
+   "received": "15 July 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s13244-025-02033-2",
+   "title": "Understanding different aspects of blood supply of uterine fibroids: an overview of ultrasound and magnetic resonance imaging techniques",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 220
+  },
+  {
+   "doi": "10.1186/s13244-025-02048-9",
+   "title": "Positivity rates and subsequent patient dispositions after utilisation of cervical spine imaging referral guidelines in Singapore",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 19
+  },
+  {
+   "doi": "10.1186/s13244-025-02091-6",
+   "title": "Preoperative prediction of microvascular invasion in pancreatic neuroendocrine tumors through analysis of portal venous phase CT images",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s13244-025-02001-w",
+   "title": "The impact of sarcopenia on the progression of chronic non-bacterial osteomyelitis",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s13244-024-01886-3",
+   "title": "Comparative evaluation of non-contrast MRI versus gadoxetic acid-enhanced abbreviated protocols in detecting colorectal liver metastases",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13244-024-01869-4",
+   "title": "The top 100 most-cited articles on artificial intelligence in breast radiology: a bibliometric analysis",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "24 November 2024",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s13244-025-02102-6",
+   "title": "MRI analysis of distal tibiofibular joint and ankle anatomy to assess lateral ankle sprain risk",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s13244-025-02064-9",
+   "title": "Paraspinal muscles and gluteus medius fat infiltration are both associated with lumbar disc herniation",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "25 July 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13244-025-01983-x",
+   "title": "Mammography-based artificial intelligence for breast cancer detection, diagnosis, and BI-RADS categorization using multi-view and multi-level convolut",
+   "received": "8 March 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 415
+  },
+  {
+   "doi": "10.1186/s13244-025-02000-x",
+   "title": "A multi-view CNN model to predict resolving of new lung nodules on follow-up low-dose chest CT",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "17 May 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s13244-024-01875-6",
+   "title": "Deep learning for opportunistic, end-to-end automated assessment of epicardial adipose tissue in pre-interventional, ECG-gated spiral computed tomogra",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "30 November 2024",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s13244-025-01993-9",
+   "title": "Trends in CT use in an emergency department in Western Australia: 2015\u20132022",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13244-025-02067-6",
+   "title": "Development of a lung perfusion automated quantitative model based on dual-energy CT pulmonary angiography in patients with chronic pulmonary thromboe",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 172
+  },
+  {
+   "doi": "10.1186/s13244-025-02082-7",
+   "title": "Augmenting conventional criteria: a CT-based deep learning radiomics nomogram for early recurrence risk stratification in hepatocellular carcinoma aft",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13244-025-02057-8",
+   "title": "Bone reporting and data system on CT (Bone-RADS-CT): a validation study by four readers on 328 cases from three local and two public databases",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 249
+  },
+  {
+   "doi": "10.1186/s13244-024-01863-w",
+   "title": "Impact of uncertainty quantification through conformal prediction on volume assessment from deep learning-based MRI prostate segmentation",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13244-025-01968-w",
+   "title": "A deep learning model based on self-supervised learning for identifying subtypes of proliferative hepatocellular carcinoma from dynamic contrast-enhan",
+   "received": "16 August 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1186/s13244-024-01876-5",
+   "title": "Preoperative detection of extraprostatic tumor extension in patients with primary prostate cancer utilizing [68Ga]Ga-PSMA-11 PET/MRI",
+   "received": "17 July 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s13244-024-01817-2",
+   "title": "Application of deep learning model based on unenhanced chest CT for opportunistic screening of osteoporosis: a multicenter retrospective cohort study",
+   "received": "16 March 2024",
+   "revised": null,
+   "accepted": "10 September 2024",
+   "days": 178
+  },
+  {
+   "doi": "10.1186/s13244-025-02093-4",
+   "title": "3D T1 turbo spin echo improves detection of gadolinium-enhancing multiple-sclerosis lesions",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s13244-025-01912-y",
+   "title": "Critical dialogue: recent advancements toward omission of axillary lymph node dissection in clinically node positive breast cancer patients treated wi",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s13244-025-01951-5",
+   "title": "A novel deep learning radiopathomics model for predicting carcinogenesis promotor cyclooxygenase-2 expression in common bile duct in children with pan",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "9 March 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s13244-024-01880-9",
+   "title": "Fluoroscopy-guided aspiration of the acutely dislocated total hip arthroplasty: a feasible, high-yield, and safe procedure",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "6 December 2024",
+   "days": 141
+  },
+  {
+   "doi": "10.1186/s13244-025-02129-9",
+   "title": "FOCUS-MUSE DWI outperforms MUSE and FOCUS DWIs in orbital imaging quality and staging thyroid-associated ophthalmopathy",
+   "received": "22 July 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s13244-025-01990-y",
+   "title": "Cost-effectiveness of contrast-enhanced breast MRI in suspicious mammographic microcalcifications",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "6 May 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s13244-024-01889-0",
+   "title": "Diagnostic performance of CT for extrarenal fat invasion in renal cell carcinoma: a meta-analysis and systematic review",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 56
+  },
+  {
+   "doi": "10.1186/s13244-025-01960-4",
+   "title": "Quality of prostate MRI in early diagnosis\u2014a national survey and reading evaluation",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1186/s13244-025-02049-8",
+   "title": "Machine learning combined with CT-based radiomics predicts the prognosis of oesophageal squamous cell carcinoma",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 276
+  },
+  {
+   "doi": "10.1186/s13244-025-01987-7",
+   "title": "Problem-based learning in radiology achieves similar results in classroom and metaverse settings",
+   "received": "4 January 2025",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s13244-025-02051-0",
+   "title": "Short-term repeatability and postprandial effect assessment of liver perfusion quantification in healthy subjects using arterial spin labeling MRI",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s13244-025-01908-8",
+   "title": "Attitudes of radiologists and interns toward the adoption of GPT-like technologies: a National Survey Study in China",
+   "received": "29 December 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 22
+  },
+  {
+   "doi": "10.1186/s13244-025-02116-0",
+   "title": "Beyond embryological remnants: imaging of ligamentum teres hepatis and falciform ligament pathologies",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s13244-025-02013-6",
+   "title": "Differentiation of benign and malignant breast lesions by ultrasound localization microscopy",
+   "received": "10 December 2023",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 539
+  },
+  {
+   "doi": "10.1186/s13244-025-01918-6",
+   "title": "R-AI-diographers: a European survey on perceived impact of AI on professional identity, careers, and radiographers\u2019 roles",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "26 January 2025",
+   "days": 44
+  },
+  {
+   "doi": "10.1186/s13244-025-01928-4",
+   "title": "Women\u2019s perspectives on ultrasound as primary imaging modality for focal breast complaints: a qualitative study",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13244-025-01944-4",
+   "title": "Myocardial late enhancement using dual-source CT: intraindividual comparison of single-energy shuttle and dual-energy acquisition",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "2 March 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s13244-024-01895-2",
+   "title": "Thoracolumbar fascia ultrasound shear strain differs between low back pain and asymptomatic individuals: expanding the evidence",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "18 December 2024",
+   "days": 149
+  },
+  {
+   "doi": "10.1186/s13244-025-02008-3",
+   "title": "Added value of multifrequency magnetic resonance elastography in predicting pathological grading of pancreatic neuroendocrine neoplasms",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s13244-025-02070-x",
+   "title": "Shear wave elastography for assessing kidneys in pediatric patients with primary nephrotic syndrome",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s13244-025-01979-7",
+   "title": "Solitary rectal ulcer syndrome: MRI findings and differentiation from rectal cancer",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "20 April 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13244-025-02081-8",
+   "title": "Technical requirements and optimization strategies for home-based teleradiology workstations: a review article",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13244-025-02095-2",
+   "title": "White matter lesion effect modification of aspirin and unfractionated heparin during endovascular stroke treatment",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13244-025-02125-z",
+   "title": "Assessing brain metastasis response to immunotherapy: a pictorial review of atypical responses and intracranial adverse events",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "5 October 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1186/s13244-025-02028-z",
+   "title": "Current practices and perceptions on diagnostic reference levels: a EuroSafe Imaging Survey Analysis",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s13244-025-02114-2",
+   "title": "Computed tomography-based muscle and fat composition in a Dutch population: a cross-sectional study",
+   "received": "12 December 2024",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 290
+  },
+  {
+   "doi": "10.1186/s13244-025-02061-y",
+   "title": "Explanation and Elaboration with Examples for METRICS (METRICS-E3): an initiative from the EuSoMII Radiomics Auditing Group",
+   "received": "10 May 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1186/s13244-024-01859-6",
+   "title": "Identification of neural alterations in patients with Crohn\u2019s disease with a novel multiparametric brain MRI-based radiomics model",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s13244-024-01890-7",
+   "title": "Enhancing safety in CT-guided lung biopsies: correlation of MinIP imaging with pneumothorax risk prediction",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s13244-025-02088-1",
+   "title": "MRI-based risk stratification for predicting overall survival in pancreatic ductal adenocarcinoma",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13244-025-01994-8",
+   "title": "Contrast-enhanced mammography for breast cancer detection and diagnosis with high concentration iodinated contrast medium",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1186/s13244-024-01862-x",
+   "title": "Ultra-high gradient performance 3-Tesla MRI for super-fast and high-quality prostate imaging: initial experience",
+   "received": "22 May 2024",
+   "revised": null,
+   "accepted": "6 November 2024",
+   "days": 168
+  }
+ ]
+}

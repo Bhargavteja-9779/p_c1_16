@@ -1,0 +1,797 @@
+{
+ "issn": "1573-7675",
+ "journal": "Journal of Intelligent Information Systems",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:50.435598",
+ "source": "https://api.crossref.org/journals/1573-7675/works",
+ "articles": [
+  {
+   "doi": "10.1007/s10844-025-00949-1",
+   "title": "Distance-based change point detection for novelty detection in concept-agnostic continual anomaly detection",
+   "received": "30 October 2024",
+   "revised": "12 May 2025",
+   "accepted": "19 May 2025",
+   "days": 201
+  },
+  {
+   "doi": "10.1007/s10844-025-01006-7",
+   "title": "Frequency-aware experts with multi-stage fusion for multimodal sentiment analysis",
+   "received": "21 August 2025",
+   "revised": "5 November 2025",
+   "accepted": "7 November 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s10844-025-00963-3",
+   "title": "SKT-SQL: multi-decoupling and skeleton prompt framework for text-to-SQL on small-scale LMs",
+   "received": "4 March 2025",
+   "revised": "15 June 2025",
+   "accepted": "16 June 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s10844-025-00923-x",
+   "title": "Multi-level language interaction transformer for multimodal sentiment analysis",
+   "received": "20 November 2024",
+   "revised": "25 January 2025",
+   "accepted": "29 January 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1007/s10844-024-00912-6",
+   "title": "A quantum-like zero-shot approach for sentiment analysis in finance",
+   "received": "24 September 2024",
+   "revised": "25 November 2024",
+   "accepted": "27 November 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s10844-025-00933-9",
+   "title": "LLM-enhanced representation learning for graph collaborative filtering recommendation models",
+   "received": "19 February 2025",
+   "revised": "25 March 2025",
+   "accepted": "25 March 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1007/s10844-025-00965-1",
+   "title": "Comparing data reduction strategies for energy-efficient green recommender systems",
+   "received": "27 March 2025",
+   "revised": "17 June 2025",
+   "accepted": "30 June 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s10844-025-00919-7",
+   "title": "Integrating control-theoretic predictive deep learning for resource-efficient computing systems",
+   "received": "7 June 2024",
+   "revised": "8 January 2025",
+   "accepted": "8 January 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1007/s10844-025-00983-z",
+   "title": "Learning resource recommendation models based on learning behaviors and hierarchical structure graph",
+   "received": "28 June 2025",
+   "revised": "25 August 2025",
+   "accepted": "26 August 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s10844-025-00993-x",
+   "title": "Redefining edge representations for enhanced information propagation on GNNs",
+   "received": "25 April 2025",
+   "revised": "22 September 2025",
+   "accepted": "24 September 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1007/s10844-025-00960-6",
+   "title": "Mental model shifts in human-LLM interactions",
+   "received": "16 February 2025",
+   "revised": "5 June 2025",
+   "accepted": "10 June 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s10844-025-00922-y",
+   "title": "Histograms as tools for mining actionable knowledge \u2013 principles and examples",
+   "received": "11 August 2024",
+   "revised": "17 January 2025",
+   "accepted": "20 January 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s10844-025-00980-2",
+   "title": "Revisiting cognitive process-driven model with sentiment-infused user preference for recommendation",
+   "received": "20 April 2025",
+   "revised": "20 August 2025",
+   "accepted": "20 August 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s10844-025-00932-w",
+   "title": "Distant supervised relation extraction with label entailment and collaborative denoising",
+   "received": "1 January 2025",
+   "revised": "21 March 2025",
+   "accepted": "25 March 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s10844-025-00974-0",
+   "title": "$$A^{2} H^{2}$$ for multimodal emotional data analysis",
+   "received": "28 March 2025",
+   "revised": "23 July 2025",
+   "accepted": "28 July 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s10844-025-00941-9",
+   "title": "A hybrid transformer based model for sarcasm detection from news headlines",
+   "received": "3 January 2025",
+   "revised": "4 April 2025",
+   "accepted": "8 April 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s10844-025-00977-x",
+   "title": "Generation method of suspense stories based on new-type inference",
+   "received": "18 April 2025",
+   "revised": "1 August 2025",
+   "accepted": "6 August 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s10844-025-00931-x",
+   "title": "Physics-guided approach with transfer learning in vehicle lateral dynamics",
+   "received": "29 November 2024",
+   "revised": "19 March 2025",
+   "accepted": "21 March 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s10844-024-00915-3",
+   "title": "MLLM4Rec : multimodal information enhancing LLM for sequential recommendation",
+   "received": "23 August 2024",
+   "revised": "12 December 2024",
+   "accepted": "17 December 2024",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s10844-025-00988-8",
+   "title": "DeepFinLLM 2.0: an optimized and scalable multilingual financial advisor unleashing strategic insights through multi-API orchestration and large langu",
+   "received": "21 June 2025",
+   "revised": "10 August 2025",
+   "accepted": "11 September 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s10844-024-00917-1",
+   "title": "Temporal knowledge graph completion based on product space and contrastive learning of commonsense",
+   "received": "1 August 2024",
+   "revised": "12 December 2024",
+   "accepted": "17 December 2024",
+   "days": 138
+  },
+  {
+   "doi": "10.1007/s10844-025-00954-4",
+   "title": "Benchmarking state of the art website embedding methods for effective processing and analysis in the public sector",
+   "received": "17 December 2024",
+   "revised": "30 May 2025",
+   "accepted": "5 June 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1007/s10844-025-00925-9",
+   "title": "Intentional tendency-based dynamic heterogeneous graph network for emotion recognition in conversations",
+   "received": "1 August 2024",
+   "revised": "1 February 2025",
+   "accepted": "7 February 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1007/s10844-025-00944-6",
+   "title": "Rumor detection for emergency events via few-shot ensembled prompt learning",
+   "received": "17 November 2024",
+   "revised": "20 April 2025",
+   "accepted": "23 April 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s10844-025-00930-y",
+   "title": "Self-training dual-network for denoising federated recommendation",
+   "received": "21 January 2025",
+   "revised": "4 March 2025",
+   "accepted": "6 March 2025",
+   "days": 44
+  },
+  {
+   "doi": "10.1007/s10844-025-00962-4",
+   "title": "Learning constraint orderings for direct diagnosis",
+   "received": "1 November 2024",
+   "revised": "15 June 2025",
+   "accepted": "16 June 2025",
+   "days": 227
+  },
+  {
+   "doi": "10.1007/s10844-025-01002-x",
+   "title": "AlignGenRec: Aligning collaborative and textual knowledge for llm-based generative recommendation",
+   "received": "7 April 2025",
+   "revised": "17 October 2025",
+   "accepted": "22 October 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s10844-025-00929-5",
+   "title": "Quantification of part-of-speech relationships for aspect sentiment triplet extraction",
+   "received": "28 November 2024",
+   "revised": "22 January 2025",
+   "accepted": "27 February 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10844-025-00921-z",
+   "title": "PolyCard: A learned cardinality estimator for intersection queries on spatial polygons",
+   "received": "17 September 2024",
+   "revised": "7 January 2025",
+   "accepted": "8 January 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s10844-025-01007-6",
+   "title": "Enhancing fake news detection through fact-augmented LLM generation with Co-Attention",
+   "received": "24 July 2025",
+   "revised": "5 November 2025",
+   "accepted": "7 November 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s10844-025-00934-8",
+   "title": "LLM-based classifiers for discovering mental disorders",
+   "received": "17 November 2024",
+   "revised": "18 February 2025",
+   "accepted": "28 March 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s10844-025-00918-8",
+   "title": "EST transformer: enhanced spatiotemporal representation learning for time series anomaly detection",
+   "received": "3 September 2024",
+   "revised": "30 December 2024",
+   "accepted": "3 January 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s10844-025-00998-6",
+   "title": "MFLP: Overlapping community detection by multi-level fast label propagation",
+   "received": "13 July 2025",
+   "revised": "3 October 2025",
+   "accepted": "8 October 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s10844-025-00991-z",
+   "title": "DTDiff: adaptive decoupled transformer with language-conditioned denoising learning for multimodal emotion recognition in conversation",
+   "received": "5 July 2025",
+   "revised": "19 September 2025",
+   "accepted": "22 September 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1007/s10844-025-00992-y",
+   "title": "A hybrid location-based recommender system for trip planning and mobility using geo-tagged media",
+   "received": "30 January 2025",
+   "revised": "19 September 2025",
+   "accepted": "22 September 2025",
+   "days": 235
+  },
+  {
+   "doi": "10.1007/s10844-025-00968-y",
+   "title": "On the performance of large language models on introductory programming assignments",
+   "received": "28 October 2024",
+   "revised": "9 July 2025",
+   "accepted": "10 July 2025",
+   "days": 255
+  },
+  {
+   "doi": "10.1007/s10844-025-00927-7",
+   "title": "Dynamic memory-enhanced federated learning framework with trusted computing for multi-source data analysis",
+   "received": "16 January 2025",
+   "revised": "25 February 2025",
+   "accepted": "26 February 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1007/s10844-025-00984-y",
+   "title": "Handling complex backgrounds and light perturbations for enhancing learning tasks from images of vegetables",
+   "received": "18 November 2024",
+   "revised": "28 May 2025",
+   "accepted": "3 September 2025",
+   "days": 289
+  },
+  {
+   "doi": "10.1007/s10844-025-00996-8",
+   "title": "Sentiment lexicon integrated meta-training for sentiment analysis in data-scarce settings",
+   "received": "4 July 2025",
+   "revised": "2 October 2025",
+   "accepted": "3 October 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10844-025-00978-w",
+   "title": "LLIMONIIE: Large Language Instructed Model for Open Named Italian Information Extraction",
+   "received": "7 May 2025",
+   "revised": "7 August 2025",
+   "accepted": "7 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s10844-024-00909-1",
+   "title": "MYRTO: An efficient pervasive method for hybrid ML-based data filtered allocations",
+   "received": "27 June 2024",
+   "revised": "3 November 2024",
+   "accepted": "4 November 2024",
+   "days": 130
+  },
+  {
+   "doi": "10.1007/s10844-025-00969-x",
+   "title": "An optimizer derived from Halpern\u2019s method for enhanced neural network convergence and reduced carbon emissions",
+   "received": "17 November 2024",
+   "revised": "16 July 2025",
+   "accepted": "18 July 2025",
+   "days": 243
+  },
+  {
+   "doi": "10.1007/s10844-025-00997-7",
+   "title": "I-PALIA, An algorithm for discovering BPMN processes with duplicated tasks",
+   "received": "12 March 2024",
+   "revised": "2 October 2025",
+   "accepted": "3 October 2025",
+   "days": 570
+  },
+  {
+   "doi": "10.1007/s10844-025-00942-8",
+   "title": "Using ontologies to facilitate healthcare process mining and analysis",
+   "received": "21 March 2024",
+   "revised": "24 March 2025",
+   "accepted": "15 April 2025",
+   "days": 390
+  },
+  {
+   "doi": "10.1007/s10844-025-01004-9",
+   "title": "Leveraging knowledge graphs and LLMs for content-based reviewer assignment",
+   "received": "24 June 2025",
+   "revised": "27 October 2025",
+   "accepted": "28 October 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s10844-025-00926-8",
+   "title": "Adaptive multi-round retrieval with knowledge distillation for sequential recommendation",
+   "received": "17 October 2024",
+   "revised": "17 February 2025",
+   "accepted": "19 February 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s10844-025-00985-x",
+   "title": "Interpretable methods for personalized recommendation of traditional chinese medicine",
+   "received": "17 January 2025",
+   "revised": "4 September 2025",
+   "accepted": "5 September 2025",
+   "days": 231
+  },
+  {
+   "doi": "10.1007/s10844-025-00981-1",
+   "title": "GFCLSRec: dual-view graph-frequency contrastive learning for sequential recommendation",
+   "received": "28 May 2025",
+   "revised": "20 August 2025",
+   "accepted": "21 August 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1007/s10844-025-01001-y",
+   "title": "Time series forecasting of network traffic with latent domain generalization: Addressing out-of-distribution challenges",
+   "received": "3 July 2025",
+   "revised": "13 October 2025",
+   "accepted": "15 October 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s10844-025-00950-8",
+   "title": "Time-aware graph flashback network for next location recommendation",
+   "received": "18 March 2025",
+   "revised": "20 May 2025",
+   "accepted": "20 May 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s10844-025-00959-z",
+   "title": "DeepFinLLM: an intelligent financial advisor unleashing strategic insights with large language models",
+   "received": "4 April 2025",
+   "revised": "7 June 2025",
+   "accepted": "10 June 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s10844-025-00986-w",
+   "title": "Fusion of diffusion models and intent learning in sequential recommendation",
+   "received": "6 June 2025",
+   "revised": "5 September 2025",
+   "accepted": "5 September 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10844-025-01003-w",
+   "title": "GCN-diffusion and multi-view contrastive learning for enhanced knowledge recommendation",
+   "received": "22 July 2025",
+   "revised": "24 October 2025",
+   "accepted": "24 October 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s10844-025-00970-4",
+   "title": "Context-aware chatbot for personal healthcare assistance using LLMs and LangChain",
+   "received": "12 March 2025",
+   "revised": "18 July 2025",
+   "accepted": "23 July 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s10844-025-00946-4",
+   "title": "DiffKD: collaborative graph diffusion with knowledge distillation for multimodal recommendation",
+   "received": "24 February 2025",
+   "revised": "2 May 2025",
+   "accepted": "2 May 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s10844-025-00995-9",
+   "title": "RGDF: a structure-aware lightweight fusion for efficient and accurate knowledge graph completion",
+   "received": "6 June 2025",
+   "revised": "29 September 2025",
+   "accepted": "2 October 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1007/s10844-025-00938-4",
+   "title": "MF-EDNet: predicting stock market sector indices based on multi-feature fusion under emergency events",
+   "received": "7 February 2025",
+   "revised": "1 April 2025",
+   "accepted": "2 April 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1007/s10844-025-00994-w",
+   "title": "TCM_DiffPR: knowledge graph diffusion model for personalized traditional Chinese medicine recommendation",
+   "received": "17 February 2025",
+   "revised": "30 September 2025",
+   "accepted": "1 October 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1007/s10844-025-00967-z",
+   "title": "Enhancing inter-sentence coherence of extractive summarization with multitask learning",
+   "received": "26 January 2025",
+   "revised": "9 July 2025",
+   "accepted": "10 July 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1007/s10844-025-00999-5",
+   "title": "Predicting residents\u2019 travel mode choice based on MAML",
+   "received": "17 December 2024",
+   "revised": "6 October 2025",
+   "accepted": "8 October 2025",
+   "days": 295
+  },
+  {
+   "doi": "10.1007/s10844-025-00982-0",
+   "title": "DeepVulHunter: enhancing the code vulnerability detection capability of LLMs through multi-round analysis",
+   "received": "27 May 2025",
+   "revised": "26 August 2025",
+   "accepted": "26 August 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s10844-025-00973-1",
+   "title": "A deep recommendation model based on semantic information and correlation between items",
+   "received": "1 January 2025",
+   "revised": "23 July 2025",
+   "accepted": "28 July 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1007/s10844-025-00940-w",
+   "title": "Generating textual explanations for scheduling systems leveraging the reasoning capabilities of large language models",
+   "received": "21 November 2024",
+   "revised": "7 April 2025",
+   "accepted": "8 April 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1007/s10844-024-00910-8",
+   "title": "Addressing data imbalance for federated recommender systems: a rebalancing framework with gradient alignment regularization",
+   "received": "6 October 2024",
+   "revised": "14 November 2024",
+   "accepted": "15 November 2024",
+   "days": 40
+  },
+  {
+   "doi": "10.1007/s10844-025-00956-2",
+   "title": "KQFV: a knowledge-enhanced method using question answering for fact verification",
+   "received": "13 February 2025",
+   "revised": "4 June 2025",
+   "accepted": "5 June 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s10844-025-00972-2",
+   "title": "DiffAste: a gini-adaptive diffusion-based data augmentation approach for aspect sentiment triplet extraction",
+   "received": "21 April 2025",
+   "revised": "25 July 2025",
+   "accepted": "28 July 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1007/s10844-025-00987-9",
+   "title": "Towards real-world multimodal propagation networks: Multimodal uncertainty graph contrastive learning for fake news detection",
+   "received": "26 May 2025",
+   "revised": "9 September 2025",
+   "accepted": "10 September 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s10844-024-00911-7",
+   "title": "Neural network translations for building SentiWordNets",
+   "received": "6 August 2024",
+   "revised": "15 November 2024",
+   "accepted": "15 November 2024",
+   "days": 101
+  },
+  {
+   "doi": "10.1007/s10844-025-00951-7",
+   "title": "Hybrid transformer-based recommender system for political news",
+   "received": "8 February 2025",
+   "revised": "3 May 2025",
+   "accepted": "26 May 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s10844-025-00966-0",
+   "title": "Semantic-aware fake news detection with heterogeneous graph attention",
+   "received": "26 March 2025",
+   "revised": "26 June 2025",
+   "accepted": "3 July 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1007/s10844-025-01000-z",
+   "title": "Unveiling Sustainable Agriculture: An Ensemble Approach for Precision Crop and Fertilizer Recommendation with Local Interpretable Model-Agnostic Expla",
+   "received": "19 April 2025",
+   "revised": "8 October 2025",
+   "accepted": "9 October 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1007/s10844-025-00955-3",
+   "title": "Handling concept drifts with traditional process discovery algorithms",
+   "received": "11 November 2024",
+   "revised": "14 April 2025",
+   "accepted": "5 June 2025",
+   "days": 206
+  },
+  {
+   "doi": "10.1007/s10844-025-00975-z",
+   "title": "Towards robust multimodal emotion recognition in conversation with multi-modal transformer and variational distillation fusion",
+   "received": "25 May 2025",
+   "revised": "23 July 2025",
+   "accepted": "28 July 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s10844-025-00935-7",
+   "title": "A multi-objective optimization approach for session-based recommendation systems",
+   "received": "9 December 2024",
+   "revised": "29 March 2025",
+   "accepted": "31 March 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s10844-025-00952-6",
+   "title": "Evidence selection via multi-aspect query diversification for cross-document relation extraction",
+   "received": "17 March 2025",
+   "revised": "24 May 2025",
+   "accepted": "27 May 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s10844-025-00964-2",
+   "title": "Leveraging large language models, graph neural networks, and explainable AI for revolutionizing the next-generation network intrusion detection system",
+   "received": "19 February 2025",
+   "revised": "20 June 2025",
+   "accepted": "22 June 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1007/s10844-025-00928-6",
+   "title": "Ensemble time series models for stock price prediction and portfolio optimization with sentiment analysis",
+   "received": "16 November 2024",
+   "revised": "26 February 2025",
+   "accepted": "26 February 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1007/s10844-025-00924-w",
+   "title": "MFIEA: entity alignment through multi-modal feature interaction and knowledge facts",
+   "received": "17 October 2024",
+   "revised": "6 February 2025",
+   "accepted": "7 February 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s10844-025-01008-5",
+   "title": "Cardinality estimation with index-based progressive sampling and dynamic sample selection",
+   "received": "16 July 2025",
+   "revised": "8 November 2025",
+   "accepted": "11 November 2025",
+   "days": 118
+  },
+  {
+   "doi": "10.1007/s10844-025-00936-6",
+   "title": "A deep learning-based approach for stegomalware sanitization in digital images",
+   "received": "8 November 2024",
+   "revised": "5 March 2025",
+   "accepted": "31 March 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1007/s10844-025-00953-5",
+   "title": "Textual and structural dual enhancement for knowledge graph completion with large language models",
+   "received": "1 April 2025",
+   "revised": "2 June 2025",
+   "accepted": "4 June 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s10844-025-00958-0",
+   "title": "Survival concept-based learning models",
+   "received": "10 March 2025",
+   "revised": "5 June 2025",
+   "accepted": "10 June 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s10844-025-00989-7",
+   "title": "A resistance distance approach to community detection in complex networks with key node identification",
+   "received": "9 May 2025",
+   "revised": "10 September 2025",
+   "accepted": "11 September 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s10844-024-00913-5",
+   "title": "Meta learning-based relevant user identification and aggregation for cold-start recommendation",
+   "received": "27 September 2024",
+   "revised": "4 December 2024",
+   "accepted": "12 December 2024",
+   "days": 76
+  },
+  {
+   "doi": "10.1007/s10844-025-00957-1",
+   "title": "A method for multimodal sentiment analysis: adaptive interaction and multi-scale fusion",
+   "received": "18 February 2025",
+   "revised": "5 June 2025",
+   "accepted": "5 June 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s10844-024-00916-2",
+   "title": "Dual-view embedding for hyper-relational knowledge graphs with hierarchical structure",
+   "received": "21 September 2024",
+   "revised": "13 December 2024",
+   "accepted": "17 December 2024",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s10844-025-00961-5",
+   "title": "Towards scalable action rule discovery: a structured vertical partitioning method",
+   "received": "2 December 2024",
+   "revised": "10 June 2025",
+   "accepted": "13 June 2025",
+   "days": 193
+  },
+  {
+   "doi": "10.1007/s10844-025-00979-9",
+   "title": "Combined GNN specialized in inductive prediction and PLM for natural language inductive reasoning",
+   "received": "13 April 2025",
+   "revised": "8 August 2025",
+   "accepted": "13 August 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1007/s10844-025-01005-8",
+   "title": "CMKF:Multimodal emotion recognition in conversations based on CoMamba and KAN-Fuse",
+   "received": "30 July 2025",
+   "revised": "1 November 2025",
+   "accepted": "4 November 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1007/s10844-025-00976-y",
+   "title": "Cross-distillation-based approach for detecting poisoning attacks in recommender systems",
+   "received": "11 March 2025",
+   "revised": "23 July 2025",
+   "accepted": "28 July 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s10844-025-00990-0",
+   "title": "Gotta embed them all! - knowledge-aware recommendations fusing heterogeneous multimodal item embeddings",
+   "received": "11 June 2025",
+   "revised": "17 September 2025",
+   "accepted": "19 September 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s10844-024-00914-4",
+   "title": "Clustering of renewable energy assets to optimize resource allocation and operational strategies",
+   "received": "26 July 2024",
+   "revised": "12 December 2024",
+   "accepted": "17 December 2024",
+   "days": 144
+  },
+  {
+   "doi": "10.1007/s10844-025-00945-5",
+   "title": "Enhancing graph multi-hop reasoning for question answering with LLMs: An approach based on adaptive path generation",
+   "received": "6 January 2025",
+   "revised": "28 April 2025",
+   "accepted": "29 April 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s10844-025-00939-3",
+   "title": "Evaluating user story quality with LLMs: a comparative study",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1007/s10844-025-00937-5",
+   "title": "Hybrid Transformer-CNN architecture for multivariate time series forecasting: Integrating attention mechanisms with convolutional feature extraction",
+   "received": "10 January 2025",
+   "revised": "1 April 2025",
+   "accepted": "2 April 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s10844-025-00947-3",
+   "title": "Dynamic selection of ensemble technique for question answering systems: For Indian government dataset",
+   "received": "1 January 2025",
+   "revised": "3 May 2025",
+   "accepted": "6 May 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1007/s10844-025-00971-3",
+   "title": "From news to trends: a financial time series forecasting framework with LLM-driven news sentiment analysis and selective state spaces",
+   "received": "21 March 2025",
+   "revised": "20 July 2025",
+   "accepted": "23 July 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1007/s10844-025-00920-0",
+   "title": "Federated learning-based misbehavior classification system for VANET intrusion detection",
+   "received": "16 August 2024",
+   "revised": "6 January 2025",
+   "accepted": "8 January 2025",
+   "days": 145
+  }
+ ]
+}

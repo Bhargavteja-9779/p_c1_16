@@ -1,0 +1,1149 @@
+{
+ "issn": "1435-5663",
+ "journal": "Engineering with Computers",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:36.069607",
+ "source": "https://api.crossref.org/journals/1435-5663/works",
+ "articles": [
+  {
+   "doi": "10.1007/s00366-025-02171-7",
+   "title": "Probabilistic CFD computations of the NASA low-speed centrifugal compressor (LSCC) under uncertain operational conditions",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 177
+  },
+  {
+   "doi": "10.1007/s00366-025-02160-w",
+   "title": "KANtrol: a physics-informed Kolmogorov\u2013Arnold network framework for solving multi-dimensional and fractional optimal control problems",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1007/s00366-025-02151-x",
+   "title": "Concentric tube robot: a real-time static model considering friction",
+   "received": "19 June 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 302
+  },
+  {
+   "doi": "10.1007/s00366-025-02200-5",
+   "title": "A new approach to involve bond rotation and plasticity in the ordinary state-based peridynamic method",
+   "received": "23 March 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1007/s00366-025-02158-4",
+   "title": "Generative point sampling strategies for physics-informed neural networks",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s00366-025-02187-z",
+   "title": "Mixed precision iterative refinement with adaptive precision sparse approximate inverse preconditioning",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 296
+  },
+  {
+   "doi": "10.1007/s00366-025-02175-3",
+   "title": "Transformations of computational meshes",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "15 June 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s00366-025-02136-w",
+   "title": "TINN: time-step integration neural network for dynamic analysis of nonlinear structure systems subjected to seismic excitation",
+   "received": "22 March 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 362
+  },
+  {
+   "doi": "10.1007/s00366-025-02188-y",
+   "title": "Multi-fidelity Bayesian optimization of shear-wall building costs",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1007/s00366-025-02157-5",
+   "title": "Hierarchical radial basis functions method for the coupling of Stokes and Darcy flow",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s00366-024-02085-w",
+   "title": "A first order FEM-based formulation for the analysis of molecular structures with bonded interactions",
+   "received": "12 July 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 115
+  },
+  {
+   "doi": "10.1007/s00366-024-02103-x",
+   "title": "A boundary-based fourier neural operator (B-FNO) method for efficient parametric acoustic wave analysis",
+   "received": "20 June 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 186
+  },
+  {
+   "doi": "10.1007/s00366-024-02096-7",
+   "title": "RFF-meshing: a parallel and anisotropic quad-dominant mesh generation framework based on Riemann frame field",
+   "received": "24 July 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s00366-025-02105-3",
+   "title": "Generalizing CAS elements to overcome locking in $$C^1$$-continuous cubic NURBS-based discretizations",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s00366-025-02150-y",
+   "title": "Polytree-based adaptive bubble-enriched smoothed polygonal finite element method for dual yield structural design",
+   "received": "9 January 2025",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1007/s00366-025-02131-1",
+   "title": "A trigonometric quintic B-spline collocation technique for the fifth-order KdV\u2013Burgers\u2013Fisher equation",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1007/s00366-025-02123-1",
+   "title": "Fourier-enhanced reduced-order surrogate modeling for uncertainty quantification in electric machine design",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1007/s00366-025-02141-z",
+   "title": "Reconstruction of dynamic systems using genetic algorithms with dynamic search limits",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s00366-025-02137-9",
+   "title": "A mixed-dimensional PD-FEM coupling model for solid-shell structures involving discontinuities",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s00366-025-02195-z",
+   "title": "Topology optimization on variable curved surfaces for mass and heat transfer in volume flow",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s00366-024-02089-6",
+   "title": "Estimation of uncertainties in the density driven flow in fractured porous media using MLMC",
+   "received": "27 April 2024",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 210
+  },
+  {
+   "doi": "10.1007/s00366-025-02169-1",
+   "title": "Spatial arc spline approximants with fewest arcs and their smooth representations by low-degree splines",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 309
+  },
+  {
+   "doi": "10.1007/s00366-025-02153-9",
+   "title": "Periodic topology optimization of anisotropic heat conduction structure using the element-free Galerkin method",
+   "received": "31 December 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1007/s00366-025-02174-4",
+   "title": "Multistage physics informed neural network for solving coupled multiphysics problems in material degradation and fluid dynamics",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1007/s00366-025-02146-8",
+   "title": "Peridynamics for damage modeling of variable stiffness composite laminates",
+   "received": "24 November 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s00366-025-02191-3",
+   "title": "An analysis of the Yutu lunar rover\u2019s mobility performance using a multibody dynamics framework and a physics-based terramechanics model",
+   "received": "20 April 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s00366-024-02099-4",
+   "title": "B-spline-based material point method with dynamic load balancing technique for large-scale simulation",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 209
+  },
+  {
+   "doi": "10.1007/s00366-024-02066-z",
+   "title": "A Trefftz meshfree framework for stability and dynamic analysis of laminated composite plates based on various higher order shear deformation theories",
+   "received": "2 June 2024",
+   "revised": null,
+   "accepted": "23 September 2024",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s00366-025-02116-0",
+   "title": "Open-source shape optimization for isogeometric shells using FEniCS and OpenMDAO",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s00366-025-02222-z",
+   "title": "An efficient framework for structured material particle generation in multi-context modeling",
+   "received": "27 August 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1007/s00366-024-02098-5",
+   "title": "Toward engineering lattice structures with the material point method (MPM)",
+   "received": "29 March 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s00366-025-02201-4",
+   "title": "Application of reservoir computing networks in PDE-based image denoising",
+   "received": "22 July 2024",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 393
+  },
+  {
+   "doi": "10.1007/s00366-025-02164-6",
+   "title": "An optimization-driven design framework for inertance-integrated hydraulic shock absorbers: incorporating nonlinear and parasitic effects",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "29 May 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1007/s00366-025-02215-y",
+   "title": "Second-order accurate, maximum principle-preserving, and convergent schemes for the phase-field shape transformation model",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "20 September 2025",
+   "days": 215
+  },
+  {
+   "doi": "10.1007/s00366-025-02134-y",
+   "title": "Combined phase-field and cohesive zone modeling for mixed-mode fracture in polymer composites",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s00366-025-02162-8",
+   "title": "Two-way coupled stabilized finite element method for transient thermal convection in irregular geometries with electromagnetic force fields",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1007/s00366-025-02219-8",
+   "title": "Virtual element method for thermomechanical analysis of electronic packaging structures with multi-scale features",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1007/s00366-025-02128-w",
+   "title": "Free vibration analysis of free-form stiffened shells based on isogeometric method",
+   "received": "3 November 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s00366-024-02084-x",
+   "title": "Enhanced block-structured quadrilateral mesh generation: integrating cross-field and distance field for optimal domain decomposition",
+   "received": "2 August 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s00366-025-02111-5",
+   "title": "Interpretation of clay modeling using differential geometry and its application to surface reconstruction",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "17 January 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s00366-025-02207-y",
+   "title": "A non-intrusive approach for the imposition of strong Dirichlet boundary conditions in unfitted boundary meshes",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s00366-025-02126-y",
+   "title": "An application of hp-version finite element methods to quench simulation in axisymmetric MRI magnets",
+   "received": "20 September 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1007/s00366-024-02095-8",
+   "title": "A physics preserving neural network based approach for constitutive modeling of isotropic fibrous materials",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s00366-025-02117-z",
+   "title": "Foretelling microstructural interface with multi-generational convolutional-LSTM framework",
+   "received": "19 September 2023",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 494
+  },
+  {
+   "doi": "10.1007/s00366-025-02173-5",
+   "title": "Interval sequential optimization and time-variant reliability assessment (ISOTRA) framework for dynamic stress-constrained topology design",
+   "received": "17 August 2024",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 297
+  },
+  {
+   "doi": "10.1007/s00366-025-02112-4",
+   "title": "Bi-fidelity adaptive sparse reconstruction of polynomial chaos using Bayesian compressive sensing",
+   "received": "15 September 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s00366-024-02069-w",
+   "title": "A monolithic overset finite element method for CFD with application to bio-inspired fliers",
+   "received": "23 June 2024",
+   "revised": null,
+   "accepted": "26 September 2024",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s00366-024-02088-7",
+   "title": "The simulation of spatio-temporal neural field equations with delay depending on the position of neural fibers using the Galerkin method based on movi",
+   "received": "1 April 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 231
+  },
+  {
+   "doi": "10.1007/s00366-025-02172-6",
+   "title": "A nonintrusive finite-orthogonal-basis reduced-order model for accelerated computation of geometrically parameterized problems",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s00366-025-02106-2",
+   "title": "Vibration analysis of functionally graded sandwich porous plates with arbitrary boundary conditions: a new general viscoelastic Winkler\u2013Pasternak foun",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "4 January 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1007/s00366-024-02094-9",
+   "title": "A cyclical fast iterative method for simulating reentries in cardiac electrophysiology using an eikonal-based model",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 155
+  },
+  {
+   "doi": "10.1007/s00366-024-02091-y",
+   "title": "Integrating analytical and machine learning methods for investigating nonlinear bending and post-buckling behavior of 3D-printed auxetic tubes",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 217
+  },
+  {
+   "doi": "10.1007/s00366-025-02110-6",
+   "title": "Minimizing thermally induced residual stresses in metal additive manufacturing through peridynamics topology optimization",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 233
+  },
+  {
+   "doi": "10.1007/s00366-024-02075-y",
+   "title": "\u00a0A Comparative Study of Isogeometric Analysis for Topology Optimzation Based on the Level Set and the Phase Field Methods",
+   "received": "19 April 2024",
+   "revised": null,
+   "accepted": "15 October 2024",
+   "days": 179
+  },
+  {
+   "doi": "10.1007/s00366-025-02198-w",
+   "title": "Numerical solutions for the Poisson-Nernst-Planck system using integrated radial basis function and moving least squares techniques with reduced order",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1007/s00366-025-02152-w",
+   "title": "Image-based adaptive domain decomposition for continuum damage models",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 188
+  },
+  {
+   "doi": "10.1007/s00366-024-02092-x",
+   "title": "Bond-based peridynamic fatigue analysis of ductile materials with Neuber\u2019s plasticity correction",
+   "received": "28 July 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 120
+  },
+  {
+   "doi": "10.1007/s00366-025-02181-5",
+   "title": "Wave propagation numerical simulation approach based on a novel TPMS-based lattice metamaterial for improved vibration transmission of doubly curved s",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 141
+  },
+  {
+   "doi": "10.1007/s00366-025-02189-x",
+   "title": "A unified computational framework for developing general multi-time-step (MTS) coupling schemes for time-dependent problems",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s00366-025-02133-z",
+   "title": "A generalized framework towards continuity and computational efficiency in topology optimization using multi-patch isogeometric methods",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s00366-025-02209-w",
+   "title": "Buckling-constrained and stress-based multi-material topology optimization framework for thermoelastic and self-weight structures",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s00366-025-02204-1",
+   "title": "Numerical approximation of the generalised Kuramoto\u2013Sivashinsky equation by a kernel smoothing technique",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 377
+  },
+  {
+   "doi": "10.1007/s00366-024-02086-9",
+   "title": "Study of steady two-dimensional advection\u2013diffusion equation with stratification using second-kind shifted Chebyshev polynomials",
+   "received": "21 June 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 136
+  },
+  {
+   "doi": "10.1007/s00366-024-02102-y",
+   "title": "Human-augmented topology optimization design with multi-framework intervention",
+   "received": "13 August 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 129
+  },
+  {
+   "doi": "10.1007/s00366-025-02190-4",
+   "title": "Renormalization-free of maximum stress aggregation in stress-constrained topology optimization with polygonal spatial discretization",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1007/s00366-025-02212-1",
+   "title": "Barrier regularization for nonlinear isogeometric topology optimization with large mesh distortion",
+   "received": "19 June 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s00366-025-02135-x",
+   "title": "A novel optimization-based adaptive Kriging method for structural reliability analysis",
+   "received": "15 January 2025",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s00366-025-02186-0",
+   "title": "Comprehensive analysis of complexity of damage identification in micro-beam like structures based on silver nanowires experimental data",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s00366-024-02082-z",
+   "title": "Elementary-level intrusive coupling of machine learning for efficient mechanical analysis of variable stiffness composite laminates: a spatially-adapt",
+   "received": "29 February 2024",
+   "revised": null,
+   "accepted": "27 October 2024",
+   "days": 241
+  },
+  {
+   "doi": "10.1007/s00366-025-02108-0",
+   "title": "Augmented intelligence framework for real-time ground assessment under significant uncertainty",
+   "received": "1 October 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s00366-025-02114-2",
+   "title": "Feed-forward neural networks as a mixed-integer program",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1007/s00366-025-02183-3",
+   "title": "A multi-subnets physics-informed neural network (Ms-PINN) model for transient heat transfer analysis in materials with heterogeneous microstructures",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1007/s00366-025-02130-2",
+   "title": "Generative inverse design of multimodal resonant structures for locally resonant metamaterials",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1007/s00366-025-02132-0",
+   "title": "Electrochemical\u2013chemical\u2013mechanical phase field model for non-uniform corrosion-induced cracking considering the rust precipitation",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s00366-025-02213-0",
+   "title": "Hierarchical radial basis functions method for large eddy simulation",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s00366-025-02199-9",
+   "title": "DRL-MeshGen: automated block-structured mesh generation framework via deep reinforcement learning and optimal conformal mapping",
+   "received": "12 June 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1007/s00366-025-02205-0",
+   "title": "Peridynamic differential operator for lossy compression and recovery of 3D point cloud data",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "22 August 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1007/s00366-025-02113-3",
+   "title": "A robust hybrid near-real-time model for prediction of drilling fluids filtration",
+   "received": "3 March 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1007/s00366-025-02159-3",
+   "title": "A unified CPM framework using the least-squares generalized finite difference method for surface PDEs",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1007/s00366-024-02090-z",
+   "title": "Differentiable neural-integrated meshfree method for forward and inverse modeling of finite strain hyperelasticity",
+   "received": "16 July 2024",
+   "revised": null,
+   "accepted": "23 November 2024",
+   "days": 130
+  },
+  {
+   "doi": "10.1007/s00366-025-02155-7",
+   "title": "Scalable field-aligned reparameterization for trimmed NURBS",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 197
+  },
+  {
+   "doi": "10.1007/s00366-025-02138-8",
+   "title": "Stable quadratic generalized IsoGeometric analysis for elliptic interface problem",
+   "received": "13 October 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1007/s00366-025-02194-0",
+   "title": "A novel SPH-based efficient adaptive quadrilateral-dominant mesh generation method",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "10 August 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s00366-025-02176-2",
+   "title": "Effect of experimental noise on internal damage detection of sealed spent nuclear fuel canisters",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 163
+  },
+  {
+   "doi": "10.1007/s00366-025-02177-1",
+   "title": "Efficient cell-centered nodal integral method for multi-dimensional Burgers\u2019 equations",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1007/s00366-025-02202-3",
+   "title": "TetSimNet: a tetrahedral mesh simplification network model for preserving analysis accuracy",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "20 August 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1007/s00366-025-02161-9",
+   "title": "DL-Polycube: deep learning enhanced generalized polycube method for high-quality hexahedral mesh generation and volumetric spline construction",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1007/s00366-025-02119-x",
+   "title": "Implementation of immersed boundaries via volume penalization in the industrial aeronautical computational fluid dynamics solver CODA",
+   "received": "27 July 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 198
+  },
+  {
+   "doi": "10.1007/s00366-025-02149-5",
+   "title": "Remote stress fracture criterion in peridynamics",
+   "received": "3 March 2024",
+   "revised": null,
+   "accepted": "15 April 2025",
+   "days": 408
+  },
+  {
+   "doi": "10.1007/s00366-025-02166-4",
+   "title": "Non-stationary multi-fidelity surrogate model based on spatial warping",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s00366-025-02121-3",
+   "title": "A machine learning based multi-scale finite element framework for nonlinear composite materials",
+   "received": "18 August 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1007/s00366-025-02154-8",
+   "title": "Topology optimization with material point method: investigation into the design sensitivity and the effect of shape functions",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 144
+  },
+  {
+   "doi": "10.1007/s00366-025-02120-4",
+   "title": "State-based peridynamic modeling of fracture in $$\\textrm{J}_2$$-elastoplastic materials",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s00366-025-02178-0",
+   "title": "A novel smooth particle hydrodynamics framework for modelling melting pool dynamics in laser processing",
+   "received": "8 February 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1007/s00366-025-02104-4",
+   "title": "Topology optimization of thick\u2013thin plate structures considering local stress constraints",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "2 January 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s00366-025-02180-6",
+   "title": "Polygen: an efficient framework for polycrystals generation and cohesive zone modeling in arbitrary domains",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1007/s00366-025-02109-z",
+   "title": "Effective perpendicular boundary conditions in phase-field models using Dirichlet boundary conditions",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s00366-025-02208-x",
+   "title": "Variational quantum latent encoding for topology optimization",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s00366-025-02203-2",
+   "title": "Topology optimisation of transient compressible flow",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s00366-024-02093-w",
+   "title": "Asynchronous parallel reinforcement learning for optimizing propulsive performance in fin ray control",
+   "received": "20 January 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 310
+  },
+  {
+   "doi": "10.1007/s00366-025-02145-9",
+   "title": "Efficient multi-scale representation of lattice structure by F-Rep",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 155
+  },
+  {
+   "doi": "10.1007/s00366-025-02148-6",
+   "title": "Data augmentation for damaged scenarios in floating offshore wind turbines: an approach based on diffusion architecture, hierarchical variational appr",
+   "received": "20 December 2023",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 478
+  },
+  {
+   "doi": "10.1007/s00366-025-02211-2",
+   "title": "Extending parametric model embedding with physical information for design-space dimensionality reduction in shape optimization",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 149
+  },
+  {
+   "doi": "10.1007/s00366-025-02197-x",
+   "title": "D3SAI: a data-driven platform for measuring interfacial tension using machine learning and drop shape analysis",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1007/s00366-025-02221-0",
+   "title": "Surrogate model-based multi-objective Bayesian optimisation of porous acoustic barriers",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1007/s00366-025-02129-9",
+   "title": "Pixel-based shape optimization in 2D using constrained density-based topology optimization",
+   "received": "28 September 2024",
+   "revised": null,
+   "accepted": "6 March 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s00366-025-02214-z",
+   "title": "A Matlab platform for pacemaker algorithm assessment based on anatomically detailed closed-loop computer modeling",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s00366-025-02217-w",
+   "title": "A hybrid Lattice-Boltzmann model for hydro-electrochemical modeling and sensitivity analysis of crystallization potential in nanoporous media. Part II",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1007/s00366-025-02192-2",
+   "title": "Improved vortex lattice method for drag prediction of supersonic wings using shock cone modelling",
+   "received": "8 November 2024",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 264
+  },
+  {
+   "doi": "10.1007/s00366-025-02179-z",
+   "title": "An efficient and robust unstructured quad-dominated mesh generation method based on the grid-based and Delauany techniques",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1007/s00366-025-02125-z",
+   "title": "Multi-scale multi-material concurrent topology optimization of graded cellular structures",
+   "received": "11 June 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 258
+  },
+  {
+   "doi": "10.1007/s00366-025-02144-w",
+   "title": "Hierarchical matrices for 3D Helmholtz problems in the multi-patch IgA-BEM setting",
+   "received": "3 February 2025",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s00366-025-02228-7",
+   "title": "Framework for rapid design and optimisation of immersive battery cooling system",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1007/s00366-024-02101-z",
+   "title": "A waveguide port boundary condition based on approximation space restriction for finite element analysis",
+   "received": "30 July 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 139
+  },
+  {
+   "doi": "10.1007/s00366-025-02147-7",
+   "title": "Deep learning-based semi-supervised approach for high-quality 2D quadrilateral mesh deformation",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s00366-025-02118-y",
+   "title": "Nodal force distribution of moments on arbitrarily shaped geometries without multi-point constraints",
+   "received": "5 June 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 250
+  },
+  {
+   "doi": "10.1007/s00366-025-02139-7",
+   "title": "A robust methodology for dataset preparation and algorithm performance assessment in machine learning prediction of the fatigue life of additive manuf",
+   "received": "2 July 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 266
+  },
+  {
+   "doi": "10.1007/s00366-025-02170-8",
+   "title": "Adaptive multi-domain physics-informed neural networks for coupled thermo-mechanical analysis of thermal barrier coatings",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1007/s00366-025-02115-1",
+   "title": "Bridging the lab- to field-scale solutions of Navier\u2013Stokes equations to study seawater intrusion in fractures",
+   "received": "18 April 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 286
+  },
+  {
+   "doi": "10.1007/s00366-025-02196-y",
+   "title": "improved Q-Morph algorithm for quad-dominant hybrid mesh generation with advanced front propagation and topology optimization",
+   "received": "17 May 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s00366-025-02142-y",
+   "title": "A numerical investigation based on a Galerkin meshless approximation for the mathematical model of tumor-induced angiogenesis considering the role of ",
+   "received": "29 December 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s00366-025-02216-x",
+   "title": "A hybrid Lattice-Boltzmann model for hydro-electrochemical modeling and sensitivity analysis of crystallization potential in nanoporous media. Part I:",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "21 September 2025",
+   "days": 209
+  },
+  {
+   "doi": "10.1007/s00366-025-02223-y",
+   "title": "MAGNET: an open-source library for mesh agglomeration by graph neural networks",
+   "received": "7 July 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1007/s00366-025-02143-x",
+   "title": "Failure analysis of advanced ceramics using bivariate Weibull distribution and Bayesian estimation",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1007/s00366-025-02163-7",
+   "title": "Enriched immersed finite element and isogeometric analysis: algorithms and data structures",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "25 May 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1007/s00366-025-02220-1",
+   "title": "Pixel-based shape optimization in 3D using constrained density-based topology optimization",
+   "received": "17 November 2024",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 312
+  },
+  {
+   "doi": "10.1007/s00366-025-02167-3",
+   "title": "Isogeometric finite volume method for heat transfer simulations on curved spline-based geometries",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s00366-025-02185-1",
+   "title": "A gradient-based shape optimisation for time-domain acoustic problems regarding the 3D dissipative wave equation with using the boundary element metho",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "16 July 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1007/s00366-025-02184-2",
+   "title": "Multidisciplinary robust design optimization under combined parameter and surrogate model uncertainties: a new computational framework for sparse samp",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s00366-025-02165-5",
+   "title": "A truly meshfree solution of nonlinear elastoplastic problems based on stabilized collocation method",
+   "received": "11 May 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 387
+  },
+  {
+   "doi": "10.1007/s00366-025-02225-w",
+   "title": "Stability analysis of multi-spatial Riesz and multi-fractional non-linear damped wave equations involving Caputo-Fabrizio derivative",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 130
+  },
+  {
+   "doi": "10.1007/s00366-025-02193-1",
+   "title": "An efficient second-order adaptive procedure for inserting CAD geometries into hexahedral meshes using volume fractions",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "2 August 2025",
+   "days": 117
+  },
+  {
+   "doi": "10.1007/s00366-024-02100-0",
+   "title": "Development of a personalized fluid-structure interaction model for the aorta in human fetuses",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 251
+  },
+  {
+   "doi": "10.1007/s00366-024-02097-6",
+   "title": "A new calibration approach of kinetic theory of fracture for fatigue life prediction in a peridynamic/finite element framework",
+   "received": "6 June 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 180
+  },
+  {
+   "doi": "10.1007/s00366-025-02210-3",
+   "title": "Shear-locking-free finite element formulation for vibrating functionally graded graphene nanocomposites using an enriched quadrilateral plate element",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "5 September 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1007/s00366-025-02182-4",
+   "title": "Polytopal discontinuous Galerkin methods for low-frequency poroelasticity coupled to unsteady Stokes flow",
+   "received": "31 January 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1007/s00366-025-02127-x",
+   "title": "Approximate symbolic solutions to differential equations using a novel combination of Monte Carlo tree search and physics-informed neural networks app",
+   "received": "25 September 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s00366-025-02206-z",
+   "title": "An efficient NURBS-based reconstruction approach to isogeometric analysis of triply periodic minimal surface structures",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 159
+  },
+  {
+   "doi": "10.1007/s00366-025-02107-1",
+   "title": "Helmholtz-x : Parallelized adjoint open source solver for the thermoacoustic Helmholtz equation",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 242
+  },
+  {
+   "doi": "10.1007/s00366-025-02124-0",
+   "title": "Automatic surface mesh generation for CAD models with dirty geometry",
+   "received": "29 June 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1007/s00366-025-02156-6",
+   "title": "Multi-scale topology optimization using neural networks",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 366
+  },
+  {
+   "doi": "10.1007/s00366-025-02140-0",
+   "title": "An arbitrary Lagrangian discrete least squares meshfree method for discontinuity capturing with application in the Saint\u2013Venant equations",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 314
+  }
+ ]
+}

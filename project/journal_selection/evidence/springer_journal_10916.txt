@@ -1,0 +1,211 @@
+Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our privacy policy for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies
+Reject optional cookies
+Skip to main content
+Log in
+Find a journal
+Publish with us
+Track your research
+Search
+ Saved research
+ Cart
+Home  Journal of Medical Systems
+Journal of Medical Systems
+
+The Home of Clinical Informatics Research
+
+Publishing model
+Hybrid
+Submit your manuscript
+Save journal
+Explore open access funding Select institution
+About this journal
+Articles
+For authors
+Journal updates
+Overview
+
+The Journal of Medical Systems is a leading Q1 journal in health informatics and medical systems, focused on how health information technologies are designed, implemented, evaluated, governed, and used in clinical and health care delivery settings. The journal publishes work on clinical decision support, electronic health record-driven analytics, mHealth and consumer health technologies, workflow engineering and simulation, imaging and signal processing, education and training, health policy, and the application, evaluation, safety, ethics, and governance of clinical and generative artificial intelligence.
+
+The journal is organized into seven sections: Mobile Health; Implementation Science & Operations Management; Clinical Systems & Electronic Health Records; Image & Signal Processing; Consumer Health; Education & Training; and Health Policy.
+
+
+The Journal does not consider pre-submission inquiries, nor does it accept unsolicited requests or submissions for special issues, topical collections, or Editorial Board positions.
+
+Median days from submission to acceptance: 76
+
+Journal metrics
+Journal Impact Factor
+8.8 (2025)
+5-year Journal Impact Factor
+6.0 (2025)
+Submission to first decision (median)
+8 days
+Downloads
+1M (2025)
+Calls for papers
+
+Collection
+
+Clinical AI Governance, Safety, and Algorithmovigilance
+
+This collection is about making AI safe and sustainable in healthcare, including oversight structures, risk assessment, monitoring for drift, and...
+
+Status
+Open for submissions
+Submission deadline
+Ongoing
+
+Collection
+
+Multimodal Foundation Models for Health Systems
+
+This collection focuses on models that combine text with images, physiologic signals, and structured EHR data to support clinical decision-making...
+
+Status
+Open for submissions
+Submission deadline
+Ongoing
+
+Collection
+
+Agentic & Ambient AI in Real Clinical Workflows
+
+This collection highlights generative AI that is used in day-to-day care, including AI scribes, workflow copilots, and agentic tools that carry out...
+
+Status
+Open for submissions
+Submission deadline
+Ongoing
+View all calls for papers
+Latest articles
+A Scoping Review on Large Language Model Clinical Decision Support in Acute and Critical Care
+Tim KortmanWeronika A. KorzeniowskaRobert M. A. van der Boon
+Research
+21 November 2026
+Article: 165
+Part of 1 collection:
+Clinical AI Governance, Safety, and Algorithmovigilance
+Large Language Model-Assisted Cleaning of Report-Derived Labels in a Large-Scale Chest CT Dataset
+Yosuke YamagishiAtsushi TakamatsuOsamu Abe
+Research
+20 November 2026
+Article: 164
+Mapping the AI-Enabled Medical Device Landscape in Australia and the United States: a Comparative Analysis of FDA and TGA Listings
+Dylan RoweDylan StubbsMariam Rowe
+Research
+Open access
+19 November 2026
+Article: 163
+Decoding Complications: Large Language Model-Based Classification of Free-Text Entries in Clinical Stroke Registries
+Hannah AspergerJohannes Welleron behalf of the GSR-ET Investigators
+Research
+Open access
+16 November 2026
+Article: 162
+Part of 1 collection:
+Multimodal Foundation Models for Health Systems
+Mapping Research on AI-Based Computer-Aided Diagnosis and Clinical Decision Support Systems: a Bibliometric Study Integrating Google Trends and Content Analysis
+Shuo-Chen ChienChien-Chu HuangChun-Chung Huang
+Research
+Open access
+16 November 2026
+Article: 161
+View all articles
+This journal has 
+373 open access articles
+Journal updates
+Welcoming New Associate Editors & Editorial Board Members to the Journal of Medical Systems, October 2026
+
+A message from our EIC announcing new members of the journal.
+
+Springer Nature Editor of Distinction Awards 2026
+Journal of Medical Systems 2025 Impact Factor
+
+Journal Citation Reports has released the 2025 Impact Factor for Journal of Medical Systems
+
+Welcoming New Associate Editors and Editorial Board Members to the Journal of Medical Systems, May 2026
+
+A message from our EIC announcing new members of the journal.
+
+View all updates
+Sign up for alerts
+
+Get notified when new articles are published.
+
+Journal information
+Electronic ISSN
+1573-689X
+Abstracted and indexed in
+ACM Digital Library
+ANVUR
+BFI List
+Baidu
+CLOCKSS
+CNKI
+CNPIEC
+Chemical Abstracts Service (CAS)
+Chinese Academy of Medical Science (CAMS)
+Current Contents/Clinical Medicine
+DBLP
+Dimensions
+EBSCO
+EMBASE
+EMCare
+Google Scholar
+INSPEC
+Japanese Science and Technology Agency (JST)
+Medline
+Naver
+OCLC WorldCat Discovery Service
+Ovid Discovery
+Portico
+ProQuest
+Reaxys
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+Semantic Scholar
+TD Net Discovery Service
+Wanfang
+eLibrary.ru
+© Springer Science+Business Media, LLC, part of Springer Nature
+Footer Navigation
+Discover content
+Journals A-Z
+Books A-Z
+Subjects A-Z
+Publish with us
+Journal finder
+Publish your research
+Language editing
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Corporate Navigation
+Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support Legal notice Cancel contracts here
+
+160.79.106.141
+
+Not affiliated
+
+© 2026 Springer Nature

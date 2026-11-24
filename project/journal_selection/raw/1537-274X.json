@@ -1,0 +1,1589 @@
+{
+ "issn": "1537-274X",
+ "journal": "Journal of the American Statistical Association",
+ "publisher": "Informa UK Limited",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:07:56.003490",
+ "source": "https://api.crossref.org/journals/1537-274X/works",
+ "articles": [
+  {
+   "doi": "10.1080/01621459.2025.2544377",
+   "title": "Inference for Dispersion and Curvature of Random Objects",
+   "received": "2024-10-19",
+   "revised": "2025-06-07",
+   "accepted": "2025-07-28",
+   "days": 282
+  },
+  {
+   "doi": "10.1080/01621459.2025.2495318",
+   "title": "Statistical Prediction and Machine Learning",
+   "received": "2024-12-11",
+   "revised": null,
+   "accepted": "2025-02-10",
+   "days": 61
+  },
+  {
+   "doi": "10.1080/01621459.2024.2412808",
+   "title": "Comments on \u201cData Fission: Splitting a Single Data Point\u201d by James Leiner, Boyan Duan, Larry Wasserman, and Aaditya Ramdas",
+   "received": "2024-09-05",
+   "revised": null,
+   "accepted": "2024-09-30",
+   "days": 25
+  },
+  {
+   "doi": "10.1080/01621459.2025.2520467",
+   "title": "On a Notion of Graph Centrality Based on\n                    <i>L</i>\n                    <sub>1</sub>\n                    Data Depth",
+   "received": "2024-02-28",
+   "revised": "2024-06-25",
+   "accepted": "2024-12-15",
+   "days": 291
+  },
+  {
+   "doi": "10.1080/01621459.2024.2427432",
+   "title": "Geometric Ergodicity of Trans-Dimensional Markov Chain Monte Carlo Algorithms",
+   "received": "2023-08-17",
+   "revised": "2024-10-18",
+   "accepted": "2024-11-05",
+   "days": 446
+  },
+  {
+   "doi": "10.1080/01621459.2025.2474265",
+   "title": "Dynamic Regression of Longitudinal Trajectory Features",
+   "received": "2023-04-26",
+   "revised": "2025-01-08",
+   "accepted": "2025-02-20",
+   "days": 666
+  },
+  {
+   "doi": "10.1080/01621459.2025.2520460",
+   "title": "Checking the Cox Proportional Hazards Model with Interval-Censored Data",
+   "received": "2024-10-07",
+   "revised": "2025-04-25",
+   "accepted": "2025-06-09",
+   "days": 245
+  },
+  {
+   "doi": "10.1080/01621459.2025.2547978",
+   "title": "Word-Level Maximum Mean Discrepancy Regularization for Word Embedding",
+   "received": "2023-10-16",
+   "revised": "2025-02-06",
+   "accepted": "2025-08-03",
+   "days": 657
+  },
+  {
+   "doi": "10.1080/01621459.2025.2488477",
+   "title": "Likelihood Ratio Tests in Random Graph Models with Increasing Dimensions",
+   "received": "2023-11-12",
+   "revised": "2025-03-16",
+   "accepted": "2025-03-29",
+   "days": 503
+  },
+  {
+   "doi": "10.1080/01621459.2024.2408777",
+   "title": "Inferring Covariance Structure from Multiple Data Sources via Subspace Factor Analysis",
+   "received": "2023-05-10",
+   "revised": "2024-08-21",
+   "accepted": "2024-09-16",
+   "days": 495
+  },
+  {
+   "doi": "10.1080/01621459.2024.2444700",
+   "title": "Modeling Preferences: A Bayesian Mixture of Finite Mixtures for Rankings and Ratings",
+   "received": "2023-01-25",
+   "revised": "2024-12-09",
+   "accepted": "2024-12-15",
+   "days": 690
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516181",
+   "title": "Modeling Tree Survival for Investigating Climate Change Effects",
+   "received": "2022-09-01",
+   "revised": "2025-04-22",
+   "accepted": "2025-05-06",
+   "days": 978
+  },
+  {
+   "doi": "10.1080/01621459.2025.2495319",
+   "title": "<i>Who Are We Missing?</i>\n                    : A Principled Approach to Characterizing the Underrepresented Population",
+   "received": "2024-01-30",
+   "revised": "2025-04-04",
+   "accepted": "2025-04-12",
+   "days": 438
+  },
+  {
+   "doi": "10.1080/01621459.2025.2527424",
+   "title": "Design and Analysis of Randomized Trials to Estimate Spatio-Temporally Heterogeneous Treatment Effects",
+   "received": "2024-06-12",
+   "revised": "2025-06-10",
+   "accepted": "2025-06-21",
+   "days": 374
+  },
+  {
+   "doi": "10.1080/01621459.2025.2529025",
+   "title": "Additive Multi-Index Gaussian Process Modeling, with Application to Multi-Physics Surrogate Modeling of the Quark-Gluon Plasma",
+   "received": "2023-06-14",
+   "revised": "2025-05-14",
+   "accepted": "2025-06-22",
+   "days": 739
+  },
+  {
+   "doi": "10.1080/01621459.2024.2425461",
+   "title": "<i>\u2113</i>\n                    <sub>1</sub>\n                    -based Bayesian Ideal Point Model for Multidimensional Politics",
+   "received": "2023-04-03",
+   "revised": "2024-10-08",
+   "accepted": "2024-10-30",
+   "days": 576
+  },
+  {
+   "doi": "10.1080/01621459.2025.2491154",
+   "title": "Aggregated Projection Method: A New Approach for Group Factor Model",
+   "received": "2024-02-29",
+   "revised": "2024-12-24",
+   "accepted": "2025-03-17",
+   "days": 382
+  },
+  {
+   "doi": "10.1080/01621459.2025.2476786",
+   "title": "Sparse Bayesian Multidimensional Item Response Theory",
+   "received": "2023-10-26",
+   "revised": "2025-01-29",
+   "accepted": "2025-02-26",
+   "days": 489
+  },
+  {
+   "doi": "10.1080/01621459.2025.2520455",
+   "title": "Debiasing Watermarks for Large Language Models via Maximal Coupling",
+   "received": "2024-08-01",
+   "revised": "2025-05-19",
+   "accepted": "2025-06-07",
+   "days": 310
+  },
+  {
+   "doi": "10.1080/01621459.2025.2487223",
+   "title": "A New Approach to Optimal Design under Model Uncertainty Motivated by Multi-Armed Bandits",
+   "received": "2023-08-25",
+   "revised": "2025-03-05",
+   "accepted": "2025-03-24",
+   "days": 577
+  },
+  {
+   "doi": "10.1080/01621459.2025.2520469",
+   "title": "Bayesian Random-Effects Meta-Analysis Integrating Individual Participant Data and Aggregate Data",
+   "received": "2024-05-14",
+   "revised": "2025-03-17",
+   "accepted": "2025-06-03",
+   "days": 385
+  },
+  {
+   "doi": "10.1080/01621459.2025.2479244",
+   "title": "Frequency Domain Statistical Inference for High-Dimensional Time Series",
+   "received": "2022-11-30",
+   "revised": "2024-11-07",
+   "accepted": "2025-02-23",
+   "days": 816
+  },
+  {
+   "doi": "10.1080/01621459.2025.2485346",
+   "title": "Asymptotic Behavior of Adversarial Training Estimator under\n                    <i>\u2113</i>\n                    <sub>\u221e</sub>\n                    -Perturb",
+   "received": "2024-01-25",
+   "revised": "2025-03-02",
+   "accepted": "2025-03-23",
+   "days": 423
+  },
+  {
+   "doi": "10.1080/01621459.2025.2453249",
+   "title": "Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects",
+   "received": "2022-04-04",
+   "revised": "2024-10-28",
+   "accepted": "2025-01-05",
+   "days": 1007
+  },
+  {
+   "doi": "10.1080/01621459.2025.2555059",
+   "title": "Differentially Private Sliced Inverse Regression: Minimax Optimality and Algorithm",
+   "received": "2024-03-27",
+   "revised": "2025-07-18",
+   "accepted": "2025-08-18",
+   "days": 509
+  },
+  {
+   "doi": "10.1080/01621459.2025.2579579",
+   "title": "Fairness in Machine Learning: A Review for Statisticians",
+   "received": "2025-04-01",
+   "revised": "2025-09-26",
+   "accepted": "2025-10-08",
+   "days": 190
+  },
+  {
+   "doi": "10.1080/01621459.2024.2441522",
+   "title": "Estimation and Variable Selection for Interval-Censored Failure Time Data with Random Change Point and Application to Breast Cancer Study",
+   "received": "2024-03-05",
+   "revised": "2024-11-27",
+   "accepted": "2024-12-06",
+   "days": 276
+  },
+  {
+   "doi": "10.1080/01621459.2025.2526711",
+   "title": "Financial Data Analytics with R: Monte-Carlo Validation",
+   "received": "2024-12-11",
+   "revised": null,
+   "accepted": "2025-03-21",
+   "days": 100
+  },
+  {
+   "doi": "10.1080/01621459.2024.2435656",
+   "title": "On the Comparative Analysis of Average Treatment Effects Estimation via Data Combination",
+   "received": "2023-11-11",
+   "revised": "2024-11-16",
+   "accepted": "2024-11-22",
+   "days": 377
+  },
+  {
+   "doi": "10.1080/01621459.2025.2464270",
+   "title": "Cutting Feedback in Misspecified Copula Models",
+   "received": "2023-10-03",
+   "revised": "2024-12-19",
+   "accepted": "2025-01-19",
+   "days": 474
+  },
+  {
+   "doi": "10.1080/01621459.2025.2504037",
+   "title": "A Unified Framework for Residual Diagnostics in Generalized Linear Models and Beyond",
+   "received": "2023-07-26",
+   "revised": "2025-02-20",
+   "accepted": "2025-05-05",
+   "days": 649
+  },
+  {
+   "doi": "10.1080/01621459.2025.2537459",
+   "title": "Using Total Margin of Error to Account for Non-Sampling Error in Election Polls",
+   "received": "2024-11-04",
+   "revised": "2025-07-08",
+   "accepted": "2025-07-17",
+   "days": 255
+  },
+  {
+   "doi": "10.1080/01621459.2025.2487215",
+   "title": "Unified Optimal Model Averaging with a General Loss Function based on Cross-Validation",
+   "received": "2024-01-09",
+   "revised": "2025-02-03",
+   "accepted": "2025-03-26",
+   "days": 442
+  },
+  {
+   "doi": "10.1080/01621459.2024.2412364",
+   "title": "Deep Regression Learning with Optimal Loss Function",
+   "received": "2023-10-10",
+   "revised": "2024-09-01",
+   "accepted": "2024-09-24",
+   "days": 350
+  },
+  {
+   "doi": "10.1080/01621459.2025.2521898",
+   "title": "Kernel Density Estimation with Polyspherical Data and its Applications",
+   "received": "2024-02-06",
+   "revised": "2025-05-29",
+   "accepted": "2025-06-13",
+   "days": 493
+  },
+  {
+   "doi": "10.1080/01621459.2024.2421582",
+   "title": "Space-Time Extremes of Severe U.S. Thunderstorm Environments",
+   "received": "2022-01-24",
+   "revised": "2024-08-01",
+   "accepted": "2024-10-15",
+   "days": 995
+  },
+  {
+   "doi": "10.1080/01621459.2024.2392912",
+   "title": "Euclidean Mirrors and Dynamics in Network Time Series",
+   "received": "2022-08-01",
+   "revised": "2024-06-07",
+   "accepted": "2024-06-14",
+   "days": 683
+  },
+  {
+   "doi": "10.1080/01621459.2025.2471054",
+   "title": "Statistical Inference for High-Dimensional Convoluted Rank Regression",
+   "received": "2024-06-05",
+   "revised": "2025-02-13",
+   "accepted": "2025-02-18",
+   "days": 258
+  },
+  {
+   "doi": "10.1080/01621459.2025.2476221",
+   "title": "An Economical Approach to Design Posterior Analyses",
+   "received": "2024-01-13",
+   "revised": "2024-11-21",
+   "accepted": "2025-02-25",
+   "days": 409
+  },
+  {
+   "doi": "10.1080/01621459.2025.2537452",
+   "title": "Debiased Calibration Estimation Using Generalized Entropy in Survey Sampling",
+   "received": "2024-04-05",
+   "revised": "2025-05-11",
+   "accepted": "2025-07-12",
+   "days": 463
+  },
+  {
+   "doi": "10.1080/01621459.2024.2414865",
+   "title": "Comments on \u201cData Fission: Splitting a Single Data Point\u201d",
+   "received": "2024-09-26",
+   "revised": null,
+   "accepted": "2024-10-04",
+   "days": 8
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516211",
+   "title": "A Practical Interval Estimation Method for Spectral Density Function",
+   "received": "2024-01-17",
+   "revised": "2025-05-06",
+   "accepted": "2025-05-20",
+   "days": 489
+  },
+  {
+   "doi": "10.1080/01621459.2025.2547968",
+   "title": "Understanding Inequalities in Cancer Survival Using Bayesian Machine Learning",
+   "received": "2024-11-03",
+   "revised": "2025-07-20",
+   "accepted": "2025-07-30",
+   "days": 269
+  },
+  {
+   "doi": "10.1080/01621459.2025.2460232",
+   "title": "Distributional Outcome Regression via Quantile Functions and its Application to Modelling Continuously Monitored Heart Rate and Physical Activity",
+   "received": "2023-02-27",
+   "revised": "2025-01-20",
+   "accepted": "2025-01-23",
+   "days": 696
+  },
+  {
+   "doi": "10.1080/01621459.2025.2520996",
+   "title": "High-Dimensional Covariance Regression with Application to Co-Expression QTL Detection",
+   "received": "2024-03-28",
+   "revised": "2025-05-27",
+   "accepted": "2025-06-08",
+   "days": 437
+  },
+  {
+   "doi": "10.1080/01621459.2024.2427935",
+   "title": "Bayesian Clustering via Fusing of Localized Densities",
+   "received": "2023-06-02",
+   "revised": "2024-07-26",
+   "accepted": "2024-10-31",
+   "days": 517
+  },
+  {
+   "doi": "10.1080/01621459.2024.2412362",
+   "title": "eDNAPlus: A Unifying Modeling Framework for DNA-based Biodiversity Monitoring",
+   "received": "2022-11-21",
+   "revised": "2024-08-14",
+   "accepted": "2024-08-26",
+   "days": 644
+  },
+  {
+   "doi": "10.1080/01621459.2025.2501717",
+   "title": "Adaptation Using Spatially Distributed Gaussian Processes",
+   "received": "2024-03-30",
+   "revised": "2025-02-13",
+   "accepted": "2025-04-20",
+   "days": 386
+  },
+  {
+   "doi": "10.1080/01621459.2025.2507436",
+   "title": "Identifying the Structure of High-Dimensional Time Series via Eigen-Analysis",
+   "received": "2023-11-14",
+   "revised": "2025-04-21",
+   "accepted": "2025-04-29",
+   "days": 532
+  },
+  {
+   "doi": "10.1080/01621459.2024.2423972",
+   "title": "Local Signal Detection on Irregular Domains with Generalized Varying Coefficient Models",
+   "received": "2024-01-11",
+   "revised": "2024-10-15",
+   "accepted": "2024-10-25",
+   "days": 288
+  },
+  {
+   "doi": "10.1080/01621459.2025.2540083",
+   "title": "A Powerful Transformation of Quantitative Responses for Biobank-Scale Association Studies",
+   "received": "2024-05-29",
+   "revised": "2025-06-26",
+   "accepted": "2025-07-19",
+   "days": 416
+  },
+  {
+   "doi": "10.1080/01621459.2024.2416530",
+   "title": "Data Fission and Sampling Designs: A Discussion",
+   "received": "2024-09-04",
+   "revised": null,
+   "accepted": "2024-09-30",
+   "days": 26
+  },
+  {
+   "doi": "10.1080/01621459.2025.2479220",
+   "title": "Prediction of Cognitive Function via Brain Region Volumes with Applications to Alzheimer\u2019s Disease Based on Space-Factor-Guided Functional Principal C",
+   "received": "2022-11-28",
+   "revised": "2025-02-25",
+   "accepted": "2025-03-07",
+   "days": 830
+  },
+  {
+   "doi": "10.1080/01621459.2025.2484843",
+   "title": "Rate-Optimal Rank Aggregation with Private Pairwise Rankings",
+   "received": "2024-02-25",
+   "revised": "2025-02-28",
+   "accepted": "2025-03-15",
+   "days": 384
+  },
+  {
+   "doi": "10.1080/01621459.2025.2490302",
+   "title": "A Smoothed-Bayesian Approach to Frequency Recovery from Sketched Data",
+   "received": "2024-06-10",
+   "revised": "2025-02-12",
+   "accepted": "2025-03-29",
+   "days": 292
+  },
+  {
+   "doi": "10.1080/01621459.2025.2455198",
+   "title": "Degree-Heterogeneous Latent Class Analysis for High-Dimensional Discrete Data",
+   "received": "2024-03-01",
+   "revised": "2024-12-21",
+   "accepted": "2025-01-12",
+   "days": 317
+  },
+  {
+   "doi": "10.1080/01621459.2024.2402961",
+   "title": "Discussion on \u201cPoisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection\u201d by Ward, Dilillo, E",
+   "received": "2024-08-15",
+   "revised": "2024-08-26",
+   "accepted": "2024-09-03",
+   "days": 19
+  },
+  {
+   "doi": "10.1080/01621459.2025.2459442",
+   "title": "Phase-Type Distributions for Sieve Estimation",
+   "received": "2023-07-03",
+   "revised": "2024-10-22",
+   "accepted": "2025-01-03",
+   "days": 550
+  },
+  {
+   "doi": "10.1080/01621459.2024.2402536",
+   "title": "Discussion of \u201cPoisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection\u201d",
+   "received": "2024-08-11",
+   "revised": null,
+   "accepted": "2024-08-15",
+   "days": 4
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516209",
+   "title": "Mutually Exciting Point Processes with Latency",
+   "received": "2023-05-06",
+   "revised": "2025-03-02",
+   "accepted": "2025-05-13",
+   "days": 738
+  },
+  {
+   "doi": "10.1080/01621459.2025.2550669",
+   "title": "Simultaneous Inference for Monotone and Smoothly Time-Varying Functions Under Complex Temporal Dynamics",
+   "received": "2023-11-03",
+   "revised": "2025-03-06",
+   "accepted": "2025-08-17",
+   "days": 653
+  },
+  {
+   "doi": "10.1080/01621459.2025.2537455",
+   "title": "A Minimax Two-Sample Test for Functional Data via Grothendieck\u2019s Divergence",
+   "received": "2024-09-08",
+   "revised": "2025-06-25",
+   "accepted": "2025-07-04",
+   "days": 299
+  },
+  {
+   "doi": "10.1080/01621459.2025.2476781",
+   "title": "Kernel Meets Sieve: Transformed Hazards Models with Sparse Longitudinal Covariates",
+   "received": "2023-11-16",
+   "revised": "2025-02-07",
+   "accepted": "2025-03-02",
+   "days": 472
+  },
+  {
+   "doi": "10.1080/01621459.2024.2445874",
+   "title": "GeoWarp: Warped Spatial Processes for Inferring Subsea Sediment Properties",
+   "received": "2023-10-20",
+   "revised": "2024-12-05",
+   "accepted": "2024-12-11",
+   "days": 418
+  },
+  {
+   "doi": "10.1080/01621459.2024.2412183",
+   "title": "A Discussion on: \u201cData Fission: Splitting a Single Data Point\u201d by Leiner, J., Duan, B., Wasserman, L. and Ramdas, A.",
+   "received": "2024-09-05",
+   "revised": null,
+   "accepted": "2024-09-30",
+   "days": 25
+  },
+  {
+   "doi": "10.1080/01621459.2024.2412172",
+   "title": "Assumption-Lean Data Fission with Resampled Data",
+   "received": "2024-09-05",
+   "revised": null,
+   "accepted": "2024-09-30",
+   "days": 25
+  },
+  {
+   "doi": "10.1080/01621459.2025.2490300",
+   "title": "Spatial Linear Models for Environmental Data",
+   "received": "2024-08-30",
+   "revised": null,
+   "accepted": "2025-01-22",
+   "days": 145
+  },
+  {
+   "doi": "10.1080/01621459.2024.2427431",
+   "title": "Unlocking Retrospective Prevalent Information in EHRs\u2014A Revisit to the Pairwise Pseudolikelihood",
+   "received": "2024-02-21",
+   "revised": "2024-10-23",
+   "accepted": "2024-11-04",
+   "days": 257
+  },
+  {
+   "doi": "10.1080/01621459.2025.2561150",
+   "title": "Mixture Models: Parametric, Semiparametric, and New Directions",
+   "received": "2024-08-30",
+   "revised": null,
+   "accepted": "2025-04-03",
+   "days": 216
+  },
+  {
+   "doi": "10.1080/01621459.2024.2439622",
+   "title": "Optimal Multitask Linear Regression and Contextual Bandits under Sparse Heterogeneity",
+   "received": "2023-05-22",
+   "revised": "2024-09-18",
+   "accepted": "2024-11-26",
+   "days": 554
+  },
+  {
+   "doi": "10.1080/01621459.2025.2552513",
+   "title": "A New Approach for Homogeneity Pursuit in Short Panel Data Analysis",
+   "received": "2023-09-07",
+   "revised": "2025-08-20",
+   "accepted": "2025-08-20",
+   "days": 713
+  },
+  {
+   "doi": "10.1080/01621459.2025.2455202",
+   "title": "Efficient Estimation for Longitudinal Networks via Adaptive Merging",
+   "received": "2023-03-20",
+   "revised": "2025-01-03",
+   "accepted": "2025-01-11",
+   "days": 663
+  },
+  {
+   "doi": "10.1080/01621459.2024.2443246",
+   "title": "Robust Inference for Federated Meta-Learning",
+   "received": "2023-03-23",
+   "revised": "2024-09-05",
+   "accepted": "2024-11-17",
+   "days": 605
+  },
+  {
+   "doi": "10.1080/01621459.2025.2468012",
+   "title": "Robustifying Likelihoods by Optimistically Re-weighting Data",
+   "received": "2023-06-21",
+   "revised": "2024-09-13",
+   "accepted": "2025-02-08",
+   "days": 598
+  },
+  {
+   "doi": "10.1080/01621459.2025.2458344",
+   "title": "Deep Regression for Repeated Measurements",
+   "received": "2023-11-22",
+   "revised": "2024-11-23",
+   "accepted": "2025-01-17",
+   "days": 422
+  },
+  {
+   "doi": "10.1080/01621459.2025.2538272",
+   "title": "Inference for Low-Rank Models Without Estimating the Rank",
+   "received": "2023-11-27",
+   "revised": "2025-06-23",
+   "accepted": "2025-07-03",
+   "days": 584
+  },
+  {
+   "doi": "10.1080/01621459.2025.2550667",
+   "title": "Balanced Sampling With Inequalities: Application to Category Bounding, Matrix Rounding, and Spread Sampling",
+   "received": "2024-07-23",
+   "revised": "2025-07-11",
+   "accepted": "2025-08-11",
+   "days": 384
+  },
+  {
+   "doi": "10.1080/01621459.2024.2402539",
+   "title": "Discussion of Leiner et\u00a0al. \u201cData Fission: Splitting a Single Data Point\u201d",
+   "received": "2024-07-11",
+   "revised": null,
+   "accepted": "2024-08-25",
+   "days": 45
+  },
+  {
+   "doi": "10.1080/01621459.2024.2416913",
+   "title": "Discussion on \u201cData Fission: Splitting a Single Data Point\u201d",
+   "received": "2024-09-05",
+   "revised": "2024-10-01",
+   "accepted": "2024-10-04",
+   "days": 29
+  },
+  {
+   "doi": "10.1080/01621459.2025.2542552",
+   "title": "Confidence Sets for Causal Orderings",
+   "received": "2023-05-25",
+   "revised": "2025-02-10",
+   "accepted": "2025-06-16",
+   "days": 753
+  },
+  {
+   "doi": "10.1080/01621459.2025.2525589",
+   "title": "Integrated Path Stability Selection",
+   "received": "2024-08-27",
+   "revised": "2025-05-17",
+   "accepted": "2025-06-16",
+   "days": 293
+  },
+  {
+   "doi": "10.1080/01621459.2024.2427436",
+   "title": "Simulation-Based, Finite-Sample Inference for Privatized Data",
+   "received": "2023-03-09",
+   "revised": "2024-10-17",
+   "accepted": "2024-11-05",
+   "days": 607
+  },
+  {
+   "doi": "10.1080/01621459.2024.2441523",
+   "title": "Comparison of Longitudinal Trajectories Using a High-Dimensional Partial Linear Semiparametric Mixed-Effects Model",
+   "received": "2024-03-21",
+   "revised": "2024-11-25",
+   "accepted": "2024-12-06",
+   "days": 260
+  },
+  {
+   "doi": "10.1080/01621459.2024.2425460",
+   "title": "Probability Modeling and Statistical Inference in Cancer Screening",
+   "received": "2024-05-29",
+   "revised": null,
+   "accepted": "2024-08-29",
+   "days": 92
+  },
+  {
+   "doi": "10.1080/01621459.2025.2552416",
+   "title": "Exponential Families in Theory and Practice",
+   "received": "2023-09-02",
+   "revised": null,
+   "accepted": "2025-04-12",
+   "days": 588
+  },
+  {
+   "doi": "10.1080/01621459.2025.2485359",
+   "title": "Asymptotic Guarantees for Bayesian Phylogenetic Tree Reconstruction",
+   "received": "2022-10-05",
+   "revised": "2025-03-06",
+   "accepted": "2025-03-13",
+   "days": 890
+  },
+  {
+   "doi": "10.1080/01621459.2025.2520459",
+   "title": "Higher-Order Accurate Two-Sample Network Inference and Network Hashing",
+   "received": "2022-10-04",
+   "revised": "2025-05-24",
+   "accepted": "2025-06-08",
+   "days": 978
+  },
+  {
+   "doi": "10.1080/01621459.2024.2410004",
+   "title": "Iterative Methods for Vecchia-Laplace Approximations for Latent Gaussian Process Models",
+   "received": "2023-10-23",
+   "revised": "2024-08-29",
+   "accepted": "2024-09-21",
+   "days": 334
+  },
+  {
+   "doi": "10.1080/01621459.2024.2436219",
+   "title": "When Composite Likelihood meets Stochastic Approximation",
+   "received": "2023-09-06",
+   "revised": "2024-10-04",
+   "accepted": "2024-11-22",
+   "days": 443
+  },
+  {
+   "doi": "10.1080/01621459.2024.2436686",
+   "title": "Deconvolution Density Estimation with Penalized MLE",
+   "received": "2022-01-11",
+   "revised": "2024-11-14",
+   "accepted": "2024-11-25",
+   "days": 1049
+  },
+  {
+   "doi": "10.1080/01621459.2025.2507825",
+   "title": "Partially Exchangeable Stochastic Block Models for (Node-Colored) Multilayer Networks",
+   "received": "2023-07-03",
+   "revised": "2025-02-03",
+   "accepted": "2025-03-24",
+   "days": 630
+  },
+  {
+   "doi": "10.1080/01621459.2024.2441519",
+   "title": "Combining Broad and Narrow Case Definitions in Matched Case-Control Studies: Firearms in the Home and Suicide Risk",
+   "received": "2022-03-10",
+   "revised": "2024-11-30",
+   "accepted": "2024-12-06",
+   "days": 1002
+  },
+  {
+   "doi": "10.1080/01621459.2025.2483483",
+   "title": "Hypothesis Testing for a Functional Parameter via Self-Normalization",
+   "received": "2023-12-25",
+   "revised": "2025-02-01",
+   "accepted": "2025-03-17",
+   "days": 448
+  },
+  {
+   "doi": "10.1080/01621459.2025.2449721",
+   "title": "Sparse Bayesian Group Factor Model for Feature Interactions in Multiple Count Tables Data",
+   "received": "2023-05-31",
+   "revised": "2024-11-06",
+   "accepted": "2024-12-28",
+   "days": 577
+  },
+  {
+   "doi": "10.1080/01621459.2025.2537451",
+   "title": "Improved Bounds and Inference on Optimal Regimes",
+   "received": "2023-10-13",
+   "revised": "2025-07-03",
+   "accepted": "2025-07-16",
+   "days": 642
+  },
+  {
+   "doi": "10.1080/01621459.2025.2495316",
+   "title": "Nonparametric Test for Rough Volatility",
+   "received": "2024-08-14",
+   "revised": "2025-04-02",
+   "accepted": "2025-04-11",
+   "days": 240
+  },
+  {
+   "doi": "10.1080/01621459.2024.2421994",
+   "title": "Empirical Bayes Estimation via Data Fission",
+   "received": "2024-08-29",
+   "revised": "2024-10-13",
+   "accepted": "2024-10-21",
+   "days": 53
+  },
+  {
+   "doi": "10.1080/01621459.2025.2510006",
+   "title": "The ICML 2023 Ranking Experiment: Examining Author Self-Assessment in ML/AI Peer Review",
+   "received": "2024-09-22",
+   "revised": "2025-05-02",
+   "accepted": "2025-05-15",
+   "days": 235
+  },
+  {
+   "doi": "10.1080/01621459.2025.2555056",
+   "title": "Developing A Practical Measure: An Asymmetric Mean Squared Prediction Error for Small Area Estimation",
+   "received": "2025-01-10",
+   "revised": "2025-08-15",
+   "accepted": "2025-08-25",
+   "days": 227
+  },
+  {
+   "doi": "10.1080/01621459.2025.2529027",
+   "title": "Fast Approximation of Shapley Values Through Fractional Factorial Designs",
+   "received": "2024-07-11",
+   "revised": "2025-06-07",
+   "accepted": "2025-06-19",
+   "days": 343
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516820",
+   "title": "Communication-Efficient Distributed Estimation and Inference for Cox\u2019s Model",
+   "received": "2023-04-15",
+   "revised": "2025-04-13",
+   "accepted": "2025-05-25",
+   "days": 771
+  },
+  {
+   "doi": "10.1080/01621459.2024.2441416",
+   "title": "Discussion of \u201cData Fission: Splitting a Single Data Point\u201d \u2013 Some Asymptotic Results for Data Fission",
+   "received": "2024-11-04",
+   "revised": null,
+   "accepted": "2024-11-10",
+   "days": 6
+  },
+  {
+   "doi": "10.1080/01621459.2025.2537453",
+   "title": "Dimension Reduction for Large-Scale Federated Data: Statistical Rate and Asymptotic Inference",
+   "received": "2023-11-21",
+   "revised": "2025-04-30",
+   "accepted": "2025-06-16",
+   "days": 573
+  },
+  {
+   "doi": "10.1080/01621459.2024.2413201",
+   "title": "On the Modeling and Prediction of High-Dimensional Functional Time Series",
+   "received": "2023-01-15",
+   "revised": "2024-09-24",
+   "accepted": "2024-10-01",
+   "days": 625
+  },
+  {
+   "doi": "10.1080/01621459.2024.2408776",
+   "title": "Quantification of Vaccine Waning as a Challenge Effect",
+   "received": "2023-07-20",
+   "revised": "2024-08-20",
+   "accepted": "2024-09-19",
+   "days": 427
+  },
+  {
+   "doi": "10.1080/01621459.2025.2555057",
+   "title": "Transfer Learning Under Large-Scale Low-Rank Regression Models",
+   "received": "2023-10-21",
+   "revised": "2025-07-20",
+   "accepted": "2025-08-21",
+   "days": 670
+  },
+  {
+   "doi": "10.1080/01621459.2025.2507437",
+   "title": "Deep Mutual Density Ratio Estimation with Bregman Divergence and Its Applications",
+   "received": "2023-10-08",
+   "revised": "2025-01-05",
+   "accepted": "2025-04-07",
+   "days": 547
+  },
+  {
+   "doi": "10.1080/01621459.2024.2428467",
+   "title": "A Novel Approach of High Dimensional Linear Hypothesis Testing Problem",
+   "received": "2023-09-01",
+   "revised": "2024-10-11",
+   "accepted": "2024-10-31",
+   "days": 426
+  },
+  {
+   "doi": "10.1080/01621459.2025.2468014",
+   "title": "Causal Inference for Genomic Data with Multiple Heterogeneous Outcomes",
+   "received": "2024-04-16",
+   "revised": "2025-02-03",
+   "accepted": "2025-02-07",
+   "days": 297
+  },
+  {
+   "doi": "10.1080/01621459.2025.2498088",
+   "title": "Bayesian Inference on Brain-Computer Interfaces via GLASS",
+   "received": "2023-12-09",
+   "revised": "2025-04-02",
+   "accepted": "2025-04-10",
+   "days": 488
+  },
+  {
+   "doi": "10.1080/01621459.2025.2464271",
+   "title": "Fast Signal Region Detection With Application to Whole Genome Association Studies",
+   "received": "2024-02-05",
+   "revised": "2025-01-05",
+   "accepted": "2025-02-03",
+   "days": 364
+  },
+  {
+   "doi": "10.1080/01621459.2024.2441527",
+   "title": "Sensitivity Analysis for Quantiles of Hidden Biases in Matched Observational Studies",
+   "received": "2021-12-15",
+   "revised": "2024-09-13",
+   "accepted": "2024-11-18",
+   "days": 1069
+  },
+  {
+   "doi": "10.1080/01621459.2025.2485379",
+   "title": "Simultaneous Inference for Generalized Linear Models with Unmeasured Confounders",
+   "received": "2023-09-26",
+   "revised": "2025-03-15",
+   "accepted": "2025-03-23",
+   "days": 544
+  },
+  {
+   "doi": "10.1080/01621459.2025.2526695",
+   "title": "Estimating Racial Disparities When Race is Not Observed",
+   "received": "2024-12-30",
+   "revised": "2025-06-09",
+   "accepted": "2025-06-19",
+   "days": 171
+  },
+  {
+   "doi": "10.1080/01621459.2024.2427936",
+   "title": "Immune Profiling Among Colorectal Cancer Subtypes Using Dependent Mixture Models",
+   "received": "2023-09-12",
+   "revised": "2024-10-09",
+   "accepted": "2024-11-03",
+   "days": 418
+  },
+  {
+   "doi": "10.1080/01621459.2025.2555054",
+   "title": "Nonparametric Density Estimation of a Long-Term Trend from Repeated Semicontinuous Data",
+   "received": "2022-04-14",
+   "revised": "2025-08-16",
+   "accepted": "2025-08-26",
+   "days": 1230
+  },
+  {
+   "doi": "10.1080/01621459.2024.2448857",
+   "title": "Inferences in Multinomial Dynamic Mixed Logit Models",
+   "received": "2024-01-27",
+   "revised": null,
+   "accepted": "2024-12-24",
+   "days": 332
+  },
+  {
+   "doi": "10.1080/01621459.2025.2468011",
+   "title": "Class-Specific Joint Feature Screening in Ultrahigh-Dimensional Mixture Regression",
+   "received": "2023-10-18",
+   "revised": "2025-01-20",
+   "accepted": "2025-02-09",
+   "days": 480
+  },
+  {
+   "doi": "10.1080/01621459.2024.2423971",
+   "title": "Two Sample Test for Covariance Matrices in Ultra-High Dimension",
+   "received": "2023-12-20",
+   "revised": "2024-10-16",
+   "accepted": "2024-10-25",
+   "days": 310
+  },
+  {
+   "doi": "10.1080/01621459.2024.2403728",
+   "title": "Comment on \u201cData Fission: Splitting a Single Data Point\u201d by James Leiner, Boyan Duan, Larry Wasserman and Aaditya Ramdas",
+   "received": "2024-06-16",
+   "revised": "2024-07-22",
+   "accepted": "2024-08-25",
+   "days": 70
+  },
+  {
+   "doi": "10.1080/01621459.2024.2435110",
+   "title": "Soccer Analytics: An Introduction Using R",
+   "received": "2024-06-01",
+   "revised": null,
+   "accepted": "2024-11-03",
+   "days": 155
+  },
+  {
+   "doi": "10.1080/01621459.2025.2544366",
+   "title": "A Bayesian Nonparametric Approach to Mediation and Spillover Effects with Multiple Mediators in Cluster-Randomized Trials",
+   "received": "2024-11-05",
+   "revised": "2025-07-07",
+   "accepted": "2025-07-31",
+   "days": 268
+  },
+  {
+   "doi": "10.1080/01621459.2025.2506198",
+   "title": "Conformal Prediction for Network-Assisted Regression",
+   "received": "2023-02-21",
+   "revised": "2025-04-01",
+   "accepted": "2025-04-27",
+   "days": 796
+  },
+  {
+   "doi": "10.1080/01621459.2025.2552514",
+   "title": "Policy Learning with Distributional Welfare",
+   "received": "2024-09-21",
+   "revised": "2025-08-09",
+   "accepted": "2025-08-13",
+   "days": 326
+  },
+  {
+   "doi": "10.1080/01621459.2025.2506194",
+   "title": "Tail Calibration of Probabilistic Forecasts",
+   "received": "2024-07-11",
+   "revised": "2025-04-21",
+   "accepted": "2025-04-29",
+   "days": 292
+  },
+  {
+   "doi": "10.1080/01621459.2025.2555067",
+   "title": "On the Algorithmic Bias of Aligning Large Language Models with RLHF: Preference Collapse and Matching Regularization",
+   "received": "2024-06-14",
+   "revised": "2025-07-25",
+   "accepted": "2025-08-18",
+   "days": 430
+  },
+  {
+   "doi": "10.1080/01621459.2025.2529024",
+   "title": "Evaluation of Binary Classifiers for Asymptotically Dependent and Independent Extremes",
+   "received": "2022-09-18",
+   "revised": "2025-06-06",
+   "accepted": "2025-06-18",
+   "days": 1004
+  },
+  {
+   "doi": "10.1080/01621459.2024.2423434",
+   "title": "ROC Analysis for Classification and Prediction in Practice",
+   "received": "2023-08-19",
+   "revised": null,
+   "accepted": "2024-08-29",
+   "days": 376
+  },
+  {
+   "doi": "10.1080/01621459.2025.2552452",
+   "title": "Efficiency of QMLE for Dynamic Panel Data Models with Interactive Effects",
+   "received": "2024-05-29",
+   "revised": "2025-08-07",
+   "accepted": "2025-08-20",
+   "days": 448
+  },
+  {
+   "doi": "10.1080/01621459.2025.2491775",
+   "title": "Inference in Generalized Linear Models with Robustness to Misspecified Variances",
+   "received": "2023-05-22",
+   "revised": "2025-03-17",
+   "accepted": "2025-03-30",
+   "days": 678
+  },
+  {
+   "doi": "10.1080/01621459.2024.2412361",
+   "title": "Additive Covariance Matrix Models: Modeling Regional Electricity Net-Demand in Great Britain",
+   "received": "2022-11-03",
+   "revised": "2024-09-23",
+   "accepted": "2024-09-26",
+   "days": 693
+  },
+  {
+   "doi": "10.1080/01621459.2024.2439617",
+   "title": "Adaptive Testing for High-Dimensional Data",
+   "received": "2023-08-28",
+   "revised": "2024-11-13",
+   "accepted": "2024-12-01",
+   "days": 461
+  },
+  {
+   "doi": "10.1080/01621459.2024.2442092",
+   "title": "Large Precision Matrix Estimation with Unknown Group Structure",
+   "received": "2024-03-05",
+   "revised": "2024-11-15",
+   "accepted": "2024-12-08",
+   "days": 278
+  },
+  {
+   "doi": "10.1080/01621459.2024.2448859",
+   "title": "An Adaptive Adjustment to the\n                    <i>R</i>\n                    <sub>2</sub>\n                    Statistic in High-Dimensional Elliptic",
+   "received": "2023-09-06",
+   "revised": "2024-10-24",
+   "accepted": "2024-12-23",
+   "days": 474
+  },
+  {
+   "doi": "10.1080/01621459.2024.2421998",
+   "title": "Discussion of \u201cData Fission: Splitting a Single Data Point\u201d",
+   "received": "2024-09-09",
+   "revised": "2024-10-02",
+   "accepted": "2024-10-14",
+   "days": 35
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516201",
+   "title": "Joint Spectral Clustering in Multilayer Degree-Corrected Stochastic Blockmodels",
+   "received": "2023-01-18",
+   "revised": "2025-02-14",
+   "accepted": "2025-04-27",
+   "days": 830
+  },
+  {
+   "doi": "10.1080/01621459.2025.2550671",
+   "title": "Efficient Distributed Learning over Decentralized Networks with Convoluted Support Vector Machine",
+   "received": "2025-03-16",
+   "revised": "2025-08-05",
+   "accepted": "2025-08-16",
+   "days": 153
+  },
+  {
+   "doi": "10.1080/01621459.2025.2507432",
+   "title": "A Bayesian Criterion for Rerandomization",
+   "received": "2023-09-20",
+   "revised": "2025-03-10",
+   "accepted": "2025-05-12",
+   "days": 600
+  },
+  {
+   "doi": "10.1080/01621459.2024.2448858",
+   "title": "Semiparametric Regression Analysis of Interval-Censored Multi-State Data with An Absorbing State",
+   "received": "2024-03-05",
+   "revised": "2024-11-27",
+   "accepted": "2024-12-23",
+   "days": 293
+  },
+  {
+   "doi": "10.1080/01621459.2025.2455192",
+   "title": "Estimation of Over-Parameterized Models from an Auto-Modeling Perspective",
+   "received": "2022-06-12",
+   "revised": "2024-12-04",
+   "accepted": "2025-01-13",
+   "days": 946
+  },
+  {
+   "doi": "10.1080/01621459.2025.2542553",
+   "title": "The Effect of Alcohol Intake on Brain White Matter Microstructural Integrity: A New Causal Inference Framework for Incomplete Phenomic Data",
+   "received": "2023-03-02",
+   "revised": "2025-07-19",
+   "accepted": "2025-07-29",
+   "days": 880
+  },
+  {
+   "doi": "10.1080/01621459.2024.2435655",
+   "title": "Inferring Causal Effect of a Digital Communication Strategy under a Latent Sequential Ignorability Assumption and Treatment Noncompliance",
+   "received": "2023-08-14",
+   "revised": "2024-11-11",
+   "accepted": "2024-11-23",
+   "days": 467
+  },
+  {
+   "doi": "10.1080/01621459.2025.2484044",
+   "title": "Posterior Predictive Design for Phase I Clinical Trials",
+   "received": "2023-10-17",
+   "revised": "2025-02-20",
+   "accepted": "2025-03-17",
+   "days": 517
+  },
+  {
+   "doi": "10.1080/01621459.2024.2402957",
+   "title": "Saha and Ramdas\u2019 Discussion of \u201cPoisson-FOCuS\u201d by Ward, Dilillo, Eckley &amp; Fearnhead",
+   "received": "2024-08-10",
+   "revised": "2024-08-23",
+   "accepted": "2024-09-01",
+   "days": 22
+  },
+  {
+   "doi": "10.1080/01621459.2025.2450836",
+   "title": "Discovering the Network Granger Causality in Large Vector Autoregressive Models",
+   "received": "2022-09-16",
+   "revised": "2024-11-18",
+   "accepted": "2025-01-01",
+   "days": 838
+  },
+  {
+   "doi": "10.1080/01621459.2024.2412191",
+   "title": "Comment on \u201cData Fission: Splitting a Single Data Point\u201d Data Fission for Unsupervised Learning: A Discussion on Post-Clustering Inference and the Cha",
+   "received": "2024-09-07",
+   "revised": null,
+   "accepted": "2024-09-30",
+   "days": 23
+  },
+  {
+   "doi": "10.1080/01621459.2024.2395587",
+   "title": "Zigzag Path Connects Two Monte Carlo Samplers: Hamiltonian Counterpart to a Piecewise Deterministic Markov Process",
+   "received": "2022-10-06",
+   "revised": "2024-05-31",
+   "accepted": "2024-08-07",
+   "days": 671
+  },
+  {
+   "doi": "10.1080/01621459.2025.2535757",
+   "title": "Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization",
+   "received": "2024-06-06",
+   "revised": "2025-06-02",
+   "accepted": "2025-07-08",
+   "days": 397
+  },
+  {
+   "doi": "10.1080/01621459.2024.2422115",
+   "title": "Coefficient Shape Alignment in Multiple Functional Linear Regression",
+   "received": "2024-01-09",
+   "revised": "2024-09-10",
+   "accepted": "2024-09-17",
+   "days": 252
+  },
+  {
+   "doi": "10.1080/01621459.2024.2428466",
+   "title": "When Frictions Are Fractional: Rough Noise in High-Frequency Data",
+   "received": "2021-09-24",
+   "revised": "2024-10-31",
+   "accepted": "2024-11-06",
+   "days": 1139
+  },
+  {
+   "doi": "10.1080/01621459.2024.2445873",
+   "title": "Higher Order Accurate Symmetric Bootstrap Confidence Intervals in High Dimensional Penalized Regression",
+   "received": "2023-03-02",
+   "revised": "2024-11-19",
+   "accepted": "2024-11-30",
+   "days": 639
+  },
+  {
+   "doi": "10.1080/01621459.2025.2479242",
+   "title": "Network Goodness-of-Fit for the Block-Model Family",
+   "received": "2023-10-04",
+   "revised": "2025-02-16",
+   "accepted": "2025-03-09",
+   "days": 522
+  },
+  {
+   "doi": "10.1080/01621459.2024.2396960",
+   "title": "A Space Astrophysics Perspective on Poisson-FOCuS",
+   "received": "2024-08-14",
+   "revised": null,
+   "accepted": "2024-08-21",
+   "days": 7
+  },
+  {
+   "doi": "10.1080/01621459.2025.2552421",
+   "title": "Data Science for Infectious Disease Data Analytics: An Introduction with R",
+   "received": "2023-02-15",
+   "revised": null,
+   "accepted": "2025-04-01",
+   "days": 776
+  },
+  {
+   "doi": "10.1080/01621459.2025.2480867",
+   "title": "Estimation and Inference of Quantile Spatially Varying Coefficient Models Over Complicated Domains",
+   "received": "2023-08-07",
+   "revised": "2024-12-12",
+   "accepted": "2025-03-09",
+   "days": 580
+  },
+  {
+   "doi": "10.1080/01621459.2025.2507982",
+   "title": "Deep Fr\u00e9chet Regression",
+   "received": "2024-06-11",
+   "revised": "2024-12-07",
+   "accepted": "2025-05-03",
+   "days": 326
+  },
+  {
+   "doi": "10.1080/01621459.2024.2423435",
+   "title": "Bayesian Nonparametrics for Causal Inference and Missing Data",
+   "received": "2023-11-09",
+   "revised": null,
+   "accepted": "2024-08-12",
+   "days": 277
+  },
+  {
+   "doi": "10.1080/01621459.2024.2402523",
+   "title": "Comment on \u201cData Fission: Splitting a Single Data Point\u201d",
+   "received": "2024-06-12",
+   "revised": "2024-07-22",
+   "accepted": "2024-08-25",
+   "days": 74
+  },
+  {
+   "doi": "10.1080/01621459.2025.2468013",
+   "title": "Statistical Inference for High-Dimensional Spectral Density Matrix",
+   "received": "2023-10-02",
+   "revised": "2025-01-30",
+   "accepted": "2025-02-05",
+   "days": 492
+  },
+  {
+   "doi": "10.1080/01621459.2025.2454051",
+   "title": "Objective Bayesian Inference",
+   "received": "2024-07-14",
+   "revised": null,
+   "accepted": "2024-12-15",
+   "days": 154
+  },
+  {
+   "doi": "10.1080/01621459.2025.2459443",
+   "title": "High-Dimensional Variable Clustering based on Maxima of a Weakly Dependent Random Process",
+   "received": "2023-09-26",
+   "revised": "2024-10-30",
+   "accepted": "2025-01-06",
+   "days": 468
+  },
+  {
+   "doi": "10.1080/01621459.2025.2529602",
+   "title": "A Goodness-of-Fit Assessment for General Learning Procedures in High Dimensions",
+   "received": "2024-09-03",
+   "revised": "2025-06-04",
+   "accepted": "2025-06-24",
+   "days": 294
+  },
+  {
+   "doi": "10.1080/01621459.2024.2419114",
+   "title": "Statistical and Computational Efficiency for Smooth Tensor Estimation with Unknown Permutations",
+   "received": "2021-11-08",
+   "revised": "2024-10-04",
+   "accepted": "2024-10-14",
+   "days": 1071
+  },
+  {
+   "doi": "10.1080/01621459.2025.2537456",
+   "title": "Effect Aliasing in Observational Studies",
+   "received": "2024-06-11",
+   "revised": "2025-06-03",
+   "accepted": "2025-07-12",
+   "days": 396
+  },
+  {
+   "doi": "10.1080/01621459.2025.2460231",
+   "title": "Estimating Heterogeneous Exposure Effects in the Case-Crossover Design Using BART",
+   "received": "2023-11-14",
+   "revised": "2024-12-16",
+   "accepted": "2025-01-22",
+   "days": 435
+  },
+  {
+   "doi": "10.1080/01621459.2025.2537454",
+   "title": "Online Policy Learning and Inference by Matrix Completion",
+   "received": "2025-03-13",
+   "revised": "2025-06-05",
+   "accepted": "2025-07-07",
+   "days": 116
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516197",
+   "title": "Incorporating Auxiliary Variables to Improve the Efficiency of Time-Varying Treatment Effect Estimation",
+   "received": "2023-08-16",
+   "revised": "2025-03-26",
+   "accepted": "2025-05-20",
+   "days": 643
+  },
+  {
+   "doi": "10.1080/01621459.2024.2422129",
+   "title": "Partial Quantile Tensor Regression",
+   "received": "2023-04-16",
+   "revised": "2024-09-13",
+   "accepted": "2024-09-25",
+   "days": 528
+  },
+  {
+   "doi": "10.1080/01621459.2025.2518617",
+   "title": "Testing Elliptical Models in High Dimensions",
+   "received": "2024-01-18",
+   "revised": "2025-01-24",
+   "accepted": "2025-05-13",
+   "days": 481
+  },
+  {
+   "doi": "10.1080/01621459.2025.2539539",
+   "title": "Kernel Spectral Joint Embeddings for High-Dimensional Noisy Datasets Using Duo-Landmark Integral Operators",
+   "received": "2024-09-26",
+   "revised": "2025-06-23",
+   "accepted": "2025-07-07",
+   "days": 284
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516205",
+   "title": "Integrative Analysis of Microbial 16S Gene and Shotgun Metagenomic Sequencing Data Improves Statistical Efficiency in Testing Differential Abundance",
+   "received": "2024-04-05",
+   "revised": "2025-03-05",
+   "accepted": "2025-05-21",
+   "days": 411
+  },
+  {
+   "doi": "10.1080/01621459.2025.2510000",
+   "title": "LAMBDA: A Large Model Based Data Agent",
+   "received": "2024-09-21",
+   "revised": "2025-05-09",
+   "accepted": "2025-05-16",
+   "days": 237
+  },
+  {
+   "doi": "10.1080/01621459.2025.2546577",
+   "title": "Data Thinning for Poisson Factor Models and its Applications",
+   "received": "2024-07-04",
+   "revised": "2025-07-16",
+   "accepted": "2025-07-30",
+   "days": 391
+  },
+  {
+   "doi": "10.1080/01621459.2024.2425462",
+   "title": "Functional Data Analysis with R",
+   "received": "2024-06-01",
+   "revised": null,
+   "accepted": "2024-08-29",
+   "days": 89
+  },
+  {
+   "doi": "10.1080/01621459.2025.2450837",
+   "title": "Identifying Genetic Variants for Brain Connectivity Using Ball Covariance Ranking and Aggregation",
+   "received": "2023-04-20",
+   "revised": "2024-12-20",
+   "accepted": "2025-01-02",
+   "days": 623
+  },
+  {
+   "doi": "10.1080/01621459.2025.2526703",
+   "title": "Long-Term Effect Estimation When Combining Clinical Trial and Observational Follow-Up Datasets",
+   "received": "2022-03-22",
+   "revised": "2025-04-28",
+   "accepted": "2025-06-17",
+   "days": 1183
+  },
+  {
+   "doi": "10.1080/01621459.2024.2422124",
+   "title": "Testing a Large Number of Composite Null Hypotheses Using Conditionally Symmetric Multidimensional Gaussian Mixtures in Genome-Wide Studies",
+   "received": "2023-02-17",
+   "revised": "2024-10-16",
+   "accepted": "2024-10-22",
+   "days": 613
+  },
+  {
+   "doi": "10.1080/01621459.2024.2411074",
+   "title": "Model-Based Machine Learning",
+   "received": "2024-03-05",
+   "revised": null,
+   "accepted": "2024-07-02",
+   "days": 119
+  },
+  {
+   "doi": "10.1080/01621459.2024.2443563",
+   "title": "Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection. Rejoinder",
+   "received": "2024-12-09",
+   "revised": null,
+   "accepted": "2024-12-12",
+   "days": 3
+  },
+  {
+   "doi": "10.1080/01621459.2025.2540653",
+   "title": "Optimal Transport based Cross-Domain Integration for Heterogeneous Data",
+   "received": "2024-12-08",
+   "revised": "2025-07-09",
+   "accepted": "2025-07-19",
+   "days": 223
+  },
+  {
+   "doi": "10.1080/01621459.2024.2413426",
+   "title": "Discussion of \u201cData Fission: Splitting a Single Data Point\u201d by Leiner\n                    <i>et\u00a0al.</i>",
+   "received": "2024-08-30",
+   "revised": null,
+   "accepted": "2024-09-30",
+   "days": 31
+  },
+  {
+   "doi": "10.1080/01621459.2024.2443275",
+   "title": "A Bias-Accuracy-Privacy Trilemma for Statistical Estimation",
+   "received": "2023-04-13",
+   "revised": "2024-10-22",
+   "accepted": "2024-12-10",
+   "days": 607
+  },
+  {
+   "doi": "10.1080/01621459.2025.2453250",
+   "title": "Hub Detection in Gaussian Graphical Models",
+   "received": "2022-03-30",
+   "revised": "2024-11-04",
+   "accepted": "2025-01-05",
+   "days": 1012
+  },
+  {
+   "doi": "10.1080/01621459.2024.2441525",
+   "title": "Analysis of Variance of Tensor Product Reproducing Kernel Hilbert Spaces on Metric Spaces",
+   "received": "2024-03-13",
+   "revised": "2024-10-18",
+   "accepted": "2024-12-05",
+   "days": 267
+  },
+  {
+   "doi": "10.1080/01621459.2024.2431344",
+   "title": "High-Dimensional Knockoffs Inference for Time Series Data",
+   "received": "2023-05-18",
+   "revised": "2024-08-26",
+   "accepted": "2024-11-10",
+   "days": 542
+  },
+  {
+   "doi": "10.1080/01621459.2025.2485342",
+   "title": "Network-Based Neighborhood Regression",
+   "received": "2024-06-25",
+   "revised": "2025-03-08",
+   "accepted": "2025-03-15",
+   "days": 263
+  },
+  {
+   "doi": "10.1080/01621459.2025.2552510",
+   "title": "Boosting AI-Generated Biomedical Images with Confidence through Advanced Statistical Inference",
+   "received": "2025-01-07",
+   "revised": "2025-07-11",
+   "accepted": "2025-08-19",
+   "days": 224
+  },
+  {
+   "doi": "10.1080/01621459.2025.2506197",
+   "title": "Distributional Off-Policy Evaluation in Reinforcement Learning",
+   "received": "2022-04-12",
+   "revised": "2024-12-25",
+   "accepted": "2025-02-26",
+   "days": 1051
+  },
+  {
+   "doi": "10.1080/01621459.2025.2506196",
+   "title": "Adjacency Matrix Decomposition Clustering for Human Activity Data",
+   "received": "2024-01-03",
+   "revised": "2025-04-09",
+   "accepted": "2025-04-23",
+   "days": 476
+  },
+  {
+   "doi": "10.1080/01621459.2024.2448860",
+   "title": "High-Dimensional Expected Shortfall Regression",
+   "received": "2023-06-27",
+   "revised": "2024-06-24",
+   "accepted": "2024-12-21",
+   "days": 543
+  },
+  {
+   "doi": "10.1080/01621459.2025.2544397",
+   "title": "On the Poor Statistical Properties of the\n                    <i>P</i>\n                    -Curve Meta-Analytic Procedure",
+   "received": "2025-02-05",
+   "revised": "2025-06-04",
+   "accepted": "2025-07-23",
+   "days": 168
+  },
+  {
+   "doi": "10.1080/01621459.2024.2441657",
+   "title": "Estimation and Inference for Nonparametric Expected Shortfall Regression over RKHS",
+   "received": "2024-03-05",
+   "revised": "2024-09-13",
+   "accepted": "2024-10-10",
+   "days": 219
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516204",
+   "title": "Design-Based Causal Inference with Missing Outcomes: Missingness Mechanisms, Imputation-Assisted Randomization Tests, and Covariate Adjustment",
+   "received": "2024-06-05",
+   "revised": "2025-03-27",
+   "accepted": "2025-05-18",
+   "days": 347
+  },
+  {
+   "doi": "10.1080/01621459.2025.2516185",
+   "title": "A Latent Variable Model for Individual Degree Measures in Respondent-Driven Sampling",
+   "received": "2023-07-14",
+   "revised": "2025-05-12",
+   "accepted": "2025-05-19",
+   "days": 675
+  },
+  {
+   "doi": "10.1080/01621459.2025.2510711",
+   "title": "Manipulating an Instrumental Variable in an Observational Study of Premature Babies: Design, Bounds, and Inference",
+   "received": "2024-10-04",
+   "revised": "2025-04-30",
+   "accepted": "2025-05-15",
+   "days": 223
+  },
+  {
+   "doi": "10.1080/01621459.2025.2497569",
+   "title": "Global and Episode-Specific Prediction of Recurrent Events Using Longitudinal Health Informatics Data",
+   "received": "2024-01-11",
+   "revised": "2025-04-12",
+   "accepted": "2025-04-19",
+   "days": 464
+  },
+  {
+   "doi": "10.1080/01621459.2024.2447111",
+   "title": "Robust Bayesian Modeling of Counts with Zero Inflation and Outliers: Theoretical Robustness and Efficient Computation",
+   "received": "2022-04-16",
+   "revised": "2024-08-21",
+   "accepted": "2024-12-18",
+   "days": 977
+  }
+ ]
+}

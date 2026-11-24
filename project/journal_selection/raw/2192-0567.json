@@ -1,0 +1,477 @@
+{
+ "issn": "2192-0567",
+ "journal": "Energy, Sustainability and Society",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:09:39.966340",
+ "source": "https://api.crossref.org/journals/2192-0567/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13705-025-00520-4",
+   "title": "The impact of the transition to a green economy on Romania\u2019s economic growth",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 336
+  },
+  {
+   "doi": "10.1186/s13705-024-00502-y",
+   "title": "Agroforestry systems and forest resources as a potential for sustainable energy development in the western Balkan region",
+   "received": "8 February 2024",
+   "revised": null,
+   "accepted": "15 December 2024",
+   "days": 311
+  },
+  {
+   "doi": "10.1186/s13705-025-00528-w",
+   "title": "Understanding the characteristics of the green, circular and bioeconomy models within the context of sustainable development",
+   "received": "31 July 2024",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 299
+  },
+  {
+   "doi": "10.1186/s13705-025-00546-8",
+   "title": "MCDA for the sustainability assessment of energy technologies and systems: identifying challenges and opportunities",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "14 September 2025",
+   "days": 268
+  },
+  {
+   "doi": "10.1186/s13705-024-00494-9",
+   "title": "Gender-based opportunity structure in the energy sector: a literature review on women\u2019s networking and mentoring",
+   "received": "3 November 2023",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 380
+  },
+  {
+   "doi": "10.1186/s13705-025-00542-y",
+   "title": "Uncovering South Sudan's renewable energy potential: a comprehensive evaluation of favourable locations and variability",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 368
+  },
+  {
+   "doi": "10.1186/s13705-025-00536-w",
+   "title": "The sustainable energy development dilemma in European countries: a time-series cluster analysis",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "6 July 2025",
+   "days": 304
+  },
+  {
+   "doi": "10.1186/s13705-024-00505-9",
+   "title": "Development of a GIS-based register of biogas plant sites in Lower Saxony, Germany: a foundation for identifying P2G potential",
+   "received": "5 April 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s13705-025-00537-9",
+   "title": "Emergence and prospects of digital mediation in energy communities: ecosystem actors\u2019 perspective",
+   "received": "8 July 2024",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 374
+  },
+  {
+   "doi": "10.1186/s13705-025-00548-6",
+   "title": "Analysis of the development of tidal energy and its implementation",
+   "received": "19 January 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 267
+  },
+  {
+   "doi": "10.1186/s13705-024-00506-8",
+   "title": "Operationalising user behaviour: a study on the life cycle assessment of smart home technologies",
+   "received": "28 March 2024",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 273
+  },
+  {
+   "doi": "10.1186/s13705-025-00549-5",
+   "title": "Assessment of the decarbonization efficiency in the European Union: machine learning approach",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "28 October 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s13705-025-00512-4",
+   "title": "Mapping the suitability of North Africa for green hydrogen production: an application of a multi-criteria spatial decision support system combining GI",
+   "received": "1 December 2023",
+   "revised": null,
+   "accepted": "11 January 2025",
+   "days": 407
+  },
+  {
+   "doi": "10.1186/s13705-025-00529-9",
+   "title": "The eye of every storm: policy entrepreneurs to strengthen the role of energy efficiency in EU climate policy",
+   "received": "15 May 2024",
+   "revised": null,
+   "accepted": "15 June 2025",
+   "days": 396
+  },
+  {
+   "doi": "10.1186/s13705-025-00551-x",
+   "title": "Sustainable and secure energy development of the European Union: artificial intelligence-based approach for policymaking",
+   "received": "7 December 2024",
+   "revised": null,
+   "accepted": "4 November 2025",
+   "days": 332
+  },
+  {
+   "doi": "10.1186/s13705-025-00521-3",
+   "title": "Not in my backyard? Prospects, problems and perceptions of lithium extraction in Austria",
+   "received": "24 June 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 273
+  },
+  {
+   "doi": "10.1186/s13705-024-00507-7",
+   "title": "Renewable energy consumption, institutional quality and life expectancy in EU countries: a cointegration analysis",
+   "received": "26 September 2023",
+   "revised": null,
+   "accepted": "26 December 2024",
+   "days": 457
+  },
+  {
+   "doi": "10.1186/s13705-025-00526-y",
+   "title": "Navigating the winds of change: presentation of wind power development by regional newspapers in Northern Sweden and Finland",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 238
+  },
+  {
+   "doi": "10.1186/s13705-025-00541-z",
+   "title": "Navigating the future of transport infrastructure and governance",
+   "received": "20 July 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1186/s13705-025-00516-0",
+   "title": "Approaching social acceptance of energy technologies: ten European papers showcasing statistical analyses\u2013a targeted review",
+   "received": "19 April 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 300
+  },
+  {
+   "doi": "10.1186/s13705-024-00499-4",
+   "title": "From consumers to pioneers: insights from thermal energy communities in Denmark, Germany and the Netherlands",
+   "received": "23 February 2024",
+   "revised": null,
+   "accepted": "8 December 2024",
+   "days": 289
+  },
+  {
+   "doi": "10.1186/s13705-024-00501-z",
+   "title": "Games and gamers: the influence of participating players on the process and outcome of regional spatial energy games",
+   "received": "4 July 2023",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 528
+  },
+  {
+   "doi": "10.1186/s13705-025-00533-z",
+   "title": "Listen to the residents! How to develop sustainable and successful urban mobility concepts",
+   "received": "21 April 2024",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 429
+  },
+  {
+   "doi": "10.1186/s13705-025-00544-w",
+   "title": "Fostering personal engagement with energy transition pathways through empathic-collaborative communication",
+   "received": "25 January 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 226
+  },
+  {
+   "doi": "10.1186/s13705-025-00519-x",
+   "title": "Harnessing energy abundance: sustainable expansion of solar parks in Lower Saxony through harmonized spatial planning",
+   "received": "20 July 2023",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 608
+  },
+  {
+   "doi": "10.1186/s13705-024-00498-5",
+   "title": "From fossil fuels to alternative fuels: strategy development for a sustainable transport sector in Germany",
+   "received": "17 January 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 314
+  },
+  {
+   "doi": "10.1186/s13705-025-00523-1",
+   "title": "Examining spatial variations in the relationship between domestic energy consumption and its driving factors using multiscale geographically weighted ",
+   "received": "26 March 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 397
+  },
+  {
+   "doi": "10.1186/s13705-025-00518-y",
+   "title": "Public participation GIS scenarios for decision-making on land-use requirements for renewable energy systems",
+   "received": "3 January 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 419
+  },
+  {
+   "doi": "10.1186/s13705-025-00522-2",
+   "title": "Reshaping roles and value logics among distributed system operators for future electricity systems",
+   "received": "19 December 2023",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 468
+  },
+  {
+   "doi": "10.1186/s13705-024-00508-6",
+   "title": "Pathways to specialized renewable energy generation: insights from integer portfolio optimization in a globalized electricity market",
+   "received": "23 October 2023",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 433
+  },
+  {
+   "doi": "10.1186/s13705-024-00495-8",
+   "title": "\u201cJust\u201d energy? An ecofeminist analysis and critique of a predominant conception of energy",
+   "received": "25 August 2023",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 450
+  },
+  {
+   "doi": "10.1186/s13705-025-00531-1",
+   "title": "Factors influencing the transition to renewable energy in small- to mid-sized American communities",
+   "received": "1 August 2024",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 322
+  },
+  {
+   "doi": "10.1186/s13705-024-00504-w",
+   "title": "Evolution of patterns of specific land use by free-field photovoltaic power plants in Europe from 2006 to 2022",
+   "received": "9 September 2023",
+   "revised": null,
+   "accepted": "19 December 2024",
+   "days": 467
+  },
+  {
+   "doi": "10.1186/s13705-025-00547-7",
+   "title": "Solar energy on all suitable roof areas? Homeowners\u2019 acceptance of government subsidies and smart energy services in Germany",
+   "received": "6 May 2024",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 507
+  },
+  {
+   "doi": "10.1186/s13705-025-00535-x",
+   "title": "Assessing the circularity of transportation fuel production systems",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "1 July 2025",
+   "days": 420
+  },
+  {
+   "doi": "10.1186/s13705-024-00496-7",
+   "title": "The role of sense of ownership in rural community mini-grid management: qualitative case study from Tanzania",
+   "received": "7 September 2023",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 441
+  },
+  {
+   "doi": "10.1186/s13705-025-00515-1",
+   "title": "Opening up and closing down citizen participation in the development of a sustainable neighborhood energy system",
+   "received": "14 February 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 365
+  },
+  {
+   "doi": "10.1186/s13705-024-00509-5",
+   "title": "Tradable performance standards for a greener transportation sector: an economists\u2019 appraisal of the German greenhouse gas mitigation quota",
+   "received": "9 November 2023",
+   "revised": null,
+   "accepted": "29 December 2024",
+   "days": 416
+  },
+  {
+   "doi": "10.1186/s13705-025-00539-7",
+   "title": "Home heating cultures in transition: exploring material participation, norms and practices in Swedish households",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 202
+  },
+  {
+   "doi": "10.1186/s13705-025-00534-y",
+   "title": "Towards an integrated positive energy district landscape: technical and financial analysis for a case study in Hoogkerk, Northern Netherlands",
+   "received": "30 January 2024",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 513
+  },
+  {
+   "doi": "10.1186/s13705-024-00492-x",
+   "title": "Value creation of straw-based biogas in China",
+   "received": "27 June 2023",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 500
+  },
+  {
+   "doi": "10.1186/s13705-024-00503-x",
+   "title": "Safe-and-sustainable-by-design redox active molecules for energy storage applications",
+   "received": "6 December 2023",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 377
+  },
+  {
+   "doi": "10.1186/s13705-025-00540-0",
+   "title": "Energy hardship programmes: a systematic cross-country policy analysis of initiatives addressing equity and low-carbon energy services",
+   "received": "25 June 2024",
+   "revised": null,
+   "accepted": "28 August 2025",
+   "days": 429
+  },
+  {
+   "doi": "10.1186/s13705-025-00532-0",
+   "title": "Shifting perspectives: exploring land tenure transformation through six community-based solar energy projects in the global south (Ethiopia, Uganda, K",
+   "received": "31 December 2023",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 536
+  },
+  {
+   "doi": "10.1186/s13705-025-00545-9",
+   "title": "A decision\u2013support flowchart for including parameter uncertainty in prospective life cycle inventory modeling: an application to a PEM fuel cell-based",
+   "received": "31 March 2024",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 526
+  },
+  {
+   "doi": "10.1186/s13705-024-00500-0",
+   "title": "Shifting discussions to the supranational level: a narrative discourse analysis on nuclear energy sustainability and the EU Taxonomy",
+   "received": "10 January 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 337
+  },
+  {
+   "doi": "10.1186/s13705-025-00538-8",
+   "title": "The effect of seeing and being seen on household energy efficiency investment: the cases of solar panels and high-efficiency glass",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 21
+  },
+  {
+   "doi": "10.1186/s13705-024-00493-w",
+   "title": "An intervention framework for the adoption of solar home system technology in rural Vhembe district, South Africa",
+   "received": "30 July 2023",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 476
+  },
+  {
+   "doi": "10.1186/s13705-025-00513-3",
+   "title": "No easy way out: towards a framework concept of long-term governance",
+   "received": "6 December 2023",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 406
+  },
+  {
+   "doi": "10.1186/s13705-025-00517-z",
+   "title": "Advanced computing to support urban climate neutrality",
+   "received": "16 November 2023",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 462
+  },
+  {
+   "doi": "10.1186/s13705-025-00550-y",
+   "title": "When promises are not (yet) met: local dysphoria, contestations, and the struggle for survival amidst large-scale solar energy development in Kenya",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "29 October 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1186/s13705-025-00530-2",
+   "title": "Exploring energy resilience: households\u2019 perspectives on a changing power system",
+   "received": "18 August 2023",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 671
+  },
+  {
+   "doi": "10.1186/s13705-025-00527-x",
+   "title": "A systematic review of literature on the decarbonization of the Nigerian power sector",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 14
+  },
+  {
+   "doi": "10.1186/s13705-025-00543-x",
+   "title": "Interconnectedness of economic growth and environmental sustainability: challenges and strategies",
+   "received": "25 August 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 8
+  },
+  {
+   "doi": "10.1186/s13705-024-00497-6",
+   "title": "Life cycle environmental impacts and costs of water electrolysis technologies for green hydrogen production in the future",
+   "received": "15 February 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 280
+  },
+  {
+   "doi": "10.1186/s13705-024-00491-y",
+   "title": "Assessment of wind energy potential along the Egyptian Mediterranean Coast",
+   "received": "21 January 2024",
+   "revised": null,
+   "accepted": "4 November 2024",
+   "days": 288
+  },
+  {
+   "doi": "10.1186/s13705-025-00511-5",
+   "title": "Empirical case study of a digitally enabled energy community with prosumers and P2P trading",
+   "received": "29 August 2023",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 498
+  },
+  {
+   "doi": "10.1186/s13705-025-00524-0",
+   "title": "Drivers and constraints in an emerging rural biogas system: actors\u2019 perceptions from Northern Savonia",
+   "received": "5 January 2024",
+   "revised": null,
+   "accepted": "27 April 2025",
+   "days": 478
+  }
+ ]
+}

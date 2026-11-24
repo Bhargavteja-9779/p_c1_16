@@ -1,0 +1,1589 @@
+{
+ "issn": "1742-2094",
+ "journal": "Journal of Neuroinflammation",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:06.315721",
+ "source": "https://api.crossref.org/journals/1742-2094/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12974-025-03600-6",
+   "title": "Cardiac arrest triggers IL-17-mediated neuroinflammation and astrocyte polarization: insights into pathogenesis and intervention",
+   "received": "5 August 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s12974-025-03538-9",
+   "title": "LncBADR promotes T cell-mediated autoimmunity by binding Mccc1 and Pcca to regulate BCAAs degradation",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1186/s12974-025-03375-w",
+   "title": "Antiretroviral drug therapy does not reduce neuroinflammation in an HIV-1 infection brain organoid model",
+   "received": "20 July 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 208
+  },
+  {
+   "doi": "10.1186/s12974-025-03421-7",
+   "title": "Febrile temperature-regulated TRPV1 in CD4+ T cells mediates neuroinflammation in complex febrile seizures",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s12974-025-03620-2",
+   "title": "Urea functions as a risk signal driving astrocyte-mediated neuroinflammation following stroke",
+   "received": "21 June 2025",
+   "revised": null,
+   "accepted": "31 October 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s12974-025-03426-2",
+   "title": "KChIP3 fosters neuroinflammation and synaptic dysfunction in the 5XFAD mouse model of Alzheimer\u2019s disease",
+   "received": "2 October 2024",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 170
+  },
+  {
+   "doi": "10.1186/s12974-025-03460-0",
+   "title": "Spatiotemporal dynamic changes of meningeal microenvironment influence meningeal lymphatic function following subarachnoid hemorrhage: from inflammato",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 37
+  },
+  {
+   "doi": "10.1186/s12974-025-03589-y",
+   "title": "Bone marrow\u2013derived emergency monopoiesis drives brain\u2013lung axis injury after traumatic brain injury via IL-1",
+   "received": "24 May 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 136
+  },
+  {
+   "doi": "10.1186/s12974-025-03557-6",
+   "title": "Interferon-induced GTP-binding protein MX1 drives hyperexcitability in peripheral nerves: a novel mechanism in small fiber neuropathy",
+   "received": "17 May 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1186/s12974-025-03378-7",
+   "title": "Development of cerebral microhemorrhages in a mouse model of hypertension",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 115
+  },
+  {
+   "doi": "10.1186/s12974-025-03360-3",
+   "title": "Innate immune sensors and regulators at the blood brain barrier: focus on toll-like receptors and inflammasomes as mediators of neuro-immune crosstalk",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s12974-025-03577-2",
+   "title": "The Parkinson\u2019s disease-associated LRRK2-G2019S variant restricts serine metabolism, leading to microglial inflammation and dopaminergic neuron degene",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 270
+  },
+  {
+   "doi": "10.1186/s12974-025-03524-1",
+   "title": "Genetic polymorphisms in human CX3CR1-mediated macrophage dysregulation are associated with the worsening of hearing loss and cochlear degeneration af",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s12974-025-03389-4",
+   "title": "Prenatal inflammation exacerbates hyperoxia-induced neonatal brain injury",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s12974-025-03542-z",
+   "title": "Knockout of P2Y12 receptor facilitates neuronal envelopment by reactive microglia and accelerates prion disease",
+   "received": "15 June 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s12974-025-03355-0",
+   "title": "Associations between inflammation and striatal dopamine D2-receptor availability in aging",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s12974-025-03338-1",
+   "title": "Cross-species comparisons between pigs and mice reveal conserved sex-specific intraspinal inflammatory responses after spinal cord injury",
+   "received": "17 April 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 265
+  },
+  {
+   "doi": "10.1186/s12974-025-03343-4",
+   "title": "Characteristics of TSPO expression in marmoset EAE",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12974-025-03425-3",
+   "title": "Senescent cell reduction does not improve recovery in mice under experimental autoimmune encephalomyelitis (EAE) induced demyelination",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "21 March 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s12974-025-03440-4",
+   "title": "Immunity in neuromodulation: probing neural and immune pathways in brain disorders",
+   "received": "20 February 2025",
+   "revised": null,
+   "accepted": "8 April 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s12974-025-03428-0",
+   "title": "Microglia efferocytosis: an emerging mechanism for the resolution of neuroinflammation in Alzheimer\u2019s disease",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s12974-025-03408-4",
+   "title": "Role of FPR2 antagonism in alleviating social isolation-induced depression and protecting blood-brain barrier integrity",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12974-025-03368-9",
+   "title": "Astroglial modulation of synaptic function in the non-demyelinated cerebellar cortex is dependent on MyD88 signaling in a model of toxic demyelination",
+   "received": "17 May 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1186/s12974-025-03584-3",
+   "title": "Assessment of intestinal barrier integrity and associations with innate immune activation and metabolic syndrome in acutely ill, antipsychotic-free sc",
+   "received": "10 August 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s12974-025-03528-x",
+   "title": "Circulatory extracellular vesicles transport complement C1q for promoting neuronal amyloid-\u03b2 production in Alzheimer\u2019s disease",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "26 July 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12974-025-03468-6",
+   "title": "NLRP3 activation induces BBB disruption and neutrophil infiltration via CXCR2 signaling in the mouse brain",
+   "received": "9 February 2025",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s12974-025-03451-1",
+   "title": "Diffuse traumatic brain injury induced stimulator of interferons (STING) signaling in microglia drives cortical neuroinflammation, neuronal dysfunctio",
+   "received": "4 February 2025",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12974-025-03527-y",
+   "title": "Neuro-immune regulation of sepsis-associated delirium via the PBN-CeA-spleen axis",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "24 July 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s12974-025-03465-9",
+   "title": "Semaglultide targets Spp1+ microglia/macrophage to attenuate neuroinflammation following perioperative stroke",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s12974-025-03399-2",
+   "title": "H3K18 lactylation-mediated nucleotide-binding oligomerization domain-2 (NOD2) expression promotes bilirubin-induced pyroptosis of astrocytes",
+   "received": "14 August 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 194
+  },
+  {
+   "doi": "10.1186/s12974-025-03561-w",
+   "title": "NLRP3 inflammasome and hearing loss: from mechanisms to therapies",
+   "received": "10 July 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s12974-025-03522-3",
+   "title": "The Resistin/TLR4/miR-155-5p axis: a novel signaling pathway in the onset of hypothalamic neuroinflammation",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12974-025-03423-5",
+   "title": "Targeting SARM1 as a novel neuroprotective therapy in neurotropic viral infections",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "18 March 2025",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12974-025-03365-y",
+   "title": "Inhibition of IL-6 trans-signaling promotes post-stroke functional recovery in a sex and dose-dependent manner",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s12974-025-03595-0",
+   "title": "STING activates ZBP1-mediated PANoptosis to defend against HSV-1 retinal infection",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12974-025-03479-3",
+   "title": "Circulating T cell atlas in Moyamoya disease: insights into immunopathogenesis of cerebrovascular disorders",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "1 June 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s12974-025-03533-0",
+   "title": "Salt-sensitive hypertension promotes neuronal mitochondrial stress and neurodegenerative alterations via neuro-vascular metabolic reprogramming and lo",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s12974-025-03455-x",
+   "title": "Repurposing of epalrestat for neuroprotection in parkinson\u2019s disease via activation of the KEAP1/Nrf2 pathway",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12974-025-03575-4",
+   "title": "Microglia from patients with multiple sclerosis display a cell-autonomous immune activation state",
+   "received": "16 April 2025",
+   "revised": null,
+   "accepted": "28 September 2025",
+   "days": 165
+  },
+  {
+   "doi": "10.1186/s12974-025-03473-9",
+   "title": "Astrocyte-derived extracellular vesicular NFIA mediates obesity-associated cognitive impairment",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s12974-025-03534-z",
+   "title": "Microglia/macrophage-specific deletion of TLR-4 protects against neural effects of diet-induced obesity in a sexually dimorphic manner",
+   "received": "22 August 2024",
+   "revised": null,
+   "accepted": "5 August 2025",
+   "days": 348
+  },
+  {
+   "doi": "10.1186/s12974-024-03290-6",
+   "title": "Glyphosate exposure exacerbates neuroinflammation and Alzheimer\u2019s disease-like pathology despite a 6-month recovery period in mice",
+   "received": "30 August 2024",
+   "revised": null,
+   "accepted": "7 November 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12974-025-03592-3",
+   "title": "Fumarate-based drugs protect against neuroinflammation via upregulation of anti-ferroptotic pathways",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s12974-025-03567-4",
+   "title": "Exosomal pHERV-W ENV as a dynamic biomarker for relapse prediction and prognosis in multiple sclerosis",
+   "received": "7 August 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s12974-025-03405-7",
+   "title": "Unlocking the therapeutic potential of tumor-derived EVs in ischemia-reperfusion: a breakthrough perspective from glioma and stroke",
+   "received": "12 January 2025",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 51
+  },
+  {
+   "doi": "10.1186/s12974-025-03476-6",
+   "title": "From gut inflammation to psychiatric comorbidity: mechanisms and therapies for anxiety and depression in inflammatory bowel disease",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "24 May 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s12974-024-03292-4",
+   "title": "TRPM7 contributes to pyroptosis and its involvement in status epilepticus",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12974-025-03407-5",
+   "title": "Target inhibition of SPAK in choroid plexus attenuates T cell infiltration and demyelination in experimental autoimmune encephalomyelitis",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12974-025-03499-z",
+   "title": "Factor-H-related protein 1 (FHR1), a promotor of para-inflammation in age-related macular degeneration",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s12974-025-03532-1",
+   "title": "Disrupted betaine metabolism drives Th17 cell differentiation, mediating methamphetamine-induced depressive behaviors in male mice",
+   "received": "24 May 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s12974-025-03586-1",
+   "title": "SARS-CoV-2 spike triggers TLR7-dependent endolysosome dysfunction and senescence in human astrocytes",
+   "received": "2 September 2025",
+   "revised": null,
+   "accepted": "3 October 2025",
+   "days": 31
+  },
+  {
+   "doi": "10.1186/s12974-025-03416-4",
+   "title": "Early control of cochlear viral load limits cochlear inflammation and prevents virus-induced sensorineural hearing loss",
+   "received": "2 December 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1186/s12974-025-03519-y",
+   "title": "Longitudinal accumulation of glial activation measured by TSPO-PET predicts later brain atrophy in multiple sclerosis",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1186/s12974-025-03475-7",
+   "title": "Chemokine\u2013complement cascade in glial\u2013vascular units protects neurons from non-biogenic nanoparticles",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 28
+  },
+  {
+   "doi": "10.1186/s12974-025-03396-5",
+   "title": "Protective role of mitophagy on microglia-mediated neuroinflammatory injury through mtDNA-STING signaling in manganese-induced parkinsonism",
+   "received": "5 December 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12974-025-03348-z",
+   "title": "TDP43 augments astrocyte inflammatory activity through mtDNA-cGAS-STING axis in NMOSD",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s12974-025-03518-z",
+   "title": "Comprehensive insight on immune landscape in intracerebral hemorrhage patients with single-cell RNA sequencing: from blood to hematoma",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s12974-025-03361-2",
+   "title": "CD22 modulation alleviates amyloid \u03b2-induced neuroinflammation",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12974-025-03345-2",
+   "title": "Human breast milk-derived exosomes attenuate lipopolysaccharide-induced activation in microglia",
+   "received": "29 July 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12974-025-03409-3",
+   "title": "IFN-\u03b3 signaling links ventriculomegaly to choroid plexus and ependyma dysfunction following maternal immune activation",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s12974-025-03509-0",
+   "title": "The role of maternal infections in neurodevelopmental psychiatric disorders: focus on the P2X7/NLRP3/IL-1\u03b2 signalling pathway",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12974-024-03312-3",
+   "title": "The immunological perspective of major depressive disorder: unveiling the interactions between central and peripheral immune mechanisms",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12974-025-03551-y",
+   "title": "IL-1\u03b2+ tumor-associated macrophages accelerate glioblastoma progression by amplifying the PGE2-EP4 signaling",
+   "received": "15 February 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 199
+  },
+  {
+   "doi": "10.1186/s12974-025-03336-3",
+   "title": "The interaction of tPA with NMDAR1 drives neuroinflammation and neurodegeneration in \u03b1-synuclein-mediated neurotoxicity",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s12974-024-03302-5",
+   "title": "Synergistic effects of repeated transcranial magnetic stimulation and mesenchymal stem cells transplantation on alleviating neuroinflammation and PANo",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "17 November 2024",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s12974-025-03415-5",
+   "title": "Asrij/OCIAD1 depletion reduces inflammatory microglial activation and ameliorates A\u03b2 pathology in an Alzheimer\u2019s disease mouse model",
+   "received": "19 January 2025",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1186/s12974-025-03444-0",
+   "title": "Single-cell sequencing reveals intracranial microvasculature-derived CXCL12 promotes CD8+ T-cell infiltration and blood\u2013brain barrier dysfunction afte",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s12974-025-03430-6",
+   "title": "Single cell RNA sequencing after moderate traumatic brain injury: effects of therapeutic hypothermia",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1186/s12974-025-03374-x",
+   "title": "PARP9 exacerbates apoptosis and neuroinflammation via the PI3K pathway in the thalamus and hippocampus and cognitive decline after cortical infarction",
+   "received": "14 December 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12974-025-03453-z",
+   "title": "Ubiquitination-mediated upregulation of glycolytic enzyme MCT4 in promoting astrocyte reactivity during neuroinflammation",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "22 April 2025",
+   "days": 32
+  },
+  {
+   "doi": "10.1186/s12974-025-03397-4",
+   "title": "Beyond the itch: the complex interplay of immune, neurological, and psychological factors in chronic urticaria",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12974-025-03470-y",
+   "title": "Inflammation-induced lysosomal dysfunction in human iPSC-derived microglia is exacerbated by APOE 4/4 genotype",
+   "received": "17 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s12974-025-03505-4",
+   "title": "Gut microbiota-derived indoleacetic acid attenuates neuroinflammation and neurodegeneration in glaucoma through ahr/rage pathway",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s12974-025-03402-w",
+   "title": "T cell receptor activation contributes to brain damage after intracerebral hemorrhage in mice",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s12974-025-03477-5",
+   "title": "The dynamics of brain T cell populations during the course of rasmussen encephalitis: from expansion to exhaustion",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "27 May 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12974-025-03404-8",
+   "title": "Sex chromosomes and gonads modify microglial-mediated pathology in a mouse model of Alzheimer\u2019s disease",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12974-024-03308-z",
+   "title": "Ketogenic diet modulates immune cell transcriptional landscape and ameliorates experimental autoimmune uveitis in mice",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s12974-025-03564-7",
+   "title": "Dual inhibition of IRAK1/TAK1 signaling in astrocytes reduces accelerated mortality in human APOE4 knock-in APPswe/PSEN1dE9/P301S-Tau triple transgeni",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "18 September 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s12974-025-03335-4",
+   "title": "Therapeutic potential of targeting the IRF2/POSTN/Notch1 axis in nucleus pulposus cells for intervertebral disc degeneration",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12974-025-03410-w",
+   "title": "Lysosomal acidification impairment in astrocyte-mediated neuroinflammation",
+   "received": "2 May 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 307
+  },
+  {
+   "doi": "10.1186/s12974-025-03555-8",
+   "title": "Transcriptomic profiling of thrombus-derived extracellular vesicles reveals PECAM-1 as a potential inflammatory marker for cardioembolic stroke patien",
+   "received": "12 May 2025",
+   "revised": null,
+   "accepted": "3 September 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s12974-025-03382-x",
+   "title": "THBS1 in macrophage-derived exosomes exacerbates cerebral ischemia\u2013reperfusion injury by inducing ferroptosis in endothelial cells",
+   "received": "31 October 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 109
+  },
+  {
+   "doi": "10.1186/s12974-025-03414-6",
+   "title": "SIRP\u03b1 modulates microglial efferocytosis and neuroinflammation following experimental subarachnoid hemorrhage via the SHP1/STAT6 axis",
+   "received": "4 December 2024",
+   "revised": null,
+   "accepted": "10 March 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12974-025-03507-2",
+   "title": "Pharmacological inhibition of the cGAS-STING pathway suppresses microglia pyroptosis in sepsis-associated encephalopathy",
+   "received": "22 May 2025",
+   "revised": null,
+   "accepted": "2 July 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s12974-025-03556-7",
+   "title": "Modular inflammation network discovery from large-scale phenotypic screening in genetically heterogeneous mouse brains",
+   "received": "22 June 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s12974-025-03587-0",
+   "title": "Remote ischemic postconditioning improves cognitive dysfunction after subarachnoid hemorrhage by driving metabolic reprogramming of border-associated ",
+   "received": "4 August 2025",
+   "revised": null,
+   "accepted": "6 October 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1186/s12974-025-03486-4",
+   "title": "Hypothalamic kisspeptin alleviates myasthenia gravis by regulating Th1/Th17/Treg balance through Inhibition of NF-\u03baB signaling pathway",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "9 June 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s12974-025-03449-9",
+   "title": "Brd4 expression in CD4 T cells and in microglia promotes neuroinflammation in experimental autoimmune encephalomyelitis",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "17 April 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s12974-025-03411-9",
+   "title": "Centripetal migration and prolonged retention of microglia promotes spinal cord injury repair",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s12974-025-03462-y",
+   "title": "Microglial dynamics and neuroinflammation in prodromal and early Parkinson\u2019s disease",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s12974-025-03346-1",
+   "title": "Rescue of in vitro models of CSF1R-related adult-onset leukodystrophy by iluzanebart: mechanisms and therapeutic implications of TREM2 agonism",
+   "received": "30 September 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s12974-025-03526-z",
+   "title": "Cystatin F-a key player in central nervous system disease",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s12974-025-03369-8",
+   "title": "Growth differentiation factor 15 aggravates sepsis-induced cognitive and memory impairments by promoting microglial inflammatory responses and phagocy",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "5 February 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12974-025-03469-5",
+   "title": "Endothelial TREM-1 mediates sepsis-induced blood\u2012brain barrier disruption and cognitive impairment via the PI3K/Akt pathway",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12974-025-03434-2",
+   "title": "Gut microbiota and their influence in brain cancer milieu",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s12974-025-03594-1",
+   "title": "Transcriptional and neuroprotective effects of hexokinase-2 inhibitors administered after stroke",
+   "received": "16 April 2025",
+   "revised": null,
+   "accepted": "9 October 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s12974-025-03597-y",
+   "title": "Loss of C9orf72 impacts the peripheral neuromuscular system via immune dysregulation and accelerates the progression of amyotrophic lateral sclerosis ",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "13 October 2025",
+   "days": 157
+  },
+  {
+   "doi": "10.1186/s12974-025-03512-5",
+   "title": "Inhibition of microglia priming by NLRP3 reduces the impact of early life stress and mild TBI",
+   "received": "1 May 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s12974-025-03433-3",
+   "title": "A 3D human iPSC-derived multi-cell type neurosphere system to model cellular responses to chronic amyloidosis",
+   "received": "18 January 2025",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s12974-024-03294-2",
+   "title": "Dorsoventral photobiomodulation therapy safely reduces inflammation and sensorimotor deficits in a mouse model of multiple sclerosis",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s12974-025-03390-x",
+   "title": "Extracellular mitochondria contribute to acute lung injury via disrupting macrophages after traumatic brain injury",
+   "received": "20 October 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s12974-025-03579-0",
+   "title": "The gut microbiota limits systemic inflammation during neurotrophic viral CNS infection by priming tonic type I interferon signaling",
+   "received": "21 August 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 40
+  },
+  {
+   "doi": "10.1186/s12974-025-03417-3",
+   "title": "Akkermansia mono-colonization modulates microglia and astrocytes in a strain specific manner",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 246
+  },
+  {
+   "doi": "10.1186/s12974-025-03498-0",
+   "title": "Genetically-engineered Salmonella typhimurium expressing FGF21 promotes neurological recovery in ischemic stroke via FGFR1/AMPK/mTOR pathway",
+   "received": "14 January 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 160
+  },
+  {
+   "doi": "10.1186/s12974-025-03540-1",
+   "title": "Eosinophil recruitment and activation in the central nervous system of patients with subarachnoid neurocysticercosis",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s12974-025-03549-6",
+   "title": "Sex-associated and disease state-dependent monocyte polarization and CNS-trafficking phenotypes in pediatric acute-onset neuropsychiatric syndrome (PA",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "1 September 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1186/s12974-025-03351-4",
+   "title": "Astrocytic heterogeneous nuclear ribonucleoprotein U is involved in scar formation after spinal cord injury",
+   "received": "23 August 2024",
+   "revised": null,
+   "accepted": "20 January 2025",
+   "days": 150
+  },
+  {
+   "doi": "10.1186/s12974-025-03356-z",
+   "title": "Inhibition of tumour necrosis factor alpha by Etanercept attenuates Shiga toxin-induced brain pathology",
+   "received": "11 October 2024",
+   "revised": null,
+   "accepted": "23 January 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12974-025-03545-w",
+   "title": "Cerebrospinal fluid neuronal pentraxin levels are associated with tau pathology via microglia\u2013astrocyte signaling in alzheimer\u2019s disease",
+   "received": "11 May 2025",
+   "revised": null,
+   "accepted": "21 August 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s12974-025-03344-3",
+   "title": "Fidgetin-like 2 knockdown increases acute neuroinflammation and improves recovery in a rat model of spinal cord injury",
+   "received": "7 August 2024",
+   "revised": null,
+   "accepted": "10 January 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s12974-025-03339-0",
+   "title": "NLRX1 limits inflammatory neurodegeneration in the anterior visual pathway",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12974-024-03303-4",
+   "title": "Lactate metabolism and histone lactylation in the central nervous system disorders: impacts and molecular mechanisms",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s12974-025-03395-6",
+   "title": "Inhibition of neutrophil extracellular traps alleviates blood\u2013brain barrier disruption and cognitive dysfunction via Wnt3/\u03b2-catenin/TCF4 signaling in ",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "23 February 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s12974-025-03456-w",
+   "title": "Nanozymes in neuropathic pain: strategies bridging oxidative stress, mitochondrial repair, and neuroimmune modulation for targeted therapy",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "24 April 2025",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s12974-025-03501-8",
+   "title": "Ethanol consumption aggravates amyloid pathology and neuroinflammation in Alzheimer\u2019s disease associated with inflammasome activation and ASC speck pr",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s12974-024-03325-y",
+   "title": "Chemerin-9 is neuroprotective in APP/PS1 transgenic mice by inhibiting NLRP3 inflammasome and promoting microglial clearance of A\u03b2",
+   "received": "13 October 2023",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 430
+  },
+  {
+   "doi": "10.1186/s12974-025-03550-z",
+   "title": "Myeloid ZNRF1 suppresses autoimmune demyelination and neuroinflammation by regulating MHC-II-mediated T cell activation",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s12974-025-03581-6",
+   "title": "Desloratadine as the selective 5HT2AR antagonist suppresses neutrophil extracellular traps formation to ameliorate diabetic peripheral neuropathy path",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s12974-024-03321-2",
+   "title": "Tension at the gate: sensing mechanical forces at the blood\u2013brain barrier in health and disease",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "7 December 2024",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s12974-025-03568-3",
+   "title": "Age-related inflammatory changes and perineuronal net dynamics: implications for aging",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12974-025-03541-0",
+   "title": "Targeted lipid nanoparticles containing IL-10 mRNA improve outcomes in experimental intracerebral hemorrhage",
+   "received": "14 August 2025",
+   "revised": null,
+   "accepted": "15 August 2025",
+   "days": 1
+  },
+  {
+   "doi": "10.1186/s12974-025-03349-y",
+   "title": "APOE\u03b54 alters ApoE and Fabp7 in frontal cortex white matter in prodromal Alzheimer's disease",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12974-024-03331-0",
+   "title": "Therapeutic reduction of neurocan in murine intracerebral hemorrhage lesions promotes oligodendrogenesis and functional recovery",
+   "received": "17 September 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s12974-025-03516-1",
+   "title": "Transcriptomic profile of microglia following inflammation-sensitized hypoxic-ischemic brain injury in neonatal rats suggests strong contribution to n",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s12974-025-03502-7",
+   "title": "LAG3 limits regulatory T cell proliferation in \u03b1-synuclein gut-to-brain transmission model",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s12974-025-03497-1",
+   "title": "MAVS signaling of long-lived brain-resident myeloid cells is needed during viral encephalitis to adjust the transcriptome of CNS\u00a0infiltrating CD8+ T c",
+   "received": "7 May 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s12974-025-03392-9",
+   "title": "Chronic intermittent hypoxia disrupts protective microgliosis in ischemic proliferative retinopathy",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s12974-025-03495-3",
+   "title": "N-Lactoyl-Phenylalanine modulates lipid metabolism in microglia/macrophage via the AMPK-PGC1\u03b1-PPAR\u03b3 pathway to promote recovery in mice with spinal co",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "20 June 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12974-024-03293-3",
+   "title": "Autoantibody profiles in Alzheimer\u00b4s, Parkinson\u00b4s, and dementia with Lewy bodies: altered IgG affinity and IgG/IgM/IgA responses to alpha-synuclein, a",
+   "received": "18 September 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s12974-025-03492-6",
+   "title": "IFP35, a novel DAMP, aggravates neuroinflammation following acute ischemic stroke via TLR4/NF-\u03baB/NLRP3 signaling",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "18 June 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s12974-025-03496-2",
+   "title": "CXCR4 and CXCR6 dually limit T cell entry into the polyomavirus-infected brain",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "23 June 2025",
+   "days": 34
+  },
+  {
+   "doi": "10.1186/s12974-025-03424-4",
+   "title": "MOG35\u2009\u2212\u200955-induced EAE model of optic nerve inflammation compared to MS, MOGAD and NMOSD related subtypes of human optic neuritis",
+   "received": "18 December 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12974-025-03439-x",
+   "title": "Nitrate ameliorates alcohol-induced cognitive impairment via oral microbiota",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "6 April 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s12974-025-03474-8",
+   "title": "Aging-dependent change in Th17 and cytokine response in multiple sclerosis",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 259
+  },
+  {
+   "doi": "10.1186/s12974-025-03370-1",
+   "title": "Microglial progranulin differently regulates hypothalamic lysosomal function in lean and obese conditions via cleavage-dependent mechanisms",
+   "received": "11 November 2024",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s12974-025-03558-5",
+   "title": "Soluble CSF1R promotes microglial activation and amyloid clearance in alzheimer\u2019s disease",
+   "received": "23 June 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12974-024-03311-4",
+   "title": "Impact of perinatal factors on T cells and transcriptomic changes in preterm infant brain injury",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "22 November 2024",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12974-025-03482-8",
+   "title": "Targeting glial fibrillary acidic protein in glaucoma: a monoclonal antibody approach to modulate glial reactivity and neuroinflammation for neuroprot",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s12974-024-03304-3",
+   "title": "Imaging the eye as a window to brain health: frontier approaches and future directions",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "18 November 2024",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s12974-025-03381-y",
+   "title": "Bystander neuronal progenitors in forebrain organoids promote protective antiviral responses",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "15 February 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1186/s12974-025-03377-8",
+   "title": "Myelin-reactive CD8+ T cells influence conventional dendritic cell subsets towards a mature and regulatory phenotype in experimental autoimmune enceph",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 37
+  },
+  {
+   "doi": "10.1186/s12974-025-03517-0",
+   "title": "Activated TBK1 promotes ACSL1-mediated microglia lipid droplet accumulation and neuroinflammation in Parkinson\u2019s disease",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "13 July 2025",
+   "days": 262
+  },
+  {
+   "doi": "10.1186/s12974-025-03431-5",
+   "title": "Fucoidan reduces NET accumulation and alleviates chemotherapy-induced peripheral neuropathy via the gut\u2013blood\u2013DRG axis",
+   "received": "23 October 2024",
+   "revised": null,
+   "accepted": "26 March 2025",
+   "days": 154
+  },
+  {
+   "doi": "10.1186/s12974-025-03582-5",
+   "title": "Targeting hypercoagulability in ischemic stroke modulates fibrin-driven microglial polarization via JAK-STAT pathway",
+   "received": "31 May 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 123
+  },
+  {
+   "doi": "10.1186/s12974-025-03539-8",
+   "title": "Inhibition of Ephrin receptor signaling in the paraventricular nucleus attenuates psoriasis-like dermatitis via synaptic plasticity and immune homeost",
+   "received": "16 July 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 27
+  },
+  {
+   "doi": "10.1186/s12974-025-03459-7",
+   "title": "Diverse cell types establish a pathogenic immune environment in peripheral neuropathy",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "1 May 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s12974-025-03478-4",
+   "title": "Changes in metabolite profiles in the cerebrospinal fluid and in human neuronal cells upon tick-borne encephalitis virus infection",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s12974-025-03580-7",
+   "title": "Pediococcus acidilactici attenuates chronic stress-induced depression via generating metabolite indole-3-lactic acid and downregulating neuroinflammat",
+   "received": "26 August 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 35
+  },
+  {
+   "doi": "10.1186/s12974-025-03384-9",
+   "title": "Active Cryptococcus neoformans glucuronoxylomannan production prevents elimination of cryptococcal CNS infection in vivo",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s12974-025-03513-4",
+   "title": "CRTH2 is critical for IL-1\u03b2-producing B cells during experimental autoimmune encephalomyelitis in mice via p38 signaling",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s12974-025-03362-1",
+   "title": "Microglial C/EBP\u03b2-Fcgr1 regulatory axis blocking inhibits microglial pyroptosis and improves neurological recovery",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s12974-025-03340-7",
+   "title": "Extracellular cold-inducible RNA-binding protein in CNS injury: molecular insights and therapeutic approaches",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "7 January 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s12974-025-03571-8",
+   "title": "Diabetes exacerbates myasthenia gravis by enhancing pathological thymic output via the GPR183-7\u03b1,25-OHC axis",
+   "received": "13 August 2025",
+   "revised": null,
+   "accepted": "24 September 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s12974-025-03350-5",
+   "title": "Exploratory analysis of a Novel RACK1 mutation and its potential role in epileptic seizures via Microglia activation",
+   "received": "18 July 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 181
+  },
+  {
+   "doi": "10.1186/s12974-024-03306-1",
+   "title": "Impact of noradrenergic inhibition on neuroinflammation and pathophysiology in mouse models of Alzheimer\u2019s disease",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 26
+  },
+  {
+   "doi": "10.1186/s12974-025-03463-x",
+   "title": "RiboTag-based RNA profiling uncovers oligodendroglial lineage-specific inflammation in autoimmune encephalomyelitis: implications for pathogenesis",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "5 May 2025",
+   "days": 126
+  },
+  {
+   "doi": "10.1186/s12974-025-03602-4",
+   "title": "The brain washing system in sepsis-associated encephalopathy",
+   "received": "6 September 2025",
+   "revised": null,
+   "accepted": "17 October 2025",
+   "days": 41
+  },
+  {
+   "doi": "10.1186/s12974-025-03523-2",
+   "title": "Inhibition of astrocyte signaling leads to sex-specific changes in microglia phenotypes in a diet-based model of cerebral small vessel disease",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "20 July 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1186/s12974-025-03441-3",
+   "title": "Phosphatidate phosphatase Lipin1 alters mitochondria-associated endoplasmic reticulum membranes (MAMs) homeostasis: effects which contribute to the de",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "9 April 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s12974-024-03283-5",
+   "title": "Sitagliptin eye drops prevent the impairment of retinal neurovascular unit in the new Trpv2+/\u2212 rat model",
+   "received": "15 July 2024",
+   "revised": null,
+   "accepted": "30 October 2024",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s12974-025-03383-w",
+   "title": "Decoding dengue\u2019s neurological assault: insights from single-cell CNS analysis in an immunocompromised mouse model",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s12974-025-03559-4",
+   "title": "Early immune responses to systemic inflammation in the postnatal mouse brain initiated by migrating macrophages and leptomeningeal fibroblasts",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12974-025-03446-y",
+   "title": "Multi-omic serum analysis reveals ferroptosis pathways and diagnostic molecular signatures associated with Moyamoya diseases",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s12974-025-03341-6",
+   "title": "Sex chromosomes and sex hormones differently shape microglial properties during normal physiological conditions in the adult mouse hippocampus",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "9 January 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s12974-024-03314-1",
+   "title": "Accumulated BCAAs and BCKAs contribute to the HFD-induced deterioration of Alzheimer's disease via a dysfunctional TREM2-related reduction in microgli",
+   "received": "8 August 2024",
+   "revised": null,
+   "accepted": "27 November 2024",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12974-025-03443-1",
+   "title": "Extracellular vesicles as therapeutic modulators of neuroinflammation in Alzheimer\u2019s disease: a focus on signaling mechanisms",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "12 April 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s12974-025-03543-y",
+   "title": "T cell-mediated SIV dissemination into the CNS: a single-cell transcriptomic analysis",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "18 August 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1186/s12974-025-03531-2",
+   "title": "TLR9/NF-\u03baB-mediated dendritic cell activation by neutrophil extracellular traps drives pathogenesis in experimental cerebral malaria",
+   "received": "20 June 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s12974-025-03520-5",
+   "title": "Mitigating organophosphate nerve agent, soman (GD), induced long-term neurotoxicity: Saracatinib, a Src Tyrosine Kinase inhibitor, as a potential coun",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "15 July 2025",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s12974-025-03480-w",
+   "title": "OTUD1 exacerbates sepsis-associated encephalopathy by promoting HK2 mitochondrial release to drive microglia pyroptosis",
+   "received": "19 March 2025",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s12974-025-03598-x",
+   "title": "Imaging brain inflammation and blood brain barrier permeability in neurological and psychiatric diseases: a review",
+   "received": "27 July 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12974-025-03547-8",
+   "title": "Early antiviral treatment following gammaherpesvirus-68 infection of the central nervous system prevents subsequent multiple sclerosis-like disease",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "26 August 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12974-025-03450-2",
+   "title": "An expanded polyglutamine in ATAXIN1 results in a loss-of-function that exacerbates severity of Multiple Sclerosis in an EAE mouse model",
+   "received": "17 December 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 122
+  },
+  {
+   "doi": "10.1186/s12974-025-03508-1",
+   "title": "Sex differences on laser-induced choroidal neovascularization and short-chain fatty acid treatment in a mouse model",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s12974-024-03322-1",
+   "title": "RGS10 attenuates systemic immune dysregulation induced by chronic inflammatory stress",
+   "received": "1 November 2024",
+   "revised": null,
+   "accepted": "10 December 2024",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s12974-025-03387-6",
+   "title": "The protective PLC\u03b32-P522R variant mitigates Alzheimer\u2019s disease-associated pathologies by enhancing beneficial microglial functions",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "19 February 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s12974-025-03373-y",
+   "title": "Cinnamaldehyde and its combination with deferoxamine ameliorate inflammation, ferroptosis and hematoma expansion after intracerebral hemorrhage in mic",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "10 February 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s12974-025-03591-4",
+   "title": "STAT3 S727 phosphorylation drives pathogenic Th17 differentiation and neuroinflammation in autoimmune disease",
+   "received": "3 September 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 35
+  },
+  {
+   "doi": "10.1186/s12974-024-03326-x",
+   "title": "Microglia and Immune cells interactions in multiple sclerosis cognitive impairment: a postmortem study",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s12974-025-03614-0",
+   "title": "The heme-binding protein hemopexin promotes functional recovery and tissue protection after spinal cord injury via sex-specific regulation of inflamma",
+   "received": "31 July 2025",
+   "revised": null,
+   "accepted": "27 October 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s12974-025-03366-x",
+   "title": "Microglia determine an immune-challenged environment and facilitate ibuprofen action in human retinal organoids",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "1 February 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1186/s12974-025-03432-4",
+   "title": "Analysis and interpretation of inflammatory fluid markers in Alzheimer\u2019s disease: a roadmap for standardization",
+   "received": "17 January 2025",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12974-025-03445-z",
+   "title": "Dynamic phosphorylation of Fascin-1 orchestrates microglial phagocytosis and neurological recovery after spinal cord injury",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1186/s12974-025-03466-8",
+   "title": "Caveolin-1 negatively regulates the calcitonin receptor-like receptor and neuroinflammation in a female mouse model of migraine",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "10 May 2025",
+   "days": 203
+  },
+  {
+   "doi": "10.1186/s12974-025-03380-z",
+   "title": "Intravitreal delivery of NMO-IgG causes primary retinal damage in the absence of optic nerve injury",
+   "received": "1 September 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 166
+  },
+  {
+   "doi": "10.1186/s12974-025-03573-6",
+   "title": "Fatty acid-binding protein 4 drives microglia-mediated neuroinflammation through promoting S100A9 expression and lipid droplet accumulation after intr",
+   "received": "9 July 2025",
+   "revised": null,
+   "accepted": "25 September 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1186/s12974-025-03511-6",
+   "title": "Biomarkers of progressive multiple sclerosis decrease following autologous hematopoietic stem cell transplantation",
+   "received": "5 February 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s12974-024-03316-z",
+   "title": "Complement inhibition targets a rich-club within the neuroinflammatory network after stroke to improve radiographic and functional outcomes",
+   "received": "29 September 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 61
+  },
+  {
+   "doi": "10.1186/s12974-025-03604-2",
+   "title": "BM-MSC-derived migrasomes reverse stroke-induced thymic atrophy and immunosuppression via Pin1 delivery to thymic epithelial cells",
+   "received": "21 May 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 152
+  },
+  {
+   "doi": "10.1186/s12974-025-03483-7",
+   "title": "Pro-repair macrophages driven by CGRP rescue white matter integrity following intracerebral hemorrhage",
+   "received": "24 February 2025",
+   "revised": null,
+   "accepted": "7 June 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s12974-025-03515-2",
+   "title": "Short-term stress preconditioning activates sympathetic innervation in the testes to mitigate testicular ischemia-reperfusion injury",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "11 July 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s12974-025-03367-w",
+   "title": "IDO1 modulates pain sensitivity and comorbid anxiety in chronic migraine through microglial activation and synaptic pruning",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "3 February 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s12974-025-03435-1",
+   "title": "A central role for CCR2 in monocyte recruitment and blood\u2013brain barrier disruption during Usutu virus encephalitis",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "1 April 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s12974-025-03418-2",
+   "title": "Moss-derived human complement factor H modulates retinal immune response and attenuates retinal degeneration",
+   "received": "22 April 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 324
+  },
+  {
+   "doi": "10.1186/s12974-025-03391-w",
+   "title": "cGAMP promotes inner blood-retinal barrier breakdown through P2RX7-mediated transportation into microglia",
+   "received": "18 October 2024",
+   "revised": null,
+   "accepted": "20 February 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s12974-025-03371-0",
+   "title": "How the gut microbiota impacts neurodegenerative diseases by modulating CNS immune cells",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "6 February 2025",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s12974-025-03429-z",
+   "title": "Inhibition of EED-mediated histone methylation alleviates neuroinflammation by suppressing WNT-mediated dendritic cell migration",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "25 March 2025",
+   "days": 159
+  }
+ ]
+}

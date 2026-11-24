@@ -1,0 +1,621 @@
+{
+ "issn": "1744-8603",
+ "journal": "Globalization and Health",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:10:08.455228",
+ "source": "https://api.crossref.org/journals/1744-8603/works",
+ "articles": [
+  {
+   "doi": "10.1186/s12992-025-01111-w",
+   "title": "Why do International Health Regulations self-assessment capacities (SPAR) scores not predict COVID-19 control outcomes? \u2013 analysis of the relationship",
+   "received": "2 April 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 359
+  },
+  {
+   "doi": "10.1186/s12992-025-01167-8",
+   "title": "Assessing patterns of authorship of low- and middle-income countries in global commercial clinical trials in oncology",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "14 November 2025",
+   "days": 182
+  },
+  {
+   "doi": "10.1186/s12992-025-01109-4",
+   "title": "Reserve antibiotics: overcoming limitations of evidence generated from regulatory approval trials",
+   "received": "3 October 2024",
+   "revised": null,
+   "accepted": "20 March 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12992-025-01139-y",
+   "title": "Sugar, power and policy: The political economy of a health and economic \u2018win\u2013win\u2019 in Fiji\u2019s sugar-sweetened beverage tax",
+   "received": "16 February 2024",
+   "revised": null,
+   "accepted": "17 July 2025",
+   "days": 517
+  },
+  {
+   "doi": "10.1186/s12992-024-01092-2",
+   "title": "States, global power and access to medicines: a comparative case study of China, India and the United States, 2000\u20132019",
+   "received": "2 November 2023",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 390
+  },
+  {
+   "doi": "10.1186/s12992-024-01090-4",
+   "title": "Predicting the risk of malaria importation into Jiangsu Province, China: a modeling study",
+   "received": "9 July 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 134
+  },
+  {
+   "doi": "10.1186/s12992-025-01135-2",
+   "title": "The impact of artificial intelligence (AI) on maternal mortality: evidence from global, developed and developing countries",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s12992-025-01126-3",
+   "title": "Labelling the debate: a thematic analysis of alcohol industry submissions to the EU consultation on alcohol health warnings in Ireland",
+   "received": "22 February 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1186/s12992-025-01105-8",
+   "title": "Brazil\u2019s experiment to expand its medical workforce through private and public schools: Impacts and consequences of the balance of regulatory and mark",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12992-025-01104-9",
+   "title": "Immigrant workers in the meat industry during COVID-19: comparing governmental protection in Germany, the Netherlands, and the USA",
+   "received": "5 March 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 357
+  },
+  {
+   "doi": "10.1186/s12992-025-01162-z",
+   "title": "The landscape of public-private partnerships in global health governance: introducing a new dataset",
+   "received": "29 May 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 147
+  },
+  {
+   "doi": "10.1186/s12992-025-01156-x",
+   "title": "Assessing \u2018connective tissue\u2019 in public-private partnerships: a stakeholder survey on multisectoral collaboration in global health",
+   "received": "24 January 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s12992-025-01142-3",
+   "title": "Climate change policies fail to protect child health",
+   "received": "15 May 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s12992-025-01122-7",
+   "title": "Internationalisation and moral economies in healthcare: NHS exporting and the English patient",
+   "received": "24 August 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 256
+  },
+  {
+   "doi": "10.1186/s12992-025-01103-w",
+   "title": "The devil\u2019s in the detail: an appraisal of the use of innovative financing mechanisms for pandemic prevention, preparedness and response",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 187
+  },
+  {
+   "doi": "10.1186/s12992-025-01158-9",
+   "title": "Global market trends and financial performance of the corporate fast-food industry and their potential contributions to diets high in meat and ultra-p",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s12992-024-01093-1",
+   "title": "A political economy analysis of the legislative response to unhealthy food and beverage marketing in Chile, Canada and the UK",
+   "received": "18 April 2024",
+   "revised": null,
+   "accepted": "1 December 2024",
+   "days": 227
+  },
+  {
+   "doi": "10.1186/s12992-025-01159-8",
+   "title": "Constructing and contesting industry\u2019s role in multistakeholder governance: a qualitative analysis of responses to WHO consultations",
+   "received": "11 April 2025",
+   "revised": null,
+   "accepted": "18 October 2025",
+   "days": 190
+  },
+  {
+   "doi": "10.1186/s12992-024-01086-0",
+   "title": "\u201cWe have to look deeper into why\u201d: perspectives on problem identification and prioritization of women\u2019s and girls\u2019 health across United Nations agenci",
+   "received": "7 May 2024",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 185
+  },
+  {
+   "doi": "10.1186/s12992-025-01108-5",
+   "title": "Understanding global mobility of dietetic talents: a survey study of overseas-educated dietetic returnees in China",
+   "received": "27 December 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12992-024-01089-x",
+   "title": "China\u2019s position and competitiveness in the global antibiotic value chain: implications for global health",
+   "received": "25 July 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 117
+  },
+  {
+   "doi": "10.1186/s12992-025-01101-y",
+   "title": "Equity of National Essential Public Health Services (NEPHS) in Mainland China, 2019: a cross-sectional study based on the NEPHS database",
+   "received": "16 November 2023",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 455
+  },
+  {
+   "doi": "10.1186/s12992-025-01163-y",
+   "title": "Maternal and neonatal outcomes of second-generation mothers in Europe: a systematic review",
+   "received": "3 September 2025",
+   "revised": null,
+   "accepted": "31 October 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s12992-025-01153-0",
+   "title": "China\u2019s COVID-19 aid in Africa: trends and implications for future pandemic preparedness",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1186/s12992-025-01107-6",
+   "title": "Towards multilingualism in global health",
+   "received": "27 January 2025",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s12992-025-01125-4",
+   "title": "Do alcohol industry-funded organisations act to correct misinformation? A qualitative study of pregnancy and infant health content following independe",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "19 May 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1186/s12992-025-01145-0",
+   "title": "Towards developing new private sector maternity care models in South Africa: results from a deliberative stakeholder dialogue",
+   "received": "25 April 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 111
+  },
+  {
+   "doi": "10.1186/s12992-025-01130-7",
+   "title": "Food additives in Latin America: a descriptive analysis of the packaged food supply in five countries",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "10 June 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s12992-025-01147-y",
+   "title": "Actor-network and stakeholder analysis in preventing health goods smuggling in Iran",
+   "received": "31 May 2025",
+   "revised": null,
+   "accepted": "27 August 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1186/s12992-025-01131-6",
+   "title": "Lived experiences of migrant men witnessing and surviving sexual violence in European transit spaces",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 285
+  },
+  {
+   "doi": "10.1186/s12992-025-01106-7",
+   "title": "\u201cStop, don\u2019t touch, run away!\u201d: reconceptualizing firearm industry-funded youth education programs as corporate political activity",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 156
+  },
+  {
+   "doi": "10.1186/s12992-025-01121-8",
+   "title": "Obesity Kuznets Curve conjecture assessment in African economies: conditioning effects of urbanization, food, and trade using gender-based regional an",
+   "received": "26 July 2024",
+   "revised": null,
+   "accepted": "25 April 2025",
+   "days": 273
+  },
+  {
+   "doi": "10.1186/s12992-025-01141-4",
+   "title": "Pharmaceutical access in Brazil: challenges and opportunities",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 331
+  },
+  {
+   "doi": "10.1186/s12992-025-01099-3",
+   "title": "Normative convergence between global health security and universal health coverage: a qualitative analysis of international health negotiations in the",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "27 January 2025",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s12992-025-01117-4",
+   "title": "Framing alcohol harm in the UN context \u2013 the importance of language",
+   "received": "25 November 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 137
+  },
+  {
+   "doi": "10.1186/s12992-024-01088-y",
+   "title": "Women\u2019s exposure to commercial milk formula marketing: a WHO multi-country market research study",
+   "received": "15 November 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 4
+  },
+  {
+   "doi": "10.1186/s12992-025-01144-1",
+   "title": "In the aftermath of the adoption of the landmark Pandemic Accord: what are the strategic options for its effective implementation in Africa?",
+   "received": "28 June 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s12992-025-01128-1",
+   "title": "Research on artificial intelligence, machine and deep learning in medicine: global characteristics, readiness, and equity",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "22 May 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s12992-025-01097-5",
+   "title": "Alcohol industry involvement in the delayed South Africa Draft Liquor Amendment Bill 2016: a case study based on freedom of information requests",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "16 January 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s12992-025-01133-4",
+   "title": "Strategies for improving migrant health in Iran: a realist review",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s12992-025-01157-w",
+   "title": "The return of Chinese nurses from overseas (2009\u20132023): a mixed-method study on influencing factors",
+   "received": "26 October 2024",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 346
+  },
+  {
+   "doi": "10.1186/s12992-025-01115-6",
+   "title": "Navigating authoritarian politics: towards reflexive framing in healthcare research",
+   "received": "13 May 2024",
+   "revised": null,
+   "accepted": "4 April 2025",
+   "days": 326
+  },
+  {
+   "doi": "10.1186/s12992-025-01152-1",
+   "title": "Women\u2019s views about the use of gendered Corporate Social Responsibility strategies by harmful industries",
+   "received": "10 June 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s12992-025-01134-3",
+   "title": "Beneath the rhetoric of global justice: Reinforcement of global hegemonic governmentality by South Korea\u2019s Global Vaccine Hub Project",
+   "received": "18 February 2025",
+   "revised": null,
+   "accepted": "27 June 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s12992-025-01120-9",
+   "title": "Digital activism in Kenya: moving from the digital center to the digital periphery of Long Covid experience",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 4
+  },
+  {
+   "doi": "10.1186/s12992-025-01102-x",
+   "title": "Safeguarding global health security amidst a scramble for Africa\u2019s minerals for the clean energy transition",
+   "received": "25 August 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 176
+  },
+  {
+   "doi": "10.1186/s12992-025-01143-2",
+   "title": "Universal public health insurance for Afghan refugees in Iran: a contextual analysis",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "4 August 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1186/s12992-025-01161-0",
+   "title": "Gaza\u2019s health emergency: impact of armed conflict and its global health repercussions",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 168
+  },
+  {
+   "doi": "10.1186/s12992-025-01129-0",
+   "title": "Understanding the political economy of reforming global health initiatives \u2013 insights from global and country levels",
+   "received": "21 October 2024",
+   "revised": null,
+   "accepted": "2 June 2025",
+   "days": 224
+  },
+  {
+   "doi": "10.1186/s12992-025-01113-8",
+   "title": "Health expenditure, governance and SDG3 nexus: a longitudinal analysis in BRICS economies",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 146
+  },
+  {
+   "doi": "10.1186/s12992-025-01149-w",
+   "title": "Strengthening hospital infrastructure in a war context: the case of the Mopti regional hospital",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "4 September 2025",
+   "days": 164
+  },
+  {
+   "doi": "10.1186/s12992-025-01146-z",
+   "title": "From knowledge to action: the role of professional health associations on public health well-being in Ukraine",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 112
+  },
+  {
+   "doi": "10.1186/s12992-025-01137-0",
+   "title": "The United States withdrawal from the world health organization (WHO), its implications for global health governance",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12992-025-01127-2",
+   "title": "Generating political priority for breastfeeding and the adoption of Kenya\u2019s 2012 BMS act: the importance of women\u2019s leadership",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "21 May 2025",
+   "days": 253
+  },
+  {
+   "doi": "10.1186/s12992-025-01140-5",
+   "title": "Accountability in global health systems: insights from a network analysis of Purdue Pharmaceuticals",
+   "received": "5 January 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s12992-024-01095-z",
+   "title": "Awareness and knowledge regarding female genital schistosomiasis among European healthcare workers: a cross-sectional online survey",
+   "received": "3 May 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 228
+  },
+  {
+   "doi": "10.1186/s12992-025-01154-z",
+   "title": "Migration dynamics and nutritional outcomes in a lower middle-income country: evidence from Vietnam",
+   "received": "31 May 2025",
+   "revised": null,
+   "accepted": "16 September 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s12992-025-01112-9",
+   "title": "The Gates Foundation\u2019s network diplomacy in European donor countries",
+   "received": "4 November 2024",
+   "revised": null,
+   "accepted": "27 March 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s12992-025-01150-3",
+   "title": "Evaluation of integration in WHO\u2019s tuberculosis, HIV, and antimicrobial resistance policies through the social-ecological lens",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "8 September 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1186/s12992-024-01081-5",
+   "title": "Commentary on \u201cSocial protection and the International Monetary Fund: promise versus performance\u201d by Alexander Kentikelenis and Thomas Stubbs",
+   "received": "16 September 2024",
+   "revised": null,
+   "accepted": "14 October 2024",
+   "days": 28
+  },
+  {
+   "doi": "10.1186/s12992-025-01123-6",
+   "title": "\u201cFavoring those who contributed to their political campaigns\u201d: an analysis of the incentives received by the food industry in Colombia in the period o",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "7 May 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s12992-025-01119-2",
+   "title": "An investigation into telemedicine utilization for refugee mental health: a systematic review",
+   "received": "7 April 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 7
+  },
+  {
+   "doi": "10.1186/s12992-025-01155-y",
+   "title": "From zero-COVID to global alignment: transnational pressures and China\u2019s pandemic communication transformation",
+   "received": "14 July 2025",
+   "revised": null,
+   "accepted": "4 October 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s12992-025-01100-z",
+   "title": "Navigating global health diplomacy: challenges and opportunities in building a community of practice",
+   "received": "21 August 2024",
+   "revised": null,
+   "accepted": "30 January 2025",
+   "days": 162
+  },
+  {
+   "doi": "10.1186/s12992-025-01118-3",
+   "title": "Incremental financial costs of strengthening large-scale child nutrition programs in Bangladesh, Ethiopia, and Vietnam: retrospective expenditure anal",
+   "received": "4 June 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 311
+  },
+  {
+   "doi": "10.1186/s12992-025-01116-5",
+   "title": "Involuntary immobility and well-being: a scoping review of existing literature and future research directions",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s12992-025-01096-6",
+   "title": "Corruption risks in COVID-19 vaccine deployment: lessons learned for future pandemic preparedness",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "14 January 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1186/s12992-025-01098-4",
+   "title": "Cross-border precarity: the complex strain on expatriates and their families amidst public health crisis",
+   "received": "27 October 2024",
+   "revised": null,
+   "accepted": "22 January 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s12992-025-01136-1",
+   "title": "Corporate political activity of the food industry in the development of food policies in Latin America and the Caribbean: a narrative review of the cu",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "14 July 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s12992-025-01110-x",
+   "title": "Safeguarding health in bilateral investment treaties: the Uruguayan experience",
+   "received": "13 November 2024",
+   "revised": null,
+   "accepted": "24 March 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s12992-025-01151-2",
+   "title": "Understanding the marketing of BMS in China through pregnant women and new mothers\u2019 diary",
+   "received": "11 July 2025",
+   "revised": null,
+   "accepted": "11 September 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1186/s12992-024-01091-3",
+   "title": "Stakeholder perceptions on the impact of trade and investment agreements on nutrition policy space in small island developing states",
+   "received": "3 April 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 236
+  },
+  {
+   "doi": "10.1186/s12992-025-01124-5",
+   "title": "Trends and cross-country inequalities of alcohol use disorders: findings from the global burden of disease study 2021",
+   "received": "21 November 2024",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 174
+  },
+  {
+   "doi": "10.1186/s12992-025-01132-5",
+   "title": "Understanding international travelers\u2019 intentions to adopt protective behaviors against malaria during staying abroad: insights from a study of Chines",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s12992-024-01094-0",
+   "title": "An exploratory case study of food sharing practices in Caribbean countries through a transition lens using intergenerational dyad interviews",
+   "received": "29 April 2024",
+   "revised": null,
+   "accepted": "17 December 2024",
+   "days": 232
+  },
+  {
+   "doi": "10.1186/s12992-025-01114-7",
+   "title": "Transition in care interventions for Refugee, Immigrant and other Migrant (RIM) populations: a health equity-oriented scoping review",
+   "received": "3 September 2024",
+   "revised": null,
+   "accepted": "28 March 2025",
+   "days": 206
+  }
+ ]
+}

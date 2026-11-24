@@ -1,0 +1,73 @@
+issn,journal,publisher,window,articles_in_window,n_with_dates,median_days,p25,p75,min,max,share_le_72
+2196-1115,Journal of Big Data,Springer Science and Business Media LLC,2024-11-24..2025-11-24,275,196,201.0,144.25,296.5,64,784,0.015
+2045-2322,Scientific Reports,Springer Science and Business Media LLC,2024-11-24..2025-11-24,45133,187,157,106.0,225.0,23,679,0.091
+1758-2946,Journal of Cheminformatics,Springer Science and Business Media LLC,2024-11-24..2025-11-24,192,184,129.0,98.0,170.75,22,407,0.076
+2193-1127,EPJ Data Science,Springer Science and Business Media LLC,2024-11-24..2025-11-24,88,85,185,137.0,263.5,82,547,0.0
+1472-6947,BMC Medical Informatics and Decision Making,Springer Science and Business Media LLC,2024-11-24..2025-11-24,497,194,206.5,116.0,377.5,10,837,0.057
+2398-6352,npj Digital Medicine,Springer Science and Business Media LLC,2024-11-24..2025-11-24,771,197,146,109.0,227.5,9,536,0.107
+1573-7462,Artificial Intelligence Review,Springer Science and Business Media LLC,2024-11-24..2025-11-24,408,21,281,169.5,346.0,74,383,0.0
+1866-9956,Cognitive Computation,Springer Science and Business Media LLC,2024-11-24..2025-11-24,162,161,230,150.5,336.5,36,1394,0.043
+1573-756X,Data Mining and Knowledge Discovery,Springer Science and Business Media LLC,2024-11-24..2025-11-24,99,96,297.0,174.25,437.5,13,990,0.135
+1573-0565,Machine Learning,Springer Science and Business Media LLC,2024-11-24..2025-11-24,288,197,206,152.5,314.5,19,2166,0.076
+1573-1405,International Journal of Computer Vision,Springer Science and Business Media LLC,2024-11-24..2025-11-24,296,189,280,223.5,370.5,56,1057,0.005
+1572-8145,Journal of Intelligent Manufacturing,Springer Science and Business Media LLC,2024-11-24..2025-11-24,210,198,170.0,127.0,246.25,48,790,0.045
+1435-5663,Engineering with Computers,Springer Science and Business Media LLC,2024-11-24..2025-11-24,144,142,138.0,103.25,208.25,34,494,0.07
+1573-689X,Journal of Medical Systems,Springer Science and Business Media LLC,2024-11-24..2025-11-24,174,173,103,57.0,155.0,7,552,0.301
+1573-773X,Neural Processing Letters,Springer Science and Business Media LLC,2024-11-24..2025-11-24,103,4,260.5,238.75,368.5,232,404,0.0
+1433-7479,Soft Computing,Springer Science and Business Media LLC,2024-11-24..2025-11-24,391,31,357,183.0,550.0,74,1829,0.0
+2364-8228,Applied Network Science,Springer Science and Business Media LLC,2024-11-24..2025-11-24,68,68,149.5,99.25,237.75,40,532,0.132
+1479-5876,Journal of Translational Medicine,Springer Science and Business Media LLC,2024-11-24..2025-11-24,1467,193,87,56.0,122.5,1,340,0.373
+1436-3259,Stochastic Environmental Research and Risk Assessment,Springer Science and Business Media LLC,2024-11-24..2025-11-24,261,37,140,91.5,212.5,47,737,0.135
+1865-0481,Earth Science Informatics,Springer Science and Business Media LLC,2024-11-24..2025-11-24,554,197,107,78.0,144.5,28,404,0.213
+2520-8942,Energy Informatics,Springer Science and Business Media LLC,2024-11-24..2025-11-24,166,163,65,48.0,83.0,26,296,0.626
+1573-7675,Journal of Intelligent Information Systems,Springer Science and Business Media LLC,2024-11-24..2025-11-24,100,98,112.5,90.0,144.25,34,570,0.153
+0219-3116,Knowledge and Information Systems,Springer Science and Business Media LLC,2024-11-24..2025-11-24,327,200,254.0,154.5,408.5,39,919,0.035
+1572-9419,Information Systems Frontiers,Springer Science and Business Media LLC,2024-11-24..2025-11-24,99,20,410.5,288.75,535.5,193,876,0.0
+1572-9338,Annals of Operations Research,Springer Science and Business Media LLC,2024-11-24..2025-11-24,548,185,378,266.5,582.0,56,1225,0.011
+1537-274X,Journal of the American Statistical Association,Informa UK Limited,2024-11-24..2025-11-24,231,197,437,267.5,618.0,3,1230,0.096
+1366-588X,International Journal of Production Research,Informa UK Limited,2024-11-24..2025-11-24,496,195,213,159.0,280.0,45,772,0.021
+1573-1375,Statistics and Computing,Springer Science and Business Media LLC,2024-11-24..2025-11-24,243,199,212,155.0,295.0,7,905,0.02
+2730-664X,Communications Medicine,Springer Science and Business Media LLC,2024-11-24..2025-11-24,557,195,287,227.0,391.0,43,792,0.01
+2731-3395,Communications Engineering,Springer Science and Business Media LLC,2024-11-24..2025-11-24,216,191,212,159.0,319.0,39,870,0.021
+2057-3960,npj Computational Materials,Springer Science and Business Media LLC,2024-11-24..2025-11-24,392,197,147,105.0,194.5,10,572,0.086
+2509-498X,Journal of Healthcare Informatics Research,Springer Science and Business Media LLC,2024-11-24..2025-11-24,44,43,180,128.0,262.0,5,462,0.07
+1471-2105,BMC Bioinformatics,Springer Science and Business Media LLC,2024-11-24..2025-11-24,317,197,142,91.0,214.0,38,1110,0.122
+2196-7091,Smart Learning Environments,Springer Science and Business Media LLC,2024-11-24..2025-11-24,76,74,214.0,118.5,284.0,31,604,0.108
+2365-9440,International Journal of Educational Technology in Higher Education,Springer Science and Business Media LLC,2024-11-24..2025-11-24,76,73,154,96.5,237.5,29,502,0.082
+2662-9992,Humanities and Social Sciences Communications,Springer Science and Business Media LLC,2024-11-24..2025-11-24,2007,193,266,204.0,339.0,90,1041,0.0
+2523-3246,Cybersecurity,Springer Science and Business Media LLC,2024-11-24..2025-11-24,109,108,120.0,83.25,159.5,13,398,0.185
+1687-6180,EURASIP Journal on Advances in Signal Processing,Springer Science and Business Media LLC,2024-11-24..2025-11-24,67,65,154,97.0,242.0,2,428,0.123
+2199-4730,Financial Innovation,Springer Science and Business Media LLC,2024-11-24..2025-11-24,129,124,520.0,409.25,646.0,24,1099,0.008
+2432-2725,Journal of Computational Social Science,Springer Science and Business Media LLC,2024-11-24..2025-11-24,111,110,193.5,142.0,231.5,56,630,0.027
+1869-4101,Insights into Imaging,Springer Science and Business Media LLC,2024-11-24..2025-11-24,281,196,127.5,84.25,183.0,3,539,0.168
+1432-1084,European Radiology,Springer Science and Business Media LLC,2024-11-24..2025-11-24,946,196,115.5,70.0,165.75,1,386,0.265
+1748-717X,Radiation Oncology,Springer Science and Business Media LLC,2024-11-24..2025-11-24,187,182,133.0,84.5,210.25,23,553,0.17
+2367-0983,Protection and Control of Modern Power Systems,Institute of Electrical and Electronics Engineers (IEEE),2024-11-24..2025-11-24,67,0,,,,,,
+2192-0567,"Energy, Sustainability and Society",Springer Science and Business Media LLC,2024-11-24..2025-11-24,60,58,375.5,280.75,458.25,8,671,0.069
+2196-5420,,,2024-11-24..2025-11-24,0,0,,,,,,
+1364-8535,Critical Care,Springer Science and Business Media LLC,2024-11-24..2025-11-24,565,196,57.5,21.25,83.75,1,238,0.679
+2110-5820,Annals of Intensive Care,Elsevier BV,2024-11-24..2025-11-24,193,0,,,,,,
+1475-2840,Cardiovascular Diabetology,Springer Science and Business Media LLC,2024-11-24..2025-11-24,479,188,60.5,46.0,82.0,0,262,0.676
+1756-8722,Journal of Hematology &amp; Oncology,Springer Science and Business Media LLC,2024-11-24..2025-11-24,123,112,80.0,57.0,106.75,4,272,0.393
+1476-4598,Molecular Cancer,Springer Science and Business Media LLC,2024-11-24..2025-11-24,319,181,87,56.0,121.0,17,289,0.409
+1756-9966,Journal of Experimental &amp; Clinical Cancer Research,Springer Science and Business Media LLC,2024-11-24..2025-11-24,341,174,95.0,67.0,118.5,21,254,0.316
+1741-7015,BMC Medicine,Springer Science and Business Media LLC,2024-11-24..2025-11-24,710,198,176.0,142.0,237.0,21,438,0.03
+1758-9193,Alzheimer's Research &amp; Therapy,Springer Science and Business Media LLC,2024-11-24..2025-11-24,277,193,107,81.5,155.5,5,610,0.197
+2050-7771,Biomarker Research,Springer Science and Business Media LLC,2024-11-24..2025-11-24,171,162,89.0,66.0,125.25,6,303,0.346
+2054-9369,Military Medical Research,Elsevier BV,2024-11-24..2025-11-24,74,73,150,113.5,244.5,10,730,0.137
+2052-0492,Journal of Intensive Care,Springer Science and Business Media LLC,2024-11-24..2025-11-24,70,69,69,47.5,90.5,3,154,0.536
+1742-2094,Journal of Neuroinflammation,Springer Science and Business Media LLC,2024-11-24..2025-11-24,307,197,87,62.0,132.0,1,430,0.35
+1744-8603,Globalization and Health,Springer Science and Business Media LLC,2024-11-24..2025-11-24,76,76,144.5,85.25,226.25,4,517,0.158
+2047-2501,Health Information Science and Systems,Springer Science and Business Media LLC,2024-11-24..2025-11-24,83,82,153.0,92.75,261.25,42,478,0.098
+1471-2288,BMC Medical Research Methodology,Springer Science and Business Media LLC,2024-11-24..2025-11-24,300,198,193.0,114.0,359.0,39,698,0.091
+1475-925X,BioMedical Engineering OnLine,Springer Science and Business Media LLC,2024-11-24..2025-11-24,150,147,124,86.0,187.0,8,544,0.177
+1743-0003,Journal of NeuroEngineering and Rehabilitation,Springer Science and Business Media LLC,2024-11-24..2025-11-24,279,196,161.5,113.0,227.0,7,990,0.056
+1478-7954,Population Health Metrics,Springer Science and Business Media LLC,2024-11-24..2025-11-24,75,72,254.0,151.5,424.0,12,2128,0.083
+2193-1801,,,2024-11-24..2025-11-24,0,0,,,,,,
+1687-1499,EURASIP Journal on Wireless Communications and Networking,Springer Science and Business Media LLC,2024-11-24..2025-11-24,103,101,154,106.5,234.5,20,673,0.079
+1029-242X,Journal of Inequalities and Applications,Springer Science and Business Media LLC,2024-11-24..2025-11-24,163,161,151,95.5,228.0,34,909,0.118
+2662-4443,Communications Materials,Springer Science and Business Media LLC,2024-11-24..2025-11-24,292,195,138,106.0,202.0,11,412,0.077
+1559-131X,Medical Oncology,Springer Science and Business Media LLC,2024-11-24..2025-11-24,565,196,74.0,63.0,93.0,12,281,0.469
+2196-0089,,,2024-11-24..2025-11-24,0,0,,,,,,
+2213-7467,Advanced Modeling and Simulation in Engineering Sciences,Springer Science and Business Media LLC,2024-11-24..2025-11-24,40,39,182,114.0,261.0,31,614,0.179
+2045-7022,Clinical and Translational Allergy,Wiley,2024-11-24..2025-11-24,121,0,,,,,,

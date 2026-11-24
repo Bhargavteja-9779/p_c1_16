@@ -1,0 +1,1581 @@
+{
+ "issn": "1559-131X",
+ "journal": "Medical Oncology",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:11:30.215795",
+ "source": "https://api.crossref.org/journals/1559-131X/works",
+ "articles": [
+  {
+   "doi": "10.1007/s12032-025-02841-y",
+   "title": "Pan-cancer analysis of enhancer-induced MIR17HG and validation as a SIRT1-promoting factor in colorectal cancer",
+   "received": "27 August 2024",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 281
+  },
+  {
+   "doi": "10.1007/s12032-025-02834-x",
+   "title": "Revolutionizing early HCC detection: groundbreaking validation of the HCC-check index for small tumors in Egyptian patients using CLIP and BCLC stagin",
+   "received": "29 March 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1007/s12032-024-02568-2",
+   "title": "Co-culture system of breast cancer and normal cells to investigate inflammation: using doxorubicin encapsulated in adipose-derived exosomes",
+   "received": "12 September 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1007/s12032-025-02822-1",
+   "title": "Immune checkpoint inhibitors in cancer therapy: what lies beyond monoclonal antibodies?",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02759-5",
+   "title": "Toward diffusion MRI in the diagnosis and treatment of pancreatic cancer",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1007/s12032-025-03028-1",
+   "title": "Tumor microenvironment response to neoadjuvant therapy in breast cancer: insights from single-cell and spatial omics",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1007/s12032-025-02845-8",
+   "title": "Exosomal long non-coding RNAs in human malignancies: biological functions and clinical applications",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s12032-025-02760-y",
+   "title": "Epigenetic reprogramming and antitumor immune responses in gliomas: a systematic review",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s12032-025-02909-9",
+   "title": "The metabolic significance of ATP-citrate lyase in cancer: insights into glutamine-fuelled citrate biosynthesis and tumour progression",
+   "received": "24 April 2025",
+   "revised": null,
+   "accepted": "7 July 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s12032-025-02664-x",
+   "title": "Fisetin as a chemoprotective and chemotherapeutic agent: mechanistic insights and future directions in cancer therapy",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s12032-025-02912-0",
+   "title": "Dynamic ubiquitination networks in liver cancer: decoding E3 ligases and deubiquitinases as gatekeepers of therapeutic resistance",
+   "received": "25 March 2025",
+   "revised": null,
+   "accepted": "8 July 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s12032-025-03068-7",
+   "title": "Deciphering the crucial role of IGF2BP3 in modulating stemness traits of salivary adenoid cystic carcinoma",
+   "received": "6 June 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 105
+  },
+  {
+   "doi": "10.1007/s12032-025-02843-w",
+   "title": "Phase II study of carboplatin\u2009+\u2009weekly paclitaxel for advanced lung squamous cell carcinoma with idiopathic interstitial pneumonia (Hanshin Cancer Gro",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12032-025-03019-2",
+   "title": "Diosgenin enhances the effect of radiation on head and neck cancer cells through apoptosis induction, G2/M cell cycle arrest, and ROS generation",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s12032-025-02638-z",
+   "title": "Effects of royal jelly on ovary cancer cells proliferation and apoptosis",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s12032-025-02831-0",
+   "title": "Tumor-associated neutrophils and neutrophil extracellular traps in lung cancer: antitumor/protumor insights and therapeutic implications",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1007/s12032-025-03035-2",
+   "title": "Deciphering the anti-cancer and anti-inflammatory activity in natural bioactive compounds of Typhonium flagelliforme: in silico approaches with specia",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s12032-025-02896-x",
+   "title": "Identifying drug targets and evaluating KLK3-targeted inhibitors for prostate cancer using in-silico and in-vitro approaches",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1007/s12032-025-03064-x",
+   "title": "Comment on \u2018The mechanism of ncRNA in trastuzumab resistance in HER2-positive tumors\u2019",
+   "received": "8 August 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s12032-025-03126-0",
+   "title": "EGF induces SOD activity, TNF-\u03b1/IL-6 expression and complement regulatory proteins in cervical cancer cells: suppression by EGCG",
+   "received": "7 August 2025",
+   "revised": null,
+   "accepted": "10 November 2025",
+   "days": 95
+  },
+  {
+   "doi": "10.1007/s12032-025-02737-x",
+   "title": "Three-dimensional in vitro models in head and neck cancer: current trends and applications",
+   "received": "7 February 2025",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1007/s12032-025-02796-0",
+   "title": "Hyaluronic acid-modified theranostic niosomes for targeted Fingolimod delivery and inhibition of triple-negative breast cancer metastasis",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02963-3",
+   "title": "Antiproliferative and apoptotic effects of Pervari honey on SH-SY5Y neuroblastoma cells",
+   "received": "9 April 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s12032-025-03081-w",
+   "title": "Targeting autophagy to enhance cancer immunotherapy: emerging mechanisms and strategies",
+   "received": "9 July 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1007/s12032-025-02944-6",
+   "title": "Advanced nanotheranostic approaches for targeted glioblastoma treatment: a synergistic fusion of CRISPR-Cas gene editing, AI-driven tumor profiling, a",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s12032-025-02837-8",
+   "title": "Novel PI3K\u03b4 inhibitor exerts antitumor activity in Burkitt lymphoma by inducing ROS-dependent apoptosis",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s12032-025-02704-6",
+   "title": "MIS18BP1 promotes bladder cancer cell proliferation and growth via inactivating P53 signaling pathway",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1007/s12032-025-03053-0",
+   "title": "Targeting the crosstalk of metabolism reprogramming and replication stress: novel strategy to combat cancer",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "12 September 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1007/s12032-025-02895-y",
+   "title": "Potential therapeutic targets in chronic myeloid leukemia",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1007/s12032-025-03021-8",
+   "title": "4D-printed microdevices for spatiotemporal detection of ctDNA and miRNA in pancreatic cancer: an in-depth review",
+   "received": "7 June 2025",
+   "revised": null,
+   "accepted": "14 August 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1007/s12032-025-02917-9",
+   "title": "Ursolic acid affects autophagy and apoptosis of breast cancer through PLK1 via AKT/mTOR signaling pathway",
+   "received": "18 April 2025",
+   "revised": null,
+   "accepted": "9 July 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s12032-025-02772-8",
+   "title": "Investigating the antiproliferative mechanisms of NaHS, a hydrogen sulfide donor, in the SH-SY5Y cell line",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "11 May 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s12032-025-03073-w",
+   "title": "Selectively targeting the IKK\u03b2 by 11,11\u2019-methylenebisdibenzo[a, c]phenazine (SIKB-7543) downregulates aberrant NF-\u03baB signaling to control the prolifer",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s12032-025-02622-7",
+   "title": "Gefitinib induces apoptosis in Caco-2 cells via ER stress-mediated mitochondrial pathways and the IRE1\u03b1/JNK/p38 MAPK signaling axis",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "29 January 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1007/s12032-025-02873-4",
+   "title": "Genetic variants in oncogenic miRNA and 3\u2032 untranslated region of tumor suppressor genes: emerging insight into cancer genetics",
+   "received": "29 March 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s12032-025-02807-0",
+   "title": "Genetic, epigenetic, and molecular determinants of multiple myeloma and precursor plasma cell disorders: a pathophysiological overview",
+   "received": "21 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1007/s12032-025-02957-1",
+   "title": "CAR T-cell immunotherapy as the next horizon in cancer eradication: current landscape, challenges, and future directions",
+   "received": "18 May 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s12032-024-02543-x",
+   "title": "Exosomes in esophageal cancer: function and therapeutic prospects",
+   "received": "5 August 2024",
+   "revised": null,
+   "accepted": "15 October 2024",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02724-2",
+   "title": "Promising immunotherapeutic treatments for colon cancer",
+   "received": "11 January 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s12032-025-03045-0",
+   "title": "Epitranscriptomic sculpting: the role of m6A in alternative splicing, cancer progression, and methodological insights",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1007/s12032-025-02647-y",
+   "title": "Exosomes derived from natural killer cells: transforming immunotherapy for aggressive breast cancer",
+   "received": "1 December 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1007/s12032-025-02718-0",
+   "title": "Mechanism of etoposide resistance in small cell lung cancer and the potential therapeutic options",
+   "received": "3 December 2024",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 132
+  },
+  {
+   "doi": "10.1007/s12032-025-02856-5",
+   "title": "Genistein enhances TLR3-mediated apoptosis and immune signaling in breast cancer cells",
+   "received": "29 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s12032-025-02676-7",
+   "title": "An investigative study on the impact of DLK1 and NCoR1 knockdown by siRNA transfection on endometrial cancer proliferation: unveiling notch interactio",
+   "received": "1 December 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1007/s12032-025-03067-8",
+   "title": "Engineering adoptive cell therapy for solid tumors",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12032-025-03074-9",
+   "title": "Evaluating DDIs in cancer patients receiving anticoagulants and antineoplastics: a scoping review focusing on therapeutic efficacy and safety",
+   "received": "14 July 2025",
+   "revised": null,
+   "accepted": "30 September 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12032-025-02922-y",
+   "title": "Ephrin B3 drives tumorigenesis and inflammation in cutaneous squamous cell carcinoma",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1007/s12032-025-03140-2",
+   "title": "The golden touch: a comprehensive network pharmacology-guided review of synergy between curcumin and PARP inhibitors",
+   "received": "7 August 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 98
+  },
+  {
+   "doi": "10.1007/s12032-025-02881-4",
+   "title": "Therapeutic potential of gold nanoparticles in cancer therapy: a comparative insight into synthesis overview and cellular mechanisms",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12032-025-02936-6",
+   "title": "Computational biology meets oncology: designing custom protein and peptide binders to outsmart cancer",
+   "received": "18 April 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s12032-025-02811-4",
+   "title": "Cancer network pharmacology: multi-network regulatory mechanisms and future directions",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s12032-025-02802-5",
+   "title": "Exploration of the anticancer properties of Caffeic Acid in malignant mesothelioma cells",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1007/s12032-024-02587-z",
+   "title": "Baicalein, a natural flavonoid in gastrointestinal cancers treatment: recent trends and future perspectives",
+   "received": "14 July 2024",
+   "revised": null,
+   "accepted": "13 December 2024",
+   "days": 152
+  },
+  {
+   "doi": "10.1007/s12032-025-02742-0",
+   "title": "Mesenchymal stem cell-derived exosomes: a novel therapeutic frontier in hematological disorders",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "23 April 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02656-x",
+   "title": "Dual targeting of CXC chemokine receptor 4 and multidrug resistance protein 1 by ZIN056 effectively combat daunorubicin resistance in acute myeloid le",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s12032-025-02687-4",
+   "title": "Curcumin-gold nanoshell mediated near-infrared irradiation on human ovarian cancer cell: in vitro study",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12032-024-02566-4",
+   "title": "N6-methyladenosine RNA modification in head and neck squamous cell carcinoma (HNSCC): current status and future insights",
+   "received": "26 September 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 46
+  },
+  {
+   "doi": "10.1007/s12032-025-02768-4",
+   "title": "Advanced functionalized chitosan nanocomposites for hyperthermia-based cancer therapy",
+   "received": "25 February 2025",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12032-025-02633-4",
+   "title": "Metal nanoparticles as a promising therapeutic approach for prostate cancer diagnosis and therapy: a comprehensive review",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 36
+  },
+  {
+   "doi": "10.1007/s12032-025-03059-8",
+   "title": "Nano-phytochemical-based formulations as promising opportunities for prostate cancer therapy and management: a comprehensive narrative review",
+   "received": "16 May 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1007/s12032-025-02749-7",
+   "title": "Ursolic acid induces apoptosis in nasopharyngeal carcinoma cells through the P53 signaling pathway: a network pharmacology and experimental validation",
+   "received": "11 February 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1007/s12032-025-02780-8",
+   "title": "Chloroquine as a potential anticancer agent for triple-negative breast cancer: effects on MDA-MB-231 cells",
+   "received": "1 March 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s12032-025-02964-2",
+   "title": "Targeting racial disparities in breast cancer: mechanistic insights and therapeutic potential of African medicinal plants",
+   "received": "19 May 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s12032-025-02962-4",
+   "title": "Protective effects of valencene, a natural sesquiterpene, against benzo(a)pyrene-induced lung cancer in Swiss albino mice",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12032-025-02949-1",
+   "title": "Antineoplastic potential of Kushneria avicenniae pigments via modulation of the BAX/BCL-2 axis and CASP-9 pathway in inducing G2/M arrest and apoptosi",
+   "received": "26 April 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12032-025-03092-7",
+   "title": "Essential oil from Tragopogon dubius selectively inhibits breast (MCF-7) and glioblastoma (LN-18) cancer cell proliferation; insights into antioxidant",
+   "received": "1 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 99
+  },
+  {
+   "doi": "10.1007/s12032-025-02846-7",
+   "title": "MicroRNA-driven organ-specific metastasis in triple-negative breast cancer: biogenesis, mechanisms, and therapeutic approaches",
+   "received": "17 April 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1007/s12032-025-02674-9",
+   "title": "Role of hepatotropic viruses in promoting hepatocellular carcinoma\u2014current knowledge and recent advances",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1007/s12032-024-02564-6",
+   "title": "Exploring the role of antigen-presenting cancer-associated fibroblasts and CD74 on the pancreatic ductal adenocarcinoma tumor microenvironment",
+   "received": "6 September 2024",
+   "revised": null,
+   "accepted": "9 November 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s12032-025-02607-6",
+   "title": "Autophagy induced by metabolic processes leads to solid tumor cell metastatic dormancy and recurrence",
+   "received": "22 October 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s12032-025-02818-x",
+   "title": "Tumor microenvironment and immunotherapy: from bench to bedside",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s12032-024-02598-w",
+   "title": "Platinum nanoparticles in cancer therapy: chemotherapeutic enhancement and ROS generation",
+   "received": "7 November 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 53
+  },
+  {
+   "doi": "10.1007/s12032-025-02971-3",
+   "title": "Letter to the editor: comment on \u201cIntegration of immunotherapy and radiotherapy in a therapeutic algorithm for locally advanced squamous cell skin can",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 33
+  },
+  {
+   "doi": "10.1007/s12032-025-02645-0",
+   "title": "ADAM9 mediates Cisplatin resistance in gastric cancer cells through DNA damage response pathway",
+   "received": "3 January 2025",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 52
+  },
+  {
+   "doi": "10.1007/s12032-025-02997-7",
+   "title": "Anticancer efficacy of nerolidol, cyclophosphamide, and their combination against breast cancer cell line MCF-7",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s12032-025-02968-y",
+   "title": "Tanshinone IIA is synergistic with the PARP inhibitor olaparib in inducing BRCAs-proficient and -deficient triple-negative breast cancer cell apoptosi",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1007/s12032-025-02921-z",
+   "title": "Harnessing the oral-systemic axis: A novel frontier in cancer management",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s12032-025-02988-8",
+   "title": "The microbiome\u2013cancer axis as a hidden contributor to early-onset tumorigenesis",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "31 July 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s12032-025-03058-9",
+   "title": "Hypoxia-drives reversible cell cycle arrest in lung cancer cells via modulation of cellular redox and gene expression",
+   "received": "8 June 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1007/s12032-025-02893-0",
+   "title": "Various anthracyclines exhibit differential cytotoxic effects related to CBR1-induced resistance in lung cancer cells",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1007/s12032-025-02870-7",
+   "title": "Symplocamide A as marine-derived proteasome inhibitor: a promising scaffold for targeted cancer therapy",
+   "received": "13 April 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1007/s12032-025-02602-x",
+   "title": "Nanotechnology-based biomedical devices in the cancer diagnostics and therapy",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1007/s12032-025-02932-w",
+   "title": "Blocking or knockdown of P2X7 receptor inhibits invasion and migration of mouse breast cancer cells via PI3K/Akt/GSK-3\u03b2 pathways and EMT",
+   "received": "19 April 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s12032-025-02761-x",
+   "title": "The gastrointestinal mycobiome in inflammation and cancer: unraveling fungal dysbiosis, pathogenesis, and therapeutic potential",
+   "received": "9 March 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1007/s12032-024-02583-3",
+   "title": "Phase I study of neoadjuvant chemoradiotherapy with S-1 for clinically resectable type 4 or large type 3 gastric cancer in elderly patients aged 75\u00a0ye",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "9 December 2024",
+   "days": 55
+  },
+  {
+   "doi": "10.1007/s12032-025-02995-9",
+   "title": "Cabo Verde\u2019s cancer crisis: the fastest-rising mortality burden in the world",
+   "received": "31 July 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 12
+  },
+  {
+   "doi": "10.1007/s12032-025-02930-y",
+   "title": "Efficacy analysis of targeted P53 therapy in solid tumors",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12032-024-02562-8",
+   "title": "Telomerase inhibition in breast cancer and breast cancer stem cells: a brief review",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "8 November 2024",
+   "days": 50
+  },
+  {
+   "doi": "10.1007/s12032-025-02832-z",
+   "title": "Chemotherapy of breast cancer cells alters susceptibility to complement-mediated opsonization and killing",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "26 May 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1007/s12032-025-03063-y",
+   "title": "Exosomal transfer of miR-223-3p from carcinoma-associated fibroblasts promotes the malignant properties and chemoresistance of colon cancer cells by t",
+   "received": "21 February 2025",
+   "revised": null,
+   "accepted": "19 September 2025",
+   "days": 210
+  },
+  {
+   "doi": "10.1007/s12032-025-03149-7",
+   "title": "Radiotherapy affects the ELAVL1-mediated autophagy pathway by promoting the release of LINC01943 exosomes in breast cancer cells to accelerate the M2 ",
+   "received": "18 June 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 148
+  },
+  {
+   "doi": "10.1007/s12032-025-03026-3",
+   "title": "NPY-functionalized niosomes for targeted delivery of margatoxin in breast cancer therapy",
+   "received": "27 May 2025",
+   "revised": null,
+   "accepted": "29 August 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s12032-025-02738-w",
+   "title": "Mechanism of Dahuang\u2013Dangshen drug pairs in the treatment of HCC based on network pharmacology, bioinformatics, molecular docking and experimental ver",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1007/s12032-025-03060-1",
+   "title": "Selective regulation and cellular metabolism by the lactate transporter MCT4 in GBM",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 127
+  },
+  {
+   "doi": "10.1007/s12032-025-03076-7",
+   "title": "Antimetastatic effects of chamuangone-enriched extract in breast cancer lung metastasis: in vitro and in vivo evidence",
+   "received": "8 July 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12032-025-02868-1",
+   "title": "Wnt signal pathways: new mechanistic approaches and clinical horizons in cancer therapy",
+   "received": "2 April 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02835-w",
+   "title": "Pyrogallol induces apoptosis, oxidative stress and cell cycle arrest in C6 glioma cells: a potential therapeutic agent",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 86
+  },
+  {
+   "doi": "10.1007/s12032-025-02977-x",
+   "title": "Next-generation nanoformulation: Glycyrrhiza glabra-based chitosan\u2013curcumin MgO/Fe2O3 nanocomposite for targeted lung cancer therapy with dual antioxi",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "29 July 2025",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s12032-025-02787-1",
+   "title": "Targeting platelet-tumor cell interactions: a novel approach to cancer therapy",
+   "received": "8 March 2025",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1007/s12032-025-02610-x",
+   "title": "Epstein-Barr virus-infected nasopharyngeal carcinoma therapeutics: oncoprotein targets and clinical implications",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1007/s12032-025-02663-y",
+   "title": "Effect of PRKD3 on cell cycle in gastric cancer progression and downstream regulatory networks",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s12032-025-02931-x",
+   "title": "ULK2 promotes migration and invasion of colorectal cancer cells via MCT4-mediated lactate export",
+   "received": "28 April 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s12032-025-02617-4",
+   "title": "Ethical and academic dilemmas in authorship of clinical research publications: a medical oncologist\u2019s perspective",
+   "received": "8 January 2025",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 20
+  },
+  {
+   "doi": "10.1007/s12032-025-03141-1",
+   "title": "Long non-coding RNA Nkx2-2as/BTG2 axis attenuates breast cancer progression by targeting Wnt/\u03b2-catenin signaling",
+   "received": "17 July 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 119
+  },
+  {
+   "doi": "10.1007/s12032-025-02863-6",
+   "title": "Unleashing the future of cancer immunotherapy: in silico design of a multi-epitope and mRNA vaccine duo targeting EWSR1-ATF1, EWSR1-CREB1, and PRAME t",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s12032-025-03077-6",
+   "title": "In vitro assessment of anti-glioblastoma potential of Emblica officinalis methanolic fruit extract and green nanoparticles in U87-MG cells",
+   "received": "24 June 2025",
+   "revised": null,
+   "accepted": "2 October 2025",
+   "days": 100
+  },
+  {
+   "doi": "10.1007/s12032-025-02871-6",
+   "title": "Regulatory RNA network mediated by FUBP1 drives the proliferation and invasion of triple-negative breast cancer cells",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s12032-025-02840-z",
+   "title": "Salvia miltiorrhiza Bunge aqueous extract inhibits lung metastasis of breast cancer by inhibiting recruitment of M2-like macrophages via CCL2-STAT3 ax",
+   "received": "12 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1007/s12032-025-03072-x",
+   "title": "Cancer Metastasis: Therapeutic Challenges and Opportunities",
+   "received": "27 June 2025",
+   "revised": null,
+   "accepted": "29 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1007/s12032-025-02946-4",
+   "title": "Natural Nrf2 activators modulate antioxidant gene expression and apoptosis in leukemic K-562 cells",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1007/s12032-025-02952-6",
+   "title": "ROCK inhibition suppresses glioblastoma via a PTEN-associated reduction in PI3K/AKT signaling",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s12032-025-02711-7",
+   "title": "Genetic analysis of HPV-16 L1 gene mutations and computational screening of therapeutic inhibitors for cervical cancer treatment",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "30 March 2025",
+   "days": 101
+  },
+  {
+   "doi": "10.1007/s12032-025-02825-y",
+   "title": "The role of radiotheranostics in personalized treatment for breast cancer",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s12032-025-03038-z",
+   "title": "The benefits of combining an immunomodulator with a chemotherapy agent in chondrosarcoma\u2013a proof of concept with mifamurtide",
+   "received": "23 June 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1007/s12032-025-02820-3",
+   "title": "Potential anticancer properties of Tetraselmis suecica extract against oral and colorectal cancer cells",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "23 May 2025",
+   "days": 50
+  },
+  {
+   "doi": "10.1007/s12032-025-02729-x",
+   "title": "Molecular mechanisms and clinical significance of perineural invasion in malignancies: the pivotal role of tumor-associated Schwann cells in cancer pr",
+   "received": "6 February 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s12032-025-02947-3",
+   "title": "Role of diosgenin in gastrointestinal cancers: recent trends and future perspectives",
+   "received": "8 April 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1007/s12032-025-02741-1",
+   "title": "The tumor-promoting role of methionyl-tRNA synthetase 1 in ovarian cancer and its potential mechanisms",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1007/s12032-024-02595-z",
+   "title": "Fusion of tumor cells and mesenchymal stem/stroma cells: a source of tumor heterogeneity, evolution and recurrence",
+   "received": "25 October 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 64
+  },
+  {
+   "doi": "10.1007/s12032-025-02660-1",
+   "title": "Nanotechnology in Imatinib delivery: advancing cancer treatment through innovative nanoparticles",
+   "received": "1 January 2025",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s12032-025-02785-3",
+   "title": "Integration of immunotherapy and radiotherapy in a therapeutic algorithm for locally advanced squamous cell skin cancer",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "13 May 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s12032-025-02754-w",
+   "title": "Role of the tumor microenvironment in cancer therapy: unveiling new targets to overcome drug resistance",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 229
+  },
+  {
+   "doi": "10.1007/s12032-025-03002-x",
+   "title": "Immune profiling in oncology: bridging the gap between technology and treatment",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s12032-025-02859-2",
+   "title": "Emerging roles and clinical perspectives of long noncoding RNAs in prostate cancer",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "5 June 2025",
+   "days": 65
+  },
+  {
+   "doi": "10.1007/s12032-025-02681-w",
+   "title": "Mesoporous polydopamine nanoparticles coated with metal-polyphenol networks for demethylation therapy of lung cancer",
+   "received": "21 December 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s12032-025-02675-8",
+   "title": "Contribution of tumor microenvironment (TME) to tumor apoptosis, angiogenesis, metastasis, and drug resistance",
+   "received": "9 December 2024",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s12032-025-02888-x",
+   "title": "Anatolian propolis extracts enhance cisplatin efficacy in ovarian cancer through AKT/mTOR pathway modulation and demonstrate antibacterial and antibio",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12032-025-02959-z",
+   "title": "Exploring the therapeutic role of carnosol in cancer: from molecular insights to clinical promise",
+   "received": "9 May 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s12032-024-02576-2",
+   "title": "Advances in surgical management of chronic lymphedema: current strategies and future directions",
+   "received": "9 August 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 109
+  },
+  {
+   "doi": "10.1007/s12032-025-03104-6",
+   "title": "Ex vivo evaluation of Allium sativum extract on acute myeloid leukemia cells and leukemia stem cell populations",
+   "received": "24 July 2025",
+   "revised": null,
+   "accepted": "21 October 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1007/s12032-025-02779-1",
+   "title": "Investigating the impact of berberine on autophagy-mediated drug resistance in chronic lymphocytic leukemia tumor cells",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1007/s12032-025-02993-x",
+   "title": "Chrysin mitigates therapy-induced senescence in breast cancer via cGAS\u2013STING pathway inhibition",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 138
+  },
+  {
+   "doi": "10.1007/s12032-025-02935-7",
+   "title": "Targeting miR-32-5p suppresses c-MYC-driven proliferation and induces apoptosis in MCF-7 breast cancer cells",
+   "received": "4 May 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 67
+  },
+  {
+   "doi": "10.1007/s12032-025-02615-6",
+   "title": "Ingenol mebutate in cancer therapy: mechanisms, clinical applications and future directions",
+   "received": "10 December 2024",
+   "revised": null,
+   "accepted": "21 January 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1007/s12032-025-02793-3",
+   "title": "Entinostat and novel analogs: preclinical evidence for anti-proliferative activity in adult T-cell leukemia/lymphoma",
+   "received": "12 February 2025",
+   "revised": null,
+   "accepted": "15 May 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s12032-025-03150-0",
+   "title": "Microbial oncogenesis: the impact of Fusobacterium nucleatum on oral cancer pathways",
+   "received": "26 May 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 171
+  },
+  {
+   "doi": "10.1007/s12032-025-03139-9",
+   "title": "BNC2 as a novel driver of pancreatic cancer progression through transcriptional regulation of COL3A1 and epithelial-to-mesenchymal transition",
+   "received": "30 July 2025",
+   "revised": null,
+   "accepted": "13 November 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s12032-025-02945-5",
+   "title": "Metabolic reprogramming and functional crosstalk within the tumor microenvironment (TME) and A Multi-omics anticancer approach",
+   "received": "2 May 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02950-8",
+   "title": "Evolutionary conservation and cancer implications of the WNT signaling pathway",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "21 July 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1007/s12032-025-03015-6",
+   "title": "Antisense LNA GapmeR targeting hsa-piR-33195 induces antiproliferative and apoptotic effects on human acute myeloid leukemia",
+   "received": "3 April 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 131
+  },
+  {
+   "doi": "10.1007/s12032-024-02594-0",
+   "title": "Didemnins as marine-derived anticancer agents: mechanistic insights and clinical potential",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "28 December 2024",
+   "days": 52
+  },
+  {
+   "doi": "10.1007/s12032-025-02879-y",
+   "title": "Exploring resveratrol\u2019s inhibitory potential on lung cancer stem cells: a scoping review of mechanistic pathways across cancer models",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 58
+  },
+  {
+   "doi": "10.1007/s12032-025-02726-0",
+   "title": "Antitumor potential of ivermectin against T-cell lymphoma-bearing hosts",
+   "received": "16 January 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s12032-025-02975-z",
+   "title": "Hesperetin increases membrane progesterone receptor expression in human myeloid leukemia cells and reduces ROS",
+   "received": "13 April 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s12032-024-02570-8",
+   "title": "Associations between the life\u2019s essential 8, genetic risk and breast cancer incidence in premenopausal and postmenopausal women: a prospective study i",
+   "received": "5 October 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 40
+  },
+  {
+   "doi": "10.1007/s12032-025-02655-y",
+   "title": "Addition of thalidomide for prevention of chemotherapy-induced nausea and vomiting in the second cycle after the failure of four-drug regimen in the f",
+   "received": "22 December 2024",
+   "revised": null,
+   "accepted": "3 March 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02815-0",
+   "title": "Dual-responsive magnetic and pH-sensitive hydrogel beads for controlled cisplatin delivery in glioblastoma cells",
+   "received": "28 February 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s12032-025-02937-5",
+   "title": "Analysis of possible effects of recombinant antimicrobial peptide TP4 on colon cancer line HT-29",
+   "received": "3 May 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 70
+  },
+  {
+   "doi": "10.1007/s12032-025-03089-2",
+   "title": "The trio of Candida albicans, immune cells, and cancer progression: a complex interplay driving tumorigenesis",
+   "received": "18 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1007/s12032-024-02552-w",
+   "title": "An overview on the interaction between non-coding RNAs and CTLA-4 gene in human diseases",
+   "received": "7 July 2024",
+   "revised": null,
+   "accepted": "29 October 2024",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s12032-025-02801-6",
+   "title": "Tumor-derived CXCL5 promotes 5-fluorouracil resistance in colorectal cancer cells via p21 downregulation",
+   "received": "14 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12032-025-03090-9",
+   "title": "Harnessing the role of transforming growth factor-\u03b2 in glioblastoma: a focus on phytochemicals",
+   "received": "10 July 2025",
+   "revised": null,
+   "accepted": "8 October 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1007/s12032-025-02885-0",
+   "title": "Letter to the editor",
+   "received": "5 June 2025",
+   "revised": null,
+   "accepted": "24 June 2025",
+   "days": 19
+  },
+  {
+   "doi": "10.1007/s12032-025-02631-6",
+   "title": "The reciprocal effects of autophagy and the Warburg effect in pancreatic ductal adenocarcinoma: an in vitro study",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s12032-025-03110-8",
+   "title": "Prospective study comparing acute toxicity and objective response rate between simultaneous integrated boost and sequential boost Intensity-Modulated ",
+   "received": "3 July 2025",
+   "revised": null,
+   "accepted": "25 October 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1007/s12032-025-03013-8",
+   "title": "Pterostilbene as a promising natural anticancer agent in gynecological cancers",
+   "received": "11 June 2025",
+   "revised": null,
+   "accepted": "12 August 2025",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s12032-025-02860-9",
+   "title": "Ovarian cancer, neutrophil hitchhiking, and NETs: unraveling their role in pathogenesis and management",
+   "received": "26 March 2025",
+   "revised": null,
+   "accepted": "11 June 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1007/s12032-025-02763-9",
+   "title": "Molecular mechanisms and clinical value of the correlation between depression and cancer",
+   "received": "13 February 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s12032-025-03061-0",
+   "title": "Theranostics in nuclear medicine: the era of precision oncology",
+   "received": "7 July 2025",
+   "revised": null,
+   "accepted": "17 September 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s12032-025-02635-2",
+   "title": "Exosomal miR-92a-3p modulates M2 macrophage polarization in colorectal cancer: implications for tumor migration and angiogenesis",
+   "received": "6 December 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1007/s12032-025-03047-y",
+   "title": "Photodynamic therapy boosts the anti-proliferative activity of oxaliplatin in cervical cancer cells by regulating stemness-related genes",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "10 September 2025",
+   "days": 113
+  },
+  {
+   "doi": "10.1007/s12032-025-02904-0",
+   "title": "The antitumor mechanism of glycyrrhetinic acid and its applications in cancer treatment",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02928-6",
+   "title": "Applications of nanoparticles in CAR-T cell therapy: non-viral manufacturing, enhancing in vivo function, and in vivo generation of CAR-T cells",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "10 July 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1007/s12032-025-02722-4",
+   "title": "DCAF13 influences breast cancer chemotherapy resistance through metabolic reprogramming by regulating c-Myc expression",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12032-025-02653-0",
+   "title": "\u03b1KG-induced oxidative stress and mTOR inhibition as a therapeutic strategy for liver cancer",
+   "received": "13 December 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1007/s12032-025-03042-3",
+   "title": "Next-generation oncology: integrative therapeutic frontiers at the crossroads of precision genomics, immuno-engineering, and tumor microenvironment mo",
+   "received": "26 June 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s12032-025-02736-y",
+   "title": "TGFBI promotes EMT and perineural invasion of pancreatic cancer via PI3K/AKT pathway",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "18 April 2025",
+   "days": 124
+  },
+  {
+   "doi": "10.1007/s12032-025-02972-2",
+   "title": "Impact of gastrointestinal dysbiosis on tryptophan metabolism and neurological cancer progression",
+   "received": "27 April 2025",
+   "revised": null,
+   "accepted": "28 July 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1007/s12032-025-02866-3",
+   "title": "Regulation of 15-PGDH by ACSM1 in modulating PGE2 signaling and ECM remodeling in prostate cancer",
+   "received": "29 March 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s12032-025-02806-1",
+   "title": "Epigenetic control of T helper cells differentiation: a mechanistic insight into the association between acute leukemia and coronary artery disease",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 110
+  },
+  {
+   "doi": "10.1007/s12032-025-02853-8",
+   "title": "Barriers in bone tumor treatment: the emerging role of drug delivery systems",
+   "received": "16 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1007/s12032-025-02869-0",
+   "title": "Role of Tigecycline in radiation sensitivity in colorectal cancer cell line",
+   "received": "5 April 2025",
+   "revised": null,
+   "accepted": "12 June 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1007/s12032-025-02691-8",
+   "title": "Gastrointestinal perforation in general oncology, metastatic colorectal cancer, and metastatic melanoma population",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1007/s12032-025-02810-5",
+   "title": "Synthesis, characterization of ultrasmall gold nanocluster conjugated with Gemcitabine for anticancer activity",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1007/s12032-025-02894-z",
+   "title": "Bioactive compounds in\u00a0Raphanus sativus: mechanisms of apoptosis, anti-angiogenesis, cell cycle arrest and beyond in cancer prevention and treatment",
+   "received": "24 March 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 93
+  },
+  {
+   "doi": "10.1007/s12032-025-02983-z",
+   "title": "Topical vaginal drug therapy in cervical cancer management: a review of clinical trials and preclinical evidence",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "30 July 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1007/s12032-025-02679-4",
+   "title": "Antitumor effects of dauricine on sorafenib-treated human lung cancer cell lines via modulation of HIF-1\u03b1 signaling pathways",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 78
+  },
+  {
+   "doi": "10.1007/s12032-025-02844-9",
+   "title": "Coumarin derivatives as anticancer agents targeting PI3K-AKT-mTOR pathway: a comprehensive literature review",
+   "received": "15 March 2025",
+   "revised": null,
+   "accepted": "4 June 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1007/s12032-025-02940-w",
+   "title": "Histone lactylation: a new target for overcoming immune evasion and therapy resistance",
+   "received": "17 May 2025",
+   "revised": null,
+   "accepted": "12 July 2025",
+   "days": 56
+  },
+  {
+   "doi": "10.1007/s12032-024-02592-2",
+   "title": "Investigation of potential anti-metastatic effect of metformin and caffeic acid combination therapy in breast cancer cell line in in-vitro culture mod",
+   "received": "19 October 2024",
+   "revised": null,
+   "accepted": "20 December 2024",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s12032-025-02782-6",
+   "title": "Advancing the potential of nanoparticles for cancer detection and precision therapeutics",
+   "received": "26 February 2025",
+   "revised": null,
+   "accepted": "12 May 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1007/s12032-025-02717-1",
+   "title": "Omeprazole attenuates irradiation-induced lung injury through the suppression of apoptosis and oxidative stress in mice",
+   "received": "21 January 2025",
+   "revised": null,
+   "accepted": "14 April 2025",
+   "days": 83
+  },
+  {
+   "doi": "10.1007/s12032-025-02803-4",
+   "title": "Gilteritinib suppresses prostate cancer cell proliferation and migration and induces ER stress-mediated non-autophagic cytoplasmic vacuolization cell ",
+   "received": "3 March 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1007/s12032-025-02792-4",
+   "title": "Natural bioactive compounds as notch signaling modulators: cutting-edge strategies for cancer therapy",
+   "received": "18 March 2025",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1007/s12032-025-02878-z",
+   "title": "The role of E3 ligases and deubiquitinases in PD-L1 regulation and the tumor microenvironment in renal cell carcinoma",
+   "received": "29 April 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 51
+  },
+  {
+   "doi": "10.1007/s12032-025-03085-6",
+   "title": "Silencing SOX2OT reduces viability and migration in lung cancer cells via lncRNA and protein regulation",
+   "received": "20 May 2025",
+   "revised": null,
+   "accepted": "7 October 2025",
+   "days": 140
+  },
+  {
+   "doi": "10.1007/s12032-025-02668-7",
+   "title": "LncRNA CCAT1 decreases the sensitivity to doxorubicin in lung cancer cells by regulating miR-181a/CPEB2 axis",
+   "received": "25 December 2024",
+   "revised": null,
+   "accepted": "4 March 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1007/s12032-025-02689-2",
+   "title": "Mesobuthus eupeus venom modulates colorectal carcinoma signaling pathways and induces apoptosis",
+   "received": "13 January 2025",
+   "revised": null,
+   "accepted": "13 March 2025",
+   "days": 59
+  },
+  {
+   "doi": "10.1007/s12032-025-02817-y",
+   "title": "Precision oncology: transforming cancer care through personalized medicine",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "16 May 2025",
+   "days": 88
+  },
+  {
+   "doi": "10.1007/s12032-025-02886-z",
+   "title": "C-Phycocyanin induces apoptosis in oral squamous cell carcinoma KB cells via modulation of key molecular pathways",
+   "received": "23 April 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 63
+  },
+  {
+   "doi": "10.1007/s12032-025-02652-1",
+   "title": "Targeting EGFR and PI3K/mTOR pathways in glioblastoma: innovative therapeutic approaches",
+   "received": "20 November 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1007/s12032-025-02614-7",
+   "title": "A comparative analysis of gallstones from gallbladder cancer patients and cholelithiasis patients unveiling the association between gallstones and gal",
+   "received": "13 July 2024",
+   "revised": null,
+   "accepted": "15 January 2025",
+   "days": 186
+  },
+  {
+   "doi": "10.1007/s12032-025-02897-w",
+   "title": "Breaking the oncogenic link: BCL10\u2013MALT1 disruption as a precision strike against NF-\u03baB-driven lymphomas",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "25 June 2025",
+   "days": 51
+  },
+  {
+   "doi": "10.1007/s12032-024-02582-4",
+   "title": "Nanotheranostics for gynecological cancers: a path forward for Africa",
+   "received": "6 October 2024",
+   "revised": null,
+   "accepted": "7 December 2024",
+   "days": 62
+  },
+  {
+   "doi": "10.1007/s12032-024-02569-1",
+   "title": "Investigation of anticancer potential of a novel bioactive molecule from Trichosporon asahii VITSTB1 in breast cancer cell lines: an in vitro study",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 36
+  },
+  {
+   "doi": "10.1007/s12032-024-02590-4",
+   "title": "PYGO2 promotes resistance to chemotherapy via reducing apoptosis and G2/M cell cycle arrest in esophageal carcinoma cells",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "16 December 2024",
+   "days": 60
+  }
+ ]
+}

@@ -1,9 +1,9 @@
 {
   "cycle": 1,
-  "phase": "SETUP",
-  "step": "skeleton_created",
+  "phase": "PHASE2_LITERATURE",
+  "step": "journal_selected",
   "status": "RUNNING",
   "pivots": 0,
-  "last_action": "created project skeleton",
+  "last_action": "Phase 1 done: Critical Care selected",
   "updated": "2026-11-24"
 }

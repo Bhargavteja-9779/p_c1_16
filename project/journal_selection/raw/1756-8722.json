@@ -1,0 +1,909 @@
+{
+ "issn": "1756-8722",
+ "journal": "Journal of Hematology &amp; Oncology",
+ "publisher": "Springer Science and Business Media LLC",
+ "window": [
+  "2024-11-24",
+  "2025-11-24"
+ ],
+ "retrieved": "2026-11-24T03:09:49.599283",
+ "source": "https://api.crossref.org/journals/1756-8722/works",
+ "articles": [
+  {
+   "doi": "10.1186/s13045-025-01740-z",
+   "title": "Racial disparities in clonal hematopoiesis and their impact on hematologic malignancies",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "2 September 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s13045-025-01707-0",
+   "title": "Integrated clinical and proteomic-based model for diagnostic and prognostic prediction in pRCC",
+   "received": "28 October 2024",
+   "revised": null,
+   "accepted": "26 April 2025",
+   "days": 180
+  },
+  {
+   "doi": "10.1186/s13045-025-01678-2",
+   "title": "Anti-TGF-\u03b2/PD-L1 bispecific antibody synergizes with radiotherapy to enhance antitumor immunity and mitigate radiation-induced pulmonary fibrosis",
+   "received": "28 August 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 173
+  },
+  {
+   "doi": "10.1186/s13045-025-01724-z",
+   "title": "Phase I first-in-human dose escalation study of the oral casein kinase 1\u03b1 and cyclin dependent kinase 7/9 inhibitor BTX A51 in advanced MDS and AML",
+   "received": "6 May 2025",
+   "revised": null,
+   "accepted": "30 June 2025",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s13045-025-01735-w",
+   "title": "Immunosenescence and cancer: molecular hallmarks, tumor microenvironment remodeling, and age-specific immunotherapy challenges",
+   "received": "22 April 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s13045-025-01746-7",
+   "title": "Recent advances in CAR-MSCs: the new engine of cellular immunotherapy evolution",
+   "received": "2 July 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13045-025-01687-1",
+   "title": "C3G promotes bone marrow adipocyte expansion and hematopoietic regeneration after myeloablation by enhancing megakaryocyte niche function",
+   "received": "29 November 2024",
+   "revised": null,
+   "accepted": "11 March 2025",
+   "days": 102
+  },
+  {
+   "doi": "10.1186/s13045-025-01694-2",
+   "title": "Replicon RNA vaccines: design, delivery, and immunogenicity in infectious diseases and cancer",
+   "received": "2 January 2025",
+   "revised": null,
+   "accepted": "23 March 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13045-024-01643-5",
+   "title": "myCAF-derived exosomal PWAR6 accelerates CRC liver metastasis via altering glutamine availability and NK cell function in the tumor microenvironment",
+   "received": "10 September 2024",
+   "revised": null,
+   "accepted": "21 November 2024",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13045-025-01667-5",
+   "title": "Transcriptional regulatory network analysis identifies GRN as a key regulator bridging chemotherapy and immunotherapy response in small cell lung canc",
+   "received": "2 November 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13045-025-01756-5",
+   "title": "B7-H3 nanobody-based CAR T cells control multiple myeloma growth, while dual BCMA/B7-H3 CAR T cells overcome antigen escape",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "20 October 2025",
+   "days": 139
+  },
+  {
+   "doi": "10.1186/s13045-025-01718-x",
+   "title": "Menin inhibitors from monotherapies to combination therapies: clinical trial updates from 2024 ASH annual meeting",
+   "received": "30 March 2025",
+   "revised": null,
+   "accepted": "6 June 2025",
+   "days": 68
+  },
+  {
+   "doi": "10.1186/s13045-024-01655-1",
+   "title": "D-ribose-5-phosphate inactivates YAP and functions as a metabolic checkpoint",
+   "received": "1 July 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 175
+  },
+  {
+   "doi": "10.1186/s13045-025-01703-4",
+   "title": "Targeted degradation of extracellular proteins: state of the art and diversity of degrader designs",
+   "received": "28 January 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13045-025-01701-6",
+   "title": "Insights into next-generation immunotherapy designs and tools: molecular mechanisms and therapeutic prospects",
+   "received": "26 January 2025",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 75
+  },
+  {
+   "doi": "10.1186/s13045-025-01741-y",
+   "title": "B cell maturation antigen is a novel target for immunotherapy of acute myeloid leukemia",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "7 September 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s13045-025-01676-4",
+   "title": "Second primary malignancies following CAR T-cell therapy in patients with hematologic malignancies",
+   "received": "24 December 2024",
+   "revised": null,
+   "accepted": "16 February 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s13045-025-01660-y",
+   "title": "Global status and attributable risk factors of breast, cervical, ovarian, and uterine cancers from 1990 to 2021",
+   "received": "7 September 2024",
+   "revised": null,
+   "accepted": "6 January 2025",
+   "days": 121
+  },
+  {
+   "doi": "10.1186/s13045-025-01671-9",
+   "title": "Noncoding RNA-encoded peptides in cancer: biological functions, posttranslational modifications and therapeutic potential",
+   "received": "22 November 2024",
+   "revised": null,
+   "accepted": "7 February 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13045-025-01697-z",
+   "title": "A multicenter, open-label, single-arm, phase Ib clinical trial of HH2853 treatment in patients with relapsed and/or refractory peripheral T-cell lymph",
+   "received": "17 February 2025",
+   "revised": null,
+   "accepted": "3 April 2025",
+   "days": 45
+  },
+  {
+   "doi": "10.1186/s13045-024-01654-2",
+   "title": "Helicobacter pylori and gastric cancer: mechanisms and new perspectives",
+   "received": "20 August 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13045-025-01760-9",
+   "title": "Emerging advances in CAR-T therapy for solid tumors: latest clinical trial updates from 2025 ASCO annual meeting",
+   "received": "24 July 2025",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13045-024-01651-5",
+   "title": "Dual inhibition of LAG-3 and PD-1 with IBI110 and sintilimab in advanced solid tumors: the first-in-human phase Ia/Ib study",
+   "received": "15 October 2024",
+   "revised": null,
+   "accepted": "12 December 2024",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13045-025-01745-8",
+   "title": "Genome-edited allogeneic CAR-T cells: the next generation of cancer immunotherapies",
+   "received": "10 April 2025",
+   "revised": null,
+   "accepted": "15 September 2025",
+   "days": 158
+  },
+  {
+   "doi": "10.1186/s13045-025-01739-6",
+   "title": "Combination immunotherapy in hepatocellular carcinoma: synergies among immune checkpoints, TKIs, and chemotherapy",
+   "received": "9 June 2025",
+   "revised": null,
+   "accepted": "19 August 2025",
+   "days": 71
+  },
+  {
+   "doi": "10.1186/s13045-024-01640-8",
+   "title": "Global burden of cancer and associated risk factors in 204 countries and territories, 1980\u20132021: a systematic analysis for the GBD 2021",
+   "received": "28 September 2024",
+   "revised": null,
+   "accepted": "16 November 2024",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13045-025-01715-0",
+   "title": "CAR-T cells targeting CCR9 and CD1a for the treatment of T cell acute lymphoblastic leukemia",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "28 May 2025",
+   "days": 204
+  },
+  {
+   "doi": "10.1186/s13045-024-01634-6",
+   "title": "Harnessing the tumor microenvironment: targeted cancer therapies through modulation of epithelial-mesenchymal transition",
+   "received": "20 April 2024",
+   "revised": null,
+   "accepted": "11 November 2024",
+   "days": 205
+  },
+  {
+   "doi": "10.1186/s13045-025-01695-1",
+   "title": "CD20 xCD3 bispecific antibodies for large B cell lymphoma: latest updates from 2024 ASH annual meeting",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "31 March 2025",
+   "days": 4
+  },
+  {
+   "doi": "10.1186/s13045-024-01635-5",
+   "title": "A clinical study of autologous chimeric antigen receptor macrophage targeting mesothelin shows safety in ovarian cancer therapy",
+   "received": "14 October 2024",
+   "revised": null,
+   "accepted": "12 November 2024",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s13045-025-01759-2",
+   "title": "In vivo CAR cell therapy: from bench to bedside",
+   "received": "3 August 2025",
+   "revised": null,
+   "accepted": "24 October 2025",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13045-024-01638-2",
+   "title": "Evasion of immunosurveillance by the upregulation of Siglec15 in bladder cancer",
+   "received": "27 September 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s13045-025-01713-2",
+   "title": "BCMA/GPRC5D bispecific CAR T-cell therapy for relapsed/refractory multiple myeloma with extramedullary disease: a single-center, single-arm, phase 1 t",
+   "received": "1 April 2025",
+   "revised": null,
+   "accepted": "14 May 2025",
+   "days": 43
+  },
+  {
+   "doi": "10.1186/s13045-025-01754-7",
+   "title": "Tertiary lymphoid structures in cancer: spatiotemporal heterogeneity, immune orchestration, and translational opportunities\u200b\u200b",
+   "received": "13 July 2025",
+   "revised": null,
+   "accepted": "15 October 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13045-025-01704-3",
+   "title": "Antibody\u2013Drug Conjugates (ADCs): current and future biopharmaceuticals",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13045-025-01686-2",
+   "title": "Mirvetuximab soravtansine: current and future applications",
+   "received": "20 January 2025",
+   "revised": null,
+   "accepted": "7 March 2025",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s13045-025-01684-4",
+   "title": "Unraveling the triad of hypoxia, cancer cell stemness, and drug resistance",
+   "received": "15 December 2024",
+   "revised": null,
+   "accepted": "5 March 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13045-025-01738-7",
+   "title": "Recent advances in S-palmitoylation and its emerging roles in human diseases",
+   "received": "28 May 2025",
+   "revised": null,
+   "accepted": "17 August 2025",
+   "days": 81
+  },
+  {
+   "doi": "10.1186/s13045-025-01732-z",
+   "title": "The role of neoantigens and tumor mutational burden in cancer immunotherapy: advances, mechanisms, and perspectives",
+   "received": "23 May 2025",
+   "revised": null,
+   "accepted": "11 August 2025",
+   "days": 80
+  },
+  {
+   "doi": "10.1186/s13045-025-01751-w",
+   "title": "Olutasidenib for mutated IDH1 acute myeloid leukemia: final five-year results from the phase 2 pivotal cohort",
+   "received": "21 July 2025",
+   "revised": null,
+   "accepted": "1 October 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13045-025-01708-z",
+   "title": "CD19 CAR-T in relapsed t(8;21) AML: a single-center prospective phase II clinical trial",
+   "received": "29 January 2025",
+   "revised": null,
+   "accepted": "28 April 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13045-025-01698-y",
+   "title": "The current landscape of gastric cancer and gastroesophageal junction cancer diagnosis and treatment in China: a comprehensive nationwide cohort analy",
+   "received": "20 December 2024",
+   "revised": null,
+   "accepted": "7 April 2025",
+   "days": 108
+  },
+  {
+   "doi": "10.1186/s13045-025-01692-4",
+   "title": "Nanomaterials-driven in situ vaccination: a novel frontier in tumor immunotherapy",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 161
+  },
+  {
+   "doi": "10.1186/s13045-025-01668-4",
+   "title": "Pharmacological activity of OST-01, a natural product from baccharis coridifolia, on breast cancer cells",
+   "received": "12 November 2024",
+   "revised": null,
+   "accepted": "28 January 2025",
+   "days": 77
+  },
+  {
+   "doi": "10.1186/s13045-024-01641-7",
+   "title": "Tumor-derived G-CSF induces an immunosuppressive microenvironment in an osteosarcoma model, reducing response to CAR.GD2 T-cells",
+   "received": "11 July 2024",
+   "revised": null,
+   "accepted": "19 November 2024",
+   "days": 131
+  },
+  {
+   "doi": "10.1186/s13045-025-01689-z",
+   "title": "Non-canonical small noncoding RNAs in the plasma extracellular vesicles as novel biomarkers in gastric cancer",
+   "received": "9 September 2024",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 184
+  },
+  {
+   "doi": "10.1186/s13045-025-01673-7",
+   "title": "Circulating tumor DNA in lymphoma: technologies and applications",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "11 February 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s13045-025-01744-9",
+   "title": "Challenges and limitations of chimeric antigen receptor T-cell therapies in solid tumors: why are approvals restricted to hematologic malignancies?",
+   "received": "8 May 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 128
+  },
+  {
+   "doi": "10.1186/s13045-025-01721-2",
+   "title": "BRD4 acts as a transcriptional repressor of RhoB to inhibit terminal erythropoiesis",
+   "received": "4 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 107
+  },
+  {
+   "doi": "10.1186/s13045-025-01696-0",
+   "title": "KRAS mutation detection by liquid biopsy for pancreatic ductal adenocarcinoma",
+   "received": "19 February 2025",
+   "revised": null,
+   "accepted": "2 April 2025",
+   "days": 42
+  },
+  {
+   "doi": "10.1186/s13045-024-01639-1",
+   "title": "Advances in CAR-T cell therapy for hematologic and solid malignancies: latest updates from 2024 ESMO Congress",
+   "received": "16 October 2024",
+   "revised": null,
+   "accepted": "14 November 2024",
+   "days": 29
+  },
+  {
+   "doi": "10.1186/s13045-025-01691-5",
+   "title": "The cGAS\u2012STING pathway in cancer immunity: mechanisms, challenges, and therapeutic implications",
+   "received": "23 December 2024",
+   "revised": null,
+   "accepted": "17 March 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13045-025-01717-y",
+   "title": "Extracellular matrix dynamics in tumor immunoregulation: from tumor microenvironment to immunotherapy",
+   "received": "10 March 2025",
+   "revised": null,
+   "accepted": "3 June 2025",
+   "days": 85
+  },
+  {
+   "doi": "10.1186/s13045-024-01659-x",
+   "title": "Multinational retrospective analysis of bridging therapy prior to chimeric antigen receptor t cells for relapsed/refractory acute lymphoblastic leukem",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s13045-025-01733-y",
+   "title": "Clinical applications of circulating tumor cells in metastasis and therapy",
+   "received": "13 May 2025",
+   "revised": null,
+   "accepted": "13 August 2025",
+   "days": 92
+  },
+  {
+   "doi": "10.1186/s13045-024-01636-4",
+   "title": "Bortezomib-releasing silica-collagen xerogels for local treatment of osteolytic bone- and minimal residual disease in multiple myeloma",
+   "received": "19 September 2024",
+   "revised": null,
+   "accepted": "13 November 2024",
+   "days": 55
+  },
+  {
+   "doi": "10.1186/s13045-025-01727-w",
+   "title": "Mitophagy\u2019s impacts on cancer and neurodegenerative diseases: implications for future therapies",
+   "received": "31 March 2025",
+   "revised": null,
+   "accepted": "5 July 2025",
+   "days": 96
+  },
+  {
+   "doi": "10.1186/s13045-024-01646-2",
+   "title": "Safety and efficacy of amulirafusp alfa (IMM0306), a fusion protein of CD20 monoclonal antibody with the CD47 binding domain of SIRP\u03b1, in patients wit",
+   "received": "5 November 2024",
+   "revised": null,
+   "accepted": "28 November 2024",
+   "days": 23
+  },
+  {
+   "doi": "10.1186/s13045-025-01742-x",
+   "title": "HCB101: a novel potent ligand-trap Fc-fusion protein targeting the CD47-SIRP\u03b1 pathway with high safety and preclinical efficacy for hematological and ",
+   "received": "23 July 2025",
+   "revised": null,
+   "accepted": "9 September 2025",
+   "days": 48
+  },
+  {
+   "doi": "10.1186/s13045-025-01679-1",
+   "title": "Recent advances in therapeutic strategies for non-small cell lung cancer",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 91
+  },
+  {
+   "doi": "10.1186/s13045-025-01748-5",
+   "title": "The neuro-immune axis in cancer: from mechanisms to therapeutic opportunities",
+   "received": "21 June 2025",
+   "revised": null,
+   "accepted": "23 September 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13045-025-01726-x",
+   "title": "Necroptosis in cancer: insight from epigenetic, post-transcriptional and post-translational modifications",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 114
+  },
+  {
+   "doi": "10.1186/s13045-025-01677-3",
+   "title": "CAR-NK cell therapy: latest updates from the 2024 ASH annual meeting",
+   "received": "10 January 2025",
+   "revised": null,
+   "accepted": "17 February 2025",
+   "days": 38
+  },
+  {
+   "doi": "10.1186/s13045-025-01752-9",
+   "title": "Overcoming resistance to antibody-drug conjugates: from mechanistic insights to cutting-edge strategies",
+   "received": "30 July 2025",
+   "revised": null,
+   "accepted": "10 October 2025",
+   "days": 72
+  },
+  {
+   "doi": "10.1186/s13045-025-01670-w",
+   "title": "Cancer vaccines: current status and future directions",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "4 February 2025",
+   "days": 103
+  },
+  {
+   "doi": "10.1186/s13045-024-01657-z",
+   "title": "Olutasidenib in combination with azacitidine induces durable complete remissions in patients with relapsed or refractory mIDH1 acute myeloid leukemia:",
+   "received": "6 November 2024",
+   "revised": null,
+   "accepted": "25 December 2024",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13045-025-01666-6",
+   "title": "Anti-LAG-3 antibody LBL-007 plus anti-PD-1 antibody toripalimab in advanced nasopharyngeal carcinoma and other solid tumors: an open-label, multicente",
+   "received": "10 November 2024",
+   "revised": null,
+   "accepted": "25 January 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s13045-025-01747-6",
+   "title": "The genomic and epigenomic abnormalities of plasma cfDNA as liquid biopsy biomarkers to detect hepatocellular carcinoma: a multicenter cohort study",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "22 September 2025",
+   "days": 89
+  },
+  {
+   "doi": "10.1186/s13045-024-01645-3",
+   "title": "Proteasome inhibition enhances oncolytic reovirus therapy in multiple myeloma independently of its direct cytotoxic effects",
+   "received": "5 September 2024",
+   "revised": null,
+   "accepted": "26 November 2024",
+   "days": 82
+  },
+  {
+   "doi": "10.1186/s13045-025-01743-w",
+   "title": "PSMA-targeted CAR-macrophages drive glycolytic reprogramming for enhanced prostate cancer immunotherapy",
+   "received": "15 July 2025",
+   "revised": null,
+   "accepted": "13 September 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s13045-025-01712-3",
+   "title": "Engineered CRO-CD7 CAR-NK cells derived from pluripotent stem cells avoid fratricide and efficiently suppress human T-cell malignancies",
+   "received": "23 January 2025",
+   "revised": null,
+   "accepted": "9 May 2025",
+   "days": 106
+  },
+  {
+   "doi": "10.1186/s13045-025-01702-5",
+   "title": "Therapeutic landscape of primary refractory and relapsed diffuse large B-cell lymphoma: Recent advances and emerging therapies",
+   "received": "30 January 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 73
+  },
+  {
+   "doi": "10.1186/s13045-024-01648-0",
+   "title": "Engineering a controllable and reversible switch for CAR-based cellular immunotherapies via a genetic code expansion system",
+   "received": "9 October 2024",
+   "revised": null,
+   "accepted": "2 December 2024",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s13045-025-01725-y",
+   "title": "Circular RNA signature of aggressive CLL with t(14;19)(q32;q13). An ERIC study",
+   "received": "15 April 2025",
+   "revised": null,
+   "accepted": "3 July 2025",
+   "days": 79
+  },
+  {
+   "doi": "10.1186/s13045-025-01661-x",
+   "title": "WT1-mRNA dendritic cell vaccination of patients with glioblastoma multiforme, malignant pleural mesothelioma, metastatic breast cancer, and other soli",
+   "received": "26 August 2024",
+   "revised": null,
+   "accepted": "8 January 2025",
+   "days": 135
+  },
+  {
+   "doi": "10.1186/s13045-024-01642-6",
+   "title": "Asciminib add-on to imatinib demonstrates sustained high rates of ongoing therapy and deep molecular responses with prolonged follow-up in the ASC4MOR",
+   "received": "29 August 2024",
+   "revised": null,
+   "accepted": "20 November 2024",
+   "days": 83
+  },
+  {
+   "doi": "10.1186/s13045-025-01722-1",
+   "title": "Application of single-cell and spatial omics in deciphering cellular hallmarks of cancer drug response and resistance",
+   "received": "27 March 2025",
+   "revised": null,
+   "accepted": "19 June 2025",
+   "days": 84
+  },
+  {
+   "doi": "10.1186/s13045-024-01644-4",
+   "title": "The first-in-class bispecific antibody IBI318 (LY3434172) targeting PD-1 and PD-L1 in patients with advanced tumors: a phase Ia/Ib study",
+   "received": "17 October 2024",
+   "revised": null,
+   "accepted": "25 November 2024",
+   "days": 39
+  },
+  {
+   "doi": "10.1186/s13045-025-01681-7",
+   "title": "Novel targeted therapies for immunoglobulin light chain amyloidosis: latest updates from the 2024 ASH annual meeting",
+   "received": "30 December 2024",
+   "revised": null,
+   "accepted": "25 February 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13045-025-01737-8",
+   "title": "Recent advances in universal chimeric antigen receptor T cell therapy",
+   "received": "3 June 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 74
+  },
+  {
+   "doi": "10.1186/s13045-025-01675-5",
+   "title": "BCMA-targeted therapies for multiple myeloma: latest updates from 2024 ASH annual meeting",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "14 February 2025",
+   "days": 57
+  },
+  {
+   "doi": "10.1186/s13045-025-01664-8",
+   "title": "IL-15: from discovery to FDA approval",
+   "received": "2 September 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 133
+  },
+  {
+   "doi": "10.1186/s13045-024-01658-y",
+   "title": "Impact of circulating lymphoma cells at diagnosis on outcomes in patients with newly diagnosed de novo diffuse large B-cell lymphoma",
+   "received": "14 November 2024",
+   "revised": null,
+   "accepted": "30 December 2024",
+   "days": 46
+  },
+  {
+   "doi": "10.1186/s13045-025-01665-7",
+   "title": "N7-methylguanosine modification in cancers: from mechanisms to therapeutic potential",
+   "received": "27 November 2024",
+   "revised": null,
+   "accepted": "13 January 2025",
+   "days": 47
+  },
+  {
+   "doi": "10.1186/s13045-024-01650-6",
+   "title": "Recent advances in sarcoma therapy: new agents, strategies and predictive biomarkers",
+   "received": "8 October 2024",
+   "revised": null,
+   "accepted": "5 December 2024",
+   "days": 58
+  },
+  {
+   "doi": "10.1186/s13045-025-01730-1",
+   "title": "Directly reprogrammed NK cells driven by BCL11B depletion enhance targeted immunotherapy against pancreatic ductal adenocarcinoma",
+   "received": "13 March 2025",
+   "revised": null,
+   "accepted": "3 August 2025",
+   "days": 143
+  },
+  {
+   "doi": "10.1186/s13045-025-01693-3",
+   "title": "The R-RAS2 GTPase is a signaling hub in triple-negative breast cancer cell metabolism and metastatic behavior",
+   "received": "19 December 2024",
+   "revised": null,
+   "accepted": "19 March 2025",
+   "days": 90
+  },
+  {
+   "doi": "10.1186/s13045-025-01758-3",
+   "title": "B-cell maturation antigen targeted PET/CT imaging in multiple myeloma: a first-in-human study",
+   "received": "25 June 2025",
+   "revised": null,
+   "accepted": "23 October 2025",
+   "days": 120
+  },
+  {
+   "doi": "10.1186/s13045-025-01755-6",
+   "title": "MicroRNA-142 improves IL1RAP CAR-T cell activity in acute myeloid leukemia",
+   "received": "13 June 2025",
+   "revised": null,
+   "accepted": "16 October 2025",
+   "days": 125
+  },
+  {
+   "doi": "10.1186/s13045-025-01680-8",
+   "title": "Disruption of the sorcin\u2012PAX5 protein\u2012protein interaction induces ferroptosis by promoting the FBXL12-mediated ubiquitination of ALDH1A1 in pancreatic",
+   "received": "28 May 2024",
+   "revised": null,
+   "accepted": "24 February 2025",
+   "days": 272
+  },
+  {
+   "doi": "10.1186/s13045-025-01736-9",
+   "title": "Targeting triple-negative breast cancer using cord-blood CD34\u207a HSPC-derived mesothelin-specific CAR-NKT cells with potent antitumor activity",
+   "received": "23 June 2025",
+   "revised": null,
+   "accepted": "16 August 2025",
+   "days": 54
+  },
+  {
+   "doi": "10.1186/s13045-025-01720-3",
+   "title": "Treatment-related adverse events of antibody drug-conjugates in clinical trials",
+   "received": "5 March 2025",
+   "revised": null,
+   "accepted": "17 June 2025",
+   "days": 104
+  },
+  {
+   "doi": "10.1186/s13045-025-01674-6",
+   "title": "Breakthroughs in treatment for hematological malignancies: latest updates on molecular glue, PROTACs and RNA degraders from ASH 2024",
+   "received": "26 December 2024",
+   "revised": null,
+   "accepted": "13 February 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13045-025-01729-8",
+   "title": "Targeting CD276 with Adapter-CAR T-cells provides a novel therapeutic strategy in small cell lung cancer and prevents CD276-dependent fratricide",
+   "received": "14 May 2025",
+   "revised": null,
+   "accepted": "22 July 2025",
+   "days": 69
+  },
+  {
+   "doi": "10.1186/s13045-025-01700-7",
+   "title": "PFS24 as a prognostic milestone in patients with newly diagnosed primary CNS lymphoma",
+   "received": "10 February 2025",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s13045-025-01716-z",
+   "title": "Deciphering cholangiocarcinoma heterogeneity and specific progenitor cell niche of extrahepatic cholangiocarcinoma at single-cell resolution",
+   "received": "7 October 2024",
+   "revised": null,
+   "accepted": "31 May 2025",
+   "days": 236
+  },
+  {
+   "doi": "10.1186/s13045-025-01711-4",
+   "title": "Practice-changing updates on multiple myeloma: highlights from the 2024 ASH annual meeting",
+   "received": "25 January 2025",
+   "revised": null,
+   "accepted": "2 May 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13045-024-01649-z",
+   "title": "Current and future immunotherapy for breast cancer",
+   "received": "24 September 2024",
+   "revised": null,
+   "accepted": "3 December 2024",
+   "days": 70
+  },
+  {
+   "doi": "10.1186/s13045-024-01628-4",
+   "title": "Personalized nanovaccines for treating solid cancer metastases",
+   "received": "11 September 2024",
+   "revised": null,
+   "accepted": "25 October 2024",
+   "days": 44
+  },
+  {
+   "doi": "10.1186/s13045-025-01690-6",
+   "title": "Current and future therapies for small cell lung carcinoma",
+   "received": "7 January 2025",
+   "revised": null,
+   "accepted": "14 March 2025",
+   "days": 66
+  },
+  {
+   "doi": "10.1186/s13045-025-01731-0",
+   "title": "Target neutrophil heterogeneity and plasticity in cancer",
+   "received": "5 May 2025",
+   "revised": null,
+   "accepted": "7 August 2025",
+   "days": 94
+  },
+  {
+   "doi": "10.1186/s13045-024-01656-0",
+   "title": "A phase II trial of anlotinib plus EGFR-TKIs in advanced non-small cell lung cancer with gradual, oligo, or potential progression after EGFR-TKIs trea",
+   "received": "24 October 2024",
+   "revised": null,
+   "accepted": "23 December 2024",
+   "days": 60
+  },
+  {
+   "doi": "10.1186/s13045-025-01728-9",
+   "title": "Iparomlimab and tuvonralimab (QL1706) plus chemotherapy and bevacizumab for EGFR-mutant patients with advanced non-small cell lung cancer after failur",
+   "received": "11 March 2025",
+   "revised": null,
+   "accepted": "18 July 2025",
+   "days": 129
+  },
+  {
+   "doi": "10.1186/s13045-025-01699-x",
+   "title": "Spatial imaging unlocks the potential of charting multiple myeloma and extramedullary disease",
+   "received": "16 December 2024",
+   "revised": null,
+   "accepted": "11 April 2025",
+   "days": 116
+  },
+  {
+   "doi": "10.1186/s13045-025-01710-5",
+   "title": "Panoramic spatial enhanced resolution proteomics (PSERP) reveals tumor architecture and heterogeneity in gliomas",
+   "received": "4 September 2024",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 237
+  },
+  {
+   "doi": "10.1186/s13045-024-01647-1",
+   "title": "Lenvatinib and immune-checkpoint inhibitors in hepatocellular carcinoma: mechanistic insights, clinical efficacy, and future perspectives",
+   "received": "14 September 2024",
+   "revised": null,
+   "accepted": "29 November 2024",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s13045-025-01753-8",
+   "title": "First in human phase 1 study of DT2216, a selective BCL-xL degrader, in patients with relapsed/refractory solid malignancies",
+   "received": "19 July 2025",
+   "revised": null,
+   "accepted": "14 October 2025",
+   "days": 87
+  },
+  {
+   "doi": "10.1186/s13045-025-01705-2",
+   "title": "Results of a phase 1/2 study of sacituzumab tirumotecan in patients with unresectable locally advanced or metastatic solid tumors refractory to standa",
+   "received": "6 January 2025",
+   "revised": null,
+   "accepted": "13 April 2025",
+   "days": 97
+  },
+  {
+   "doi": "10.1186/s13045-025-01688-0",
+   "title": "Cancer associated fibroblasts in cancer development and therapy",
+   "received": "22 January 2025",
+   "revised": null,
+   "accepted": "12 March 2025",
+   "days": 49
+  },
+  {
+   "doi": "10.1186/s13045-025-01669-3",
+   "title": "First-in-human evaluation of memory-like NK cells with an IL-15 super-agonist and CTLA-4 blockade in advanced head and neck cancer",
+   "received": "18 November 2024",
+   "revised": null,
+   "accepted": "2 February 2025",
+   "days": 76
+  },
+  {
+   "doi": "10.1186/s13045-025-01709-y",
+   "title": "Molecular characterization and predictors of relapse in patients with Ph\u2009+\u2009ALL after frontline ponatinib and blinatumomab",
+   "received": "7 March 2025",
+   "revised": null,
+   "accepted": "29 April 2025",
+   "days": 53
+  },
+  {
+   "doi": "10.1186/s13045-025-01723-0",
+   "title": "Development and validation of a prognostic staging system for primary plasma cell leukemia",
+   "received": "30 April 2025",
+   "revised": null,
+   "accepted": "26 June 2025",
+   "days": 57
+  }
+ ]
+}
