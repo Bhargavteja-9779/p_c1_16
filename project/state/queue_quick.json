@@ -1,0 +1,66 @@
+{
+  "jobs": [
+    {
+      "id": "QUICK__lgbm__none__A_MICU__s0__val",
+      "experiment": "QUICK",
+      "cmd": [
+        "python3",
+        "-m",
+        "src.train_eval",
+        "--job-id",
+        "QUICK__lgbm__none__A_MICU__s0__val",
+        "--train-cell",
+        "A_MICU",
+        "--model",
+        "lgbm",
+        "--seed",
+        "0",
+        "--eval-split",
+        "val",
+        "--fixes",
+        "none",
+        "--experiment",
+        "QUICK",
+        "--quick"
+      ],
+      "threads": 2,
+      "status": "done",
+      "attempts": 1,
+      "plan": "plan_v1.yaml",
+      "added": "2026-11-24T21:42:59+00:00",
+      "started": "2026-11-24T21:42:59+00:00",
+      "finished": "2026-11-24T21:43:09+00:00"
+    },
+    {
+      "id": "QUICK__lr__none__B_SICU__s0__val",
+      "experiment": "QUICK",
+      "cmd": [
+        "python3",
+        "-m",
+        "src.train_eval",
+        "--job-id",
+        "QUICK__lr__none__B_SICU__s0__val",
+        "--train-cell",
+        "B_SICU",
+        "--model",
+        "lr",
+        "--seed",
+        "0",
+        "--eval-split",
+        "val",
+        "--fixes",
+        "none",
+        "--experiment",
+        "QUICK",
+        "--quick"
+      ],
+      "threads": 2,
+      "status": "done",
+      "attempts": 1,
+      "plan": "plan_v1.yaml",
+      "added": "2026-11-24T21:42:59+00:00",
+      "started": "2026-11-24T21:42:59+00:00",
+      "finished": "2026-11-24T21:43:09+00:00"
+    }
+  ]
+}
