@@ -6,7 +6,7 @@ _Last updated: 2026-11-24 ~23:50 UTC (cycle 1, E6 done and analysed — session 
 - **Cycle:** 1 **Phase:** E6 done + analysed (journal 012, D21). Nothing running.
 - **NEXT ACTION:**
   0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy`, `bash scripts/download_physionet2019.sh` (repeat until `bad=0`), then `python3 scripts/prepare_data.py` (~4 min; must print md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d — the split is pinned in configs/, D19).
-  1. G8: write `scripts/leakage_check.py` (patient overlap across splits/cells = 0, split pinned md5, harm/norm fitted on train rows only, no target-test rows used in selection) and save results/leakage_check.json.
+  1. (done) G8 leakage check PASS — results/leakage_check.json.
   2. G4: compare reproduced A→B / B→A numbers with published PhysioNet 2019 cross-hospital results (preprints202610.1449: XGBoost 0.725→0.608; arXiv 2609.33279, 2609.30781) and explain the gap.
   3. G7 / breadth: plan_v3 with a second dataset (eICU-CRD demo 2.0.1, mortality, hospital × unit-type factorial) — explore on val, freeze, confirm on fresh seeds. Check feasibility first (cell sizes in the demo are small).
   4. scripts/final_report.py (Section 12) and scripts/audit_numbers.py; then blind novelty re-score by a fresh-context agent.
@@ -40,7 +40,7 @@ _Last updated: 2026-11-24 ~23:50 UTC (cycle 1, E6 done and analysed — session 
 | G5 Main result | PASS for H1 (D16 definition): both models Holm p < 0.05, CI excludes 0, effect 0.026 / 0.063 AUROC (ratio 1.6 / 2.2) | results/analysis/E6_confirm_test.json, journal 012 |
 | G6 Ablation | partial: fixes ablated (harm / noproc / norm), model class and metric level varied | tables/E6_confirm_test_transport.md |
 | G7 Generalization | FAIL so far: 1 dataset (4 cells, 2 directions, 2 models); eICU demo pending | — |
-| G8 Leakage | pending (patient-level pinned split; script to write) | configs/splits_v1.csv |
+| G8 Leakage | PASS: 0 patients in >1 split/cell, 0 duplicate series, 0/200 look-ahead mismatches, no forbidden features, fit scope asserted | results/leakage_check.json, scripts/leakage_check.py |
 | G9 Reproducibility | unknown | — |
 | G10 Review | unknown | — |
 | G11 Integrity audit | unknown | — |
