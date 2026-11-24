@@ -1,9 +1,9 @@
 {
-  "cycle": 1,
-  "phase": "PHASE3_TOPIC",
-  "step": "literature_done_data_downloaded",
-  "status": "PAUSED_FOR_ACCOUNT_SWITCH",
-  "pivots": 0,
-  "last_action": "Phase 2 literature saved; data downloaded; topic diagnosis next",
-  "updated": "2026-11-24"
+ "cycle": 1,
+ "phase": "PHASE3_TOPIC",
+ "step": "diagnosis_done_candidates_written",
+ "status": "RUNNING",
+ "pivots": 0,
+ "last_action": "D9 diagnosis + topic candidates; prior-art for #2/#3 next",
+ "updated": "2026-11-24"
 }

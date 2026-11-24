@@ -1,17 +1,16 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-24 (cycle 1, Phase 3 — PAUSED for account switch)_
+_Last updated: 2026-11-24 (cycle 1, Phase 3 — diagnosis done, topic choice in progress)_
 
 ## Where we are
 - **Cycle:** 1 **Phase:** PHASE3_TOPIC (Phase 1 journal ✔, Phase 2 literature ✔)
 - **NEXT ACTION (do in this order):**
-  1. Re-download data (git-ignored): `bash scripts/download_physionet2019.sh` (expect 20336 A + 20000 B files, ends with `DONE bad=0`; re-run until bad=0). Also 2012 challenge and eICU demo: see "Data" below.
-  2. Build the table: `python3 -c "from src.data_physionet2019 import load; load()"` (writes `data/processed/physionet2019.parquet`).
-  3. **Diagnostic baseline (decision D9):** features via `src/features.py` (value / trend / process / context groups), splits via `src/splits.py` (fixed SPLIT_SEED=2026, 60/20/20 by patient within hospital). Train LightGBM on A-train, select on A-val, evaluate on A-val and B-val (NOT test) and vice versa, with and without the `process` group and with/without ICULOS. Log every variant in `state/variants_tried.csv`. Write a DIAGNOSIS journal entry.
-  4. From the diagnosis, write `topic/candidates.md` (≥10 candidates) and `topic/selected_topic.md`; then `experiments/plan_v1.yaml`, `src/jobs.py` (needed by `run_all.py`), `scripts/final_report.py`, `scripts/audit_numbers.py`.
-  5. Run prior-art queries for the chosen claim (≥8 phrasings) with `python3 scripts/prior_art.py <CLAIM_ID> "q1" ...`.
+  1. If data is missing: `bash scripts/download_physionet2019.sh` (until `DONE bad=0`), then `python3 scripts/diagnose_baseline.py` rebuilds features and splits (cached results in results/diagnosis are kept; it skips finished variants).
+  2. DONE: D9 diagnosis (journal 007; results/diagnosis/*). DONE: topic/candidates.md (12 candidates).
+  3. Open the closest prior art for candidates #2 and #3 (topic/candidates.md) and log them as opened in state/novelty_ledger.json. Then write topic/selected_topic.md. Current lean: #3 (cross-hospital failure is conditional shift; unsupervised remedies fail) plus #2 (label-efficient local update) as the remedy.
+  4. Then experiments/plan_v1.yaml, src/jobs.py, scripts/final_report.py, scripts/audit_numbers.py.
 - **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535) — verified median Accepted−Received 66 d (full articles, n=318), JIF 11.4 (2025). JCR quartile UNVERIFIED.
-- **Topic:** not yet selected (diagnosis pending). First idea (missingness patterns = hospital shortcut on PhysioNet 2019) is a DEAD END: already published Oct 2026 (see journal entry 004).
+- **Topic:** not yet selected; leaning to candidate #3/#2 (see topic/candidates.md). First idea (missingness patterns = hospital shortcut on PhysioNet 2019) is a DEAD END: already published Oct 2026 (see journal entry 004).
 - **Hypothesis:** —
 
 ## Running right now
@@ -19,7 +18,7 @@ _Last updated: 2026-11-24 (cycle 1, Phase 3 — PAUSED for account switch)_
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
-- Used: 0.00 h of 15 h (cycle 1); 0.00 h of 120 h (global).
+- Used: ~0.4 h of 15 h (cycle 1); ~0.4 h of 120 h (global) — see state/budget.json.
 
 ## Gate status
 | Gate | Status | Evidence |
