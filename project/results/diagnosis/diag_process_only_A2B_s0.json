@@ -1,0 +1,62 @@
+{
+ "variant": "diag_process_only_A2B_s0",
+ "feature_set": "process_only",
+ "source": "A",
+ "target": "B",
+ "seed": 0,
+ "n_features": 70,
+ "best_iter": 62,
+ "internal": {
+  "n_rows": 157126,
+  "prevalence": 0.021791428535061035,
+  "mean_pred": 0.02124007370366863,
+  "auroc": 0.7720423062402462,
+  "auprc": 0.08625261479911811,
+  "brier": 0.02068693563231805,
+  "cal_slope": 0.9955215647340897,
+  "citl": 0.027339091182030276
+ },
+ "external": {
+  "n_rows": 151666,
+  "prevalence": 0.014175886487413131,
+  "mean_pred": 0.016820297226912737,
+  "auroc": 0.6745530446457624,
+  "auprc": 0.040584905730574945,
+  "brier": 0.014796395771142818,
+  "cal_slope": 0.5980701495784194,
+  "citl": -0.19337641866126593
+ },
+ "internal_patient": {
+  "n_pat": 4067,
+  "auroc": 0.7926408810819523,
+  "auprc": 0.37357108127913646
+ },
+ "external_patient": {
+  "n_pat": 4000,
+  "auroc": 0.7118948949786982,
+  "auprc": 0.24029156001356913
+ },
+ "top_gain": {
+  "Lactate_hsince": 0.1198,
+  "Age": 0.0894,
+  "FiO2_hsince": 0.0878,
+  "Bilirubin_total_hsince": 0.0522,
+  "SaO2_hsince": 0.05,
+  "PTT_hsince": 0.0459,
+  "Fibrinogen_hsince": 0.0334,
+  "Alkalinephos_hsince": 0.0294,
+  "Calcium_hsince": 0.0284,
+  "pH_hsince": 0.0251,
+  "Temp_n24": 0.0237,
+  "AST_hsince": 0.0208,
+  "SBP_hsince": 0.0207,
+  "Glucose_n24": 0.0166,
+  "FiO2_n24": 0.0161,
+  "Hct_hsince": 0.0159,
+  "Lactate_n24": 0.015,
+  "Glucose_hsince": 0.015,
+  "BaseExcess_hsince": 0.0141,
+  "DBP_n24": 0.0138
+ },
+ "seconds": 7.1
+}

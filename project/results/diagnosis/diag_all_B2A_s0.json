@@ -1,0 +1,62 @@
+{
+ "variant": "diag_all_B2A_s0",
+ "feature_set": "all",
+ "source": "B",
+ "target": "A",
+ "seed": 0,
+ "n_features": 134,
+ "best_iter": 72,
+ "internal": {
+  "n_rows": 151666,
+  "prevalence": 0.014175886487413131,
+  "mean_pred": 0.013484312167351808,
+  "auroc": 0.8645371515034246,
+  "auprc": 0.13487645570681187,
+  "brier": 0.013156878842248977,
+  "cal_slope": 0.9577712498512715,
+  "citl": 0.056540050790093055
+ },
+ "external": {
+  "n_rows": 157126,
+  "prevalence": 0.021791428535061035,
+  "mean_pred": 0.026106776449141292,
+  "auroc": 0.7594755913919847,
+  "auprc": 0.0730505123072688,
+  "brier": 0.021579390086755745,
+  "cal_slope": 0.6907143090159897,
+  "citl": -0.202411323415864
+ },
+ "internal_patient": {
+  "n_pat": 4000,
+  "auroc": 0.8739726935312832,
+  "auprc": 0.42823475875501926
+ },
+ "external_patient": {
+  "n_pat": 4067,
+  "auroc": 0.7524781183020013,
+  "auprc": 0.2927403137064832
+ },
+ "top_gain": {
+  "ICULOS": 0.1387,
+  "HospAdmTime": 0.0592,
+  "WBC_last": 0.0455,
+  "PaCO2_hsince": 0.0386,
+  "BUN_last": 0.0285,
+  "Age": 0.0255,
+  "Temp_max6": 0.0244,
+  "HR_max6": 0.024,
+  "Platelets_last": 0.0237,
+  "Temp_last": 0.0231,
+  "Creatinine_last": 0.0231,
+  "EtCO2_hsince": 0.0214,
+  "Alkalinephos_last": 0.0212,
+  "Bilirubin_total_last": 0.018,
+  "FiO2_hsince": 0.0172,
+  "AST_last": 0.0139,
+  "PTT_last": 0.0138,
+  "Calcium_last": 0.0136,
+  "Phosphate_last": 0.0131,
+  "MAP_min6": 0.013
+ },
+ "seconds": 14.6
+}
