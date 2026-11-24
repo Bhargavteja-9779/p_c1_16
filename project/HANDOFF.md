@@ -57,13 +57,13 @@ D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4
 - Agent supervisor (Layer B): `nohup setsid bash scripts/supervisor.sh >/dev/null 2>&1 &` ; stop: `touch state/STOP_SUPERVISOR`
 
 ## Known problems
-- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/serene-newton-bylqpn`.
+- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/dazzling-albattani-8k4faw`.
 - **Layer B auto-restart is not active.** The `claude` CLI exists here, but running a nested agent inside this live session would create two agents editing the same repo. On your own machine, run `scripts/supervisor.sh` (it detects the CLI). Otherwise: open a new session on this repo/branch and paste `BOOTSTRAP_PROMPT.txt`.
 - Raw data (`data/`) is git-ignored; re-download with `scripts/download_physionet2019.sh` (2019 sepsis, CC BY 4.0); 2012 challenge and eICU demo download commands are in decisions/journal (PhysioNet open files).
 
 ## Moving to a new account
 1. Make sure the latest work is pushed (`git push`).
-2. In the new session, check out branch `claude/serene-newton-bylqpn` of `p_c1_16`.
+2. In the new session, check out branch `claude/dazzling-albattani-8k4faw` of `p_c1_16`.
 3. Paste the contents of `project/BOOTSTRAP_PROMPT.txt`.
 
 ## Where things are
