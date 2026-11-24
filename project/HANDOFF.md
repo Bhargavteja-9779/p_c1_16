@@ -18,7 +18,7 @@ _Last updated: 2026-11-24 (cycle 1, Phase 3 — diagnosis done, topic choice in 
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
-- Used: ~0.4 h of 15 h (cycle 1); ~0.4 h of 120 h (global) — see state/budget.json.
+- Used: 0.25 h of 15 h (cycle 1); 0.25 h of 120 h (global) — see state/budget.json.
 
 ## Gate status
 | Gate | Status | Evidence |
