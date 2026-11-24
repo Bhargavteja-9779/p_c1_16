@@ -1,0 +1,295 @@
+{
+ "summary": {
+  "issn": "2673-253X",
+  "journal": "Frontiers in Digital Health",
+  "n": 40,
+  "median": 120.0,
+  "min": 1,
+  "max": 594,
+  "share_le_72": 0.275
+ },
+ "source": "Crossref DOIs + public article pages",
+ "retrieved": "2026-11-24T03:38:25.178474",
+ "articles": [
+  {
+   "doi": "10.3389/fdgth.2025.1672261",
+   "received": "24 July 2025",
+   "accepted": "25 July 2025",
+   "days": 1,
+   "refs": 0
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1541083",
+   "received": "06 December 2024",
+   "accepted": "16 May 2025",
+   "days": 161,
+   "refs": 37
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1540982",
+   "received": "06 December 2024",
+   "accepted": "04 February 2025",
+   "days": 60,
+   "refs": 39
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1584171",
+   "received": "26 February 2025",
+   "accepted": "20 June 2025",
+   "days": 114,
+   "refs": 42
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1622503",
+   "received": "10 June 2025",
+   "accepted": "07 August 2025",
+   "days": 58,
+   "refs": 50
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1588479",
+   "received": "06 March 2025",
+   "accepted": "24 March 2025",
+   "days": 18,
+   "refs": 20
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1681221",
+   "received": "07 August 2025",
+   "accepted": "24 September 2025",
+   "days": 48,
+   "refs": 49
+  },
+  {
+   "doi": "10.3389/fdgth.2024.1490156",
+   "received": "03 September 2024",
+   "accepted": "10 December 2024",
+   "days": 98,
+   "refs": 41
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1552182",
+   "received": "27 December 2024",
+   "accepted": "01 August 2025",
+   "days": 217,
+   "refs": 32
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1507391",
+   "received": "07 October 2024",
+   "accepted": "16 May 2025",
+   "days": 221,
+   "refs": 13
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1605006",
+   "received": "02 April 2025",
+   "accepted": "28 July 2025",
+   "days": 117,
+   "refs": 51
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1558589",
+   "received": "10 January 2025",
+   "accepted": "25 March 2025",
+   "days": 74,
+   "refs": 31
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1434578",
+   "received": "18 May 2024",
+   "accepted": "12 March 2025",
+   "days": 298,
+   "refs": 54
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1528882",
+   "received": "15 November 2024",
+   "accepted": "12 March 2025",
+   "days": 117,
+   "refs": 41
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1345360",
+   "received": "27 November 2023",
+   "accepted": "27 March 2025",
+   "days": 486,
+   "refs": 73
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1514757",
+   "received": "21 October 2024",
+   "accepted": "17 February 2025",
+   "days": 119,
+   "refs": 44
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1523381",
+   "received": "05 November 2024",
+   "accepted": "21 July 2025",
+   "days": 258,
+   "refs": 43
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1516379",
+   "received": "11 November 2024",
+   "accepted": "20 March 2025",
+   "days": 129,
+   "refs": 43
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1644041",
+   "received": "09 June 2025",
+   "accepted": "20 October 2025",
+   "days": 133,
+   "refs": 67
+  },
+  {
+   "doi": "10.3389/fdgth.2024.1479544",
+   "received": "12 August 2024",
+   "accepted": "16 December 2024",
+   "days": 126,
+   "refs": 61
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1548607",
+   "received": "20 December 2024",
+   "accepted": "20 June 2025",
+   "days": 182,
+   "refs": 37
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1539841",
+   "received": "04 December 2024",
+   "accepted": "23 June 2025",
+   "days": 201,
+   "refs": 39
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1574102",
+   "received": "10 February 2025",
+   "accepted": "22 April 2025",
+   "days": 71,
+   "refs": 11
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1583490",
+   "received": "26 February 2025",
+   "accepted": "21 April 2025",
+   "days": 54,
+   "refs": 116
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1668385",
+   "received": "17 July 2025",
+   "accepted": "18 August 2025",
+   "days": 32,
+   "refs": 109
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1629203",
+   "received": "04 June 2025",
+   "accepted": "13 October 2025",
+   "days": 131,
+   "refs": 48
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1599514",
+   "received": "25 March 2025",
+   "accepted": "16 May 2025",
+   "days": 52,
+   "refs": 42
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1637916",
+   "received": "30 May 2025",
+   "accepted": "26 October 2025",
+   "days": 149,
+   "refs": 43
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1394647",
+   "received": "01 March 2024",
+   "accepted": "16 October 2025",
+   "days": 594,
+   "refs": 59
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1616334",
+   "received": "22 April 2025",
+   "accepted": "25 August 2025",
+   "days": 125,
+   "refs": 60
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1541676",
+   "received": "08 December 2024",
+   "accepted": "08 April 2025",
+   "days": 121,
+   "refs": 48
+  },
+  {
+   "doi": "10.3389/fdgth.2024.1506071",
+   "received": "04 October 2024",
+   "accepted": "03 December 2024",
+   "days": 60,
+   "refs": 50
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1558180",
+   "received": "09 January 2025",
+   "accepted": "04 June 2025",
+   "days": 146,
+   "refs": 39
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1582719",
+   "received": "24 February 2025",
+   "accepted": "09 May 2025",
+   "days": 74,
+   "refs": 35
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1542140",
+   "received": "11 December 2024",
+   "accepted": "22 April 2025",
+   "days": 132,
+   "refs": 57
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1636775",
+   "received": "28 May 2025",
+   "accepted": "20 August 2025",
+   "days": 84,
+   "refs": 35
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1547045",
+   "received": "17 December 2024",
+   "accepted": "02 June 2025",
+   "days": 167,
+   "refs": 72
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1672732",
+   "received": "24 July 2025",
+   "accepted": "08 September 2025",
+   "days": 46,
+   "refs": 55
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1610228",
+   "received": "11 April 2025",
+   "accepted": "03 July 2025",
+   "days": 83,
+   "refs": 19
+  },
+  {
+   "doi": "10.3389/fdgth.2025.1609678",
+   "received": "17 April 2025",
+   "accepted": "29 August 2025",
+   "days": 134,
+   "refs": 83
+  }
+ ]
+}

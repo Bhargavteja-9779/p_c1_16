@@ -1,0 +1,3 @@
+# 2026-11-24 — OBSERVATION: what the journal's own ML papers show and do not show
+
+I read 15 recent original ML papers in Critical Care (via a delegated extraction, spot-checked). Internal→external drops are routine: e.g. a MIMIC-IV-trained mortality model fell from 0.897 to 0.773 AUROC (Allyn 2026, Table 2), an AF model from 0.891 to 0.769 (Guan 2024). What none of them do: explain where the drop comes from (case-mix vs measurement practice vs label prevalence vs calibration), test whether measurement-process features help or hurt transport, or report variance across training seeds. Only 2/15 use explicit missingness indicators. This is the space I will diagnose next on PhysioNet 2019 (hospital systems A and B), PhysioNet 2012 (ICU types) and the eICU demo.

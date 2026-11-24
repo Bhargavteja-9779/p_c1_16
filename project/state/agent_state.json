@@ -1,9 +1,9 @@
 {
   "cycle": 1,
-  "phase": "PHASE2_LITERATURE",
-  "step": "journal_selected",
-  "status": "RUNNING",
+  "phase": "PHASE3_TOPIC",
+  "step": "literature_done_data_downloaded",
+  "status": "PAUSED_FOR_ACCOUNT_SWITCH",
   "pivots": 0,
-  "last_action": "Phase 1 done: Critical Care selected",
+  "last_action": "Phase 2 literature saved; data downloaded; topic diagnosis next",
   "updated": "2026-11-24"
 }

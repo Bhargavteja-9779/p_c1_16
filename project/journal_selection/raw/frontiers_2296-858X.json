@@ -1,0 +1,295 @@
+{
+ "summary": {
+  "issn": "2296-858X",
+  "journal": "Frontiers in Medicine",
+  "n": 40,
+  "median": 69.5,
+  "min": 1,
+  "max": 265,
+  "share_le_72": 0.525
+ },
+ "source": "Crossref DOIs + public article pages",
+ "retrieved": "2026-11-24T03:35:56.659909",
+ "articles": [
+  {
+   "doi": "10.3389/fmed.2025.1627298",
+   "received": "14 May 2025",
+   "accepted": "14 July 2025",
+   "days": 61,
+   "refs": 33
+  },
+  {
+   "doi": "10.3389/fmed.2025.1635735",
+   "received": "27 May 2025",
+   "accepted": "25 June 2025",
+   "days": 29,
+   "refs": 16
+  },
+  {
+   "doi": "10.3389/fmed.2025.1637007",
+   "received": "29 May 2025",
+   "accepted": "16 July 2025",
+   "days": 48,
+   "refs": 28
+  },
+  {
+   "doi": "10.3389/fmed.2025.1561485",
+   "received": "16 January 2025",
+   "accepted": "30 January 2025",
+   "days": 14,
+   "refs": 0
+  },
+  {
+   "doi": "10.3389/fmed.2025.1616768",
+   "received": "01 May 2025",
+   "accepted": "26 May 2025",
+   "days": 25,
+   "refs": 20
+  },
+  {
+   "doi": "10.3389/fmed.2025.1557035",
+   "received": "07 January 2025",
+   "accepted": "17 January 2025",
+   "days": 10,
+   "refs": 4
+  },
+  {
+   "doi": "10.3389/fmed.2025.1661240",
+   "received": "07 July 2025",
+   "accepted": "14 July 2025",
+   "days": 7,
+   "refs": 1
+  },
+  {
+   "doi": "10.3389/fmed.2024.1497501",
+   "received": "17 September 2024",
+   "accepted": "02 December 2024",
+   "days": 76,
+   "refs": 33
+  },
+  {
+   "doi": "10.3389/fmed.2025.1503312",
+   "received": "28 September 2024",
+   "accepted": "26 May 2025",
+   "days": 240,
+   "refs": 24
+  },
+  {
+   "doi": "10.3389/fmed.2024.1483864",
+   "received": "09 September 2024",
+   "accepted": "19 November 2024",
+   "days": 71,
+   "refs": 82
+  },
+  {
+   "doi": "10.3389/fmed.2025.1595637",
+   "received": "28 March 2025",
+   "accepted": "29 July 2025",
+   "days": 123,
+   "refs": 23
+  },
+  {
+   "doi": "10.3389/fmed.2025.1689618",
+   "received": "21 August 2025",
+   "accepted": "28 October 2025",
+   "days": 68,
+   "refs": 24
+  },
+  {
+   "doi": "10.3389/fmed.2025.1619819",
+   "received": "28 April 2025",
+   "accepted": "26 June 2025",
+   "days": 59,
+   "refs": 45
+  },
+  {
+   "doi": "10.3389/fmed.2025.1630171",
+   "received": "17 May 2025",
+   "accepted": "30 July 2025",
+   "days": 74,
+   "refs": 28
+  },
+  {
+   "doi": "10.3389/fmed.2025.1564135",
+   "received": "21 January 2025",
+   "accepted": "26 May 2025",
+   "days": 125,
+   "refs": 41
+  },
+  {
+   "doi": "10.3389/fmed.2025.1595754",
+   "received": "18 March 2025",
+   "accepted": "02 June 2025",
+   "days": 76,
+   "refs": 11
+  },
+  {
+   "doi": "10.3389/fmed.2025.1607485",
+   "received": "07 April 2025",
+   "accepted": "15 July 2025",
+   "days": 99,
+   "refs": 31
+  },
+  {
+   "doi": "10.3389/fmed.2025.1539531",
+   "received": "04 December 2024",
+   "accepted": "26 August 2025",
+   "days": 265,
+   "refs": 36
+  },
+  {
+   "doi": "10.3389/fmed.2025.1577154",
+   "received": "15 February 2025",
+   "accepted": "29 May 2025",
+   "days": 103,
+   "refs": 35
+  },
+  {
+   "doi": "10.3389/fmed.2025.1627354",
+   "received": "12 May 2025",
+   "accepted": "16 May 2025",
+   "days": 4,
+   "refs": 13
+  },
+  {
+   "doi": "10.3389/fmed.2025.1600412",
+   "received": "26 March 2025",
+   "accepted": "09 June 2025",
+   "days": 75,
+   "refs": 13
+  },
+  {
+   "doi": "10.3389/fmed.2025.1647682",
+   "received": "16 June 2025",
+   "accepted": "22 August 2025",
+   "days": 67,
+   "refs": 25
+  },
+  {
+   "doi": "10.3389/fmed.2025.1569143",
+   "received": "31 January 2025",
+   "accepted": "13 June 2025",
+   "days": 133,
+   "refs": 24
+  },
+  {
+   "doi": "10.3389/fmed.2025.1558229",
+   "received": "09 January 2025",
+   "accepted": "10 January 2025",
+   "days": 1,
+   "refs": 0
+  },
+  {
+   "doi": "10.3389/fmed.2025.1681770",
+   "received": "07 August 2025",
+   "accepted": "07 October 2025",
+   "days": 61,
+   "refs": 54
+  },
+  {
+   "doi": "10.3389/fmed.2025.1607223",
+   "received": "07 April 2025",
+   "accepted": "12 June 2025",
+   "days": 66,
+   "refs": 30
+  },
+  {
+   "doi": "10.3389/fmed.2025.1647413",
+   "received": "16 June 2025",
+   "accepted": "13 August 2025",
+   "days": 58,
+   "refs": 13
+  },
+  {
+   "doi": "10.3389/fmed.2025.1538280",
+   "received": "02 December 2024",
+   "accepted": "04 July 2025",
+   "days": 214,
+   "refs": 20
+  },
+  {
+   "doi": "10.3389/fmed.2025.1603472",
+   "received": "31 March 2025",
+   "accepted": "22 May 2025",
+   "days": 52,
+   "refs": 33
+  },
+  {
+   "doi": "10.3389/fmed.2025.1659691",
+   "received": "04 July 2025",
+   "accepted": "18 September 2025",
+   "days": 76,
+   "refs": 18
+  },
+  {
+   "doi": "10.3389/fmed.2025.1569161",
+   "received": "31 January 2025",
+   "accepted": "17 February 2025",
+   "days": 17,
+   "refs": 0
+  },
+  {
+   "doi": "10.3389/fmed.2024.1394897",
+   "received": "10 May 2024",
+   "accepted": "19 December 2024",
+   "days": 223,
+   "refs": 24
+  },
+  {
+   "doi": "10.3389/fmed.2025.1518707",
+   "received": "28 October 2024",
+   "accepted": "10 February 2025",
+   "days": 105,
+   "refs": 33
+  },
+  {
+   "doi": "10.3389/fmed.2025.1557599",
+   "received": "24 January 2025",
+   "accepted": "05 September 2025",
+   "days": 224,
+   "refs": 46
+  },
+  {
+   "doi": "10.3389/fmed.2025.1657004",
+   "received": "30 June 2025",
+   "accepted": "02 September 2025",
+   "days": 64,
+   "refs": 37
+  },
+  {
+   "doi": "10.3389/fmed.2024.1422600",
+   "received": "08 May 2024",
+   "accepted": "12 November 2024",
+   "days": 188,
+   "refs": 38
+  },
+  {
+   "doi": "10.3389/fmed.2025.1684134",
+   "received": "18 August 2025",
+   "accepted": "15 October 2025",
+   "days": 58,
+   "refs": 38
+  },
+  {
+   "doi": "10.3389/fmed.2025.1501242",
+   "received": "24 September 2024",
+   "accepted": "10 February 2025",
+   "days": 139,
+   "refs": 8
+  },
+  {
+   "doi": "10.3389/fmed.2024.1522525",
+   "received": "04 November 2024",
+   "accepted": "12 December 2024",
+   "days": 38,
+   "refs": 18
+  },
+  {
+   "doi": "10.3389/fmed.2024.1478636",
+   "received": "10 August 2024",
+   "accepted": "19 November 2024",
+   "days": 101,
+   "refs": 30
+  }
+ ]
+}

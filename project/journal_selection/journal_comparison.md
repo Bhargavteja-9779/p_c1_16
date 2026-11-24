@@ -85,3 +85,14 @@ Letters/correspondence are accepted much faster than research papers and would b
 | Energy Informatics | 163 / 65 | 102 / 64.0 / 48.0–80.25 | 61 / 67 |
 
 Integrity screen: all shortlisted journals are Springer Nature / BMC titles (reputable publisher, not on any exclusion list we are aware of). No Web of Science delisting found for them; this screen is based on our knowledge plus the publisher pages, not on a Clarivate lookup (UNVERIFIED).
+
+## Frontiers journals (user said on 2026-11-24 that Frontiers journals are acceptable)
+Frontiers deposits no dates in Crossref. Dates were parsed from the public article pages for the first 40 Crossref DOIs in the same window (`scripts/frontiers_scan.py`, evidence in `raw/frontiers_<issn>.json`).
+
+| Journal | n | median days | range | share ≤72 d | JIF |
+|---|---|---|---|---|---|
+| Frontiers in Medicine (2296-858X) | 40 | 69.5 | 1–265 | 0.525 | not checked (UNVERIFIED) |
+| Frontiers in Digital Health (2673-253X) | 40 | 120 | 1–594 | 0.275 | not checked |
+| Frontiers in Public Health | scan interrupted | — | — | — | — |
+
+Conclusion: Frontiers in Medicine also passes the ≤72-day rule (on a sample of 40, letters not removed). Critical Care is kept because it passes on full articles only (n=318) and has a far higher verified JIF (11.4). Frontiers in Medicine is a second fallback.
