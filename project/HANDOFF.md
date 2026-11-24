@@ -1,10 +1,11 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-24 (cycle 1, Phase 3 — diagnosis done, topic choice in progress)_
+_Last updated: 2026-11-24 23:20 UTC (cycle 1, E6 confirmation running — resumed in session 3)_
 
 ## Where we are
 - **Cycle:** 1 **Phase:** E6 confirmation running (Phases 1–4 done; E1/E2 exploration done)
 - **NEXT ACTION:**
+  0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy`, `bash scripts/download_physionet2019.sh` (repeat until `bad=0`), then `python3 scripts/prepare_data.py` (~4 min; must print md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d — the split is pinned in configs/, D19).
   1. `python3 scripts/status.py`. If E6 is not finished: `nohup setsid python3 run_all.py --mode full --resume --workers 2 --only E6_confirm > logs/run_all_E6.out 2>&1 < /dev/null &` (idempotent).
   2. When 100/100 E6 jobs are done, run the FROZEN analysis (commit 641c403):
      `python3 scripts/analyze_transport.py --experiment E6_confirm --split test --fix-exp E6_confirm --nboot 2000`
@@ -46,9 +47,10 @@ _Last updated: 2026-11-24 (cycle 1, Phase 3 — diagnosis done, topic choice in 
 | G11 Integrity audit | unknown | — |
 
 ## Last decisions (full log: state/decisions.md)
-D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4 Critical Care selected; D5 no browser scraping of ScienceDirect; D6 budget = machine-occupied hours; D7 literature via sub-agent, spot-checked; D8 Frontiers allowed by user — Frontiers in Medicine 69.5 d (n=40) is fallback #2; D9 diagnose before choosing a method; D10 paused for account switch.
+D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4 Critical Care selected; D5 no browser scraping of ScienceDirect; D6 budget = machine-occupied hours; D7 literature via sub-agent, spot-checked; D8 Frontiers fallback; D9 diagnose first; D10–D11 account switch; D12–D16 diagnosis → topic v2 (factorial unit × hospital); D17 plan_v2, analysis frozen 641c403; D18 resumed (session 3); **D19 split pinned in git after B-split drift on re-download (journal 011)**.
 
 ## Last failures
+- Session 3: E6 relaunch crashed (processed caches missing) → `scripts/prepare_data.py`. Rule-based split drifted for hospital B after re-download → reconstructed old split from committed predictions, pinned in configs/ (D19).
 - PhysioNet 2019 zip URL 404 → switched to parallel per-file download.
 - Elsevier metrics pages 403 → Elsevier journals unverifiable.
 - Topic idea 1 already published (dead end, not a code failure).
@@ -66,13 +68,13 @@ D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4
 - Agent supervisor (Layer B): `nohup setsid bash scripts/supervisor.sh >/dev/null 2>&1 &` ; stop: `touch state/STOP_SUPERVISOR`
 
 ## Known problems
-- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/dazzling-albattani-8k4faw`.
+- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/lucid-bell-7mlvge` (D18; earlier: dazzling-albattani-8k4faw).
 - **Layer B auto-restart is not active.** The `claude` CLI exists here, but running a nested agent inside this live session would create two agents editing the same repo. On your own machine, run `scripts/supervisor.sh` (it detects the CLI). Otherwise: open a new session on this repo/branch and paste `BOOTSTRAP_PROMPT.txt`.
-- Raw data (`data/`) is git-ignored; re-download with `scripts/download_physionet2019.sh` (2019 sepsis, CC BY 4.0); 2012 challenge and eICU demo download commands are in decisions/journal (PhysioNet open files).
+- Raw data (`data/`) is git-ignored; after re-download ALWAYS run `python3 scripts/prepare_data.py`. Re-download with `scripts/download_physionet2019.sh` (2019 sepsis, CC BY 4.0); 2012 challenge and eICU demo download commands are in decisions/journal (PhysioNet open files).
 
 ## Moving to a new account
 1. Make sure the latest work is pushed (`git push`).
-2. In the new session, check out branch `claude/dazzling-albattani-8k4faw` of `p_c1_16`.
+2. In the new session, check out the most recent `claude/*` branch of `p_c1_16` (currently `claude/lucid-bell-7mlvge`) and fast-forward the session branch onto it.
 3. Paste the contents of `project/BOOTSTRAP_PROMPT.txt`.
 
 ## Where things are
