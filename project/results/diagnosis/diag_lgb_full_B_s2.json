@@ -1,0 +1,56 @@
+{
+  "config_id": "diag_lgb_full_B_s2",
+  "source": "B",
+  "target": "A",
+  "feature_set": "full",
+  "n_features": 134,
+  "seed": 2,
+  "best_iter": 83,
+  "params": {
+    "objective": "binary",
+    "learning_rate": 0.05,
+    "num_leaves": 63,
+    "min_child_samples": 100,
+    "feature_fraction": 0.8,
+    "bagging_fraction": 0.8,
+    "bagging_freq": 1,
+    "lambda_l2": 1.0,
+    "n_jobs": 4,
+    "verbose": -1,
+    "seed": 2
+  },
+  "source_val": {
+    "auroc_hour": 0.860919387154714,
+    "auprc_hour": 0.13214073038537613,
+    "prev_hour": 0.014170053908534524,
+    "auroc_patient": 0.867130960354226,
+    "auprc_patient": 0.4189351307811596,
+    "n_patients": 4000
+  },
+  "target_val": {
+    "auroc_hour": 0.7628273064232681,
+    "auprc_hour": 0.06985383161972007,
+    "prev_hour": 0.021791428535061035,
+    "auroc_patient": 0.750542994467632,
+    "auprc_patient": 0.3037205367456329,
+    "n_patients": 4067
+  },
+  "seconds": 7.9,
+  "top_gain": {
+    "ICULOS": 0.14400665238040183,
+    "HospAdmTime": 0.05615052788268502,
+    "WBC_last": 0.04163867371344838,
+    "Platelets_last": 0.027985015128012436,
+    "Creatinine_last": 0.026789103907810446,
+    "Age": 0.02387376321767353,
+    "EtCO2_hsince": 0.0227670203676651,
+    "pH_hsince": 0.022609871360772037,
+    "BUN_last": 0.02247032506995234,
+    "Temp_last": 0.021997805477321376,
+    "AST_last": 0.021716680167088026,
+    "Alkalinephos_last": 0.02025236071308341,
+    "Temp_max6": 0.01972978225945366,
+    "HR_max6": 0.019401329642339232,
+    "FiO2_hsince": 0.017257897052789226
+  }
+}
