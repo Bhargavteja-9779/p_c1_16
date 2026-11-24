@@ -14582,5 +14582,18 @@
   }
  ],
  "claims": [],
- "scores": []
+ "scores": [
+  {
+   "cycle": 1,
+   "date": "2026-11-24",
+   "differentiation": 3,
+   "mechanism": 2,
+   "evidence": 3,
+   "breadth": 1,
+   "significance": 3,
+   "total": 12,
+   "blind_reviewer": "not yet run",
+   "notes": "H1 confirmed on one dataset; H2 fixes do not recover site loss; H3 estimators unreliable. Breadth is the weakest dimension."
+  }
+ ]
 }

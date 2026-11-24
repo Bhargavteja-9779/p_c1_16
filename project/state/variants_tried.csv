@@ -263,3 +263,7 @@ E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,1,2026-11-24,lgbm fixes=harm_n
 E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,1,2026-11-24,lgbm fixes=harm_noproc_norm train B_SICU -> A_SICU,E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,A_SICU-val,auroc_hourly,0.7466,explore,
 E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,1,2026-11-24,lgbm fixes=harm_noproc_norm train B_SICU -> B_MICU,E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,B_MICU-val,auroc_hourly,0.7795,explore,
 E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,1,2026-11-24,lgbm fixes=harm_noproc_norm train B_SICU -> B_SICU,E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val,B_SICU-val,auroc_hourly,0.8500,explore,
+E6_H1_lgbm,1,2026-11-24,"LightGBM D=site-unit gap, hour AUROC, test, seeds 100-104",E6_H1_lgbm,test,D_auroc,0.026,H1 supported,"CI [0.005,0.049], Holm p 0.018"
+E6_H1_lr,1,2026-11-24,"LR D=site-unit gap, hour AUROC, test",E6_H1_lr,test,D_auroc,0.063,H1 supported,"CI [0.031,0.098], Holm p 0.0015"
+E6_H2_harm_noproc_norm,1,2026-11-24,share of D removed by harm+noproc+norm (LightGBM),E6_H2_harm_noproc_norm,test,share,0.85,pre-spec test passes; artefact,site-src AUROC unchanged 0.763->0.762; unit-src drops 0.790->0.766 (journal 012)
+E6_H3_lgbm_iw,1,2026-11-24,"IW label-free AUROC estimate, share |err|>0.03",E6_H3_lgbm_iw,test,share,0.77,H3 supported,MAE 0.067

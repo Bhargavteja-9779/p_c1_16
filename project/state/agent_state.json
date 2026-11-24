@@ -1,9 +1,9 @@
 {
  "cycle": 1,
- "phase": "CYCLE1_E6_CONFIRM",
- "step": "E6 running (test, seeds 100-104)",
+ "phase": "CYCLE1_ANALYSIS",
+ "step": "E6 analysed; next G8 leakage check, G4 comparison, plan_v3 (eICU demo breadth)",
  "status": "RUNNING",
  "pivots": 0,
- "last_action": "E1/E2 explore done; plan_v2; analysis frozen 641c403; E6 launched",
+ "last_action": "E6 100/100 done; frozen analysis + E5 run; journal 012; D21",
  "updated": "2026-11-24"
 }

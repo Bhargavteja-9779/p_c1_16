@@ -1,23 +1,22 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-24 23:20 UTC (cycle 1, E6 confirmation running — resumed in session 3)_
+_Last updated: 2026-11-24 ~23:50 UTC (cycle 1, E6 done and analysed — session 3)_
 
 ## Where we are
-- **Cycle:** 1 **Phase:** E6 confirmation running (Phases 1–4 done; E1/E2 exploration done)
+- **Cycle:** 1 **Phase:** E6 done + analysed (journal 012, D21). Nothing running.
 - **NEXT ACTION:**
   0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy`, `bash scripts/download_physionet2019.sh` (repeat until `bad=0`), then `python3 scripts/prepare_data.py` (~4 min; must print md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d — the split is pinned in configs/, D19).
-  1. `python3 scripts/status.py`. If E6 is not finished: `nohup setsid python3 run_all.py --mode full --resume --workers 2 --only E6_confirm > logs/run_all_E6.out 2>&1 < /dev/null &` (idempotent).
-  2. When 100/100 E6 jobs are done, run the FROZEN analysis (commit 641c403):
-     `python3 scripts/analyze_transport.py --experiment E6_confirm --split test --fix-exp E6_confirm --nboot 2000`
-     and `python3 scripts/e5_estimators.py --experiment E6_confirm --split test`.
-  3. Write a RESULT journal entry, update gates G5–G8, the novelty score and variants_tried.
-  4. Then: G4 (compare reproduced numbers with published A/B results), the G7 breadth decision (eICU demo, plan_v3), scripts/final_report.py, scripts/audit_numbers.py, (prior art ≥30 opened: done, D20).
+  1. G8: write `scripts/leakage_check.py` (patient overlap across splits/cells = 0, split pinned md5, harm/norm fitted on train rows only, no target-test rows used in selection) and save results/leakage_check.json.
+  2. G4: compare reproduced A→B / B→A numbers with published PhysioNet 2019 cross-hospital results (preprints202610.1449: XGBoost 0.725→0.608; arXiv 2609.33279, 2609.30781) and explain the gap.
+  3. G7 / breadth: plan_v3 with a second dataset (eICU-CRD demo 2.0.1, mortality, hospital × unit-type factorial) — explore on val, freeze, confirm on fresh seeds. Check feasibility first (cell sizes in the demo are small).
+  4. scripts/final_report.py (Section 12) and scripts/audit_numbers.py; then blind novelty re-score by a fresh-context agent.
 - **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535). Verified median Accepted−Received 66 d; JIF 11.4; JCR quartile UNVERIFIED.
 - **Topic (v2):** factorial ICU-unit × hospital transport analysis of sepsis early warning on PhysioNet 2019 (topic/selected_topic.md).
 - **Hypotheses (plan_v2):**
   - H1: site gap > unit gap.
   - H2: estimate the share of the site component removed by unlabelled fixes.
   - H3: label-free AUROC estimates err > 0.03 in ≥ 50% of transfers.
+- **CONFIRMATION (E6, test, seeds 100–104):** H1 supported — LightGBM D 0.026 [0.005, 0.049], Holm p 0.018; LR D 0.063 [0.031, 0.098], Holm p 0.0015. H2: pre-specified share 0.85 [0.26, 3.13] BUT site-src AUROC unchanged (0.763→0.762); D shrinks because unit-src/local degrade → fixes do not recover site loss. H3 supported: 77–100% of transfers err > 0.03. See journal 012.
 - **Validation results (exploration):**
   - H1: D = 0.043 [0.021, 0.066] for LightGBM; 0.066 for LR.
   - H2: about 0.61 of the site component is removable.
@@ -25,23 +24,23 @@ _Last updated: 2026-11-24 23:20 UTC (cycle 1, E6 confirmation running — resume
   - See journal 010.
 
 ## Running right now
-- `run_all.py --only E6_confirm` (detached, setsid; 2 workers × 2 threads). Logs: logs/run_all.log, logs/jobs/E6_confirm__*.log.
+- Nothing. E6 finished 23:35 UTC (160/160 jobs done).
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
-- Used: ~0.75 h of 15 h (cycle 1); ~0.75 h of 120 h (global); E6 adds ~0.5 h — see state/budget.json.
+- Used: ~1.11 h of 15 h (cycle 1); ~1.11 h of 120 h (global) — state/budget.json (+0.15 h analysis CPU not in ledger).
 
 ## Gate status
 | Gate | Status | Evidence |
 |---|---|---|
 | G1 Journal | PASS on ≤72 d + publisher; **JCR Q1 UNVERIFIED** | journal_selection/selected_journal.md |
 | G2 Prior art | **count met**: 82 queries, 48 papers opened (≥8 queries/claim for P1–P3); claim table done; P1 design appears novel, P2/P3 partly done (D20). Re-check before writing. | state/novelty_ledger.json, literature/claim_table_v2.md |
-| G3 Novelty | unknown | — |
+| G3 Novelty | FAIL (self-score 12/25: diff 3, mech 2, evid 3, breadth 1, signif 3; blind reviewer not run) | state/novelty_ledger.json scores |
 | G4 Baselines | unknown | — |
-| G5 Main result | unknown | — |
-| G6 Ablation | unknown | — |
-| G7 Generalization | unknown | — |
-| G8 Leakage | unknown | — |
+| G5 Main result | PASS for H1 (D16 definition): both models Holm p < 0.05, CI excludes 0, effect 0.026 / 0.063 AUROC (ratio 1.6 / 2.2) | results/analysis/E6_confirm_test.json, journal 012 |
+| G6 Ablation | partial: fixes ablated (harm / noproc / norm), model class and metric level varied | tables/E6_confirm_test_transport.md |
+| G7 Generalization | FAIL so far: 1 dataset (4 cells, 2 directions, 2 models); eICU demo pending | — |
+| G8 Leakage | pending (patient-level pinned split; script to write) | configs/splits_v1.csv |
 | G9 Reproducibility | unknown | — |
 | G10 Review | unknown | — |
 | G11 Integrity audit | unknown | — |
