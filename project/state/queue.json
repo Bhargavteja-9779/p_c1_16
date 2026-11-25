@@ -19042,11 +19042,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__rand1__lgbm__all__full__B_R0__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 2,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T13:21:52+00:00"
+      "started": "2026-11-25T13:21:52+00:00",
+      "finished": "2026-11-25T13:22:47+00:00"
     },
     {
       "id": "E12_dosex__rand1__lgbm__all__full__B_R1__s1__val",
@@ -19076,11 +19077,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__rand1__lgbm__all__full__B_R1__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 2,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T13:21:52+00:00"
+      "started": "2026-11-25T13:21:52+00:00",
+      "finished": "2026-11-25T13:22:47+00:00"
     },
     {
       "id": "E12_dosex__rand2__lgbm__all__full__A_R0__s1__val",
@@ -19110,10 +19112,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__rand2__lgbm__all__full__A_R0__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T13:22:47+00:00"
     },
     {
       "id": "E12_dosex__rand2__lgbm__all__full__A_R1__s1__val",
@@ -19143,10 +19146,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__rand2__lgbm__all__full__A_R1__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T13:22:47+00:00"
     },
     {
       "id": "E12_dosex__rand2__lgbm__all__full__B_R0__s1__val",

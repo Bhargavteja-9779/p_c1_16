@@ -1,0 +1,59 @@
+# Site vs population components of ICU early-warning transport loss
+
+Code for a factorial (hospital × ICU unit) analysis of how much of a clinical early-warning model's
+performance loss in a new hospital is due to the *hospital* (site) rather than the *patients* (population),
+on open PhysioNet data, plus a few-label local repair method (SPRU, plan_v7).
+
+Research state, gates and the next action are in `HANDOFF.md`. Every decision is in `state/decisions.md`;
+the research diary is `journal/ENTRIES/`.
+
+## Requirements
+CPU only (developed on 4 cores, 15 GB RAM). Python 3.11+.
+
+```bash
+pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy pyyaml
+```
+
+## Data (open; git-ignored under `data/raw/`)
+- PhysioNet/CinC Challenge 2019 (sepsis; hospital systems A and B; CC BY 4.0):
+  `bash scripts/download_physionet2019.sh` — repeat until it prints `DONE bad=0` (40,336 files).
+- PhysioNet/CinC Challenge 2012 (MIMIC-II subset): see the "Data" section of `HANDOFF.md` for the curl commands.
+
+## Rebuild processed caches (deterministic)
+```bash
+python3 scripts/prepare_data.py   # must print: splits_v1.csv md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d
+python3 scripts/prepare_v6.py     # task T2 (hypotension) features on 3 databases
+```
+Patient splits are pinned in `configs/` (D19, D32); they are never regenerated for experiments.
+
+## Run experiments
+All jobs come from the current pre-registered plan (`experiments/CURRENT_PLAN`), are idempotent and resumable:
+```bash
+python3 run_all.py --mode quick                 # smoke test
+bash scripts/launch.sh --workers 2              # detached full run (resumes; lock prevents duplicates)
+python3 scripts/status.py                       # progress, compute ledger
+bash scripts/stop.sh                            # stop
+```
+
+## Reproduce the tables
+| Output | Command |
+|---|---|
+| `tables/E1_explore_val_transport.md`, `tables/E6_confirm_test_transport.md` (H1/H2) | `python3 scripts/analyze_transport.py --experiment E6_confirm --split test` |
+| `tables/E5_*` (label-free estimators, H3) | `python3 scripts/e5_estimators.py --experiment E6_confirm --split test` |
+| `tables/v3_*` (H4–H6) | `python3 scripts/analyze_v3.py --phase confirm` |
+| `tables/v4_*` (static task, H7) | `python3 scripts/static_factorial.py analyse --phase confirm` |
+| `results/analysis/v5_*` (dose–response, H8) | `python3 scripts/analyze_v5.py --phase explore` |
+| v6 (T2, 3 databases, H9) | `python3 scripts/analyze_v6.py --phase explore` |
+| v7 (SPRU, H12) | `python3 scripts/analyze_v7.py --phase explore` |
+| G4 published-protocol reproduction | `python3 scripts/g4_reproduce.py` |
+| G8 leakage check | `python3 scripts/leakage_check.py` |
+| Section 12 report | `python3 scripts/final_report.py` |
+| G11 number audit | `python3 scripts/audit_numbers.py` |
+
+Analysis scripts are frozen (commit hashes in `state/decisions.md`) before any confirmation run.
+Test splits are touched only by confirmation runs on seeds 100–104.
+
+## Layout
+`src/` data loading, features, training/evaluation, statistics · `scripts/` jobs, analyses, persistence helpers ·
+`experiments/` versioned plans (never edited after training starts) · `results/`, `tables/`, `figures/` outputs ·
+`literature/`, `journal_selection/` verified sources · `state/` queue, budget, decisions, novelty ledger.
