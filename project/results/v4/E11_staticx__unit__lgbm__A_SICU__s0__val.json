@@ -1,0 +1,34 @@
+{
+ "job_id": "E11_staticx__unit__lgbm__A_SICU__s0__val",
+ "factor": "unit",
+ "model": "lgbm",
+ "train_cell": "A_SICU",
+ "seed": 0,
+ "split": "val",
+ "selection": {
+  "num_leaves": 63,
+  "val_auroc": 0.6958068614993647
+ },
+ "eval": {
+  "A_MICU": {
+   "n": 818,
+   "events": 58,
+   "auroc": 0.673888384754991
+  },
+  "A_SICU": {
+   "n": 812,
+   "events": 25,
+   "auroc": 0.6958068614993647
+  },
+  "B_MICU": {
+   "n": 1107,
+   "events": 51,
+   "auroc": 0.6090314913844325
+  },
+  "B_SICU": {
+   "n": 1018,
+   "events": 54,
+   "auroc": 0.6326264023359459
+  }
+ }
+}

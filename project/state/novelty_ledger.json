@@ -14604,7 +14604,21 @@
    "breadth": 2,
    "significance": 3,
    "total": 15,
-   "blind_reviewer": "not yet run",
+   "blind_reviewer": {
+    "total": 13,
+    "differentiation": 3,
+    "mechanism": 2,
+    "evidence": 3,
+    "breadth": 2,
+    "significance": 3,
+    "agreement": "within 3 points; lower score (13) reported",
+    "major_concerns": [
+     "control strength: site shift larger than within-hospital shifts (domain AUC 1.0 vs 0.71-0.97)",
+     "only two sites",
+     "H2 share-removed framing overstated"
+    ],
+    "suggestion": "dose-response: many within-hospital partitions, gap vs domain AUC, test site gap as outlier"
+   },
    "notes": "H4 confirmed for 3 control factors; process features localise the site excess descriptively (H5 contrast Holm 0.064); one dataset."
   }
  ]
