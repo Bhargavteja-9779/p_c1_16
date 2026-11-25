@@ -54,11 +54,11 @@
 | unit | B_MICU vs B_SICU | 0.902 |
 | unit | A_MICU vs B_MICU | 1.000 |
 | unit | A_SICU vs B_SICU | 1.000 |
-| age | A_Y vs A_O | 1.000 |
-| age | B_Y vs B_O | 1.000 |
+| age | A_Y vs A_O | 0.816 |
+| age | B_Y vs B_O | 0.781 |
 | age | A_Y vs B_Y | 1.000 |
 | age | A_O vs B_O | 1.000 |
-| route | A_D vs A_L | 1.000 |
-| route | B_D vs B_L | 1.000 |
+| route | A_D vs A_L | 0.714 |
+| route | B_D vs B_L | 0.779 |
 | route | A_D vs B_D | 1.000 |
 | route | A_L vs B_L | 1.000 |

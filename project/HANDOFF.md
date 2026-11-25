@@ -1,15 +1,15 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-24 ~23:50 UTC (cycle 1, E6 done and analysed — session 3)_
+_Last updated: 2026-11-25 ~01:30 UTC (cycle 2, plan_v3b confirmation running)_
 
 ## Where we are
-- **Cycle:** 1 **Phase:** E6 done + analysed (journal 012, D21). Nothing running.
+- **Cycle:** 2 **Phase:** plan_v3b CONFIRMATION running (E7–E10 on test, seeds 100–104; 220 jobs). Exploration done (journal 014). analyze_v3.py frozen at 9e2e93b.
 - **NEXT ACTION:**
   0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy`, `bash scripts/download_physionet2019.sh` (repeat until `bad=0`), then `python3 scripts/prepare_data.py` (~4 min; must print md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d — the split is pinned in configs/, D19).
-  1. (done) G8 leakage check PASS — results/leakage_check.json.
-  2. G4: compare reproduced A→B / B→A numbers with published PhysioNet 2019 cross-hospital results (preprints202610.1449: XGBoost 0.725→0.608; arXiv 2609.33279, 2609.30781) and explain the gap.
-  3. G7 / breadth: plan_v3 with a second dataset (eICU-CRD demo 2.0.1, mortality, hospital × unit-type factorial) — explore on val, freeze, confirm on fresh seeds. Check feasibility first (cell sizes in the demo are small).
-  4. scripts/final_report.py (Section 12) and scripts/audit_numbers.py; then blind novelty re-score by a fresh-context agent.
+  1. `python3 scripts/status.py`; if v3 confirm jobs not done: `nohup setsid python3 run_all.py --mode full --resume --workers 2 --only E7_factorsc,E8_mechc,E9_sizec,E10_poolc > logs/run_all_v3c.out 2>&1 < /dev/null &`
+  2. When done: `python3 scripts/analyze_v3.py --phase confirm --nboot 2000` (FROZEN, do not edit), then RESULT journal entry, gates G6/G7, novelty re-score, `python3 scripts/final_report.py`.
+  3. Then: blind novelty re-score by a fresh-context agent; scripts/audit_numbers.py; paper draft (Section 9) once G1–G9 pass; review panel (Section 10).
+  Done this session: G8 PASS (D22); G4 PASS via published-protocol reproduction (D25); prior art 48 opened (D20).
 - **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535). Verified median Accepted−Received 66 d; JIF 11.4; JCR quartile UNVERIFIED.
 - **Topic (v2):** factorial ICU-unit × hospital transport analysis of sepsis early warning on PhysioNet 2019 (topic/selected_topic.md).
 - **Hypotheses (plan_v2):**
@@ -24,7 +24,7 @@ _Last updated: 2026-11-24 ~23:50 UTC (cycle 1, E6 done and analysed — session 
   - See journal 010.
 
 ## Running right now
-- Nothing. E6 finished 23:35 UTC (160/160 jobs done).
+- run_all.py --only E7_factorsc,E8_mechc,E9_sizec,E10_poolc (detached; started 01:03 UTC). Log: logs/run_all_v3c.out.
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
@@ -36,7 +36,7 @@ _Last updated: 2026-11-24 ~23:50 UTC (cycle 1, E6 done and analysed — session 
 | G1 Journal | PASS on ≤72 d + publisher; **JCR Q1 UNVERIFIED** | journal_selection/selected_journal.md |
 | G2 Prior art | **count met**: 82 queries, 48 papers opened (≥8 queries/claim for P1–P3); claim table done; P1 design appears novel, P2/P3 partly done (D20). Re-check before writing. | state/novelty_ledger.json, literature/claim_table_v2.md |
 | G3 Novelty | FAIL (self-score 12/25: diff 3, mech 2, evid 3, breadth 1, signif 3; blind reviewer not run) | state/novelty_ledger.json scores |
-| G4 Baselines | unknown | — |
+| G4 Baselines | PASS: published protocol reproduced — cohort 30,629/1,837 vs 30,646/1,843; A→B drop −0.115 vs −0.117 (D25) | results/g4_reproduce.json |
 | G5 Main result | PASS for H1 (D16 definition): both models Holm p < 0.05, CI excludes 0, effect 0.026 / 0.063 AUROC (ratio 1.6 / 2.2) | results/analysis/E6_confirm_test.json, journal 012 |
 | G6 Ablation | partial: fixes ablated (harm / noproc / norm), model class and metric level varied | tables/E6_confirm_test_transport.md |
 | G7 Generalization | FAIL so far: 1 dataset (4 cells, 2 directions, 2 models); eICU demo pending | — |
