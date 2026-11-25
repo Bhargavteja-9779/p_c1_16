@@ -1,0 +1,146 @@
+# plan_v6 (cycle 3), 2026-11-25. Written BEFORE any v6 model was fitted and before any v6 outcome statistic was
+# inspected. Inherits plan_v5 (E12_dose still to finish under plan_v5; unchanged).
+# Reason (D31): G3 fails at 13/25 (blind). Weakest dimensions: breadth 2 (one dataset, one task; static task
+# underpowered, D30) and mechanism 2. v6 replicates the site-vs-population factorial on a SECOND TASK across THREE
+# open ICU databases with the unit control available in all of them.
+# ---- plan_v5 content copied verbatim below (keys unchanged), then the v6 block ----
+version: 6
+date: 2026-11-25
+inherits: plan_v5.yaml
+# plan_v5 (cycle 2), 2026-11-25, written BEFORE any v5 job. Inherits plan_v3b verbatim (all its jobs done) and adds E12_dose.
+# Reason (D29): blind reviewer's MAJOR concern — the site gap may only reflect a larger covariate shift (domain AUC 1.000
+# across hospitals vs 0.71-0.97 within). Dose-response control: many within-hospital partitions; fit transport gap vs
+# shift size; test whether cross-hospital transfers lie above the within-hospital curve.
+# E12_dose partitions (new): sex, age50, age75, route6 (ICU within 6 h of hospital admission), los (stay >= 48 h),
+# rand1-3 (hash halves, no shift by construction). Reused: unit (E1/E6), age, route (E7). LightGBM, all features.
+# Analysis: scripts/analyze_v5.py (written before results; frozen before plan_v5b adds confirm for E12).
+# H8 (primary): residual R = mean over cross-hospital transfers of [gap - (a + b*S)] > 0, where (a, b) is the OLS fit of
+#     within-hospital transfer gaps on shift size S = classifier-estimated symmetric KL (LightGBM domain classifier,
+#     train rows -> val rows, probabilities clipped at 1e-6; computed without outcome labels). Bootstrap over partitions
+#     (cluster = partition, 2000 at confirmation), one-sided evidence reported as two-sided p.
+# H8-sens: same with S = domain AUC; and with an isotonic (monotone) fit. Extrapolation range reported.
+# H8b (conservative, no extrapolation): mean cross-hospital gap > the largest partition-level mean within-hospital gap
+#     among the 11 partitions (bootstrap over patients/seeds via per-partition CIs is NOT used; reported as point check
+#     + partition-bootstrap probability).
+# plan_v3 (cycle 2), written 2026-11-25 BEFORE any v3 job ran. plan_v2 and its E6 results are untouched.
+# Reason (decisions D23): G7/breadth failed (one dataset, one control factor); eICU-CRD demo cannot support a
+# factorial (2,520 stays / 186 hospitals, ~220 deaths, journal 013) and no other open multi-site ICU dataset with
+# both site and unit exists. G7 allows ">= 2 shift conditions": we add two more within-hospital control factors,
+# a mechanism experiment (feature groups), a size-matched robustness check and a practical pooled-training question.
+# Model code = frozen src/train_eval.py (fit_lgbm / fit_lr / metrics) via src/train_eval_v3.py.
+seeds_explore: [0, 1, 2]
+seeds_confirm: [100, 101, 102, 103, 104]
+# plan_v2 job list, copied verbatim (all done; ids unchanged):
+models:
+  lgbm:
+    grid_num_leaves:
+    - 15
+    - 63
+    - 255
+    early_stopping_on: source-cell val
+  lr:
+    grid_C:
+    - 0.01
+    - 0.1
+    - 1.0
+    selection_on: source-cell val
+cells:
+- A_MICU
+- A_SICU
+- B_MICU
+- B_SICU
+experiments:
+  E1_explore:
+    desc: done under plan_v1
+    train_cells: all
+    models:
+    - lgbm
+    - lr
+    seeds: explore
+    fixes:
+    - none
+    eval_split: val
+  E2_fixes:
+    desc: done under plan_v1
+    train_cells: all
+    models:
+    - lgbm
+    seeds: explore
+    fixes:
+    - harm
+    - harm_noproc
+    - harm_noproc_norm
+    eval_split: val
+  E5_estimate:
+    desc: scripts/e5_estimators.py (split-half few-label check) on E6 test predictions
+  E6_confirm:
+    desc: FROZEN config on TEST with seeds_confirm; analysis = scripts/analyze_transport.py --nboot 2000 and scripts/e5_estimators.py at commit tagged in decisions D17
+    train_cells: all
+    models:
+    - lgbm
+    - lr
+    seeds: confirm
+    fixes:
+    - none
+    - harm
+    - harm_noproc
+    - harm_noproc_norm
+    eval_split: test
+v3:
+  phases: [explore, confirm]   # plan_v3b: ONLY change vs plan_v3 (analysis frozen first, D25)
+  experiments:
+    - {id: E7_factors, factors: [age, route], models: [lgbm, lr]}                       # H4
+    - {id: E8_mech, factors: [unit], featsets: [vitals, labs, noproc, proc], models: [lgbm]}  # H5 (+ 'all' = E1/E6)
+    - {id: E9_size, factors: [unit], size: matched, models: [lgbm, lr]}                 # H6
+    - {id: E10_pool, factors: [unit], pooled: true, models: [lgbm]}                     # estimation only
+    - {id: E12_dose, factors: [sex, age50, age75, route6, los, rand1, rand2, rand3], models: [lgbm], phases: [explore]}  # H8
+hypotheses:
+  H4: "With age band (Y<65/O>=65) and admission route (D: ICU within 24 h of hospital admission / L: later) as the
+       within-hospital control factor, D = gap_site - gap_unit(control) > 0 (LightGBM and LR; 4 tests, Holm within
+       the v3 family). Reported with domain-classifier AUC for each control vs site shift (shift-size context)."
+  H5: "Mechanism: the site excess D (unit factor) is smaller for vitals-only models than for all-feature models
+       (D_all - D_vitals > 0, LightGBM). D for labs-only, process-only and no-process models is estimated."
+  H6: "D > 0 persists when every source cell's training set is subsampled to the same number of patients
+       (LightGBM and LR)."
+  E10: "Estimate: for target t, AUROC of a model trained on (same hospital other unit + other hospital same unit)
+        pooled vs each source alone. No test."
+inference: "Same as plan_v2: patient-cluster bootstrap within target cell, 2000 resamples at confirmation, mean over
+  seeds and 4 target cells, two-sided p, Holm across the v3 confirmatory family {H4 x4, H5, H6 x2}."
+v6:
+  phases: [explore]   # plan_v6b will add confirm ONLY after analyze_v6.py is frozen
+  task_T2:
+    name: hypotension early warning
+    label: any hourly MAP < 65 mmHg in (t, t+6]
+    rows: hours t = 6..42 of stays covering hour 48; eligible if MAP observed in hours t-1..t with last value >= 65 and >= 1 MAP in (t, t+6]
+    blood_pressure_2012: invasive value if recorded in the hour, else non-invasive
+    features: src/features.py groups on the 24 variables common to both databases; context Age, Gender, ICULOS
+    code: scripts/prepare_v6.py (data), src/train_eval_v6.py (jobs; reuses frozen fit_lgbm / fit_lr and grids)
+  sites:
+    A: PhysioNet 2019 hospital system A = Beth Israel Deaconess Medical Center (Reyna et al. 2020, PMC6964870)
+    B: PhysioNet 2019 hospital system B = Emory University Hospital (same source)
+    M: PhysioNet 2012 = MIMIC-II (Silva et al. 2012 abstract); MIMIC-II is from 'a tertiary care hospital', 2001-2007
+       (Saeed et al. 2011 abstract). Identity of M with site A is UNVERIFIED in sources we opened -> M treated as a
+       separate site; any A-M vs B-M contrast is descriptive only (H10).
+  cells: [A_MICU, A_SICU, B_MICU, B_SICU, M_MICU, M_SICU]
+  split: 2019 patients keep pinned v1 split; 2012 patients 60/20/20 by (unit, ever-positive), seed 2027, pinned configs/splits_v6_m.csv
+  models: {lgbm: {grid_num_leaves: [15, 63, 255]}, lr: {grid_C: [0.01, 0.1, 1.0]}}   # identical tuning budget, source-cell val
+  experiments:
+    E13_T2: {train_cells: all, models: [lgbm, lr], featsets: [all], phases: [explore, confirm]}
+    E14_T2_mech: {train_cells: all, models: [lgbm], featsets: [vitals, noproc], phases: [explore, confirm]}
+  analysis: scripts/analyze_v6.py (written before results; frozen before confirm)
+  definitions:
+    gap(s->t): AUROC on target-cell eval rows of the local model trained on t minus that of the model trained on s (hour level)
+    W  (within-site, other unit): 6 transfers
+    X  (other site, same unit): 12 transfers
+    XX (other site, other unit): 12 transfers
+  hypotheses:
+    H9: "PRIMARY. D9 = mean over target cells t of [mean gap of X-transfers into t - gap of the W-transfer into t] > 0.
+         Per model class (lgbm, lr); Holm over the 2 models. CI and p from a cluster bootstrap over target-cell patients
+         (2000 reps at confirmation; seeds averaged inside each replicate). Non-trivial effect: D9 >= 0.01 AUROC."
+    H9b: "Per site pair (A-B, A-M, B-M): D_pair = mean X-gap between the pair's cells - mean W-gap of the same target
+          cells > 0; Holm over 3 pairs x 2 models (6 tests)."
+    H9c: "Mechanism (E14, lgbm): D9(all) - D9(noproc) > 0 (process features carry part of the site excess); one test with
+          CI. D9(vitals) estimated."
+    H10: "Descriptive only: mean gap A<->M vs B<->M (same unit). No test (site identity of M unverified)."
+  reporting: AUPRC and patient-level AUROC for every transfer; n events per cell; all variants in state/variants_tried.csv
+  compute_estimate_h: 1.5

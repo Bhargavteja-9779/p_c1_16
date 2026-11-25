@@ -1,0 +1,21 @@
+{
+ "split_md5": "0883ae5b4726bdc6fbe0c41bbc4f7d6d",
+ "split_md5_matches_pinned": true,
+ "pid_unique_in_split_file": true,
+ "patients_in_cells": 24719,
+ "patients_in_>1_split": 0,
+ "patients_in_>1_cell": 0,
+ "duplicate_patient_series": 0,
+ "duplicate_examples": [],
+ "lookahead_patients_checked": 200,
+ "lookahead_mismatches": 0,
+ "forbidden_features_used": [],
+ "code_assertions": {
+  "train_rows_from_source_train_only": true,
+  "selection_on_source_val_only": true,
+  "lr_preprocessing_from_train": true,
+  "quantile_norm_reference_train_rows": true
+ },
+ "notes": "Quantile normalisation (harm_noproc_norm) uses UNLABELLED train-split rows of both hospitals, by design (unlabelled site fix); no test rows and no target labels are used. Split history: journal 011 / D19 (B split reconstructed and pinned).",
+ "PASS": true
+}

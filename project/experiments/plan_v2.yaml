@@ -1,0 +1,27 @@
+# plan_v2: supersedes plan_v1 for E6 only. Reason (state/decisions.md D17): the validation results for E2
+# (exploration) estimated the share of the site component removed by unlabelled fixes at 0.61 [0.33, 1.29],
+# so the directional H2 ("< 0.5") of plan_v1 is not supportable as a confirmatory claim. H2 becomes a pre-specified
+# ESTIMATION target with a reported CI, not a directional test. E5's few-label check changed to split-half
+# (removes finite-population optimism). H1, H3, models, grids, seeds, splits and the E6 job list are UNCHANGED.
+version: 2
+date: 2026-11-24
+inherits: plan_v1.yaml
+cells: [A_MICU, A_SICU, B_MICU, B_SICU]
+features: "src/features.py v1"
+splits: "src/splits.py SPLIT_SEED=2026"
+models:
+  lgbm: {grid_num_leaves: [15, 63, 255], early_stopping_on: source-cell val}
+  lr:   {grid_C: [0.01, 0.1, 1.0], selection_on: source-cell val}
+tuning_budget: 3 configurations per model class (equal)
+seeds_explore: [0, 1, 2]
+seeds_confirm: [100, 101, 102, 103, 104]
+experiments:
+  E1_explore:  {desc: "done under plan_v1", train_cells: all, models: [lgbm, lr], seeds: explore, fixes: [none], eval_split: val}
+  E2_fixes:    {desc: "done under plan_v1", train_cells: all, models: [lgbm], seeds: explore, fixes: [harm, harm_noproc, harm_noproc_norm], eval_split: val}
+  E5_estimate: {desc: "scripts/e5_estimators.py (split-half few-label check) on E6 test predictions"}
+  E6_confirm:  {desc: "FROZEN config on TEST with seeds_confirm; analysis = scripts/analyze_transport.py --nboot 2000 and scripts/e5_estimators.py at commit tagged in decisions D17", train_cells: all, models: [lgbm, lr], seeds: confirm, fixes: [none, harm, harm_noproc, harm_noproc_norm], eval_split: test}
+confirmatory:
+  H1: "D = mean over 4 target cells of [gap_site - gap_unit] > 0, hour-level AUROC, LightGBM and LR (two tests). Two-sided paired patient-cluster bootstrap p (2000), Holm across the family {H1-lgbm, H1-lr, H2-reduction}. G5 standard: Holm p < 0.05, CI excludes 0, effect reported as AUROC difference and site/unit ratio."
+  H2: "ESTIMATE the share of D removed by harm_noproc_norm (LightGBM) with 95% CI; the test in the Holm family is 'D reduction > 0'."
+  H3: "label-free estimators (internal, implied, IW): share of transfer x seed with |error| > 0.03, per model; supported if >= 0.5 for every estimator."
+secondary: [patient-level AUROC, AUPRC, calibration slope/citl, per-cell results]

@@ -1,0 +1,9 @@
+{
+  "cycle": 1,
+  "phase": "PHASE3_TOPIC",
+  "step": "D9_diagnostic",
+  "status": "RUNNING",
+  "pivots": 0,
+  "last_action": "resumed; data re-download + diagnostic script src/diagnose.py",
+  "updated": "2026-11-24"
+}

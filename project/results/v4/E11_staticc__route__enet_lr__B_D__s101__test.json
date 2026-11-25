@@ -1,0 +1,34 @@
+{
+ "job_id": "E11_staticc__route__enet_lr__B_D__s101__test",
+ "factor": "route",
+ "model": "enet_lr",
+ "train_cell": "B_D",
+ "seed": 101,
+ "split": "test",
+ "selection": {
+  "C": 0.1,
+  "val_auroc": 0.7400756574449661
+ },
+ "eval": {
+  "A_D": {
+   "n": 2258,
+   "events": 161,
+   "auroc": 0.6612344757521096
+  },
+  "A_L": {
+   "n": 889,
+   "events": 75,
+   "auroc": 0.5868304668304668
+  },
+  "B_D": {
+   "n": 1843,
+   "events": 72,
+   "auroc": 0.7077608381956206
+  },
+  "B_L": {
+   "n": 1086,
+   "events": 57,
+   "auroc": 0.6119039094334476
+  }
+ }
+}

@@ -1,0 +1,12 @@
+diag_all_A2B_s0: int 0.814 ext 0.779 (pat 0.828/0.793) it=85
+diag_all_B2A_s0: int 0.865 ext 0.759 (pat 0.874/0.752) it=72
+diag_no_process_A2B_s0: int 0.787 ext 0.789 (pat 0.808/0.800) it=64
+diag_no_process_B2A_s0: int 0.847 ext 0.753 (pat 0.859/0.750) it=66
+diag_no_iculos_A2B_s0: int 0.796 ext 0.756 (pat 0.814/0.758) it=84
+diag_no_iculos_B2A_s0: int 0.861 ext 0.715 (pat 0.868/0.727) it=110
+diag_no_process_no_iculos_A2B_s0: int 0.751 ext 0.745 (pat 0.784/0.750) it=88
+diag_no_process_no_iculos_B2A_s0: int 0.836 ext 0.689 (pat 0.851/0.708) it=71
+diag_process_only_A2B_s0: int 0.772 ext 0.675 (pat 0.793/0.712) it=62
+diag_process_only_B2A_s0: int 0.792 ext 0.703 (pat 0.791/0.709) it=50
+diag_vitals_only_A2B_s0: int 0.667 ext 0.673 (pat 0.713/0.699) it=62
+diag_vitals_only_B2A_s0: int 0.758 ext 0.625 (pat 0.780/0.651) it=78

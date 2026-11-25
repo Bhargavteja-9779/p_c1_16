@@ -1,0 +1,21 @@
+# plan_v4b (2026-11-25): identical to plan_v4 except phases include confirm. scripts/static_factorial.py frozen at the commit in D28.
+# plan_v4 (cycle 2), 2026-11-25, written BEFORE any v4 result. plan_v3b and its results are untouched.
+# Reason (D27): breadth is the weakest novelty dimension; no second open multi-site dataset exists (journal 013).
+# A second, structurally different PREDICTION TASK on the same cohort is an additional condition:
+# the published static early-warning task (doi:10.20944/preprints202610.1449.v1; reproduced in results/g4_reproduce.json):
+# one prediction per stay at hour 12 from a 12-h window (243-column window summary, scripts/g4_reproduce.py features),
+# label = any SepsisLabel after hour 12; stays with >= 24 records and no positive label in hours 1-12.
+version: 4
+date: 2026-11-25
+inherits: plan_v3b.yaml
+task: static12
+script: scripts/static_factorial.py
+factors: [unit, route]          # age excluded a priori: weak control in the hourly task (journal 014/015)
+models: [lgbm, enet_lr]         # same grids as scripts/g4_reproduce.py (LightGBM 3 num_leaves; elastic-net C in {0.01,0.1,1})
+selection: source-cell val      # all of the source cell's val split
+seeds_explore: [0, 1, 2]
+seeds_confirm: [100, 101, 102, 103, 104]
+phases: [explore, confirm]     # plan_v4b: ONLY change (script frozen first, D28)
+hypotheses:
+  H7: "Static 12-h task: D = gap_site - gap_within > 0 for factors unit and route, models lgbm and enet_lr (4 tests),
+       patient-level AUROC, patient bootstrap within target cell (2000 at confirmation), Holm across the 4 tests."

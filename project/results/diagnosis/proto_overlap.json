@@ -1,0 +1,58 @@
+{
+ "all_harm": {
+  "domain_auc": 0.9996371629582885,
+  "frac_mid": 0.032076608202285035,
+  "top": {
+   "HCO3_hsince": 0.529,
+   "HCO3_last": 0.082,
+   "DBP_hsince": 0.064,
+   "HCO3_n24": 0.056,
+   "BaseExcess_hsince": 0.043,
+   "DBP_n24": 0.034,
+   "Calcium_hsince": 0.023,
+   "BaseExcess_n24": 0.018
+  }
+ },
+ "no_process": {
+  "domain_auc": 0.9995663904259006,
+  "frac_mid": 0.034385605844711,
+  "top": {
+   "HCO3_last": 0.564,
+   "Chloride_last": 0.074,
+   "BaseExcess_last": 0.055,
+   "DBP_min6": 0.055,
+   "Calcium_last": 0.036,
+   "DBP_last": 0.024,
+   "HospAdmTime": 0.017,
+   "TroponinI_last": 0.015
+  }
+ },
+ "vitals_values_trends": {
+  "domain_auc": 0.9782949311365108,
+  "frac_mid": 0.2855514391564548,
+  "top": {
+   "Temp_max6": 0.215,
+   "DBP_max6": 0.174,
+   "Temp_last": 0.125,
+   "Temp_min6": 0.122,
+   "DBP_min6": 0.081,
+   "MAP_min6": 0.059,
+   "Temp_d6": 0.055,
+   "MAP_last": 0.025
+  }
+ },
+ "vitals+age_gender": {
+  "domain_auc": 0.9791575279853306,
+  "frac_mid": 0.2869893002409389,
+  "top": {
+   "Temp_max6": 0.2,
+   "DBP_max6": 0.169,
+   "Temp_last": 0.12,
+   "Temp_min6": 0.119,
+   "DBP_min6": 0.081,
+   "MAP_min6": 0.058,
+   "Temp_d6": 0.057,
+   "Age": 0.023
+  }
+ }
+}

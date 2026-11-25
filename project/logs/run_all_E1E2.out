@@ -1,0 +1,123 @@
+[2026-11-24T21:43:17+00:00] mode=full plan=plan_v1.yaml jobs_total=60 added=60
+[2026-11-24T21:43:17+00:00] started E1_explore__lgbm__none__A_MICU__s0__val (pid 386, attempt 1)
+[2026-11-24T21:43:17+00:00] started E1_explore__lgbm__none__A_SICU__s0__val (pid 387, attempt 1)
+[2026-11-24T21:43:42+00:00] done E1_explore__lgbm__none__A_SICU__s0__val
+[2026-11-24T21:43:42+00:00] started E1_explore__lgbm__none__B_MICU__s0__val (pid 417, attempt 1)
+[2026-11-24T21:43:47+00:00] done E1_explore__lgbm__none__A_MICU__s0__val
+[2026-11-24T21:43:47+00:00] started E1_explore__lgbm__none__B_SICU__s0__val (pid 437, attempt 1)
+[2026-11-24T21:44:12+00:00] done E1_explore__lgbm__none__B_MICU__s0__val
+[2026-11-24T21:44:12+00:00] started E1_explore__lgbm__none__A_MICU__s1__val (pid 452, attempt 1)
+[2026-11-24T21:44:22+00:00] done E1_explore__lgbm__none__B_SICU__s0__val
+[2026-11-24T21:44:22+00:00] started E1_explore__lgbm__none__A_SICU__s1__val (pid 462, attempt 1)
+[2026-11-24T21:44:42+00:00] done E1_explore__lgbm__none__A_MICU__s1__val
+[2026-11-24T21:44:42+00:00] started E1_explore__lgbm__none__B_MICU__s1__val (pid 502, attempt 1)
+[2026-11-24T21:44:47+00:00] done E1_explore__lgbm__none__A_SICU__s1__val
+[2026-11-24T21:44:47+00:00] started E1_explore__lgbm__none__B_SICU__s1__val (pid 516, attempt 1)
+[2026-11-24T21:45:17+00:00] done E1_explore__lgbm__none__B_MICU__s1__val
+[2026-11-24T21:45:17+00:00] started E1_explore__lgbm__none__A_MICU__s2__val (pid 543, attempt 1)
+[2026-11-24T21:45:22+00:00] done E1_explore__lgbm__none__B_SICU__s1__val
+[2026-11-24T21:45:22+00:00] started E1_explore__lgbm__none__A_SICU__s2__val (pid 553, attempt 1)
+[2026-11-24T21:45:47+00:00] done E1_explore__lgbm__none__A_MICU__s2__val
+[2026-11-24T21:45:47+00:00] done E1_explore__lgbm__none__A_SICU__s2__val
+[2026-11-24T21:45:47+00:00] started E1_explore__lgbm__none__B_MICU__s2__val (pid 582, attempt 1)
+[2026-11-24T21:45:47+00:00] started E1_explore__lgbm__none__B_SICU__s2__val (pid 583, attempt 1)
+[2026-11-24T21:46:17+00:00] done E1_explore__lgbm__none__B_MICU__s2__val
+[2026-11-24T21:46:17+00:00] started E1_explore__lr__none__A_MICU__s0__val (pid 619, attempt 1)
+[2026-11-24T21:46:27+00:00] done E1_explore__lgbm__none__B_SICU__s2__val
+[2026-11-24T21:46:27+00:00] started E1_explore__lr__none__A_SICU__s0__val (pid 633, attempt 1)
+[2026-11-24T21:46:32+00:00] done E1_explore__lr__none__A_MICU__s0__val
+[2026-11-24T21:46:32+00:00] started E1_explore__lr__none__B_MICU__s0__val (pid 643, attempt 1)
+[2026-11-24T21:46:42+00:00] done E1_explore__lr__none__A_SICU__s0__val
+[2026-11-24T21:46:42+00:00] started E1_explore__lr__none__B_SICU__s0__val (pid 659, attempt 1)
+[2026-11-24T21:46:47+00:00] done E1_explore__lr__none__B_MICU__s0__val
+[2026-11-24T21:46:47+00:00] started E1_explore__lr__none__A_MICU__s1__val (pid 673, attempt 1)
+[2026-11-24T21:46:57+00:00] done E1_explore__lr__none__B_SICU__s0__val
+[2026-11-24T21:46:57+00:00] started E1_explore__lr__none__A_SICU__s1__val (pid 687, attempt 1)
+[2026-11-24T21:47:02+00:00] done E1_explore__lr__none__A_MICU__s1__val
+[2026-11-24T21:47:02+00:00] started E1_explore__lr__none__B_MICU__s1__val (pid 696, attempt 1)
+[2026-11-24T21:47:12+00:00] done E1_explore__lr__none__A_SICU__s1__val
+[2026-11-24T21:47:12+00:00] started E1_explore__lr__none__B_SICU__s1__val (pid 712, attempt 1)
+[2026-11-24T21:47:17+00:00] done E1_explore__lr__none__B_MICU__s1__val
+[2026-11-24T21:47:17+00:00] started E1_explore__lr__none__A_MICU__s2__val (pid 726, attempt 1)
+[2026-11-24T21:47:32+00:00] done E1_explore__lr__none__B_SICU__s1__val
+[2026-11-24T21:47:32+00:00] done E1_explore__lr__none__A_MICU__s2__val
+[2026-11-24T21:47:32+00:00] started E1_explore__lr__none__A_SICU__s2__val (pid 740, attempt 1)
+[2026-11-24T21:47:32+00:00] started E1_explore__lr__none__B_MICU__s2__val (pid 741, attempt 1)
+[2026-11-24T21:47:52+00:00] done E1_explore__lr__none__A_SICU__s2__val
+[2026-11-24T21:47:52+00:00] done E1_explore__lr__none__B_MICU__s2__val
+[2026-11-24T21:47:52+00:00] started E1_explore__lr__none__B_SICU__s2__val (pid 773, attempt 1)
+[2026-11-24T21:47:52+00:00] started E2_fixes__lgbm__harm__A_MICU__s0__val (pid 774, attempt 1)
+[2026-11-24T21:48:07+00:00] done E1_explore__lr__none__B_SICU__s2__val
+[2026-11-24T21:48:07+00:00] started E2_fixes__lgbm__harm__A_SICU__s0__val (pid 800, attempt 1)
+[2026-11-24T21:48:22+00:00] done E2_fixes__lgbm__harm__A_MICU__s0__val
+[2026-11-24T21:48:22+00:00] started E2_fixes__lgbm__harm__B_MICU__s0__val (pid 838, attempt 1)
+[2026-11-24T21:48:37+00:00] done E2_fixes__lgbm__harm__A_SICU__s0__val
+[2026-11-24T21:48:37+00:00] started E2_fixes__lgbm__harm__B_SICU__s0__val (pid 861, attempt 1)
+[2026-11-24T21:49:02+00:00] done E2_fixes__lgbm__harm__B_MICU__s0__val
+[2026-11-24T21:49:02+00:00] started E2_fixes__lgbm__harm__A_MICU__s1__val (pid 875, attempt 1)
+[2026-11-24T21:49:27+00:00] done E2_fixes__lgbm__harm__B_SICU__s0__val
+[2026-11-24T21:49:27+00:00] started E2_fixes__lgbm__harm__A_SICU__s1__val (pid 890, attempt 1)
+[2026-11-24T21:49:47+00:00] done E2_fixes__lgbm__harm__A_MICU__s1__val
+[2026-11-24T21:49:47+00:00] started E2_fixes__lgbm__harm__B_MICU__s1__val (pid 905, attempt 1)
+[2026-11-24T21:50:02+00:00] done E2_fixes__lgbm__harm__A_SICU__s1__val
+[2026-11-24T21:50:02+00:00] started E2_fixes__lgbm__harm__B_SICU__s1__val (pid 916, attempt 1)
+[2026-11-24T21:50:27+00:00] done E2_fixes__lgbm__harm__B_MICU__s1__val
+[2026-11-24T21:50:27+00:00] started E2_fixes__lgbm__harm__A_MICU__s2__val (pid 931, attempt 1)
+[2026-11-24T21:50:57+00:00] done E2_fixes__lgbm__harm__B_SICU__s1__val
+[2026-11-24T21:50:57+00:00] started E2_fixes__lgbm__harm__A_SICU__s2__val (pid 945, attempt 1)
+[2026-11-24T21:51:07+00:00] done E2_fixes__lgbm__harm__A_MICU__s2__val
+[2026-11-24T21:51:07+00:00] started E2_fixes__lgbm__harm__B_MICU__s2__val (pid 956, attempt 1)
+[2026-11-24T21:51:32+00:00] done E2_fixes__lgbm__harm__A_SICU__s2__val
+[2026-11-24T21:51:32+00:00] started E2_fixes__lgbm__harm__B_SICU__s2__val (pid 972, attempt 1)
+[2026-11-24T21:51:47+00:00] done E2_fixes__lgbm__harm__B_MICU__s2__val
+[2026-11-24T21:51:47+00:00] started E2_fixes__lgbm__harm_noproc__A_MICU__s0__val (pid 988, attempt 1)
+[2026-11-24T21:52:17+00:00] done E2_fixes__lgbm__harm_noproc__A_MICU__s0__val
+[2026-11-24T21:52:18+00:00] started E2_fixes__lgbm__harm_noproc__A_SICU__s0__val (pid 1003, attempt 1)
+[2026-11-24T21:52:23+00:00] done E2_fixes__lgbm__harm__B_SICU__s2__val
+[2026-11-24T21:52:23+00:00] started E2_fixes__lgbm__harm_noproc__B_MICU__s0__val (pid 1014, attempt 1)
+[2026-11-24T21:52:43+00:00] done E2_fixes__lgbm__harm_noproc__A_SICU__s0__val
+[2026-11-24T21:52:43+00:00] started E2_fixes__lgbm__harm_noproc__B_SICU__s0__val (pid 1027, attempt 1)
+[2026-11-24T21:52:58+00:00] done E2_fixes__lgbm__harm_noproc__B_MICU__s0__val
+[2026-11-24T21:52:58+00:00] started E2_fixes__lgbm__harm_noproc__A_MICU__s1__val (pid 1038, attempt 1)
+[2026-11-24T21:53:23+00:00] done E2_fixes__lgbm__harm_noproc__B_SICU__s0__val
+[2026-11-24T21:53:23+00:00] started E2_fixes__lgbm__harm_noproc__A_SICU__s1__val (pid 1053, attempt 1)
+[2026-11-24T21:53:28+00:00] done E2_fixes__lgbm__harm_noproc__A_MICU__s1__val
+[2026-11-24T21:53:28+00:00] started E2_fixes__lgbm__harm_noproc__B_MICU__s1__val (pid 1064, attempt 1)
+[2026-11-24T21:53:48+00:00] done E2_fixes__lgbm__harm_noproc__A_SICU__s1__val
+[2026-11-24T21:53:48+00:00] started E2_fixes__lgbm__harm_noproc__B_SICU__s1__val (pid 1078, attempt 1)
+[2026-11-24T21:53:58+00:00] done E2_fixes__lgbm__harm_noproc__B_MICU__s1__val
+[2026-11-24T21:53:58+00:00] started E2_fixes__lgbm__harm_noproc__A_MICU__s2__val (pid 1088, attempt 1)
+[2026-11-24T21:54:23+00:00] done E2_fixes__lgbm__harm_noproc__B_SICU__s1__val
+[2026-11-24T21:54:23+00:00] done E2_fixes__lgbm__harm_noproc__A_MICU__s2__val
+[2026-11-24T21:54:23+00:00] started E2_fixes__lgbm__harm_noproc__A_SICU__s2__val (pid 1106, attempt 1)
+[2026-11-24T21:54:23+00:00] started E2_fixes__lgbm__harm_noproc__B_MICU__s2__val (pid 1107, attempt 1)
+[2026-11-24T21:54:43+00:00] done E2_fixes__lgbm__harm_noproc__A_SICU__s2__val
+[2026-11-24T21:54:43+00:00] started E2_fixes__lgbm__harm_noproc__B_SICU__s2__val (pid 1151, attempt 1)
+[2026-11-24T21:54:48+00:00] done E2_fixes__lgbm__harm_noproc__B_MICU__s2__val
+[2026-11-24T21:54:48+00:00] started E2_fixes__lgbm__harm_noproc_norm__A_MICU__s0__val (pid 1161, attempt 1)
+[2026-11-24T21:55:08+00:00] done E2_fixes__lgbm__harm_noproc__B_SICU__s2__val
+[2026-11-24T21:55:08+00:00] started E2_fixes__lgbm__harm_noproc_norm__A_SICU__s0__val (pid 1180, attempt 1)
+[2026-11-24T21:55:18+00:00] done E2_fixes__lgbm__harm_noproc_norm__A_MICU__s0__val
+[2026-11-24T21:55:18+00:00] started E2_fixes__lgbm__harm_noproc_norm__B_MICU__s0__val (pid 1197, attempt 1)
+[2026-11-24T21:55:38+00:00] done E2_fixes__lgbm__harm_noproc_norm__A_SICU__s0__val
+[2026-11-24T21:55:38+00:00] started E2_fixes__lgbm__harm_noproc_norm__B_SICU__s0__val (pid 1217, attempt 1)
+[2026-11-24T21:55:53+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_MICU__s0__val
+[2026-11-24T21:55:53+00:00] started E2_fixes__lgbm__harm_noproc_norm__A_MICU__s1__val (pid 1239, attempt 1)
+[2026-11-24T21:56:13+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_SICU__s0__val
+[2026-11-24T21:56:13+00:00] started E2_fixes__lgbm__harm_noproc_norm__A_SICU__s1__val (pid 1261, attempt 1)
+[2026-11-24T21:56:23+00:00] done E2_fixes__lgbm__harm_noproc_norm__A_MICU__s1__val
+[2026-11-24T21:56:23+00:00] started E2_fixes__lgbm__harm_noproc_norm__B_MICU__s1__val (pid 1274, attempt 1)
+[2026-11-24T21:56:43+00:00] done E2_fixes__lgbm__harm_noproc_norm__A_SICU__s1__val
+[2026-11-24T21:56:43+00:00] started E2_fixes__lgbm__harm_noproc_norm__B_SICU__s1__val (pid 1297, attempt 1)
+[2026-11-24T21:56:58+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_MICU__s1__val
+[2026-11-24T21:56:58+00:00] started E2_fixes__lgbm__harm_noproc_norm__A_MICU__s2__val (pid 1312, attempt 1)
+[2026-11-24T21:57:23+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_SICU__s1__val
+[2026-11-24T21:57:23+00:00] started E2_fixes__lgbm__harm_noproc_norm__A_SICU__s2__val (pid 1339, attempt 1)
+[2026-11-24T21:57:28+00:00] done E2_fixes__lgbm__harm_noproc_norm__A_MICU__s2__val
+[2026-11-24T21:57:28+00:00] started E2_fixes__lgbm__harm_noproc_norm__B_MICU__s2__val (pid 1348, attempt 1)
+[2026-11-24T21:57:53+00:00] done E2_fixes__lgbm__harm_noproc_norm__A_SICU__s2__val
+[2026-11-24T21:57:53+00:00] started E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val (pid 1376, attempt 1)
+[2026-11-24T21:58:03+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_MICU__s2__val
+[2026-11-24T21:58:28+00:00] done E2_fixes__lgbm__harm_noproc_norm__B_SICU__s2__val
+[2026-11-24T21:58:28+00:00] queue drained: {'done': 60}
+/usr/local/bin/python3: can't open file '/home/user/p_c1_16/project/scripts/final_report.py': [Errno 2] No such file or directory

@@ -1,0 +1,26 @@
+# plan_v1 — frozen once full training starts; changes go to plan_v2 with a reason in state/decisions.md.
+version: 1
+date: 2026-11-24
+topic: "topic/selected_topic.md (v2, factorial unit x hospital transport)"
+cells: [A_MICU, A_SICU, B_MICU, B_SICU]
+features: "src/features.py v1 (value/trend/process/context)"
+splits: "src/splits.py SPLIT_SEED=2026"
+models:
+  lgbm: {grid_num_leaves: [15, 63, 255], early_stopping_on: source-cell val}
+  lr:   {grid_C: [0.01, 0.1, 1.0], selection_on: source-cell val}
+tuning_budget: 3 configurations per model class (equal)
+seeds_explore: [0, 1, 2]
+seeds_confirm: [100, 101, 102, 103, 104]
+experiments:
+  E1_explore:  {desc: "4x4 transport matrix on VALIDATION", train_cells: all, models: [lgbm, lr], seeds: explore, fixes: [none], eval_split: val, est_cpu_h: 0.6}
+  E2_fixes:    {desc: "unlabelled site fixes on VALIDATION", train_cells: all, models: [lgbm], seeds: explore, fixes: [harm, harm_noproc, harm_noproc_norm], eval_split: val, est_cpu_h: 0.9}
+  E3_robust:   {desc: "patient-level AUROC, AUPRC, calibration — computed from E1/E6 outputs, no extra fits"}
+  E4_general:  {desc: "second dataset (eICU-CRD demo, mortality, hospital x unit type) — plan_v2 if feasible"}
+  E5_estimate: {desc: "label-free estimators (internal, IW, ATC, DoC) and few-label estimators vs observed transported AUROC, from saved E1 predictions", est_cpu_h: 0.3}
+  E6_confirm:  {desc: "FROZEN config: E1 + E2 on TEST with seeds_confirm", train_cells: all, models: [lgbm, lr], seeds: confirm, fixes: [none, harm, harm_noproc, harm_noproc_norm], eval_split: test, est_cpu_h: 3.0, run_only_after: "H1-H3 analysis code frozen and committed"}
+primary_hypothesis:
+  H1: "mean gap(diff hospital, same unit) - mean gap(same hospital, diff unit) > 0; gap = AUROC(target-local model) - AUROC(transported model) on target TEST; paired over the 4 matched target cells; patient-cluster bootstrap 2000 + seeds_confirm; Holm across H1 (lgbm, lr) and H2 comparisons; effect size reported as AUROC difference and as a ratio"
+  H2: "share of site component removed by harm_noproc_norm < 0.5"
+  H3: "label-free estimators: |error| > 0.03 in >= 50% of off-diagonal transfers"
+leakage_checks: [patient-level splits (no patient in two splits), normalisation fitted on train rows only, no target labels used by fixes, test untouched until E6]
+total_est_cpu_h: 4.8

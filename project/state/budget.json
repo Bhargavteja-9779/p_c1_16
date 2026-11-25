@@ -1,10 +1,11 @@
 {
   "unit": "compute seconds (CPU; no GPU available on this machine)",
   "per_cycle": {
-    "1": 600
+    "1": 4363.119889259338,
+    "2": 8154.763934373856,
+    "3": 721.5631787776947
   },
-  "global_seconds": 600,
+  "global_seconds": 13239.447002410889,
   "cycle_ceiling_h": 15,
-  "global_ceiling_h": 120,
-  "note": "cycle1: ~600 s machine time for feature build + D9 diagnostic (estimate from logs, rounded up)"
+  "global_ceiling_h": 120
 }

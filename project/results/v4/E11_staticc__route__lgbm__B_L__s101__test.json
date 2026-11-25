@@ -1,0 +1,34 @@
+{
+ "job_id": "E11_staticc__route__lgbm__B_L__s101__test",
+ "factor": "route",
+ "model": "lgbm",
+ "train_cell": "B_L",
+ "seed": 101,
+ "split": "test",
+ "selection": {
+  "num_leaves": 63,
+  "val_auroc": 0.6901698896536653
+ },
+ "eval": {
+  "A_D": {
+   "n": 2258,
+   "events": 161,
+   "auroc": 0.6144418083212634
+  },
+  "A_L": {
+   "n": 889,
+   "events": 75,
+   "auroc": 0.6082719082719082
+  },
+  "B_D": {
+   "n": 1843,
+   "events": 72,
+   "auroc": 0.5913482652613087
+  },
+  "B_L": {
+   "n": 1086,
+   "events": 57,
+   "auroc": 0.6861882597650588
+  }
+ }
+}

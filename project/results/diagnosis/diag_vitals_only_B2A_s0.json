@@ -1,0 +1,62 @@
+{
+ "variant": "diag_vitals_only_B2A_s0",
+ "feature_set": "vitals_only",
+ "source": "B",
+ "target": "A",
+ "seed": 0,
+ "n_features": 38,
+ "best_iter": 78,
+ "internal": {
+  "n_rows": 151666,
+  "prevalence": 0.014175886487413131,
+  "mean_pred": 0.013258201345773364,
+  "auroc": 0.7578485105739635,
+  "auprc": 0.0515901041780935,
+  "brier": 0.013748414623796858,
+  "cal_slope": 0.9444040973424109,
+  "citl": 0.06977899998566371
+ },
+ "external": {
+  "n_rows": 157126,
+  "prevalence": 0.021791428535061035,
+  "mean_pred": 0.012167495394090936,
+  "auroc": 0.6248710618660434,
+  "auprc": 0.03480761689511683,
+  "brier": 0.021371218016792322,
+  "cal_slope": 0.54073339769476,
+  "citl": 0.6045148562749314
+ },
+ "internal_patient": {
+  "n_pat": 4000,
+  "auroc": 0.7796000306971034,
+  "auprc": 0.22596073143563422
+ },
+ "external_patient": {
+  "n_pat": 4067,
+  "auroc": 0.6506067831381014,
+  "auprc": 0.1502889945868208
+ },
+ "top_gain": {
+  "EtCO2_last": 0.108,
+  "Age": 0.0901,
+  "Temp_max6": 0.0612,
+  "Temp_last": 0.0567,
+  "HR_max6": 0.0514,
+  "Resp_mean6": 0.0387,
+  "Resp_max6": 0.0379,
+  "SBP_max6": 0.0363,
+  "DBP_max6": 0.0349,
+  "HR_min6": 0.0349,
+  "SBP_min6": 0.0344,
+  "Temp_min6": 0.0332,
+  "MAP_max6": 0.0285,
+  "DBP_min6": 0.0279,
+  "Resp_min6": 0.0273,
+  "MAP_min6": 0.0272,
+  "O2Sat_mean6": 0.0268,
+  "O2Sat_min6": 0.0257,
+  "HR_mean6": 0.0248,
+  "SBP_mean6": 0.0204
+ },
+ "seconds": 7.5
+}
