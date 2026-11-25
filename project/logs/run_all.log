@@ -614,3 +614,6 @@
 [2026-11-25T00:53:09+00:00] done E10_poolx__unit__lgbm__all__full__B_SICU-A_MICU__s2__val
 [2026-11-25T00:53:24+00:00] done E10_poolx__unit__lgbm__all__full__B_MICU-A_SICU__s2__val
 [2026-11-25T00:53:24+00:00] queue drained: {'done': 292}
+[2026-11-25T01:03:46+00:00] mode=full plan=plan_v3b.yaml jobs_total=512 added=220
+[2026-11-25T01:03:46+00:00] started E7_factorsc__age__lgbm__all__full__A_Y__s100__test (pid 2477, attempt 1)
+[2026-11-25T01:03:46+00:00] started E7_factorsc__age__lgbm__all__full__A_O__s100__test (pid 2478, attempt 1)
