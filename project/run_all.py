@@ -188,7 +188,7 @@ def run(args):
                 continue
             fh.close()
             job = known[jid]
-            res_file = RESULTS / f"{jid}.json"
+            res_file = ROOT / job["result"] if job.get("result") else RESULTS / f"{jid}.json"
             if args.mode == "quick":
                 res_file = RESULTS / "quick" / f"{jid}.json"
             if rc == 0 and res_file.exists():

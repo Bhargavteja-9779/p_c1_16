@@ -24,4 +24,43 @@ def build_jobs(plan, mode):
                 for s in seeds:
                     for c in CELLS:
                         out.append(_job(exp, c, model, s, e["eval_split"], fixes))
+    out += build_jobs_v3(plan)
+    return out
+
+
+def _job_v3(exp, factor, cell, model, seed, split, featset="all", size="full"):
+    tag = cell.replace("+", "-")
+    jid = f"{exp}__{factor}__{model}__{featset}__{size}__{tag}__s{seed}__{split}"
+    cmd = ["python3", "-m", "src.train_eval_v3", "--job-id", jid, "--factor", factor, "--train-cell", cell, "--model", model,
+           "--seed", str(seed), "--eval-split", split, "--featset", featset, "--size", size, "--experiment", exp]
+    return dict(id=jid, experiment=exp, cmd=cmd, threads=2, result=f"results/v3/{jid}.json")
+
+
+def build_jobs_v3(plan):
+    """plan_v3 experiments (factor / featset / size / pooled). Empty for plans without 'v3'."""
+    V = plan.get("v3")
+    if not V:
+        return []
+    from src.train_eval_v3 import cells_of
+    other_h = {"A": "B", "B": "A"}
+    out = []
+    for phase, split, seeds in (("explore", "val", plan["seeds_explore"]), ("confirm", "test", plan["seeds_confirm"])):
+        if phase not in V["phases"]:
+            continue
+        sfx = "x" if phase == "explore" else "c"
+        for e in V["experiments"]:
+            exp = f"{e['id']}{sfx}"
+            for model in e["models"]:
+                for s in seeds:
+                    if e.get("pooled"):
+                        f = e["factors"][0]
+                        lv = {c.split("_")[1] for c in cells_of(f)}
+                        for t in cells_of(f):
+                            h, l = t.split("_"); lo = (lv - {l}).pop()
+                            out.append(_job_v3(exp, f, f"{h}_{lo}+{other_h[h]}_{l}", model, s, split))
+                        continue
+                    for f in e["factors"]:
+                        for fs in e.get("featsets", ["all"]):
+                            for c in cells_of(f):
+                                out.append(_job_v3(exp, f, c, model, s, split, fs, e.get("size", "full")))
     return out

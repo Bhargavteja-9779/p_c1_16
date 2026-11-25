@@ -1,0 +1,5 @@
+job_id,experiment,factor,model,featset,size,seed,eval_split,train_cell,eval_cell,auroc,auprc,pat_auroc
+SANITY_unit,SANITY,unit,lgbm,all,full,0,val,A_MICU,A_MICU,0.77711,0.09271,0.76515
+SANITY_unit,SANITY,unit,lgbm,all,full,0,val,A_MICU,A_SICU,0.77461,0.06696,0.76764
+SANITY_unit,SANITY,unit,lgbm,all,full,0,val,A_MICU,B_MICU,0.77665,0.05660,0.76407
+SANITY_unit,SANITY,unit,lgbm,all,full,0,val,A_MICU,B_SICU,0.77910,0.05326,0.78007
