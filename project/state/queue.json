@@ -5252,11 +5252,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__A_D__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v3.yaml",
       "added": "2026-11-25T00:24:11+00:00",
-      "started": "2026-11-25T00:28:11+00:00"
+      "started": "2026-11-25T00:28:11+00:00",
+      "finished": "2026-11-25T00:29:17+00:00"
     },
     {
       "id": "E7_factorsx__route__lgbm__all__full__A_L__s1__val",
@@ -5286,11 +5287,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__A_L__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v3.yaml",
       "added": "2026-11-25T00:24:11+00:00",
-      "started": "2026-11-25T00:28:26+00:00"
+      "started": "2026-11-25T00:28:26+00:00",
+      "finished": "2026-11-25T00:28:57+00:00"
     },
     {
       "id": "E7_factorsx__route__lgbm__all__full__B_D__s1__val",
@@ -5320,10 +5322,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__B_D__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:28:57+00:00",
+      "finished": "2026-11-25T00:29:42+00:00"
     },
     {
       "id": "E7_factorsx__route__lgbm__all__full__B_L__s1__val",
@@ -5353,10 +5357,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__B_L__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:29:17+00:00",
+      "finished": "2026-11-25T00:29:47+00:00"
     },
     {
       "id": "E7_factorsx__age__lgbm__all__full__A_Y__s2__val",
@@ -5386,10 +5392,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lgbm__all__full__A_Y__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:29:42+00:00",
+      "finished": "2026-11-25T00:30:27+00:00"
     },
     {
       "id": "E7_factorsx__age__lgbm__all__full__A_O__s2__val",
@@ -5419,10 +5427,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lgbm__all__full__A_O__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:29:47+00:00",
+      "finished": "2026-11-25T00:30:27+00:00"
     },
     {
       "id": "E7_factorsx__age__lgbm__all__full__B_Y__s2__val",
@@ -5452,10 +5462,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lgbm__all__full__B_Y__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:30:27+00:00",
+      "finished": "2026-11-25T00:31:07+00:00"
     },
     {
       "id": "E7_factorsx__age__lgbm__all__full__B_O__s2__val",
@@ -5485,10 +5497,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lgbm__all__full__B_O__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:30:27+00:00",
+      "finished": "2026-11-25T00:31:02+00:00"
     },
     {
       "id": "E7_factorsx__route__lgbm__all__full__A_D__s2__val",
@@ -5518,10 +5532,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__A_D__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:31:02+00:00",
+      "finished": "2026-11-25T00:32:02+00:00"
     },
     {
       "id": "E7_factorsx__route__lgbm__all__full__A_L__s2__val",
@@ -5551,10 +5567,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__A_L__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:31:07+00:00",
+      "finished": "2026-11-25T00:31:37+00:00"
     },
     {
       "id": "E7_factorsx__route__lgbm__all__full__B_D__s2__val",
@@ -5584,10 +5602,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__B_D__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:31:37+00:00",
+      "finished": "2026-11-25T00:32:22+00:00"
     },
     {
       "id": "E7_factorsx__route__lgbm__all__full__B_L__s2__val",
@@ -5617,10 +5637,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lgbm__all__full__B_L__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:32:02+00:00",
+      "finished": "2026-11-25T00:32:32+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__A_Y__s0__val",
@@ -5650,10 +5672,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__A_Y__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:32:22+00:00",
+      "finished": "2026-11-25T00:32:42+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__A_O__s0__val",
@@ -5683,10 +5707,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__A_O__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:32:32+00:00",
+      "finished": "2026-11-25T00:32:52+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__B_Y__s0__val",
@@ -5716,10 +5742,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__B_Y__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:32:42+00:00",
+      "finished": "2026-11-25T00:33:02+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__B_O__s0__val",
@@ -5749,10 +5777,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__B_O__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:32:52+00:00",
+      "finished": "2026-11-25T00:33:12+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__A_D__s0__val",
@@ -5782,10 +5812,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__A_D__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:33:02+00:00",
+      "finished": "2026-11-25T00:33:27+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__A_L__s0__val",
@@ -5815,10 +5847,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__A_L__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:33:12+00:00",
+      "finished": "2026-11-25T00:33:32+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__B_D__s0__val",
@@ -5848,10 +5882,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__B_D__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:33:27+00:00",
+      "finished": "2026-11-25T00:33:52+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__B_L__s0__val",
@@ -5881,10 +5917,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__B_L__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:33:32+00:00",
+      "finished": "2026-11-25T00:33:52+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__A_Y__s1__val",
@@ -5914,10 +5952,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__A_Y__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:33:52+00:00",
+      "finished": "2026-11-25T00:34:17+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__A_O__s1__val",
@@ -5947,10 +5987,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__A_O__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:33:52+00:00",
+      "finished": "2026-11-25T00:34:17+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__B_Y__s1__val",
@@ -5980,10 +6022,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__B_Y__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:34:17+00:00",
+      "finished": "2026-11-25T00:34:42+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__B_O__s1__val",
@@ -6013,10 +6057,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__B_O__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:34:17+00:00",
+      "finished": "2026-11-25T00:34:37+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__A_D__s1__val",
@@ -6046,10 +6092,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__A_D__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:34:37+00:00",
+      "finished": "2026-11-25T00:35:02+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__A_L__s1__val",
@@ -6079,10 +6127,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__A_L__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:34:42+00:00",
+      "finished": "2026-11-25T00:35:02+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__B_D__s1__val",
@@ -6112,10 +6162,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__B_D__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:35:02+00:00",
+      "finished": "2026-11-25T00:35:27+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__B_L__s1__val",
@@ -6145,10 +6197,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__B_L__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:35:02+00:00",
+      "finished": "2026-11-25T00:35:22+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__A_Y__s2__val",
@@ -6178,10 +6232,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__A_Y__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:35:22+00:00",
+      "finished": "2026-11-25T00:35:47+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__A_O__s2__val",
@@ -6211,10 +6267,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__A_O__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:35:27+00:00",
+      "finished": "2026-11-25T00:35:47+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__B_Y__s2__val",
@@ -6244,10 +6302,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__B_Y__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:35:47+00:00",
+      "finished": "2026-11-25T00:36:12+00:00"
     },
     {
       "id": "E7_factorsx__age__lr__all__full__B_O__s2__val",
@@ -6277,10 +6337,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__age__lr__all__full__B_O__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:35:47+00:00",
+      "finished": "2026-11-25T00:36:07+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__A_D__s2__val",
@@ -6310,10 +6372,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__A_D__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:36:07+00:00",
+      "finished": "2026-11-25T00:36:37+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__A_L__s2__val",
@@ -6343,10 +6407,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__A_L__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:36:12+00:00",
+      "finished": "2026-11-25T00:36:32+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__B_D__s2__val",
@@ -6376,10 +6442,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__B_D__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:36:32+00:00",
+      "finished": "2026-11-25T00:36:57+00:00"
     },
     {
       "id": "E7_factorsx__route__lr__all__full__B_L__s2__val",
@@ -6409,10 +6477,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsx__route__lr__all__full__B_L__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:36:37+00:00",
+      "finished": "2026-11-25T00:36:57+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__A_MICU__s0__val",
@@ -6442,10 +6512,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:36:57+00:00",
+      "finished": "2026-11-25T00:37:12+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__A_SICU__s0__val",
@@ -6475,10 +6547,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:36:57+00:00",
+      "finished": "2026-11-25T00:37:12+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__B_MICU__s0__val",
@@ -6508,10 +6582,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:37:12+00:00",
+      "finished": "2026-11-25T00:37:32+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__B_SICU__s0__val",
@@ -6541,10 +6617,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:37:12+00:00",
+      "finished": "2026-11-25T00:37:32+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__A_MICU__s0__val",
@@ -6574,10 +6652,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:37:32+00:00",
+      "finished": "2026-11-25T00:37:47+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__A_SICU__s0__val",
@@ -6607,10 +6687,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:37:32+00:00",
+      "finished": "2026-11-25T00:37:47+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__B_MICU__s0__val",
@@ -6640,10 +6722,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:37:47+00:00",
+      "finished": "2026-11-25T00:38:02+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__B_SICU__s0__val",
@@ -6673,10 +6757,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:37:47+00:00",
+      "finished": "2026-11-25T00:38:02+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__A_MICU__s0__val",
@@ -6706,10 +6792,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:38:02+00:00",
+      "finished": "2026-11-25T00:38:23+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__A_SICU__s0__val",
@@ -6739,10 +6827,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:38:02+00:00",
+      "finished": "2026-11-25T00:38:23+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__B_MICU__s0__val",
@@ -6772,10 +6862,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:38:23+00:00",
+      "finished": "2026-11-25T00:38:48+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__B_SICU__s0__val",
@@ -6805,10 +6897,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:38:23+00:00",
+      "finished": "2026-11-25T00:38:48+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__A_MICU__s0__val",
@@ -6838,10 +6932,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:38:48+00:00",
+      "finished": "2026-11-25T00:39:03+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__A_SICU__s0__val",
@@ -6871,10 +6967,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:38:48+00:00",
+      "finished": "2026-11-25T00:39:03+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__B_MICU__s0__val",
@@ -6904,10 +7002,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:03+00:00",
+      "finished": "2026-11-25T00:39:23+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__B_SICU__s0__val",
@@ -6937,10 +7037,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:03+00:00",
+      "finished": "2026-11-25T00:39:23+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__A_MICU__s1__val",
@@ -6970,10 +7072,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:23+00:00",
+      "finished": "2026-11-25T00:39:38+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__A_SICU__s1__val",
@@ -7003,10 +7107,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:23+00:00",
+      "finished": "2026-11-25T00:39:38+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__B_MICU__s1__val",
@@ -7036,10 +7142,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:38+00:00",
+      "finished": "2026-11-25T00:39:58+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__B_SICU__s1__val",
@@ -7069,10 +7177,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:38+00:00",
+      "finished": "2026-11-25T00:39:58+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__A_MICU__s1__val",
@@ -7102,10 +7212,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:58+00:00",
+      "finished": "2026-11-25T00:40:13+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__A_SICU__s1__val",
@@ -7135,10 +7247,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:39:58+00:00",
+      "finished": "2026-11-25T00:40:13+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__B_MICU__s1__val",
@@ -7168,10 +7282,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:40:13+00:00",
+      "finished": "2026-11-25T00:40:28+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__B_SICU__s1__val",
@@ -7201,10 +7317,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:40:13+00:00",
+      "finished": "2026-11-25T00:40:28+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__A_MICU__s1__val",
@@ -7234,10 +7352,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:40:28+00:00",
+      "finished": "2026-11-25T00:40:48+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__A_SICU__s1__val",
@@ -7267,10 +7387,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:40:28+00:00",
+      "finished": "2026-11-25T00:40:48+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__B_MICU__s1__val",
@@ -7300,10 +7422,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:40:48+00:00",
+      "finished": "2026-11-25T00:41:08+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__B_SICU__s1__val",
@@ -7333,10 +7457,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:40:48+00:00",
+      "finished": "2026-11-25T00:41:13+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__A_MICU__s1__val",
@@ -7366,10 +7492,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:41:08+00:00",
+      "finished": "2026-11-25T00:41:23+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__A_SICU__s1__val",
@@ -7399,10 +7527,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:41:13+00:00",
+      "finished": "2026-11-25T00:41:28+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__B_MICU__s1__val",
@@ -7432,10 +7562,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:41:23+00:00",
+      "finished": "2026-11-25T00:41:43+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__B_SICU__s1__val",
@@ -7465,10 +7597,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:41:28+00:00",
+      "finished": "2026-11-25T00:41:48+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__A_MICU__s2__val",
@@ -7498,10 +7632,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:41:43+00:00",
+      "finished": "2026-11-25T00:41:58+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__A_SICU__s2__val",
@@ -7531,10 +7667,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:41:48+00:00",
+      "finished": "2026-11-25T00:42:03+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__B_MICU__s2__val",
@@ -7564,10 +7702,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:41:58+00:00",
+      "finished": "2026-11-25T00:42:18+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__vitals__full__B_SICU__s2__val",
@@ -7597,10 +7737,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__vitals__full__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:42:03+00:00",
+      "finished": "2026-11-25T00:42:23+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__A_MICU__s2__val",
@@ -7630,10 +7772,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:42:18+00:00",
+      "finished": "2026-11-25T00:42:33+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__A_SICU__s2__val",
@@ -7663,10 +7807,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:42:23+00:00",
+      "finished": "2026-11-25T00:42:38+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__B_MICU__s2__val",
@@ -7696,10 +7842,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:42:33+00:00",
+      "finished": "2026-11-25T00:42:48+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__labs__full__B_SICU__s2__val",
@@ -7729,10 +7877,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__labs__full__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:42:38+00:00",
+      "finished": "2026-11-25T00:42:53+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__A_MICU__s2__val",
@@ -7762,10 +7912,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:42:48+00:00",
+      "finished": "2026-11-25T00:43:08+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__A_SICU__s2__val",
@@ -7795,10 +7947,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:42:53+00:00",
+      "finished": "2026-11-25T00:43:13+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__B_MICU__s2__val",
@@ -7828,10 +7982,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:43:08+00:00",
+      "finished": "2026-11-25T00:43:33+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__noproc__full__B_SICU__s2__val",
@@ -7861,10 +8017,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__noproc__full__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:43:13+00:00",
+      "finished": "2026-11-25T00:43:38+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__A_MICU__s2__val",
@@ -7894,10 +8052,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:43:33+00:00",
+      "finished": "2026-11-25T00:43:48+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__A_SICU__s2__val",
@@ -7927,10 +8087,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:43:38+00:00",
+      "finished": "2026-11-25T00:43:53+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__B_MICU__s2__val",
@@ -7960,10 +8122,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:43:48+00:00",
+      "finished": "2026-11-25T00:44:08+00:00"
     },
     {
       "id": "E8_mechx__unit__lgbm__proc__full__B_SICU__s2__val",
@@ -7993,10 +8157,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E8_mechx__unit__lgbm__proc__full__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:43:53+00:00",
+      "finished": "2026-11-25T00:44:13+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__A_MICU__s0__val",
@@ -8026,10 +8192,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:44:08+00:00",
+      "finished": "2026-11-25T00:44:38+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__A_SICU__s0__val",
@@ -8059,10 +8227,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:44:13+00:00",
+      "finished": "2026-11-25T00:44:38+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__B_MICU__s0__val",
@@ -8092,10 +8262,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:44:38+00:00",
+      "finished": "2026-11-25T00:45:04+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__B_SICU__s0__val",
@@ -8125,10 +8297,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:44:38+00:00",
+      "finished": "2026-11-25T00:45:04+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__A_MICU__s1__val",
@@ -8158,10 +8332,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:45:04+00:00",
+      "finished": "2026-11-25T00:45:34+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__A_SICU__s1__val",
@@ -8191,10 +8367,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:45:04+00:00",
+      "finished": "2026-11-25T00:45:29+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__B_MICU__s1__val",
@@ -8224,10 +8402,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:45:29+00:00",
+      "finished": "2026-11-25T00:45:54+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__B_SICU__s1__val",
@@ -8257,10 +8437,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:45:34+00:00",
+      "finished": "2026-11-25T00:46:04+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__A_MICU__s2__val",
@@ -8290,10 +8472,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:45:54+00:00",
+      "finished": "2026-11-25T00:46:19+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__A_SICU__s2__val",
@@ -8323,10 +8507,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:46:04+00:00",
+      "finished": "2026-11-25T00:46:29+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__B_MICU__s2__val",
@@ -8356,10 +8542,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:46:19+00:00",
+      "finished": "2026-11-25T00:46:44+00:00"
     },
     {
       "id": "E9_sizex__unit__lgbm__all__matched__B_SICU__s2__val",
@@ -8389,10 +8577,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lgbm__all__matched__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:46:29+00:00",
+      "finished": "2026-11-25T00:46:59+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__A_MICU__s0__val",
@@ -8422,10 +8612,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:46:44+00:00",
+      "finished": "2026-11-25T00:46:59+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__A_SICU__s0__val",
@@ -8455,10 +8647,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:46:59+00:00",
+      "finished": "2026-11-25T00:47:19+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__B_MICU__s0__val",
@@ -8488,10 +8682,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:46:59+00:00",
+      "finished": "2026-11-25T00:47:14+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__B_SICU__s0__val",
@@ -8521,10 +8717,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:47:14+00:00",
+      "finished": "2026-11-25T00:47:29+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__A_MICU__s1__val",
@@ -8554,10 +8752,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:47:19+00:00",
+      "finished": "2026-11-25T00:47:34+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__A_SICU__s1__val",
@@ -8587,10 +8787,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:47:29+00:00",
+      "finished": "2026-11-25T00:47:44+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__B_MICU__s1__val",
@@ -8620,10 +8822,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:47:34+00:00",
+      "finished": "2026-11-25T00:47:49+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__B_SICU__s1__val",
@@ -8653,10 +8857,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:47:44+00:00",
+      "finished": "2026-11-25T00:47:59+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__A_MICU__s2__val",
@@ -8686,10 +8892,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:47:49+00:00",
+      "finished": "2026-11-25T00:48:04+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__A_SICU__s2__val",
@@ -8719,10 +8927,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:47:59+00:00",
+      "finished": "2026-11-25T00:48:14+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__B_MICU__s2__val",
@@ -8752,10 +8962,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:48:04+00:00",
+      "finished": "2026-11-25T00:48:19+00:00"
     },
     {
       "id": "E9_sizex__unit__lr__all__matched__B_SICU__s2__val",
@@ -8785,10 +8997,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E9_sizex__unit__lr__all__matched__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:48:14+00:00",
+      "finished": "2026-11-25T00:48:29+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__A_SICU-B_MICU__s0__val",
@@ -8818,10 +9032,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__A_SICU-B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:48:19+00:00",
+      "finished": "2026-11-25T00:49:09+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__A_MICU-B_SICU__s0__val",
@@ -8851,10 +9067,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__A_MICU-B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:48:29+00:00",
+      "finished": "2026-11-25T00:49:19+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__B_SICU-A_MICU__s0__val",
@@ -8884,10 +9102,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__B_SICU-A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:49:09+00:00",
+      "finished": "2026-11-25T00:49:59+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__B_MICU-A_SICU__s0__val",
@@ -8917,10 +9137,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__B_MICU-A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:49:19+00:00",
+      "finished": "2026-11-25T00:50:09+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__A_SICU-B_MICU__s1__val",
@@ -8950,10 +9172,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__A_SICU-B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:49:59+00:00",
+      "finished": "2026-11-25T00:50:44+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__A_MICU-B_SICU__s1__val",
@@ -8983,10 +9207,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__A_MICU-B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:50:09+00:00",
+      "finished": "2026-11-25T00:50:59+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__B_SICU-A_MICU__s1__val",
@@ -9016,10 +9242,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__B_SICU-A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:50:44+00:00",
+      "finished": "2026-11-25T00:51:34+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__B_MICU-A_SICU__s1__val",
@@ -9049,10 +9277,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__B_MICU-A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:50:59+00:00",
+      "finished": "2026-11-25T00:51:49+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__A_SICU-B_MICU__s2__val",
@@ -9082,10 +9312,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__A_SICU-B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:51:34+00:00",
+      "finished": "2026-11-25T00:52:19+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__A_MICU-B_SICU__s2__val",
@@ -9115,10 +9347,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__A_MICU-B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:51:49+00:00",
+      "finished": "2026-11-25T00:52:39+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__B_SICU-A_MICU__s2__val",
@@ -9148,10 +9382,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__B_SICU-A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:52:19+00:00",
+      "finished": "2026-11-25T00:53:09+00:00"
     },
     {
       "id": "E10_poolx__unit__lgbm__all__full__B_MICU-A_SICU__s2__val",
@@ -9181,10 +9417,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E10_poolx__unit__lgbm__all__full__B_MICU-A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3.yaml",
-      "added": "2026-11-25T00:24:11+00:00"
+      "added": "2026-11-25T00:24:11+00:00",
+      "started": "2026-11-25T00:52:39+00:00",
+      "finished": "2026-11-25T00:53:24+00:00"
     }
   ]
 }

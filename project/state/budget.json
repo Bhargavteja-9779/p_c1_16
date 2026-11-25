@@ -2,9 +2,9 @@
   "unit": "compute seconds (CPU; no GPU available on this machine)",
   "per_cycle": {
     "1": 4363.119889259338,
-    "2": 240.30145740509033
+    "2": 1753.0975999832153
   },
-  "global_seconds": 4603.421346664429,
+  "global_seconds": 6116.217489242554,
   "cycle_ceiling_h": 15,
   "global_ceiling_h": 120
 }

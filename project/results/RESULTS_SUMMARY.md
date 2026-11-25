@@ -36,7 +36,7 @@ Holm family: H1_lgbm_hour p = 0.0180, p_Holm = 0.0180, H1_lr_hour p = 0.0005, p_
 ## Leakage check (G8): PASS — results/leakage_check.json
 
 ## Compute
-Global 1.28 h of 120 h; per cycle: c1 1.21 h, c2 0.07 h (state/budget.json)
+Global 1.70 h of 120 h; per cycle: c1 1.21 h, c2 0.49 h (state/budget.json)
 
 ## Gates, novelty score, limitations
 See HANDOFF.md (gate table) and state/novelty_ledger.json (scores); limitations in journal/ENTRIES.
