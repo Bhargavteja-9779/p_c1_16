@@ -33,6 +33,18 @@ Holm family: H1_lgbm_hour p = 0.0180, p_Holm = 0.0180, H1_lr_hour p = 0.0005, p_
 | lgbm | 0.16 | 0.23 | 0.32 | 0.41 |
 | lr | 0.14 | 0.20 | 0.29 | 0.37 |
 
+## v3 confirmation (test) — results/analysis/v3_confirm.json
+
+| test | estimate [95% CI] | p (boot) | p (Holm) |
+|---|---|---|---|
+| H4_age_lgbm | 0.058 [0.045, 0.072] | 0.0005 | 0.0035 |
+| H4_age_lr | 0.091 [0.069, 0.113] | 0.0005 | 0.0035 |
+| H4_route_lgbm | 0.023 [0.008, 0.038] | 0.0020 | 0.0060 |
+| H4_route_lr | 0.081 [0.056, 0.107] | 0.0005 | 0.0035 |
+| H5_Dall_minus_Dvitals | 0.018 [-0.001, 0.036] | 0.0590 | 0.0640 |
+| H6_matched_lgbm | 0.023 [0.002, 0.045] | 0.0320 | 0.0640 |
+| H6_matched_lr | 0.062 [0.030, 0.095] | 0.0005 | 0.0035 |
+
 ## v3 exploration (val) — results/analysis/v3_explore.json
 
 | test | estimate [95% CI] | p (boot) | p (Holm) |

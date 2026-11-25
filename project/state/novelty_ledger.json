@@ -14594,6 +14594,18 @@
    "total": 12,
    "blind_reviewer": "not yet run",
    "notes": "H1 confirmed on one dataset; H2 fixes do not recover site loss; H3 estimators unreliable. Breadth is the weakest dimension."
+  },
+  {
+   "cycle": 2,
+   "date": "2026-11-25",
+   "differentiation": 3,
+   "mechanism": 3,
+   "evidence": 4,
+   "breadth": 2,
+   "significance": 3,
+   "total": 15,
+   "blind_reviewer": "not yet run",
+   "notes": "H4 confirmed for 3 control factors; process features localise the site excess descriptively (H5 contrast Holm 0.064); one dataset."
   }
  ]
 }

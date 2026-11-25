@@ -1,14 +1,14 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-25 ~01:30 UTC (cycle 2, plan_v3b confirmation running)_
+_Last updated: 2026-11-25 (cycle 2, v3 confirmation analysed — nothing running)_
 
 ## Where we are
-- **Cycle:** 2 **Phase:** plan_v3b CONFIRMATION running (E7–E10 on test, seeds 100–104; 220 jobs). Exploration done (journal 014). analyze_v3.py frozen at 9e2e93b.
+- **Cycle:** 2 **Phase:** v3 confirmation DONE + analysed (journal 015, D26). Nothing running.
 - **NEXT ACTION:**
   0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy`, `bash scripts/download_physionet2019.sh` (repeat until `bad=0`), then `python3 scripts/prepare_data.py` (~4 min; must print md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d — the split is pinned in configs/, D19).
-  1. `python3 scripts/status.py`; if v3 confirm jobs not done: `nohup setsid python3 run_all.py --mode full --resume --workers 2 --only E7_factorsc,E8_mechc,E9_sizec,E10_poolc > logs/run_all_v3c.out 2>&1 < /dev/null &`
-  2. When done: `python3 scripts/analyze_v3.py --phase confirm --nboot 2000` (FROZEN, do not edit), then RESULT journal entry, gates G6/G7, novelty re-score, `python3 scripts/final_report.py`.
-  3. Then: blind novelty re-score by a fresh-context agent; scripts/audit_numbers.py; paper draft (Section 9) once G1–G9 pass; review panel (Section 10).
+  1. Blind novelty re-score: fresh-context agent given only results/RESULTS_SUMMARY.md, tables/, literature/claim_table_v2.md (not our score).
+  2. scripts/audit_numbers.py (G11) skeleton; then paper/manuscript.md draft (Section 9) from journal entries 001–015.
+  3. G3 still fails (15/25): the weakest dimension is breadth (one dataset). Options: credentialed data is unavailable here; consider a second task on the same data (static 12-h task from g4_reproduce.py) as an additional condition under a new plan version, or accept honest exit criteria for G3.
   Done this session: G8 PASS (D22); G4 PASS via published-protocol reproduction (D25); prior art 48 opened (D20).
 - **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535). Verified median Accepted−Received 66 d; JIF 11.4; JCR quartile UNVERIFIED.
 - **Topic (v2):** factorial ICU-unit × hospital transport analysis of sepsis early warning on PhysioNet 2019 (topic/selected_topic.md).
@@ -16,6 +16,7 @@ _Last updated: 2026-11-25 ~01:30 UTC (cycle 2, plan_v3b confirmation running)_
   - H1: site gap > unit gap.
   - H2: estimate the share of the site component removed by unlabelled fixes.
   - H3: label-free AUROC estimates err > 0.03 in ≥ 50% of transfers.
+- **v3 CONFIRMATION (test):** H4 confirmed 4/4 (age D 0.058/0.091, route D 0.023/0.081 for LGBM/LR); H5 not confirmed (D_all−D_vitals 0.018 [−0.001, 0.036], Holm 0.064; process-only D 0.046); H6 LR confirmed, LGBM not (Holm 0.064); pooling +0.012 [−0.000, 0.026].
 - **CONFIRMATION (E6, test, seeds 100–104):** H1 supported — LightGBM D 0.026 [0.005, 0.049], Holm p 0.018; LR D 0.063 [0.031, 0.098], Holm p 0.0015. H2: pre-specified share 0.85 [0.26, 3.13] BUT site-src AUROC unchanged (0.763→0.762); D shrinks because unit-src/local degrade → fixes do not recover site loss. H3 supported: 77–100% of transfers err > 0.03. See journal 012.
 - **Validation results (exploration):**
   - H1: D = 0.043 [0.021, 0.066] for LightGBM; 0.066 for LR.
@@ -24,7 +25,7 @@ _Last updated: 2026-11-25 ~01:30 UTC (cycle 2, plan_v3b confirmation running)_
   - See journal 010.
 
 ## Running right now
-- run_all.py --only E7_factorsc,E8_mechc,E9_sizec,E10_poolc (detached; started 01:03 UTC). Log: logs/run_all_v3c.out.
+- Nothing (512/512 jobs done).
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
@@ -35,11 +36,11 @@ _Last updated: 2026-11-25 ~01:30 UTC (cycle 2, plan_v3b confirmation running)_
 |---|---|---|
 | G1 Journal | PASS on ≤72 d + publisher; **JCR Q1 UNVERIFIED** | journal_selection/selected_journal.md |
 | G2 Prior art | **count met**: 82 queries, 48 papers opened (≥8 queries/claim for P1–P3); claim table done; P1 design appears novel, P2/P3 partly done (D20). Re-check before writing. | state/novelty_ledger.json, literature/claim_table_v2.md |
-| G3 Novelty | FAIL (self-score 12/25: diff 3, mech 2, evid 3, breadth 1, signif 3; blind reviewer not run) | state/novelty_ledger.json scores |
+| G3 Novelty | FAIL (self-score 15/25 cycle 2: diff 3, mech 3, evid 4, breadth 2, signif 3; blind reviewer not run) | state/novelty_ledger.json scores |
 | G4 Baselines | PASS: published protocol reproduced — cohort 30,629/1,837 vs 30,646/1,843; A→B drop −0.115 vs −0.117 (D25) | results/g4_reproduce.json |
 | G5 Main result | PASS for H1 (D16 definition): both models Holm p < 0.05, CI excludes 0, effect 0.026 / 0.063 AUROC (ratio 1.6 / 2.2) | results/analysis/E6_confirm_test.json, journal 012 |
-| G6 Ablation | partial: fixes ablated (harm / noproc / norm), model class and metric level varied | tables/E6_confirm_test_transport.md |
-| G7 Generalization | FAIL so far: 1 dataset (4 cells, 2 directions, 2 models); eICU demo pending | — |
+| G6 Ablation | PASS-partial: fix ablation + feature-group ablation (process features carry the site excess descriptively; H5 contrast Holm 0.064) | tables/E6_confirm_test_transport.md |
+| G7 Generalization | PASS on ≥ 2 shift conditions (unit, route, age controls; 2 model classes); single dataset stated as limitation; eICU demo infeasible (journal 013) | results/analysis/v3_confirm.json |
 | G8 Leakage | PASS: 0 patients in >1 split/cell, 0 duplicate series, 0/200 look-ahead mismatches, no forbidden features, fit scope asserted | results/leakage_check.json, scripts/leakage_check.py |
 | G9 Reproducibility | unknown | — |
 | G10 Review | unknown | — |
