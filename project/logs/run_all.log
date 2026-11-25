@@ -1062,3 +1062,6 @@
 [2026-11-25T01:57:30+00:00] done E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s104__test
 [2026-11-25T01:57:45+00:00] done E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s104__test
 [2026-11-25T01:57:45+00:00] queue drained: {'done': 512}
+[2026-11-25T07:59:56+00:00] mode=full plan=plan_v5.yaml jobs_total=608 added=96
+[2026-11-25T07:59:56+00:00] started E12_dosex__sex__lgbm__all__full__A_F__s0__val (pid 302, attempt 1)
+[2026-11-25T07:59:56+00:00] started E12_dosex__sex__lgbm__all__full__A_M__s0__val (pid 303, attempt 1)
