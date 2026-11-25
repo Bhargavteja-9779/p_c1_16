@@ -23022,10 +23022,10 @@
       "threads": 2,
       "result": "results/v7/v7x__T1__B_SICU__B_MICU__s0__val.json",
       "status": "running",
-      "attempts": 1,
+      "attempts": 2,
       "plan": "plan_v7.yaml",
       "added": "2026-11-25T13:21:52+00:00",
-      "started": "2026-11-25T15:55:51+00:00"
+      "started": "2026-11-25T20:44:24+00:00"
     },
     {
       "id": "v7x__T1__A_MICU__A_SICU__s1__val",
@@ -23047,10 +23047,10 @@
       "threads": 2,
       "result": "results/v7/v7x__T1__A_MICU__A_SICU__s1__val.json",
       "status": "running",
-      "attempts": 1,
+      "attempts": 2,
       "plan": "plan_v7.yaml",
       "added": "2026-11-25T13:21:52+00:00",
-      "started": "2026-11-25T15:55:56+00:00"
+      "started": "2026-11-25T20:44:24+00:00"
     },
     {
       "id": "v7x__T1__A_MICU__B_MICU__s1__val",

@@ -1444,3 +1444,9 @@
 [2026-11-25T15:55:51+00:00] started v7x__T1__B_SICU__B_MICU__s0__val (pid 2871, attempt 1)
 [2026-11-25T15:55:56+00:00] done v7x__T1__B_SICU__A_SICU__s0__val
 [2026-11-25T15:55:56+00:00] started v7x__T1__A_MICU__A_SICU__s1__val (pid 2881, attempt 1)
+[2026-11-25T20:44:13+00:00] stale lock from pid 561; taking over
+[2026-11-25T20:44:24+00:00] recovered interrupted job v7x__T1__B_SICU__B_MICU__s0__val -> pending (resumes from checkpoint)
+[2026-11-25T20:44:24+00:00] recovered interrupted job v7x__T1__A_MICU__A_SICU__s1__val -> pending (resumes from checkpoint)
+[2026-11-25T20:44:24+00:00] mode=full plan=plan_v7.yaml jobs_total=806 added=0
+[2026-11-25T20:44:24+00:00] started v7x__T1__B_SICU__B_MICU__s0__val (pid 278, attempt 2)
+[2026-11-25T20:44:24+00:00] started v7x__T1__A_MICU__A_SICU__s1__val (pid 279, attempt 2)
