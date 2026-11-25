@@ -1603,3 +1603,15 @@ E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,
 E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_S,A_G,0.70817,0.06748,0.81124
 E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_S,B_S,0.70356,0.04148,0.71850
 E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_S,B_G,0.73469,0.04855,0.80730
+E12_dosex__los__lgbm__all__full__A_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_G,A_S,0.58762,0.02982,0.44303
+E12_dosex__los__lgbm__all__full__A_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_G,A_G,0.93282,0.21749,0.94885
+E12_dosex__los__lgbm__all__full__A_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_G,B_S,0.57121,0.02138,0.43467
+E12_dosex__los__lgbm__all__full__A_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_G,B_G,0.91948,0.12665,0.91307
+E12_dosex__los__lgbm__all__full__B_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_S,A_S,0.72851,0.04475,0.67289
+E12_dosex__los__lgbm__all__full__B_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_S,A_G,0.67778,0.04043,0.71258
+E12_dosex__los__lgbm__all__full__B_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_S,B_S,0.85822,0.12059,0.84413
+E12_dosex__los__lgbm__all__full__B_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_S,B_G,0.81467,0.07461,0.83544
+E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_G,A_S,0.54459,0.02477,0.39975
+E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_G,A_G,0.91505,0.16884,0.90331
+E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_G,B_S,0.64195,0.03091,0.51936
+E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_G,B_G,0.94568,0.25128,0.96094
