@@ -20663,11 +20663,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__M_SICU__s0__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v6.yaml",
       "added": "2026-11-25T10:30:00+00:00",
-      "started": "2026-11-25T15:11:55+00:00"
+      "started": "2026-11-25T15:11:55+00:00",
+      "finished": "2026-11-25T15:12:56+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__A_MICU__s1__val",
@@ -20693,11 +20694,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__A_MICU__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v6.yaml",
       "added": "2026-11-25T10:30:00+00:00",
-      "started": "2026-11-25T15:12:16+00:00"
+      "started": "2026-11-25T15:12:16+00:00",
+      "finished": "2026-11-25T15:12:56+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__A_SICU__s1__val",
@@ -20723,10 +20725,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:12:56+00:00",
+      "finished": "2026-11-25T15:13:36+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__B_MICU__s1__val",
@@ -20752,10 +20756,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:12:56+00:00",
+      "finished": "2026-11-25T15:13:31+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__B_SICU__s1__val",
@@ -20781,10 +20787,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:13:31+00:00",
+      "finished": "2026-11-25T15:13:56+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__M_MICU__s1__val",
@@ -20810,10 +20818,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__M_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:13:36+00:00",
+      "finished": "2026-11-25T15:14:31+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__M_SICU__s1__val",
@@ -20839,10 +20849,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__M_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:13:56+00:00",
+      "finished": "2026-11-25T15:14:46+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__A_MICU__s2__val",
@@ -20868,10 +20880,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:14:31+00:00",
+      "finished": "2026-11-25T15:14:51+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__A_SICU__s2__val",
@@ -20897,10 +20911,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:14:46+00:00",
+      "finished": "2026-11-25T15:15:06+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__B_MICU__s2__val",
@@ -20926,10 +20942,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:14:51+00:00",
+      "finished": "2026-11-25T15:15:06+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__B_SICU__s2__val",
@@ -20955,10 +20973,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:15:06+00:00",
+      "finished": "2026-11-25T15:15:46+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__M_MICU__s2__val",
@@ -20984,10 +21004,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__M_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:15:06+00:00",
+      "finished": "2026-11-25T15:16:21+00:00"
     },
     {
       "id": "E13_T2x__lgbm__all__M_SICU__s2__val",
@@ -21013,10 +21035,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lgbm__all__M_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:15:46+00:00",
+      "finished": "2026-11-25T15:16:21+00:00"
     },
     {
       "id": "E13_T2x__lr__all__A_MICU__s0__val",
@@ -21042,10 +21066,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:16:21+00:00",
+      "finished": "2026-11-25T15:16:37+00:00"
     },
     {
       "id": "E13_T2x__lr__all__A_SICU__s0__val",
@@ -21071,10 +21097,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:16:21+00:00",
+      "finished": "2026-11-25T15:16:37+00:00"
     },
     {
       "id": "E13_T2x__lr__all__B_MICU__s0__val",
@@ -21100,10 +21128,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:16:37+00:00",
+      "finished": "2026-11-25T15:16:52+00:00"
     },
     {
       "id": "E13_T2x__lr__all__B_SICU__s0__val",
@@ -21129,10 +21159,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:16:37+00:00",
+      "finished": "2026-11-25T15:16:52+00:00"
     },
     {
       "id": "E13_T2x__lr__all__M_MICU__s0__val",
@@ -21158,10 +21190,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__M_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:16:52+00:00",
+      "finished": "2026-11-25T15:17:07+00:00"
     },
     {
       "id": "E13_T2x__lr__all__M_SICU__s0__val",
@@ -21187,10 +21221,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__M_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:16:52+00:00",
+      "finished": "2026-11-25T15:17:07+00:00"
     },
     {
       "id": "E13_T2x__lr__all__A_MICU__s1__val",
@@ -21216,10 +21252,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:07+00:00",
+      "finished": "2026-11-25T15:17:17+00:00"
     },
     {
       "id": "E13_T2x__lr__all__A_SICU__s1__val",
@@ -21245,10 +21283,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:07+00:00",
+      "finished": "2026-11-25T15:17:17+00:00"
     },
     {
       "id": "E13_T2x__lr__all__B_MICU__s1__val",
@@ -21274,10 +21314,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:17+00:00",
+      "finished": "2026-11-25T15:17:32+00:00"
     },
     {
       "id": "E13_T2x__lr__all__B_SICU__s1__val",
@@ -21303,10 +21345,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:17+00:00",
+      "finished": "2026-11-25T15:17:32+00:00"
     },
     {
       "id": "E13_T2x__lr__all__M_MICU__s1__val",
@@ -21332,10 +21376,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__M_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:32+00:00",
+      "finished": "2026-11-25T15:17:47+00:00"
     },
     {
       "id": "E13_T2x__lr__all__M_SICU__s1__val",
@@ -21361,10 +21407,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__M_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:32+00:00",
+      "finished": "2026-11-25T15:17:47+00:00"
     },
     {
       "id": "E13_T2x__lr__all__A_MICU__s2__val",
@@ -21390,10 +21438,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:47+00:00",
+      "finished": "2026-11-25T15:17:57+00:00"
     },
     {
       "id": "E13_T2x__lr__all__A_SICU__s2__val",
@@ -21419,10 +21469,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:47+00:00",
+      "finished": "2026-11-25T15:18:02+00:00"
     },
     {
       "id": "E13_T2x__lr__all__B_MICU__s2__val",
@@ -21448,10 +21500,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:17:57+00:00",
+      "finished": "2026-11-25T15:18:02+00:00"
     },
     {
       "id": "E13_T2x__lr__all__B_SICU__s2__val",
@@ -21477,10 +21531,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:18:02+00:00",
+      "finished": "2026-11-25T15:18:17+00:00"
     },
     {
       "id": "E13_T2x__lr__all__M_MICU__s2__val",
@@ -21506,10 +21562,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__M_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:18:02+00:00",
+      "finished": "2026-11-25T15:18:17+00:00"
     },
     {
       "id": "E13_T2x__lr__all__M_SICU__s2__val",
@@ -21535,10 +21593,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E13_T2x__lr__all__M_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:18:17+00:00",
+      "finished": "2026-11-25T15:18:32+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__A_MICU__s0__val",
@@ -21564,10 +21624,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:18:17+00:00",
+      "finished": "2026-11-25T15:18:32+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__A_SICU__s0__val",
@@ -21593,10 +21655,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:18:32+00:00",
+      "finished": "2026-11-25T15:19:08+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__B_MICU__s0__val",
@@ -21622,10 +21686,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:18:32+00:00",
+      "finished": "2026-11-25T15:19:08+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__B_SICU__s0__val",
@@ -21651,10 +21717,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:19:08+00:00",
+      "finished": "2026-11-25T15:19:53+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__M_MICU__s0__val",
@@ -21680,10 +21748,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__M_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:19:08+00:00",
+      "finished": "2026-11-25T15:19:58+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__M_SICU__s0__val",
@@ -21709,10 +21779,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__M_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:19:53+00:00",
+      "finished": "2026-11-25T15:20:13+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__A_MICU__s1__val",
@@ -21738,10 +21810,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:19:58+00:00",
+      "finished": "2026-11-25T15:20:13+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__A_SICU__s1__val",
@@ -21767,10 +21841,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:20:13+00:00",
+      "finished": "2026-11-25T15:20:43+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__B_MICU__s1__val",
@@ -21796,10 +21872,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:20:13+00:00",
+      "finished": "2026-11-25T15:20:38+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__B_SICU__s1__val",
@@ -21825,10 +21903,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:20:38+00:00",
+      "finished": "2026-11-25T15:20:48+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__M_MICU__s1__val",
@@ -21854,10 +21934,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__M_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:20:43+00:00",
+      "finished": "2026-11-25T15:21:13+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__M_SICU__s1__val",
@@ -21883,10 +21965,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__M_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:20:48+00:00",
+      "finished": "2026-11-25T15:21:13+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__A_MICU__s2__val",
@@ -21912,10 +21996,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:21:13+00:00",
+      "finished": "2026-11-25T15:21:33+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__A_SICU__s2__val",
@@ -21941,10 +22027,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:21:13+00:00",
+      "finished": "2026-11-25T15:21:33+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__B_MICU__s2__val",
@@ -21970,10 +22058,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:21:33+00:00",
+      "finished": "2026-11-25T15:21:48+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__B_SICU__s2__val",
@@ -21999,10 +22089,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:21:33+00:00",
+      "finished": "2026-11-25T15:21:53+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__M_MICU__s2__val",
@@ -22028,10 +22120,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__M_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:21:48+00:00",
+      "finished": "2026-11-25T15:22:43+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__vitals__M_SICU__s2__val",
@@ -22057,10 +22151,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__vitals__M_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:21:53+00:00",
+      "finished": "2026-11-25T15:22:48+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__A_MICU__s0__val",
@@ -22086,10 +22182,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__A_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:22:43+00:00",
+      "finished": "2026-11-25T15:22:53+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__A_SICU__s0__val",
@@ -22115,10 +22213,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:22:48+00:00",
+      "finished": "2026-11-25T15:22:59+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__B_MICU__s0__val",
@@ -22144,10 +22244,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:22:54+00:00",
+      "finished": "2026-11-25T15:23:04+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__B_SICU__s0__val",
@@ -22173,10 +22275,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:22:59+00:00",
+      "finished": "2026-11-25T15:23:09+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__M_MICU__s0__val",
@@ -22202,10 +22306,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__M_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:23:04+00:00",
+      "finished": "2026-11-25T15:24:09+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__M_SICU__s0__val",
@@ -22231,10 +22337,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__M_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:23:09+00:00",
+      "finished": "2026-11-25T15:24:09+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__A_MICU__s1__val",
@@ -22260,10 +22368,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:24:09+00:00",
+      "finished": "2026-11-25T15:24:29+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__A_SICU__s1__val",
@@ -22289,10 +22399,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__A_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:24:09+00:00",
+      "finished": "2026-11-25T15:24:24+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__B_MICU__s1__val",
@@ -22318,10 +22430,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:24:24+00:00",
+      "finished": "2026-11-25T15:24:34+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__B_SICU__s1__val",
@@ -22347,10 +22461,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__B_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:24:29+00:00",
+      "finished": "2026-11-25T15:24:39+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__M_MICU__s1__val",
@@ -22376,10 +22492,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__M_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:24:34+00:00",
+      "finished": "2026-11-25T15:25:34+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__M_SICU__s1__val",
@@ -22405,10 +22523,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__M_SICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:24:39+00:00",
+      "finished": "2026-11-25T15:25:34+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__A_MICU__s2__val",
@@ -22434,10 +22554,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__A_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:25:34+00:00",
+      "finished": "2026-11-25T15:26:04+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__A_SICU__s2__val",
@@ -22463,10 +22585,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__A_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:25:34+00:00",
+      "finished": "2026-11-25T15:26:04+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__B_MICU__s2__val",
@@ -22492,10 +22616,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__B_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:26:04+00:00",
+      "finished": "2026-11-25T15:26:29+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__B_SICU__s2__val",
@@ -22521,10 +22647,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__B_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:26:04+00:00",
+      "finished": "2026-11-25T15:26:29+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__M_MICU__s2__val",
@@ -22550,10 +22678,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__M_MICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:26:29+00:00",
+      "finished": "2026-11-25T15:27:14+00:00"
     },
     {
       "id": "E14_T2_mechx__lgbm__noproc__M_SICU__s2__val",
@@ -22579,10 +22709,12 @@
       ],
       "threads": 2,
       "result": "results/v6/E14_T2_mechx__lgbm__noproc__M_SICU__s2__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v6.yaml",
-      "added": "2026-11-25T10:30:00+00:00"
+      "added": "2026-11-25T10:30:00+00:00",
+      "started": "2026-11-25T15:26:29+00:00",
+      "finished": "2026-11-25T15:27:09+00:00"
     },
     {
       "id": "v7x__T1__A_MICU__A_SICU__s0__val",
@@ -22603,10 +22735,11 @@
       ],
       "threads": 2,
       "result": "results/v7/v7x__T1__A_MICU__A_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v7.yaml",
-      "added": "2026-11-25T13:21:52+00:00"
+      "added": "2026-11-25T13:21:52+00:00",
+      "started": "2026-11-25T15:27:09+00:00"
     },
     {
       "id": "v7x__T1__A_MICU__B_MICU__s0__val",
@@ -22627,10 +22760,12 @@
       ],
       "threads": 2,
       "result": "results/v7/v7x__T1__A_MICU__B_MICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v7.yaml",
-      "added": "2026-11-25T13:21:52+00:00"
+      "added": "2026-11-25T13:21:52+00:00",
+      "started": "2026-11-25T15:27:14+00:00",
+      "finished": "2026-11-25T15:27:19+00:00"
     },
     {
       "id": "v7x__T1__A_MICU__B_SICU__s0__val",
@@ -22651,10 +22786,11 @@
       ],
       "threads": 2,
       "result": "results/v7/v7x__T1__A_MICU__B_SICU__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v7.yaml",
-      "added": "2026-11-25T13:21:52+00:00"
+      "added": "2026-11-25T13:21:52+00:00",
+      "started": "2026-11-25T15:27:20+00:00"
     },
     {
       "id": "v7x__T1__A_SICU__A_MICU__s0__val",
