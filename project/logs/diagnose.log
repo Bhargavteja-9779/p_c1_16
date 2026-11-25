@@ -1,0 +1,14 @@
+(1552210, 43) {'A': 20336, 'B': 20000}
+diag_lgb_full_A_s0 src 0.8137 tgt 0.7628 iters 85 11.5s
+diag_lgb_no_process_A_s0 src 0.7868 tgt 0.7753 iters 64 5.2s
+diag_lgb_no_iculos_A_s0 src 0.7959 tgt 0.7384 iters 84 8.8s
+diag_lgb_no_process_no_iculos_A_s0 src 0.7511 tgt 0.7277 iters 88 7.1s
+diag_lgb_iculos_only_A_s0 src 0.6994 tgt 0.6685 iters 139 3.3s
+diag_lgb_process_only_A_s0 src 0.8049 tgt 0.6908 iters 61 4.2s
+diag_lgb_full_B_s0 src 0.8618 tgt 0.7590 iters 88 8.3s
+diag_lgb_no_process_B_s0 src 0.8441 tgt 0.7523 iters 65 6.4s
+diag_lgb_no_iculos_B_s0 src 0.8506 tgt 0.7260 iters 72 9.3s
+diag_lgb_no_process_no_iculos_B_s0 src 0.8239 tgt 0.6925 iters 68 5.2s
+diag_lgb_iculos_only_B_s0 src 0.6874 tgt 0.6928 iters 36 1.0s
+diag_lgb_process_only_B_s0 src 0.8045 tgt 0.7578 iters 57 3.6s
+EXIT 0

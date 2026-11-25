@@ -1,0 +1,56 @@
+{
+  "config_id": "diag_lgb_process_only_A_s0",
+  "source": "A",
+  "target": "B",
+  "feature_set": "process_only",
+  "n_features": 69,
+  "seed": 0,
+  "best_iter": 61,
+  "params": {
+    "objective": "binary",
+    "learning_rate": 0.05,
+    "num_leaves": 63,
+    "min_child_samples": 100,
+    "feature_fraction": 0.8,
+    "bagging_fraction": 0.8,
+    "bagging_freq": 1,
+    "lambda_l2": 1.0,
+    "n_jobs": 4,
+    "verbose": -1,
+    "seed": 0
+  },
+  "source_val": {
+    "auroc_hour": 0.8048884669275065,
+    "auprc_hour": 0.10664822043776263,
+    "prev_hour": 0.021791428535061035,
+    "auroc_patient": 0.8173798897743824,
+    "auprc_patient": 0.4989444812976776,
+    "n_patients": 4067
+  },
+  "target_val": {
+    "auroc_hour": 0.6908180434838073,
+    "auprc_hour": 0.043660293120427934,
+    "prev_hour": 0.014170053908534524,
+    "auroc_patient": 0.701407299399081,
+    "auprc_patient": 0.28323263933437415,
+    "n_patients": 4000
+  },
+  "seconds": 4.2,
+  "top_gain": {
+    "ICULOS": 0.3002337894692964,
+    "FiO2_hsince": 0.0569460273344478,
+    "Lactate_hsince": 0.0526365642359808,
+    "Bilirubin_total_hsince": 0.03025497915347535,
+    "PTT_hsince": 0.027656766279038472,
+    "SaO2_hsince": 0.02281123531508352,
+    "FiO2_n24": 0.021457444781875418,
+    "SBP_hsince": 0.021391487729120036,
+    "Temp_n24": 0.020982432506115884,
+    "Alkalinephos_hsince": 0.020465951691959753,
+    "Hct_hsince": 0.019167272100321455,
+    "Calcium_hsince": 0.01802027864354417,
+    "BaseExcess_hsince": 0.01693229408766082,
+    "Lactate_n24": 0.01682414847428051,
+    "Fibrinogen_hsince": 0.016615556971866636
+  }
+}

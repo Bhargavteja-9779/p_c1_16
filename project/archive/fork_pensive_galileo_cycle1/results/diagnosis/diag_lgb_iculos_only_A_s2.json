@@ -1,0 +1,42 @@
+{
+  "config_id": "diag_lgb_iculos_only_A_s2",
+  "source": "A",
+  "target": "B",
+  "feature_set": "iculos_only",
+  "n_features": 1,
+  "seed": 2,
+  "best_iter": 159,
+  "params": {
+    "objective": "binary",
+    "learning_rate": 0.05,
+    "num_leaves": 63,
+    "min_child_samples": 100,
+    "feature_fraction": 0.8,
+    "bagging_fraction": 0.8,
+    "bagging_freq": 1,
+    "lambda_l2": 1.0,
+    "n_jobs": 4,
+    "verbose": -1,
+    "seed": 2
+  },
+  "source_val": {
+    "auroc_hour": 0.6994034996656354,
+    "auprc_hour": 0.08538730790006716,
+    "prev_hour": 0.021791428535061035,
+    "auroc_patient": 0.641293034759177,
+    "auprc_patient": 0.4181141994811393,
+    "n_patients": 4067
+  },
+  "target_val": {
+    "auroc_hour": 0.6691873428303206,
+    "auprc_hour": 0.0444717685796084,
+    "prev_hour": 0.014170053908534524,
+    "auroc_patient": 0.6142252004613867,
+    "auprc_patient": 0.24401104600026008,
+    "n_patients": 4000
+  },
+  "seconds": 3.2,
+  "top_gain": {
+    "ICULOS": 1.0
+  }
+}

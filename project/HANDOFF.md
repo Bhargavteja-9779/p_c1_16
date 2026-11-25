@@ -1,8 +1,23 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-25 (cycle 2, v3 confirmation analysed — nothing running)_
+_Last updated: 2026-11-25 15:00 UTC (cycle 3, session 8 — queue taken over on branch `claude/dazzling-albattani-8k4faw`, D37)_
 
 ## Where we are
+- **Cycle:** 3 **Phase:** CYCLE3_RUN — session 5 (branch `claude/serene-newton-bylqpn`, fast-forwarded from `claude/lucid-bell-7mlvge`, D31).
+- **User goal (2026-11-25):** "make it more novel and improved, don't stop until 25/25". Honest blind novelty so far: **13/25** (D28). The score is whatever a blind reviewer gives; never inflated.
+- **NEXT ACTION:**
+  0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy pyyaml`; `bash scripts/download_physionet2019.sh` (repeat until `bad=0`); PhysioNet 2012 (see Data); `python3 scripts/prepare_data.py` (md5 0883ae5b…); `python3 scripts/prepare_v6.py`.
+  1. Queue (plan_v7, CURRENT_PLAN): E12 (plan_v5 dose-response, explore), E13/E14 (plan_v6 T2 hypotension × 3 databases, explore), then v7 SPRU few-label repair (126 explore jobs; auto-relaunch waiter started). `bash scripts/launch.sh --workers 2` resumes.
+  2. When E12 done: `python3 scripts/analyze_v5.py --phase explore` → freeze → plan_v5b (confirm E12).
+  3. When E13/E14 done: `python3 scripts/analyze_v6.py --phase explore` → freeze analyze_v6.py (commit hash in decisions) → plan_v6b (phases: [explore, confirm]) → confirm → `--phase confirm --nboot 2000`.
+  4. When v7 explore done: `python3 scripts/analyze_v7.py --phase explore` (fixes best baseline in results/analysis/v7_best_baseline.json) → freeze → plan_v7b confirm.
+  5. Blind novelty re-score (fresh agent; results + claim tables only), then paper draft + `scripts/audit_numbers.py` (G11).
+- **Prior-art for new claims P5 (3-database factorial) / P6 (SPRU):** independent agent → literature/prior_art_P5_P6.md.
+- **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535). Verified median Accepted−Received 66 d; JIF 11.4; JCR quartile UNVERIFIED.
+- **Topic:** site vs population components of ICU early-warning transport loss (factorial site × unit), now on 2 tasks × 3 open databases, plus a diagnosis-driven few-label repair method (SPRU).
+- **Verified site identities:** 2019 A = BIDMC, B = Emory (Reyna 2020 full text, PMC6964870); 2012 = MIMIC-II (Silva 2012 abstract); MIMIC-II = BIDMC is UNVERIFIED in sources opened.
+
+### Earlier status (cycle 2, kept)
 - **Cycle:** 2 **Phase:** v3 confirmation DONE + analysed (journal 015, D26). Nothing running.
 - **NEXT ACTION:**
   0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy`, `bash scripts/download_physionet2019.sh` (repeat until `bad=0`), then `python3 scripts/prepare_data.py` (~4 min; must print md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d — the split is pinned in configs/, D19).
@@ -25,7 +40,7 @@ _Last updated: 2026-11-25 (cycle 2, v3 confirmation analysed — nothing running
   - See journal 010.
 
 ## Running right now
-- Nothing (512/512 jobs done).
+- `run_all.py` (plan_v7 queue: E12, E13/E14, v7) relaunched in session 8 via `bash scripts/launch.sh --workers 2`.
 
 ## Compute
 - Machine: cloud container, 4 CPU cores, 15 GB RAM, **no GPU**. Budget hours = machine-occupied hours (D1, D6).
@@ -68,13 +83,13 @@ D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4
 - Agent supervisor (Layer B): `nohup setsid bash scripts/supervisor.sh >/dev/null 2>&1 &` ; stop: `touch state/STOP_SUPERVISOR`
 
 ## Known problems
-- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/lucid-bell-7mlvge` (D18; earlier: dazzling-albattani-8k4faw).
+- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/dazzling-albattani-8k4faw` (D37; earlier lines: pensive-galileo-vgrn1b, modest-clarke-9kl8u1, serene-newton-bylqpn, lucid-bell-7mlvge).
 - **Layer B auto-restart is not active.** The `claude` CLI exists here, but running a nested agent inside this live session would create two agents editing the same repo. On your own machine, run `scripts/supervisor.sh` (it detects the CLI). Otherwise: open a new session on this repo/branch and paste `BOOTSTRAP_PROMPT.txt`.
 - Raw data (`data/`) is git-ignored; after re-download ALWAYS run `python3 scripts/prepare_data.py`. Re-download with `scripts/download_physionet2019.sh` (2019 sepsis, CC BY 4.0); 2012 challenge and eICU demo download commands are in decisions/journal (PhysioNet open files).
 
 ## Moving to a new account
 1. Make sure the latest work is pushed (`git push`).
-2. In the new session, check out the most recent `claude/*` branch of `p_c1_16` (currently `claude/lucid-bell-7mlvge`) and fast-forward the session branch onto it.
+2. In the new session, check out the most recent `claude/*` branch of `p_c1_16` (currently `claude/dazzling-albattani-8k4faw`; compare commit dates of all `claude/*` branches) and fast-forward the session branch onto it.
 3. Paste the contents of `project/BOOTSTRAP_PROMPT.txt`.
 
 ## Where things are
