@@ -18988,6 +18988,1626 @@
      "cites": null
     }
    ]
+  },
+  {
+   "claim": "P5",
+   "query": "intraoperative hypotension prediction external validation multiple hospitals",
+   "date": "2026-11-25T13:23:15",
+   "openalex_count": 5448,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4296641326",
+     "doi": "https://doi.org/10.3390/jcm11195551",
+     "title": "Prediction and Prevention of Intraoperative Hypotension with the Hypotension Prediction Index: A Narrative Review",
+     "year": 2022,
+     "venue": "Journal of Clinical Medicine",
+     "cites": 25
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4200623843",
+     "doi": "https://doi.org/10.1016/j.bja.2021.10.052",
+     "title": "Intraoperative prediction of postanaesthesia care unit hypotension",
+     "year": 2021,
+     "venue": "British Journal of Anaesthesia",
+     "cites": 36
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4416210095",
+     "doi": "https://doi.org/10.3390/medicina61112039",
+     "title": "Machine Learning Methods for the Prediction of Intraoperative Hypotension with Biosignal Waveforms",
+     "year": 2025,
+     "venue": "Medicina",
+     "cites": 14
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7161055023",
+     "doi": "https://doi.org/10.1186/s12871-026-03888-8",
+     "title": "Early prediction of intraoperative hypotension: development and validation of the HypoBridCast hybrid deep learning model",
+     "year": 2026,
+     "venue": "BMC Anesthesiology",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4361275697",
+     "doi": "https://doi.org/10.1186/s12871-023-02069-1",
+     "title": "Hypotension prediction index guided versus conventional goal directed therapy to reduce intraoperative hypotension during thoracic surgery: a randomized trial",
+     "year": 2023,
+     "venue": "BMC Anesthesiology",
+     "cites": 67
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4224214586",
+     "doi": "https://doi.org/10.3390/s22093108",
+     "title": "Intraoperative Hypotension Prediction Model Based on Systematic Feature Engineering and Machine Learning",
+     "year": 2022,
+     "venue": "Sensors",
+     "cites": 34
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415428559",
+     "doi": "https://doi.org/10.3233/faia251101",
+     "title": "A Self-Adaptive Frequency Domain Network for Continuous Intraoperative Hypotension Prediction",
+     "year": 2025,
+     "venue": "Frontiers in artificial intelligence and applications",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4402792684",
+     "doi": "https://doi.org/10.1007/s10877-024-01223-5",
+     "title": "Forecasting intraoperative hypotension during hepatobiliary surgery",
+     "year": 2024,
+     "venue": "Journal of Clinical Monitoring and Computing",
+     "cites": 8
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4402038057",
+     "doi": "https://doi.org/10.1016/j.eclinm.2024.102797",
+     "title": "Development and external validation of temporal fusion transformer models for continuous intraoperative blood pressure forecasting",
+     "year": 2024,
+     "venue": "EClinicalMedicine",
+     "cites": 37
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4377716591",
+     "doi": "https://doi.org/10.1109/tnnls.2023.3273187",
+     "title": "Intraoperative Hypotension Prediction Based on Features Automatically Generated Within an Interpretable Deep Learning Model",
+     "year": 2023,
+     "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+     "cites": 26
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4382318467",
+     "doi": "https://doi.org/10.1609/aaai.v37i12.26681",
+     "title": "A Composite Multi-Attention Framework for Intraoperative Hypotension Early Warning",
+     "year": 2023,
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "cites": 13
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4414160236",
+     "doi": "https://doi.org/10.1007/s10877-025-01357-0",
+     "title": "Towards reliable prediction of intraoperative hypotension: a cross-center evaluation of deep learning-based and MAP-derived methods",
+     "year": 2025,
+     "venue": "Journal of Clinical Monitoring and Computing",
+     "cites": 10
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.24287v1",
+     "doi": null,
+     "title": "Towards actionable hypotension prediction -- predicting catecholamine therapy initiation in the intensive care unit",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2512.15762v1",
+     "doi": null,
+     "title": "Cross-Sample Augmented Test-Time Adaptation for Personalized Intraoperative Hypotension Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2509.23720v1",
+     "doi": null,
+     "title": "A Self-Adaptive Frequency Domain Network for Continuous Intraoperative Hypotension Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2505.22116v3",
+     "doi": null,
+     "title": "Multimodal Forecasting of Sparse Intraoperative Hypotension Events Powered by Language Model",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2505.21596v1",
+     "doi": null,
+     "title": "Learning optimal treatment strategies for intraoperative hypotension using deep reinforcement learning",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.05011v1",
+     "doi": null,
+     "title": "Can saliency maps flag chest radiograph classifier errors at a new hospital? An external validation study",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2409.11064v4",
+     "doi": null,
+     "title": "A Hybrid Multi-Factor Network with Dynamic Sequence Modeling for Early Warning of Intraoperative Hypotension",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2509.14354v1",
+     "doi": null,
+     "title": "Bayesian Parameter Inference and Uncertainty-Informed Sensitivity Analysis in a 0D Cardiovascular Model for Intraoperative Hypotension",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "hypotension prediction ICU mean arterial pressure below 65 machine learning MIMIC eICU external validation",
+   "date": "2026-11-25T13:23:19",
+   "openalex_count": 42,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7120025628",
+     "doi": "https://doi.org/10.1016/j.jointm.2025.10.010",
+     "title": "Development and external validation of a machine learning model for predicting the 28-day mortality risk in patients with sepsis complicated by acute respiratory failure in the ICU",
+     "year": 2026,
+     "venue": "Journal of Intensive Medicine",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4307451770",
+     "doi": "https://doi.org/10.3389/fcvm.2022.1035675",
+     "title": "Prediction of 30-day mortality in heart failure patients with hypoxic hepatitis: Development and external validation of an interpretable machine learning model",
+     "year": 2022,
+     "venue": "Frontiers in Cardiovascular Medicine",
+     "cites": 29
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3009583110",
+     "doi": "https://doi.org/10.1038/s41591-020-0789-4",
+     "title": "Early prediction of circulatory failure in the intensive care unit using machine learning",
+     "year": 2020,
+     "venue": "Nature Medicine",
+     "cites": 646
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417262954",
+     "doi": "https://doi.org/10.48550/arxiv.2507.18866",
+     "title": "Early Mortality Prediction in ICU Patients with Hypertensive Kidney Disease Using Interpretable Machine Learning",
+     "year": 2025,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3213357415",
+     "doi": "https://doi.org/10.1186/s13054-021-03808-x",
+     "title": "Early prediction of hemodynamic interventions in the intensive care unit using machine learning",
+     "year": 2021,
+     "venue": "Critical Care",
+     "cites": 56
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7123349342",
+     "doi": "https://doi.org/10.3390/biomedinformatics6010004",
+     "title": "Development of Machine Learning Models to Predict 28-Day Mortality in Patients with Sepsis-Associated Liver Injury",
+     "year": 2026,
+     "venue": "BioMedInformatics",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7226023217",
+     "doi": "https://doi.org/10.1097/md.0000000000051571",
+     "title": "Transportable early renal recovery phenotypes and 30-day major adverse kidney events after sepsis-associated acute kidney injury: A MIMIC-IV discovery and eICU-CRD external-validation cohort study",
+     "year": 2026,
+     "venue": "Medicine",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W788217788",
+     "doi": "https://doi.org/10.1109/jproc.2015.2501978",
+     "title": "Machine Learning and Decision Support in Critical Care",
+     "year": 2016,
+     "venue": "Proceedings of the IEEE",
+     "cites": 529
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4283445992",
+     "doi": "https://doi.org/10.3390/healthcare10060966",
+     "title": "A Machine Learning Based Discharge Prediction of Cardiovascular Diseases Patients in Intensive Care Units",
+     "year": 2022,
+     "venue": "Healthcare",
+     "cites": 15
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7172509099",
+     "doi": "https://doi.org/10.31435/ijitss.3(51).2026.5768",
+     "title": "MACHINE LEARNING IN PREDICTION OF SEPSIS IN INTENSIVE CARE UNITS: A LITERATURE REVIEW OF ALGORITHMIC MODELS AND CLINICAL IMPLEMENTATION",
+     "year": 2026,
+     "venue": "International Journal of Innovative Technologies in Social Science",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4407229952",
+     "doi": "https://doi.org/10.1038/s41746-024-01426-9",
+     "title": "Predicting appropriateness of antibiotic treatment among ICU patients with hospital-acquired infection",
+     "year": 2025,
+     "venue": "npj Digital Medicine",
+     "cites": 33
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7204451297",
+     "doi": "https://doi.org/10.3390/bioengineering13090993",
+     "title": "MultiCardioNet: A Multimodal Deep Learning Model for Early Cardiovascular Deterioration Prediction in ICU Patients",
+     "year": 2026,
+     "venue": "Bioengineering",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2006.16189v4",
+     "doi": null,
+     "title": "DOME: Recommendations for supervised machine learning validation in biology",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2306.04338v1",
+     "doi": null,
+     "title": "Changing Data Sources in the Age of Machine Learning for Official Statistics",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.17978v2",
+     "doi": null,
+     "title": "Machine Learning-Based Prediction of ICU Mortality in Sepsis-Associated Acute Kidney Injury Patients Using MIMIC-IV Database with Validation from eICU Database",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.24287v1",
+     "doi": null,
+     "title": "Towards actionable hypotension prediction -- predicting catecholamine therapy initiation in the intensive care unit",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2201.12150v2",
+     "doi": null,
+     "title": "Learning Curves for Decision Making in Supervised Machine Learning: A Survey",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.08893v4",
+     "doi": null,
+     "title": "Active learning for data streams: a survey",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2303.15563v1",
+     "doi": null,
+     "title": "Privacy-preserving machine learning for healthcare: open challenges and future perspectives",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2304.02381v2",
+     "doi": null,
+     "title": "Physics-Inspired Interpretability Of Machine Learning Models",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "ricu harmonized ICU datasets transfer MIMIC eICU HiRID AUMCdb early warning",
+   "date": "2026-11-25T13:23:22",
+   "openalex_count": 4,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4380136483",
+     "doi": "https://doi.org/10.48550/arxiv.2306.05109",
+     "title": "Yet Another ICU Benchmark: A Flexible Multi-Center Framework for Clinical ML",
+     "year": 2024,
+     "venue": "International Conference on Learning Representations",
+     "cites": 52
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4400283511",
+     "doi": "https://doi.org/10.1097/ccm.0000000000006359",
+     "title": "The Impact of Multi-Institution Datasets on the Generalizability of Machine Learning Prediction Models in the ICU",
+     "year": 2024,
+     "venue": "Critical Care Medicine",
+     "cites": 125
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4380729691",
+     "doi": "https://doi.org/10.48550/arxiv.2108.00796",
+     "title": "ricu: R's Interface to Intensive Care Data",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7222750467",
+     "doi": "https://doi.org/10.21203/rs.3.rs-11382527/v1",
+     "title": "A generative digital twin forecasts and simulates intensive care patients without task labels",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2111.08536v4",
+     "doi": null,
+     "title": "HiRID-ICU-Benchmark -- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2108.00796v1",
+     "doi": null,
+     "title": "ricu: R's Interface to Intensive Care Data",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.13661v1",
+     "doi": null,
+     "title": "SepsisFlow: an event-stream foundation model for continuous risk warning and trajectory modelling in ICU sepsis",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.17978v2",
+     "doi": null,
+     "title": "Machine Learning-Based Prediction of ICU Mortality in Sepsis-Associated Acute Kidney Injury Patients Using MIMIC-IV Database with Validation from eICU Database",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1904.03987v1",
+     "doi": null,
+     "title": "Early warning in egg production curves from commercial hens: A SVM approach",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2507.13655v1",
+     "doi": null,
+     "title": "CU-ICU: Customizing Unsupervised Instruction-Finetuned Language Models for ICU Datasets via Text-to-Text Transfer Transformer",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.06645v1",
+     "doi": null,
+     "title": "A Multimodal Deep Learning Framework for Predicting ICU Deterioration: Integrating ECG Waveforms with Clinical Data and Clinician Benchmarking",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.04685v1",
+     "doi": null,
+     "title": "MIMIC-Note-Extract: A Large-Scale Structured Dataset Extracted from MIMIC-IV-Note Discharge Summaries",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "Yet Another ICU Benchmark multi-center transferability",
+   "date": "2026-11-25T13:23:25",
+   "openalex_count": 4429,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4380136483",
+     "doi": "https://doi.org/10.48550/arxiv.2306.05109",
+     "title": "Yet Another ICU Benchmark: A Flexible Multi-Center Framework for Clinical ML",
+     "year": 2024,
+     "venue": "International Conference on Learning Representations",
+     "cites": 52
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1608684139",
+     "doi": "https://doi.org/10.5005/ijccm-13-4-173",
+     "title": "Quality indicators for ICU: ISCCM guidelines for ICUs in India",
+     "year": 2009,
+     "venue": "Indian Journal of Critical Care Medicine",
+     "cites": 59
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7161114435",
+     "doi": "https://doi.org/10.48550/arxiv.2605.13542",
+     "title": "RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7235384466",
+     "doi": "https://doi.org/10.48550/arxiv.2611.18868",
+     "title": "SLICES: A Benchmark and Evaluation Framework for Self-Supervised Learning on Sparse ICU Time Series",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7137832840",
+     "doi": "https://doi.org/10.1609/aaai.v40i24.39081",
+     "title": "Benchmarking Reinforcement Learning Algorithms for ICU Ventilator Settings: An Interpretable and Probabilistic Patient Environment for Doctor Agents",
+     "year": 2026,
+     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7118080817",
+     "doi": "https://doi.org/10.1038/s41746-025-02176-y",
+     "title": "Bridging data gaps of rare conditions in ICU: a multi-disease adaptation approach for clinical prediction",
+     "year": 2026,
+     "venue": "npj Digital Medicine",
+     "cites": 8
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2601862041",
+     "doi": "https://doi.org/10.1007/s00134-017-4750-z",
+     "title": "Current challenges in the management of sepsis in ICUs in resource-poor settings and suggestions for the future",
+     "year": 2017,
+     "venue": "Intensive Care Medicine",
+     "cites": 264
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133348849",
+     "doi": "https://doi.org/10.1038/s41746-026-02364-4",
+     "title": "Evaluating deep learning sepsis prediction models in ICUs under distribution shift: a multi-centre retrospective cohort study",
+     "year": 2026,
+     "venue": "npj Digital Medicine",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2523676086",
+     "doi": null,
+     "title": "Integration of Palliative Care Standards in the ICU at Kaiser Permanente Medical Center in Hawai'i",
+     "year": 2015,
+     "venue": "ScholarSpace (University of Hawaii at Manoa)",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7202087760",
+     "doi": "https://doi.org/10.55041/ijsrem66640",
+     "title": "A Hybrid Model for Predicting ICU Discharge Readiness and Estimating Excess ICU Stay Duration",
+     "year": 2026,
+     "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7108218468",
+     "doi": "https://doi.org/10.48550/arxiv.2511.22199",
+     "title": "PULSE-ICU: A Pretrained Unified Long-Sequence Encoder for Multi-task Prediction in Intensive Care Units",
+     "year": 2025,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7172563047",
+     "doi": null,
+     "title": "MedicAl-driven Generative Modelling for ICU",
+     "year": 2026,
+     "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2306.05109v4",
+     "doi": null,
+     "title": "Yet Another ICU Benchmark: A Flexible Multi-Center Framework for Clinical ML",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.06645v1",
+     "doi": null,
+     "title": "A Multimodal Deep Learning Framework for Predicting ICU Deterioration: Integrating ECG Waveforms with Clinical Data and Clinician Benchmarking",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2607.22139v2",
+     "doi": null,
+     "title": "A Multi-Center Dataset and Benchmark for SYNTAX Segmentation of Coronary Angiograms",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2305.16126v1",
+     "doi": null,
+     "title": "Automatic off-line design of robot swarms: exploring the transferability of control software and design methods across different platforms",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2002.06247v2",
+     "doi": null,
+     "title": "Robust Policies For Proactive ICU Transfers",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2406.05646v2",
+     "doi": null,
+     "title": "ICU-Sepsis: A Benchmark MDP Built from Real Medical Data",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2507.13655v1",
+     "doi": null,
+     "title": "CU-ICU: Customizing Unsupervised Instruction-Finetuned Language Models for ICU Datasets via Text-to-Text Transfer Transformer",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.24500v1",
+     "doi": null,
+     "title": "MIMIC-Sepsis: A Curated Benchmark for Modeling and Learning from Sepsis Trajectories in the ICU",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "hospital by unit crossed design generalization clinical machine learning",
+   "date": "2026-11-25T13:23:28",
+   "openalex_count": 25639,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4385416124",
+     "doi": "https://doi.org/10.1038/s42256-023-00697-3",
+     "title": "Algorithmic fairness and bias mitigation for clinical machine learning with deep reinforcement learning",
+     "year": 2023,
+     "venue": "Nature Machine Intelligence",
+     "cites": 188
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2755492370",
+     "doi": "https://doi.org/10.1136/bmjopen-2017-017199",
+     "title": "Prediction of early unplanned intensive care unit readmission in a UK tertiary care hospital: a cross-sectional machine learning approach",
+     "year": 2017,
+     "venue": "BMJ Open",
+     "cites": 145
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2973458857",
+     "doi": "https://doi.org/10.1007/978-3-030-47994-7_12",
+     "title": "Machine Learning for Clinical Predictive Analytics",
+     "year": 2020,
+     "venue": "Springer eBooks",
+     "cites": 44
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3013605954",
+     "doi": "https://doi.org/10.2196/17984",
+     "title": "Clinical Text Data in Machine Learning: Systematic Review",
+     "year": 2020,
+     "venue": "JMIR Medical Informatics",
+     "cites": 457
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3080627676",
+     "doi": "https://doi.org/10.1016/s2589-7500(20)30186-2",
+     "title": "The myth of generalisability in clinical research and machine learning in health care",
+     "year": 2020,
+     "venue": "The Lancet Digital Health",
+     "cites": 609
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3183837412",
+     "doi": "https://doi.org/10.3390/jpm11080695",
+     "title": "Machine Learning Approaches to Predict In-Hospital Mortality among Neonates with Clinically Suspected Sepsis in the Neonatal Intensive Care Unit",
+     "year": 2021,
+     "venue": "Journal of Personalized Medicine",
+     "cites": 58
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2811374795",
+     "doi": "https://doi.org/10.1371/journal.pmed.1002683",
+     "title": "Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: A cross-sectional study",
+     "year": 2018,
+     "venue": "PLoS Medicine",
+     "cites": 2386
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7162083532",
+     "doi": "https://doi.org/10.1038/s41598-026-53043-z",
+     "title": "The limits of debiased clinical language models for cross-hospital generalization",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3130376580",
+     "doi": "https://doi.org/10.3390/computers10020024",
+     "title": "Automated Machine Learning for Healthcare and Clinical Notes Analysis",
+     "year": 2021,
+     "venue": "Computers",
+     "cites": 166
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3136873846",
+     "doi": "https://doi.org/10.1145/3450439.3451878",
+     "title": "An empirical framework for domain generalization in clinical settings",
+     "year": 2021,
+     "venue": "ACM Conference on Health, Inference, and Learning (CHIL)",
+     "cites": 86
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2770222727",
+     "doi": "https://doi.org/10.2196/medinform.8680",
+     "title": "Predicting Unplanned Transfers to the Intensive Care Unit: A Machine Learning Approach Leveraging Diverse Clinical Elements",
+     "year": 2017,
+     "venue": "JMIR Medical Informatics",
+     "cites": 94
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4297997268",
+     "doi": "https://doi.org/10.1001/jamanetworkopen.2022.33946",
+     "title": "Randomized Clinical Trials of Machine Learning Interventions in Health Care: A Systematic Review",
+     "year": 2022,
+     "venue": "JAMA Network Open",
+     "cites": 281
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2306.04338v1",
+     "doi": null,
+     "title": "Changing Data Sources in the Age of Machine Learning for Official Statistics",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2006.16189v4",
+     "doi": null,
+     "title": "DOME: Recommendations for supervised machine learning validation in biology",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2111.07407v1",
+     "doi": null,
+     "title": "A Machine Learning Approach for Recruitment Prediction in Clinical Trial Design",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2201.12150v2",
+     "doi": null,
+     "title": "Learning Curves for Decision Making in Supervised Machine Learning: A Survey",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.08893v4",
+     "doi": null,
+     "title": "Active learning for data streams: a survey",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2602.11092v2",
+     "doi": null,
+     "title": "MerLin: A Discovery Engine for Photonic and Hybrid Quantum Machine Learning",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2304.02381v2",
+     "doi": null,
+     "title": "Physics-Inspired Interpretability Of Machine Learning Models",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.01135v1",
+     "doi": null,
+     "title": "Student-Teacher Curriculum Learning via Reinforcement Learning: Predicting Hospital Inpatient Admission Location",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "within-hospital versus between-hospital performance drop prediction model ICU",
+   "date": "2026-11-25T13:23:32",
+   "openalex_count": 13963,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1552975046",
+     "doi": "https://doi.org/10.1186/cc4751",
+     "title": "Evaluation of APACHE II and the ICU cancer mortality model in an Indian cancer hospital ICU",
+     "year": 2006,
+     "venue": "Critical Care",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1978252072",
+     "doi": "https://doi.org/10.1186/cc6724",
+     "title": "Prediction of hospital mortality by support vector machine versus logistic regression in patients with a haematological malignancy admitted to the ICU",
+     "year": 2008,
+     "venue": "Critical Care",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2081897437",
+     "doi": "https://doi.org/10.1186/cc42",
+     "title": "ICU comparative survey of bacteremia in a teaching hospital",
+     "year": 1997,
+     "venue": "Critical Care",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1547880805",
+     "doi": "https://doi.org/10.1186/cc4728",
+     "title": "Outcome of cardiopulmonary resuscitation in the ICU in a university hospital",
+     "year": 2006,
+     "venue": "Critical Care",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2262307767",
+     "doi": null,
+     "title": "Automating Hospital ICU Emergency Signaling",
+     "year": 2015,
+     "venue": "BRAC University Institutional Repository (BRAC University)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2090558568",
+     "doi": "https://doi.org/10.1186/cc8730",
+     "title": "PREDICT, Prediction of Delirium in ICU Patients: development and validation of a prediction model",
+     "year": 2010,
+     "venue": "Critical Care",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2791297194",
+     "doi": null,
+     "title": "Sequential modeling for mortality prediction in the ICU",
+     "year": 2017,
+     "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2002621886",
+     "doi": "https://doi.org/10.1186/cc10746",
+     "title": "An audit of airway complications in a district general hospital ICU",
+     "year": 2012,
+     "venue": "Critical Care",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2070575741",
+     "doi": "https://doi.org/10.1186/cc1318",
+     "title": "ICU nursing workload is not related to hospital survival",
+     "year": 2001,
+     "venue": "Critical Care",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1567673965",
+     "doi": "https://doi.org/10.1186/cc4468",
+     "title": "Changing patterns of microbial resistance in an Indian cancer hospital ICU",
+     "year": 2006,
+     "venue": "Critical Care",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2021949393",
+     "doi": "https://doi.org/10.1186/cc1297",
+     "title": "Comparison of prediction of hospital mortality by ICU medical staff and referring parent team doctors",
+     "year": 2001,
+     "venue": "Critical Care",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1553343321",
+     "doi": "https://doi.org/10.1186/cc1765",
+     "title": "Intracranial pressure monitoring in two district general hospital ICUs",
+     "year": 2002,
+     "venue": "Critical Care",
+     "cites": 1
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1002.1144v1",
+     "doi": null,
+     "title": "A CHAID Based Performance Prediction Model in Educational Data Mining",
+     "year": "2010",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.06645v1",
+     "doi": null,
+     "title": "A Multimodal Deep Learning Framework for Predicting ICU Deterioration: Integrating ECG Waveforms with Clinical Data and Clinician Benchmarking",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.13875v1",
+     "doi": null,
+     "title": "Performance of Genetic Algorithms in the Context of Software Model Refactoring",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2505.12344v2",
+     "doi": null,
+     "title": "Early Prediction of In-Hospital ICU Mortality Using Innovative First-Day Data: A Review",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1911.02548v1",
+     "doi": null,
+     "title": "ICU Delirium Prediction Models: A Systematic Review",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.30781v1",
+     "doi": null,
+     "title": "Missingness-Aware Conformal Prediction Under Cross-Hospital Distribution Shift",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.08836v1",
+     "doi": null,
+     "title": "Asynchronous Model Predictive Control Under Model Mismatch: Stability and Performance Guarantees",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2503.06059v1",
+     "doi": null,
+     "title": "MANDARIN: Mixture-of-Experts Framework for Dynamic Delirium and Coma Prediction in ICU Patients: Development and Validation of an Acute Brain Dysfunction Prediction Model",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "PhysioNet 2012 challenge MIMIC-II model transfer to other database",
+   "date": "2026-11-25T13:23:35",
+   "openalex_count": 772,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7130361739",
+     "doi": "https://doi.org/10.1088/1361-6579/ae92e7",
+     "title": "From PhysioNet to foundation models\u2014a history and potential futures",
+     "year": 2026,
+     "venue": "Physiological Measurement",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406133288",
+     "doi": "https://doi.org/10.1101/2025.01.01.25319859",
+     "title": "ICU Readmission Prediction for Intracerebral Hemorrhage Patients using MIMIC III and MIMIC IV Databases",
+     "year": 2025,
+     "venue": "medRxiv",
+     "cites": 9
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4392288301",
+     "doi": "https://doi.org/10.1186/s12871-024-02467-z",
+     "title": "Clinical nomogram prediction model to assess the risk of prolonged ICU length of stay in patients with diabetic ketoacidosis: a retrospective analysis based on the MIMIC-IV database",
+     "year": 2024,
+     "venue": "BMC Anesthesiology",
+     "cites": 13
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415060436",
+     "doi": "https://doi.org/10.1007/s10462-025-11387-4",
+     "title": "Efficient mortality prediction for acute respiratory failure: a resource-constrained machine learning approach using MIMIC databases",
+     "year": 2025,
+     "venue": "Artificial Intelligence Review",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7213537190",
+     "doi": "https://doi.org/10.1002/cam4.72285",
+     "title": "Ramelteon and Mortality in Patients With Sepsis and Cancer: Insights From a Propensity\u2010Matched Analysis of the MIMIC \u2010 IV Database",
+     "year": 2026,
+     "venue": "Cancer Medicine",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4409020930",
+     "doi": "https://doi.org/10.1093/ehjdh/ztae086",
+     "title": "Evaluating large language models in echocardiography reporting: opportunities and challenges",
+     "year": 2025,
+     "venue": "European Heart Journal - Digital Health",
+     "cites": 43
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4319602646",
+     "doi": "https://doi.org/10.3389/fdgth.2022.1090854",
+     "title": "PulseDB: A large, cleaned dataset based on MIMIC-III and VitalDB for benchmarking cuff-less blood pressure estimation methods",
+     "year": 2023,
+     "venue": "Frontiers in Digital Health",
+     "cites": 165
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4411044823",
+     "doi": "https://doi.org/10.63682/fhi1826",
+     "title": "A Longitudinal And Domain Wise Survey On MIMIC III Dataset",
+     "year": 2025,
+     "venue": "Frontiers in Health Informatics",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3113131038",
+     "doi": "https://doi.org/10.1088/1361-6579/ac1d59",
+     "title": "Deep learning based classification of unsegmented phonocardiogram spectrograms leveraging transfer learning",
+     "year": 2021,
+     "venue": "Physiological Measurement",
+     "cites": 70
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7126274747",
+     "doi": "https://doi.org/10.3390/healthcare14030356",
+     "title": "Machine Learning Prediction of ICU Mortality and Length of Stay in Atrial Fibrillation: A MIMIC-IV/MIMIC-III Study",
+     "year": 2026,
+     "venue": "Healthcare",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4214701960",
+     "doi": "https://doi.org/10.21037/atm-22-588",
+     "title": "Impact of central venous pressure on the mortality of patients with sepsis-related acute kidney injury: a propensity score-matched analysis based on the MIMIC IV database",
+     "year": 2022,
+     "venue": "Annals of Translational Medicine",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4388240351",
+     "doi": "https://doi.org/10.1109/access.2023.3329678",
+     "title": "Deep Learning in EEG-Based BCIs: A Comprehensive Review of Transformer Models, Advantages, Challenges, and Applications",
+     "year": 2023,
+     "venue": "IEEE Access",
+     "cites": 183
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1210.0325v1",
+     "doi": null,
+     "title": "World Summary of $\u03b1_s$ (2012)",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1210.2390v1",
+     "doi": null,
+     "title": "Vaxjo Interpretation of Wave Function: 2012",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2602.15371v2",
+     "doi": null,
+     "title": "From PhysioNet to Foundation Models -- A History and Potential Futures",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1209.1047v1",
+     "doi": null,
+     "title": "Theory summary. Hard Probes 2012",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2206.14633v2",
+     "doi": null,
+     "title": "ESA-Ariel Data Challenge NeurIPS 2022: Introduction to exo-atmospheric studies and presentation of the Atmospheric Big Challenge (ABC) Database",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1204.4428v1",
+     "doi": null,
+     "title": "EDCC 2012 - Fast Abstracts & Student Forum Proceedings",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1209.4384v1",
+     "doi": null,
+     "title": "FPCP 2012 Summary Talk on Experiments",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1211.2259v1",
+     "doi": null,
+     "title": "Proceedings: Workshop on the experience of and advances in developing dependable systems in Event-B (DS-Event-B 2012)",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "site versus subpopulation shift disentangle clinical prediction AUROC",
+   "date": "2026-11-25T13:23:37",
+   "openalex_count": 65,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4321855250",
+     "doi": "https://doi.org/10.48550/arxiv.2302.12254",
+     "title": "Change is Hard: A Closer Look at Subpopulation Shift",
+     "year": 2023,
+     "venue": "International Conference on Machine Learning",
+     "cites": 171
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7131293852",
+     "doi": "https://doi.org/10.48550/arxiv.2602.18502",
+     "title": "Mitigating Shortcut Learning via Feature Disentanglement in Medical Imaging: A Benchmark Study",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4386303561",
+     "doi": "https://doi.org/10.1016/j.ccell.2023.08.002",
+     "title": "Transformer-based biomarker prediction from colorectal cancer histology: A large-scale multicentric study",
+     "year": 2023,
+     "venue": "Cancer Cell",
+     "cites": 355
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3186679119",
+     "doi": "https://doi.org/10.1038/s41467-021-24698-1",
+     "title": "The impact of site-specific digital histology signatures on deep learning model accuracy and bias",
+     "year": 2021,
+     "venue": "Nature Communications",
+     "cites": 441
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7162083532",
+     "doi": "https://doi.org/10.1038/s41598-026-53043-z",
+     "title": "The limits of debiased clinical language models for cross-hospital generalization",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7170048423",
+     "doi": "https://doi.org/10.3390/info17070712",
+     "title": "Transformer-Based Language Models for Clinical Decision Support Using Clinical Notes: A Scoping Review",
+     "year": 2026,
+     "venue": "Information",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7162935242",
+     "doi": "https://doi.org/10.1093/bib/bbag269",
+     "title": "Artificial intelligence for antimicrobial resistance: advancing reproducibility, interpretability, and clinical deployment",
+     "year": 2026,
+     "venue": "Briefings in Bioinformatics",
+     "cites": 13
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4389233149",
+     "doi": "https://doi.org/10.1126/sciadv.adi4927",
+     "title": "Subsecond fluctuations in extracellular dopamine encode reward and punishment prediction errors in humans",
+     "year": 2023,
+     "venue": "Science Advances",
+     "cites": 45
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7167459585",
+     "doi": "https://doi.org/10.28924/2291-8639-24-2026-202",
+     "title": "Translational Evaluation of Interpretable Machine Learning for Cardiovascular Risk Prediction: Calibration Decomposition, Subgroup Audits, and Decision-Utility Analysis",
+     "year": 2026,
+     "venue": "International Journal of Analysis and Applications",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163234986",
+     "doi": "https://doi.org/10.1038/s41392-026-02631-6",
+     "title": "Multi-omics and artificial intelligence for precision drug discovery and potential clinical applications",
+     "year": 2026,
+     "venue": "Signal Transduction and Targeted Therapy",
+     "cites": 51
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4400126525",
+     "doi": "https://doi.org/10.1038/s41591-024-03113-4",
+     "title": "The limits of fair medical imaging AI in real-world generalization",
+     "year": 2024,
+     "venue": "Nature Medicine",
+     "cites": 453
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7164759615",
+     "doi": "https://doi.org/10.1038/s41598-026-56750-9",
+     "title": "Intelligent fall risk prediction and real-time warning system for elderly care based on multimodal deep learning and wearable sensor fusion",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 2
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2011.09625v2",
+     "doi": null,
+     "title": "Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical NLP",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.04725v1",
+     "doi": null,
+     "title": "Lightweight Transformers for Clinical Natural Language Processing",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.02411v3",
+     "doi": null,
+     "title": "Assessing External Validity Over Worst-case Subpopulations",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2210.09440v2",
+     "doi": null,
+     "title": "Using Bottleneck Adapters to Identify Cancer in Clinical Notes under Low-Resource Constraints",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2506.05583v2",
+     "doi": null,
+     "title": "Conformal Prediction Adaptive to Unknown Subpopulation Shifts",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2304.04148v1",
+     "doi": null,
+     "title": "Reweighted Mixup for Subpopulation Shift",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2008.04859v1",
+     "doi": null,
+     "title": "BREEDS: Benchmarks for Subpopulation Shift",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2011.11583v5",
+     "doi": null,
+     "title": "Tolerance and Prediction Intervals for Non-normal Models",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "circulatory failure early warning HiRID external validation AmsterdamUMCdb",
+   "date": "2026-11-25T13:23:40",
+   "openalex_count": 19,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7165731438",
+     "doi": "https://doi.org/10.1038/s41598-026-59064-y",
+     "title": "Early prognostication for ICU patients with combined respiratory and circulatory failure: an interpretable machine learning approach",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7211925637",
+     "doi": "https://doi.org/10.3390/jcm15186957",
+     "title": "Generalization, Cross-ICU Transfer, and Explainability of a Mortality and Time-to-Discharge Framework for the Intensive Care Unit",
+     "year": 2026,
+     "venue": "Journal of Clinical Medicine",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417362068",
+     "doi": "https://doi.org/10.1177/20552076251406302",
+     "title": "Artificial intelligence applications in intensive care unit nursing: A narrative review (2020\u20132025)",
+     "year": 2025,
+     "venue": "Digital Health",
+     "cites": 21
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415474130",
+     "doi": "https://doi.org/10.21203/rs.3.rs-7455197/v1",
+     "title": "Leveraging High-Frequency Clinical Data for Early Septic Shock Detection with Advanced Machine Learning Frameworks",
+     "year": 2025,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4380729691",
+     "doi": "https://doi.org/10.48550/arxiv.2108.00796",
+     "title": "ricu: R's Interface to Intensive Care Data",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4417535707",
+     "doi": "https://doi.org/10.1038/s41746-025-02081-4",
+     "title": "RMS: a ML-based system for ICU respiratory monitoring and resource planning",
+     "year": 2025,
+     "venue": "npj Digital Medicine",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4412671731",
+     "doi": "https://doi.org/10.1101/2025.07.25.25331635",
+     "title": "A Foundation Model for Intensive Care: Unlocking Generalization across Tasks and Domains at Scale",
+     "year": 2025,
+     "venue": "medRxiv",
+     "cites": 21
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4389044183",
+     "doi": "https://doi.org/10.1515/mr-2023-0039",
+     "title": "The application of artificial intelligence in the management of sepsis",
+     "year": 2023,
+     "venue": "Medical Review",
+     "cites": 55
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4400283511",
+     "doi": "https://doi.org/10.1097/ccm.0000000000006359",
+     "title": "The Impact of Multi-Institution Datasets on the Generalizability of Machine Learning Prediction Models in the ICU",
+     "year": 2024,
+     "venue": "Critical Care Medicine",
+     "cites": 125
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4380136483",
+     "doi": "https://doi.org/10.48550/arxiv.2306.05109",
+     "title": "Yet Another ICU Benchmark: A Flexible Multi-Center Framework for Clinical ML",
+     "year": 2024,
+     "venue": "International Conference on Learning Representations",
+     "cites": 52
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4413741073",
+     "doi": "https://doi.org/10.3390/diagnostics15172169",
+     "title": "The Potential of Artificial Intelligence in the Diagnosis and Prognosis of Sepsis: A Narrative Review",
+     "year": 2025,
+     "venue": "Diagnostics",
+     "cites": 24
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7222750467",
+     "doi": "https://doi.org/10.21203/rs.3.rs-11382527/v1",
+     "title": "A generative digital twin forecasts and simulates intensive care patients without task labels",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1904.07990v2",
+     "doi": null,
+     "title": "Machine learning for early prediction of circulatory failure in the intensive care unit",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.30706v1",
+     "doi": null,
+     "title": "Bayesian sequential decision-making for adaptive early warning of bridge failure risk",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.34473v1",
+     "doi": null,
+     "title": "From Noisy Telemetry to Actionable Warnings: GPU Failure Prediction in Industrial Clusters",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1904.03987v1",
+     "doi": null,
+     "title": "Early warning in egg production curves from commercial hens: A SVM approach",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1812.05355v1",
+     "doi": null,
+     "title": "Co-detection of micro seismic activity as early warning of gravitational slope failure",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.16803v2",
+     "doi": null,
+     "title": "Detection Is Not Early Warning: Evaluating Token-Level Alarms on Language Model Failures",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1904.04636v3",
+     "doi": null,
+     "title": "Tipping point analysis of electrical resistance data with early warning signals of failure for predictive maintenance",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1509.06949v1",
+     "doi": null,
+     "title": "Co-detection of acoustic emissions during failure of heterogeneous media: new perspectives for natural hazard early warning",
+     "year": "2015",
+     "venue": null,
+     "cites": null
+    }
+   ]
   }
  ],
  "papers_opened": [

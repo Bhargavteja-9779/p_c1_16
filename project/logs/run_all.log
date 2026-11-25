@@ -1187,3 +1187,7 @@
 [2026-11-25T13:22:47+00:00] done E12_dosex__rand1__lgbm__all__full__B_R1__s1__val
 [2026-11-25T13:22:47+00:00] started E12_dosex__rand2__lgbm__all__full__A_R0__s1__val (pid 7737, attempt 1)
 [2026-11-25T13:22:47+00:00] started E12_dosex__rand2__lgbm__all__full__A_R1__s1__val (pid 7738, attempt 1)
+[2026-11-25T13:23:52+00:00] done E12_dosex__rand2__lgbm__all__full__A_R0__s1__val
+[2026-11-25T13:23:52+00:00] done E12_dosex__rand2__lgbm__all__full__A_R1__s1__val
+[2026-11-25T13:23:52+00:00] started E12_dosex__rand2__lgbm__all__full__B_R0__s1__val (pid 7965, attempt 1)
+[2026-11-25T13:23:52+00:00] started E12_dosex__rand2__lgbm__all__full__B_R1__s1__val (pid 7966, attempt 1)
