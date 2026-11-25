@@ -835,3 +835,7 @@ E7_factorsc__route__lr__all__full__A_L__s104__test,E7_factorsc,route,lr,all,full
 E7_factorsc__route__lr__all__full__A_L__s104__test,E7_factorsc,route,lr,all,full,104,test,A_L,A_L,0.79347,0.11954,0.80385
 E7_factorsc__route__lr__all__full__A_L__s104__test,E7_factorsc,route,lr,all,full,104,test,A_L,B_D,0.66875,0.03338,0.69841
 E7_factorsc__route__lr__all__full__A_L__s104__test,E7_factorsc,route,lr,all,full,104,test,A_L,B_L,0.64741,0.06178,0.74225
+E7_factorsc__route__lr__all__full__A_D__s104__test,E7_factorsc,route,lr,all,full,104,test,A_D,A_D,0.81064,0.13346,0.83113
+E7_factorsc__route__lr__all__full__A_D__s104__test,E7_factorsc,route,lr,all,full,104,test,A_D,A_L,0.76911,0.09935,0.78292
+E7_factorsc__route__lr__all__full__A_D__s104__test,E7_factorsc,route,lr,all,full,104,test,A_D,B_D,0.71448,0.04260,0.74195
+E7_factorsc__route__lr__all__full__A_D__s104__test,E7_factorsc,route,lr,all,full,104,test,A_D,B_L,0.72705,0.06133,0.73234

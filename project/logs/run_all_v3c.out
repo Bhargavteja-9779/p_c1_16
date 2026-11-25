@@ -159,3 +159,7 @@
 [2026-11-25T01:27:04+00:00] mode=full plan=plan_v3b.yaml jobs_total=512 added=0
 [2026-11-25T01:27:04+00:00] started E7_factorsc__route__lr__all__full__A_D__s104__test (pid 183, attempt 2)
 [2026-11-25T01:27:04+00:00] started E7_factorsc__route__lr__all__full__A_L__s104__test (pid 184, attempt 2)
+[2026-11-25T01:27:29+00:00] done E7_factorsc__route__lr__all__full__A_L__s104__test
+[2026-11-25T01:27:29+00:00] started E7_factorsc__route__lr__all__full__B_D__s104__test (pid 216, attempt 1)
+[2026-11-25T01:27:34+00:00] done E7_factorsc__route__lr__all__full__A_D__s104__test
+[2026-11-25T01:27:34+00:00] started E7_factorsc__route__lr__all__full__B_L__s104__test (pid 255, attempt 1)
