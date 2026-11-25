@@ -49,6 +49,8 @@ def build_jobs_v3(plan):
             continue
         sfx = "x" if phase == "explore" else "c"
         for e in V["experiments"]:
+            if phase not in e.get("phases", V["phases"]):  # per-experiment phase override (plan_v5)
+                continue
             exp = f"{e['id']}{sfx}"
             for model in e["models"]:
                 for s in seeds:

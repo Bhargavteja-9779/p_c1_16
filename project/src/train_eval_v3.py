@@ -32,7 +32,11 @@ sys.path.insert(0, str(ROOT))
 from src.train_eval import fit_lgbm, fit_lr, metrics  # frozen code, unchanged
 from src.data_physionet2019 import VITALS, LABS
 
-LEVELS = {"unit": ("MICU", "SICU"), "age": ("Y", "O"), "route": ("D", "L")}
+LEVELS = {"unit": ("MICU", "SICU"), "age": ("Y", "O"), "route": ("D", "L"),
+          # plan_v5 dose-response partitions (added 2026-11-25; v3 factors above unchanged)
+          "sex": ("F", "M"), "age50": ("Y", "O"), "age75": ("Y", "O"), "route6": ("D", "L"), "los": ("S", "G"),
+          "rand1": ("R0", "R1"), "rand2": ("R0", "R1"), "rand3": ("R0", "R1")}
+V5_DEF = {"age50": ("Age", 50), "age75": ("Age", 75)}  # threshold partitions: level 'O' if value >= threshold
 
 
 def cells_of(factor):
@@ -50,10 +54,29 @@ def load(factor):
     elif factor == "age":
         a = feat.groupby("pid").Age.first()
         lvl = feat.pid.map(pd.Series(np.where(a >= 65, "O", "Y"), index=a.index))
-    else:
+    elif factor == "route":
         t = feat.groupby("pid").HospAdmTime.first()
         s = pd.Series(np.where(t.isna(), None, np.where(t >= -24, "D", "L")), index=t.index)
         lvl = feat.pid.map(s)
+    elif factor in V5_DEF:
+        col, thr = V5_DEF[factor]; a = feat.groupby("pid")[col].first()
+        lvl = feat.pid.map(pd.Series(np.where(a >= thr, "O", "Y"), index=a.index))
+    elif factor == "route6":
+        t = feat.groupby("pid").HospAdmTime.first()
+        lvl = feat.pid.map(pd.Series(np.where(t.isna(), None, np.where(t >= -6, "D", "L")), index=t.index))
+    elif factor == "sex":
+        gsex = feat.groupby("pid").Gender.first()
+        lvl = feat.pid.map(pd.Series(np.where(gsex == 0, "F", "M"), index=gsex.index))
+    elif factor == "los":  # whole-stay length >= 48 h ('G') vs shorter ('S'); a population descriptor only
+        n = feat.groupby("pid").size()
+        lvl = feat.pid.map(pd.Series(np.where(n >= 48, "G", "S"), index=n.index))
+    elif factor.startswith("rand"):  # fixed random halves (hash of pid + partition id), no shift by construction
+        import hashlib
+        pids = feat.pid.unique()
+        lv = {p: ("R1" if int(hashlib.md5(f"{factor}:{p}".encode()).hexdigest(), 16) % 2 else "R0") for p in pids}
+        lvl = feat.pid.map(lv)
+    else:
+        raise ValueError(factor)
     feat["cell"] = feat.hospital + "_" + lvl.astype(object).where(lvl.notna(), "UNK").astype(str)
     feat = feat[feat.cell.isin(cells_of(factor))].reset_index(drop=True)
     return feat, groups

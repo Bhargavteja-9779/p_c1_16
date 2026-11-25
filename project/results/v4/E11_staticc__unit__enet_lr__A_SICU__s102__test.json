@@ -1,0 +1,34 @@
+{
+ "job_id": "E11_staticc__unit__enet_lr__A_SICU__s102__test",
+ "factor": "unit",
+ "model": "enet_lr",
+ "train_cell": "A_SICU",
+ "seed": 102,
+ "split": "test",
+ "selection": {
+  "C": 0.01,
+  "val_auroc": 0.6428208386277002
+ },
+ "eval": {
+  "A_MICU": {
+   "n": 811,
+   "events": 62,
+   "auroc": 0.6405745294801671
+  },
+  "A_SICU": {
+   "n": 812,
+   "events": 29,
+   "auroc": 0.6617342669661338
+  },
+  "B_MICU": {
+   "n": 1040,
+   "events": 39,
+   "auroc": 0.5432388124695816
+  },
+  "B_SICU": {
+   "n": 1027,
+   "events": 58,
+   "auroc": 0.6264456780897475
+  }
+ }
+}
