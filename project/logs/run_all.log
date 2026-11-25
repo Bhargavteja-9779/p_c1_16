@@ -1079,3 +1079,41 @@
 [2026-11-25T08:08:20+00:00] started E12_dosex__age50__lgbm__all__full__B_O__s0__val (pid 554, attempt 1)
 [2026-11-25T08:09:35+00:00] done E12_dosex__age50__lgbm__all__full__A_O__s0__val
 [2026-11-25T08:09:35+00:00] started E12_dosex__age75__lgbm__all__full__A_Y__s0__val (pid 582, attempt 1)
+[2026-11-25T08:12:40+00:00] done E12_dosex__age50__lgbm__all__full__B_O__s0__val
+[2026-11-25T08:12:40+00:00] started E12_dosex__age75__lgbm__all__full__A_O__s0__val (pid 711, attempt 1)
+[2026-11-25T08:14:45+00:00] done E12_dosex__age75__lgbm__all__full__A_Y__s0__val
+[2026-11-25T08:14:45+00:00] done E12_dosex__age75__lgbm__all__full__A_O__s0__val
+[2026-11-25T08:14:45+00:00] started E12_dosex__age75__lgbm__all__full__B_Y__s0__val (pid 746, attempt 1)
+[2026-11-25T08:14:45+00:00] started E12_dosex__age75__lgbm__all__full__B_O__s0__val (pid 747, attempt 1)
+[2026-11-25T08:16:30+00:00] done E12_dosex__age75__lgbm__all__full__B_O__s0__val
+[2026-11-25T08:16:30+00:00] started E12_dosex__route6__lgbm__all__full__A_D__s0__val (pid 785, attempt 1)
+[2026-11-25T08:19:06+00:00] done E12_dosex__age75__lgbm__all__full__B_Y__s0__val
+[2026-11-25T08:19:06+00:00] started E12_dosex__route6__lgbm__all__full__A_L__s0__val (pid 823, attempt 1)
+[2026-11-25T08:21:21+00:00] done E12_dosex__route6__lgbm__all__full__A_D__s0__val
+[2026-11-25T08:21:21+00:00] started E12_dosex__route6__lgbm__all__full__B_D__s0__val (pid 857, attempt 1)
+[2026-11-25T08:21:56+00:00] done E12_dosex__route6__lgbm__all__full__A_L__s0__val
+[2026-11-25T08:21:56+00:00] started E12_dosex__route6__lgbm__all__full__B_L__s0__val (pid 874, attempt 1)
+[2026-11-25T08:23:31+00:00] done E12_dosex__route6__lgbm__all__full__B_D__s0__val
+[2026-11-25T08:23:31+00:00] started E12_dosex__los__lgbm__all__full__A_S__s0__val (pid 902, attempt 1)
+[2026-11-25T08:24:51+00:00] done E12_dosex__route6__lgbm__all__full__B_L__s0__val
+[2026-11-25T08:24:51+00:00] started E12_dosex__los__lgbm__all__full__A_G__s0__val (pid 927, attempt 1)
+[2026-11-25T08:26:51+00:00] done E12_dosex__los__lgbm__all__full__A_S__s0__val
+[2026-11-25T08:26:52+00:00] started E12_dosex__los__lgbm__all__full__B_S__s0__val (pid 957, attempt 1)
+[2026-11-25T08:27:37+00:00] done E12_dosex__los__lgbm__all__full__A_G__s0__val
+[2026-11-25T08:27:37+00:00] started E12_dosex__los__lgbm__all__full__B_G__s0__val (pid 975, attempt 1)
+[2026-11-25T08:30:12+00:00] done E12_dosex__los__lgbm__all__full__B_S__s0__val
+[2026-11-25T08:30:12+00:00] started E12_dosex__rand1__lgbm__all__full__A_R0__s0__val (pid 1016, attempt 1)
+[2026-11-25T08:30:17+00:00] done E12_dosex__los__lgbm__all__full__B_G__s0__val
+[2026-11-25T08:30:17+00:00] started E12_dosex__rand1__lgbm__all__full__A_R1__s0__val (pid 1026, attempt 1)
+[2026-11-25T08:34:02+00:00] done E12_dosex__rand1__lgbm__all__full__A_R0__s0__val
+[2026-11-25T08:34:02+00:00] done E12_dosex__rand1__lgbm__all__full__A_R1__s0__val
+[2026-11-25T08:34:02+00:00] started E12_dosex__rand1__lgbm__all__full__B_R0__s0__val (pid 1081, attempt 1)
+[2026-11-25T08:34:02+00:00] started E12_dosex__rand1__lgbm__all__full__B_R1__s0__val (pid 1082, attempt 1)
+[2026-11-25T08:37:18+00:00] done E12_dosex__rand1__lgbm__all__full__B_R0__s0__val
+[2026-11-25T08:37:18+00:00] started E12_dosex__rand2__lgbm__all__full__A_R0__s0__val (pid 1136, attempt 1)
+[2026-11-25T08:37:28+00:00] done E12_dosex__rand1__lgbm__all__full__B_R1__s0__val
+[2026-11-25T08:37:28+00:00] started E12_dosex__rand2__lgbm__all__full__A_R1__s0__val (pid 1146, attempt 1)
+[2026-11-25T08:40:48+00:00] done E12_dosex__rand2__lgbm__all__full__A_R0__s0__val
+[2026-11-25T08:40:48+00:00] started E12_dosex__rand2__lgbm__all__full__B_R0__s0__val (pid 1193, attempt 1)
+[2026-11-25T08:40:53+00:00] done E12_dosex__rand2__lgbm__all__full__A_R1__s0__val
+[2026-11-25T08:40:53+00:00] started E12_dosex__rand2__lgbm__all__full__B_R1__s0__val (pid 1208, attempt 1)
