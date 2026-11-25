@@ -649,3 +649,129 @@
 [2026-11-25T01:13:42+00:00] started E7_factorsc__age__lgbm__all__full__A_Y__s102__test (pid 2825, attempt 1)
 [2026-11-25T01:13:52+00:00] done E7_factorsc__route__lgbm__all__full__B_L__s101__test
 [2026-11-25T01:13:52+00:00] started E7_factorsc__age__lgbm__all__full__A_O__s102__test (pid 2857, attempt 1)
+[2026-11-25T01:14:27+00:00] done E7_factorsc__age__lgbm__all__full__A_Y__s102__test
+[2026-11-25T01:14:27+00:00] started E7_factorsc__age__lgbm__all__full__B_Y__s102__test (pid 2979, attempt 1)
+[2026-11-25T01:14:32+00:00] done E7_factorsc__age__lgbm__all__full__A_O__s102__test
+[2026-11-25T01:14:32+00:00] started E7_factorsc__age__lgbm__all__full__B_O__s102__test (pid 2995, attempt 1)
+[2026-11-25T01:15:02+00:00] done E7_factorsc__age__lgbm__all__full__B_Y__s102__test
+[2026-11-25T01:15:02+00:00] done E7_factorsc__age__lgbm__all__full__B_O__s102__test
+[2026-11-25T01:15:02+00:00] started E7_factorsc__route__lgbm__all__full__A_D__s102__test (pid 3018, attempt 1)
+[2026-11-25T01:15:02+00:00] started E7_factorsc__route__lgbm__all__full__A_L__s102__test (pid 3019, attempt 1)
+[2026-11-25T01:15:27+00:00] done E7_factorsc__route__lgbm__all__full__A_L__s102__test
+[2026-11-25T01:15:27+00:00] started E7_factorsc__route__lgbm__all__full__B_D__s102__test (pid 3041, attempt 1)
+[2026-11-25T01:15:57+00:00] done E7_factorsc__route__lgbm__all__full__A_D__s102__test
+[2026-11-25T01:15:57+00:00] started E7_factorsc__route__lgbm__all__full__B_L__s102__test (pid 3056, attempt 1)
+[2026-11-25T01:16:07+00:00] done E7_factorsc__route__lgbm__all__full__B_D__s102__test
+[2026-11-25T01:16:07+00:00] started E7_factorsc__age__lgbm__all__full__A_Y__s103__test (pid 3073, attempt 1)
+[2026-11-25T01:16:27+00:00] done E7_factorsc__route__lgbm__all__full__B_L__s102__test
+[2026-11-25T01:16:27+00:00] started E7_factorsc__age__lgbm__all__full__A_O__s103__test (pid 3084, attempt 1)
+[2026-11-25T01:16:47+00:00] done E7_factorsc__age__lgbm__all__full__A_Y__s103__test
+[2026-11-25T01:16:47+00:00] started E7_factorsc__age__lgbm__all__full__B_Y__s103__test (pid 3098, attempt 1)
+[2026-11-25T01:17:02+00:00] done E7_factorsc__age__lgbm__all__full__A_O__s103__test
+[2026-11-25T01:17:02+00:00] started E7_factorsc__age__lgbm__all__full__B_O__s103__test (pid 3111, attempt 1)
+[2026-11-25T01:17:22+00:00] done E7_factorsc__age__lgbm__all__full__B_Y__s103__test
+[2026-11-25T01:17:22+00:00] started E7_factorsc__route__lgbm__all__full__A_D__s103__test (pid 3126, attempt 1)
+[2026-11-25T01:17:32+00:00] done E7_factorsc__age__lgbm__all__full__B_O__s103__test
+[2026-11-25T01:17:32+00:00] started E7_factorsc__route__lgbm__all__full__A_L__s103__test (pid 3139, attempt 1)
+[2026-11-25T01:17:57+00:00] done E7_factorsc__route__lgbm__all__full__A_L__s103__test
+[2026-11-25T01:17:57+00:00] started E7_factorsc__route__lgbm__all__full__B_D__s103__test (pid 3150, attempt 1)
+[2026-11-25T01:18:12+00:00] done E7_factorsc__route__lgbm__all__full__A_D__s103__test
+[2026-11-25T01:18:12+00:00] started E7_factorsc__route__lgbm__all__full__B_L__s103__test (pid 3165, attempt 1)
+[2026-11-25T01:18:38+00:00] done E7_factorsc__route__lgbm__all__full__B_D__s103__test
+[2026-11-25T01:18:38+00:00] done E7_factorsc__route__lgbm__all__full__B_L__s103__test
+[2026-11-25T01:18:38+00:00] started E7_factorsc__age__lgbm__all__full__A_Y__s104__test (pid 3180, attempt 1)
+[2026-11-25T01:18:38+00:00] started E7_factorsc__age__lgbm__all__full__A_O__s104__test (pid 3181, attempt 1)
+[2026-11-25T01:19:13+00:00] done E7_factorsc__age__lgbm__all__full__A_Y__s104__test
+[2026-11-25T01:19:13+00:00] done E7_factorsc__age__lgbm__all__full__A_O__s104__test
+[2026-11-25T01:19:13+00:00] started E7_factorsc__age__lgbm__all__full__B_Y__s104__test (pid 3209, attempt 1)
+[2026-11-25T01:19:13+00:00] started E7_factorsc__age__lgbm__all__full__B_O__s104__test (pid 3210, attempt 1)
+[2026-11-25T01:19:43+00:00] done E7_factorsc__age__lgbm__all__full__B_O__s104__test
+[2026-11-25T01:19:43+00:00] started E7_factorsc__route__lgbm__all__full__A_D__s104__test (pid 3233, attempt 1)
+[2026-11-25T01:19:48+00:00] done E7_factorsc__age__lgbm__all__full__B_Y__s104__test
+[2026-11-25T01:19:48+00:00] started E7_factorsc__route__lgbm__all__full__A_L__s104__test (pid 3243, attempt 1)
+[2026-11-25T01:20:13+00:00] done E7_factorsc__route__lgbm__all__full__A_L__s104__test
+[2026-11-25T01:20:13+00:00] started E7_factorsc__route__lgbm__all__full__B_D__s104__test (pid 3259, attempt 1)
+[2026-11-25T01:20:33+00:00] done E7_factorsc__route__lgbm__all__full__A_D__s104__test
+[2026-11-25T01:20:33+00:00] started E7_factorsc__route__lgbm__all__full__B_L__s104__test (pid 3274, attempt 1)
+[2026-11-25T01:20:53+00:00] done E7_factorsc__route__lgbm__all__full__B_D__s104__test
+[2026-11-25T01:20:53+00:00] started E7_factorsc__age__lr__all__full__A_Y__s100__test (pid 3285, attempt 1)
+[2026-11-25T01:20:58+00:00] done E7_factorsc__route__lgbm__all__full__B_L__s104__test
+[2026-11-25T01:20:58+00:00] started E7_factorsc__age__lr__all__full__A_O__s100__test (pid 3294, attempt 1)
+[2026-11-25T01:21:13+00:00] done E7_factorsc__age__lr__all__full__A_Y__s100__test
+[2026-11-25T01:21:13+00:00] done E7_factorsc__age__lr__all__full__A_O__s100__test
+[2026-11-25T01:21:13+00:00] started E7_factorsc__age__lr__all__full__B_Y__s100__test (pid 3309, attempt 1)
+[2026-11-25T01:21:13+00:00] started E7_factorsc__age__lr__all__full__B_O__s100__test (pid 3310, attempt 1)
+[2026-11-25T01:21:33+00:00] done E7_factorsc__age__lr__all__full__B_Y__s100__test
+[2026-11-25T01:21:33+00:00] done E7_factorsc__age__lr__all__full__B_O__s100__test
+[2026-11-25T01:21:33+00:00] started E7_factorsc__route__lr__all__full__A_D__s100__test (pid 3330, attempt 1)
+[2026-11-25T01:21:33+00:00] started E7_factorsc__route__lr__all__full__A_L__s100__test (pid 3331, attempt 1)
+[2026-11-25T01:21:48+00:00] done E7_factorsc__route__lr__all__full__A_L__s100__test
+[2026-11-25T01:21:48+00:00] started E7_factorsc__route__lr__all__full__B_D__s100__test (pid 3350, attempt 1)
+[2026-11-25T01:21:53+00:00] done E7_factorsc__route__lr__all__full__A_D__s100__test
+[2026-11-25T01:21:53+00:00] started E7_factorsc__route__lr__all__full__B_L__s100__test (pid 3359, attempt 1)
+[2026-11-25T01:22:08+00:00] done E7_factorsc__route__lr__all__full__B_D__s100__test
+[2026-11-25T01:22:08+00:00] done E7_factorsc__route__lr__all__full__B_L__s100__test
+[2026-11-25T01:22:08+00:00] started E7_factorsc__age__lr__all__full__A_Y__s101__test (pid 3375, attempt 1)
+[2026-11-25T01:22:08+00:00] started E7_factorsc__age__lr__all__full__A_O__s101__test (pid 3376, attempt 1)
+[2026-11-25T01:22:28+00:00] done E7_factorsc__age__lr__all__full__A_Y__s101__test
+[2026-11-25T01:22:28+00:00] done E7_factorsc__age__lr__all__full__A_O__s101__test
+[2026-11-25T01:22:28+00:00] started E7_factorsc__age__lr__all__full__B_Y__s101__test (pid 3393, attempt 1)
+[2026-11-25T01:22:28+00:00] started E7_factorsc__age__lr__all__full__B_O__s101__test (pid 3394, attempt 1)
+[2026-11-25T01:22:48+00:00] done E7_factorsc__age__lr__all__full__B_Y__s101__test
+[2026-11-25T01:22:48+00:00] done E7_factorsc__age__lr__all__full__B_O__s101__test
+[2026-11-25T01:22:48+00:00] started E7_factorsc__route__lr__all__full__A_D__s101__test (pid 3415, attempt 1)
+[2026-11-25T01:22:48+00:00] started E7_factorsc__route__lr__all__full__A_L__s101__test (pid 3416, attempt 1)
+[2026-11-25T01:23:03+00:00] done E7_factorsc__route__lr__all__full__A_L__s101__test
+[2026-11-25T01:23:03+00:00] started E7_factorsc__route__lr__all__full__B_D__s101__test (pid 3437, attempt 1)
+[2026-11-25T01:23:08+00:00] done E7_factorsc__route__lr__all__full__A_D__s101__test
+[2026-11-25T01:23:08+00:00] started E7_factorsc__route__lr__all__full__B_L__s101__test (pid 3448, attempt 1)
+[2026-11-25T01:23:23+00:00] done E7_factorsc__route__lr__all__full__B_D__s101__test
+[2026-11-25T01:23:23+00:00] done E7_factorsc__route__lr__all__full__B_L__s101__test
+[2026-11-25T01:23:23+00:00] started E7_factorsc__age__lr__all__full__A_Y__s102__test (pid 3457, attempt 1)
+[2026-11-25T01:23:23+00:00] started E7_factorsc__age__lr__all__full__A_O__s102__test (pid 3458, attempt 1)
+[2026-11-25T01:23:43+00:00] done E7_factorsc__age__lr__all__full__A_Y__s102__test
+[2026-11-25T01:23:43+00:00] done E7_factorsc__age__lr__all__full__A_O__s102__test
+[2026-11-25T01:23:43+00:00] started E7_factorsc__age__lr__all__full__B_Y__s102__test (pid 3479, attempt 1)
+[2026-11-25T01:23:43+00:00] started E7_factorsc__age__lr__all__full__B_O__s102__test (pid 3480, attempt 1)
+[2026-11-25T01:24:03+00:00] done E7_factorsc__age__lr__all__full__B_Y__s102__test
+[2026-11-25T01:24:03+00:00] done E7_factorsc__age__lr__all__full__B_O__s102__test
+[2026-11-25T01:24:03+00:00] started E7_factorsc__route__lr__all__full__A_D__s102__test (pid 3501, attempt 1)
+[2026-11-25T01:24:03+00:00] started E7_factorsc__route__lr__all__full__A_L__s102__test (pid 3502, attempt 1)
+[2026-11-25T01:24:18+00:00] done E7_factorsc__route__lr__all__full__A_L__s102__test
+[2026-11-25T01:24:18+00:00] started E7_factorsc__route__lr__all__full__B_D__s102__test (pid 3522, attempt 1)
+[2026-11-25T01:24:23+00:00] done E7_factorsc__route__lr__all__full__A_D__s102__test
+[2026-11-25T01:24:23+00:00] started E7_factorsc__route__lr__all__full__B_L__s102__test (pid 3532, attempt 1)
+[2026-11-25T01:24:38+00:00] done E7_factorsc__route__lr__all__full__B_D__s102__test
+[2026-11-25T01:24:38+00:00] done E7_factorsc__route__lr__all__full__B_L__s102__test
+[2026-11-25T01:24:38+00:00] started E7_factorsc__age__lr__all__full__A_Y__s103__test (pid 3544, attempt 1)
+[2026-11-25T01:24:38+00:00] started E7_factorsc__age__lr__all__full__A_O__s103__test (pid 3545, attempt 1)
+[2026-11-25T01:24:58+00:00] done E7_factorsc__age__lr__all__full__A_Y__s103__test
+[2026-11-25T01:24:58+00:00] done E7_factorsc__age__lr__all__full__A_O__s103__test
+[2026-11-25T01:24:58+00:00] started E7_factorsc__age__lr__all__full__B_Y__s103__test (pid 3563, attempt 1)
+[2026-11-25T01:24:58+00:00] started E7_factorsc__age__lr__all__full__B_O__s103__test (pid 3564, attempt 1)
+[2026-11-25T01:25:19+00:00] done E7_factorsc__age__lr__all__full__B_Y__s103__test
+[2026-11-25T01:25:19+00:00] done E7_factorsc__age__lr__all__full__B_O__s103__test
+[2026-11-25T01:25:19+00:00] started E7_factorsc__route__lr__all__full__A_D__s103__test (pid 3589, attempt 1)
+[2026-11-25T01:25:19+00:00] started E7_factorsc__route__lr__all__full__A_L__s103__test (pid 3590, attempt 1)
+[2026-11-25T01:25:34+00:00] done E7_factorsc__route__lr__all__full__A_L__s103__test
+[2026-11-25T01:25:34+00:00] started E7_factorsc__route__lr__all__full__B_D__s103__test (pid 3611, attempt 1)
+[2026-11-25T01:25:39+00:00] done E7_factorsc__route__lr__all__full__A_D__s103__test
+[2026-11-25T01:25:39+00:00] started E7_factorsc__route__lr__all__full__B_L__s103__test (pid 3620, attempt 1)
+[2026-11-25T01:25:54+00:00] done E7_factorsc__route__lr__all__full__B_D__s103__test
+[2026-11-25T01:25:54+00:00] done E7_factorsc__route__lr__all__full__B_L__s103__test
+[2026-11-25T01:25:54+00:00] started E7_factorsc__age__lr__all__full__A_Y__s104__test (pid 3630, attempt 1)
+[2026-11-25T01:25:54+00:00] started E7_factorsc__age__lr__all__full__A_O__s104__test (pid 3631, attempt 1)
+[2026-11-25T01:26:14+00:00] done E7_factorsc__age__lr__all__full__A_Y__s104__test
+[2026-11-25T01:26:14+00:00] done E7_factorsc__age__lr__all__full__A_O__s104__test
+[2026-11-25T01:26:14+00:00] started E7_factorsc__age__lr__all__full__B_Y__s104__test (pid 3654, attempt 1)
+[2026-11-25T01:26:14+00:00] started E7_factorsc__age__lr__all__full__B_O__s104__test (pid 3655, attempt 1)
+[2026-11-25T01:26:34+00:00] done E7_factorsc__age__lr__all__full__B_Y__s104__test
+[2026-11-25T01:26:34+00:00] done E7_factorsc__age__lr__all__full__B_O__s104__test
+[2026-11-25T01:26:34+00:00] started E7_factorsc__route__lr__all__full__A_D__s104__test (pid 3675, attempt 1)
+[2026-11-25T01:26:34+00:00] started E7_factorsc__route__lr__all__full__A_L__s104__test (pid 3676, attempt 1)
+[2026-11-25T01:27:03+00:00] stale lock from pid 2469; taking over
+[2026-11-25T01:27:04+00:00] recovered interrupted job E7_factorsc__route__lr__all__full__A_D__s104__test -> pending (resumes from checkpoint)
+[2026-11-25T01:27:04+00:00] recovered interrupted job E7_factorsc__route__lr__all__full__A_L__s104__test -> pending (resumes from checkpoint)
+[2026-11-25T01:27:04+00:00] mode=full plan=plan_v3b.yaml jobs_total=512 added=0
+[2026-11-25T01:27:04+00:00] started E7_factorsc__route__lr__all__full__A_D__s104__test (pid 183, attempt 2)
+[2026-11-25T01:27:04+00:00] started E7_factorsc__route__lr__all__full__A_L__s104__test (pid 184, attempt 2)

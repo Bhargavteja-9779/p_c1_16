@@ -10012,11 +10012,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__A_Y__s102__test.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v3b.yaml",
       "added": "2026-11-25T01:03:46+00:00",
-      "started": "2026-11-25T01:13:42+00:00"
+      "started": "2026-11-25T01:13:42+00:00",
+      "finished": "2026-11-25T01:14:27+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__A_O__s102__test",
@@ -10046,11 +10047,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__A_O__s102__test.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v3b.yaml",
       "added": "2026-11-25T01:03:46+00:00",
-      "started": "2026-11-25T01:13:52+00:00"
+      "started": "2026-11-25T01:13:52+00:00",
+      "finished": "2026-11-25T01:14:32+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__B_Y__s102__test",
@@ -10080,10 +10082,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__B_Y__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:14:27+00:00",
+      "finished": "2026-11-25T01:15:02+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__B_O__s102__test",
@@ -10113,10 +10117,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__B_O__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:14:32+00:00",
+      "finished": "2026-11-25T01:15:02+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__A_D__s102__test",
@@ -10146,10 +10152,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__A_D__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:15:02+00:00",
+      "finished": "2026-11-25T01:15:57+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__A_L__s102__test",
@@ -10179,10 +10187,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__A_L__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:15:02+00:00",
+      "finished": "2026-11-25T01:15:27+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__B_D__s102__test",
@@ -10212,10 +10222,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__B_D__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:15:27+00:00",
+      "finished": "2026-11-25T01:16:07+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__B_L__s102__test",
@@ -10245,10 +10257,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__B_L__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:15:57+00:00",
+      "finished": "2026-11-25T01:16:27+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__A_Y__s103__test",
@@ -10278,10 +10292,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__A_Y__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:16:07+00:00",
+      "finished": "2026-11-25T01:16:47+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__A_O__s103__test",
@@ -10311,10 +10327,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__A_O__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:16:27+00:00",
+      "finished": "2026-11-25T01:17:02+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__B_Y__s103__test",
@@ -10344,10 +10362,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__B_Y__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:16:47+00:00",
+      "finished": "2026-11-25T01:17:22+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__B_O__s103__test",
@@ -10377,10 +10397,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__B_O__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:17:02+00:00",
+      "finished": "2026-11-25T01:17:32+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__A_D__s103__test",
@@ -10410,10 +10432,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__A_D__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:17:22+00:00",
+      "finished": "2026-11-25T01:18:12+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__A_L__s103__test",
@@ -10443,10 +10467,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__A_L__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:17:32+00:00",
+      "finished": "2026-11-25T01:17:57+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__B_D__s103__test",
@@ -10476,10 +10502,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__B_D__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:17:57+00:00",
+      "finished": "2026-11-25T01:18:38+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__B_L__s103__test",
@@ -10509,10 +10537,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__B_L__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:18:12+00:00",
+      "finished": "2026-11-25T01:18:38+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__A_Y__s104__test",
@@ -10542,10 +10572,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__A_Y__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:18:38+00:00",
+      "finished": "2026-11-25T01:19:13+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__A_O__s104__test",
@@ -10575,10 +10607,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__A_O__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:18:38+00:00",
+      "finished": "2026-11-25T01:19:13+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__B_Y__s104__test",
@@ -10608,10 +10642,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__B_Y__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:19:13+00:00",
+      "finished": "2026-11-25T01:19:48+00:00"
     },
     {
       "id": "E7_factorsc__age__lgbm__all__full__B_O__s104__test",
@@ -10641,10 +10677,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lgbm__all__full__B_O__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:19:13+00:00",
+      "finished": "2026-11-25T01:19:43+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__A_D__s104__test",
@@ -10674,10 +10712,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__A_D__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:19:43+00:00",
+      "finished": "2026-11-25T01:20:33+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__A_L__s104__test",
@@ -10707,10 +10747,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__A_L__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:19:48+00:00",
+      "finished": "2026-11-25T01:20:13+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__B_D__s104__test",
@@ -10740,10 +10782,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__B_D__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:20:13+00:00",
+      "finished": "2026-11-25T01:20:53+00:00"
     },
     {
       "id": "E7_factorsc__route__lgbm__all__full__B_L__s104__test",
@@ -10773,10 +10817,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lgbm__all__full__B_L__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:20:33+00:00",
+      "finished": "2026-11-25T01:20:58+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_Y__s100__test",
@@ -10806,10 +10852,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_Y__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:20:53+00:00",
+      "finished": "2026-11-25T01:21:13+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_O__s100__test",
@@ -10839,10 +10887,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_O__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:20:58+00:00",
+      "finished": "2026-11-25T01:21:13+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_Y__s100__test",
@@ -10872,10 +10922,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_Y__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:21:13+00:00",
+      "finished": "2026-11-25T01:21:33+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_O__s100__test",
@@ -10905,10 +10957,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_O__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:21:13+00:00",
+      "finished": "2026-11-25T01:21:33+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_D__s100__test",
@@ -10938,10 +10992,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_D__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:21:33+00:00",
+      "finished": "2026-11-25T01:21:53+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_L__s100__test",
@@ -10971,10 +11027,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_L__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:21:33+00:00",
+      "finished": "2026-11-25T01:21:48+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_D__s100__test",
@@ -11004,10 +11062,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_D__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:21:48+00:00",
+      "finished": "2026-11-25T01:22:08+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_L__s100__test",
@@ -11037,10 +11097,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_L__s100__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:21:53+00:00",
+      "finished": "2026-11-25T01:22:08+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_Y__s101__test",
@@ -11070,10 +11132,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_Y__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:22:08+00:00",
+      "finished": "2026-11-25T01:22:28+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_O__s101__test",
@@ -11103,10 +11167,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_O__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:22:08+00:00",
+      "finished": "2026-11-25T01:22:28+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_Y__s101__test",
@@ -11136,10 +11202,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_Y__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:22:28+00:00",
+      "finished": "2026-11-25T01:22:48+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_O__s101__test",
@@ -11169,10 +11237,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_O__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:22:28+00:00",
+      "finished": "2026-11-25T01:22:48+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_D__s101__test",
@@ -11202,10 +11272,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_D__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:22:48+00:00",
+      "finished": "2026-11-25T01:23:08+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_L__s101__test",
@@ -11235,10 +11307,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_L__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:22:48+00:00",
+      "finished": "2026-11-25T01:23:03+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_D__s101__test",
@@ -11268,10 +11342,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_D__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:23:03+00:00",
+      "finished": "2026-11-25T01:23:23+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_L__s101__test",
@@ -11301,10 +11377,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_L__s101__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:23:08+00:00",
+      "finished": "2026-11-25T01:23:23+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_Y__s102__test",
@@ -11334,10 +11412,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_Y__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:23:23+00:00",
+      "finished": "2026-11-25T01:23:43+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_O__s102__test",
@@ -11367,10 +11447,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_O__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:23:23+00:00",
+      "finished": "2026-11-25T01:23:43+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_Y__s102__test",
@@ -11400,10 +11482,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_Y__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:23:43+00:00",
+      "finished": "2026-11-25T01:24:03+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_O__s102__test",
@@ -11433,10 +11517,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_O__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:23:43+00:00",
+      "finished": "2026-11-25T01:24:03+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_D__s102__test",
@@ -11466,10 +11552,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_D__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:03+00:00",
+      "finished": "2026-11-25T01:24:23+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_L__s102__test",
@@ -11499,10 +11587,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_L__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:03+00:00",
+      "finished": "2026-11-25T01:24:18+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_D__s102__test",
@@ -11532,10 +11622,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_D__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:18+00:00",
+      "finished": "2026-11-25T01:24:38+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_L__s102__test",
@@ -11565,10 +11657,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_L__s102__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:23+00:00",
+      "finished": "2026-11-25T01:24:38+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_Y__s103__test",
@@ -11598,10 +11692,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_Y__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:38+00:00",
+      "finished": "2026-11-25T01:24:58+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_O__s103__test",
@@ -11631,10 +11727,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_O__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:38+00:00",
+      "finished": "2026-11-25T01:24:58+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_Y__s103__test",
@@ -11664,10 +11762,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_Y__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:58+00:00",
+      "finished": "2026-11-25T01:25:19+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_O__s103__test",
@@ -11697,10 +11797,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_O__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:24:58+00:00",
+      "finished": "2026-11-25T01:25:19+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_D__s103__test",
@@ -11730,10 +11832,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_D__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:25:19+00:00",
+      "finished": "2026-11-25T01:25:39+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_L__s103__test",
@@ -11763,10 +11867,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_L__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:25:19+00:00",
+      "finished": "2026-11-25T01:25:34+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_D__s103__test",
@@ -11796,10 +11902,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_D__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:25:34+00:00",
+      "finished": "2026-11-25T01:25:54+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_L__s103__test",
@@ -11829,10 +11937,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__B_L__s103__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:25:39+00:00",
+      "finished": "2026-11-25T01:25:54+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_Y__s104__test",
@@ -11862,10 +11972,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_Y__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:25:54+00:00",
+      "finished": "2026-11-25T01:26:14+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__A_O__s104__test",
@@ -11895,10 +12007,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__A_O__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:25:54+00:00",
+      "finished": "2026-11-25T01:26:14+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_Y__s104__test",
@@ -11928,10 +12042,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_Y__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:26:14+00:00",
+      "finished": "2026-11-25T01:26:34+00:00"
     },
     {
       "id": "E7_factorsc__age__lr__all__full__B_O__s104__test",
@@ -11961,10 +12077,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__age__lr__all__full__B_O__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:26:14+00:00",
+      "finished": "2026-11-25T01:26:34+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_D__s104__test",
@@ -11994,10 +12112,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_D__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 2,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:27:04+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__A_L__s104__test",
@@ -12027,10 +12146,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E7_factorsc__route__lr__all__full__A_L__s104__test.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 2,
       "plan": "plan_v3b.yaml",
-      "added": "2026-11-25T01:03:46+00:00"
+      "added": "2026-11-25T01:03:46+00:00",
+      "started": "2026-11-25T01:27:04+00:00"
     },
     {
       "id": "E7_factorsc__route__lr__all__full__B_D__s104__test",
