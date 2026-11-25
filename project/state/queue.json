@@ -19183,10 +19183,10 @@
       "threads": 2,
       "result": "results/v3/E12_dosex__rand2__lgbm__all__full__B_R0__s1__val.json",
       "status": "running",
-      "attempts": 1,
+      "attempts": 2,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T13:23:52+00:00"
+      "started": "2026-11-25T13:46:20+00:00"
     },
     {
       "id": "E12_dosex__rand2__lgbm__all__full__B_R1__s1__val",
@@ -19217,10 +19217,10 @@
       "threads": 2,
       "result": "results/v3/E12_dosex__rand2__lgbm__all__full__B_R1__s1__val.json",
       "status": "running",
-      "attempts": 1,
+      "attempts": 2,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T13:23:52+00:00"
+      "started": "2026-11-25T13:46:20+00:00"
     },
     {
       "id": "E12_dosex__rand3__lgbm__all__full__A_R0__s1__val",
