@@ -33,10 +33,35 @@ Holm family: H1_lgbm_hour p = 0.0180, p_Holm = 0.0180, H1_lr_hour p = 0.0005, p_
 | lgbm | 0.16 | 0.23 | 0.32 | 0.41 |
 | lr | 0.14 | 0.20 | 0.29 | 0.37 |
 
+## v3 exploration (val) — results/analysis/v3_explore.json
+
+| test | estimate [95% CI] | p (boot) | p (Holm) |
+|---|---|---|---|
+| H4_age_lgbm | 0.063 [0.050, 0.077] | 0.0010 | 0.0070 |
+| H4_age_lr | 0.100 [0.077, 0.122] | 0.0010 | 0.0070 |
+| H4_route_lgbm | 0.036 [0.019, 0.052] | 0.0010 | 0.0070 |
+| H4_route_lr | 0.076 [0.054, 0.102] | 0.0010 | 0.0070 |
+| H5_Dall_minus_Dvitals | 0.023 [0.002, 0.045] | 0.0320 | 0.0320 |
+| H6_matched_lgbm | 0.043 [0.021, 0.064] | 0.0010 | 0.0070 |
+| H6_matched_lr | 0.055 [0.022, 0.091] | 0.0010 | 0.0070 |
+
+## Comparison with published numbers (G4) — results/g4_reproduce.json
+
+Our cohort under the published protocol: 30629 stays, 1837 events (published: 30646, 1843).
+
+| model | source | internal AUROC | external AUROC |
+|---|---|---|---|
+| lgbm | A | 0.773 | AtoB: 0.658 |
+| lgbm | B | 0.723 | BtoA: 0.646 |
+| enet_lr | A | 0.758 | AtoB: 0.694 |
+| enet_lr | B | 0.711 | BtoA: 0.661 |
+| XGBoost (published) | A | 0.725 | AtoB: 0.608 |
+| XGBoost (published) | B | 0.702 | BtoA: 0.636 |
+
 ## Leakage check (G8): PASS — results/leakage_check.json
 
 ## Compute
-Global 1.70 h of 120 h; per cycle: c1 1.21 h, c2 0.49 h (state/budget.json)
+Global 2.58 h of 120 h; per cycle: c1 1.21 h, c2 1.37 h (state/budget.json)
 
 ## Gates, novelty score, limitations
 See HANDOFF.md (gate table) and state/novelty_ledger.json (scores); limitations in journal/ENTRIES.

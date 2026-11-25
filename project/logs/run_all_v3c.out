@@ -163,3 +163,354 @@
 [2026-11-25T01:27:29+00:00] started E7_factorsc__route__lr__all__full__B_D__s104__test (pid 216, attempt 1)
 [2026-11-25T01:27:34+00:00] done E7_factorsc__route__lr__all__full__A_D__s104__test
 [2026-11-25T01:27:34+00:00] started E7_factorsc__route__lr__all__full__B_L__s104__test (pid 255, attempt 1)
+[2026-11-25T01:27:54+00:00] done E7_factorsc__route__lr__all__full__B_L__s104__test
+[2026-11-25T01:27:54+00:00] started E8_mechc__unit__lgbm__vitals__full__A_MICU__s100__test (pid 344, attempt 1)
+[2026-11-25T01:27:59+00:00] done E7_factorsc__route__lr__all__full__B_D__s104__test
+[2026-11-25T01:27:59+00:00] started E8_mechc__unit__lgbm__vitals__full__A_SICU__s100__test (pid 361, attempt 1)
+[2026-11-25T01:28:09+00:00] done E8_mechc__unit__lgbm__vitals__full__A_MICU__s100__test
+[2026-11-25T01:28:09+00:00] started E8_mechc__unit__lgbm__vitals__full__B_MICU__s100__test (pid 371, attempt 1)
+[2026-11-25T01:28:14+00:00] done E8_mechc__unit__lgbm__vitals__full__A_SICU__s100__test
+[2026-11-25T01:28:14+00:00] started E8_mechc__unit__lgbm__vitals__full__B_SICU__s100__test (pid 384, attempt 1)
+[2026-11-25T01:28:29+00:00] done E8_mechc__unit__lgbm__vitals__full__B_MICU__s100__test
+[2026-11-25T01:28:29+00:00] started E8_mechc__unit__lgbm__labs__full__A_MICU__s100__test (pid 396, attempt 1)
+[2026-11-25T01:28:34+00:00] done E8_mechc__unit__lgbm__vitals__full__B_SICU__s100__test
+[2026-11-25T01:28:34+00:00] started E8_mechc__unit__lgbm__labs__full__A_SICU__s100__test (pid 406, attempt 1)
+[2026-11-25T01:28:44+00:00] done E8_mechc__unit__lgbm__labs__full__A_MICU__s100__test
+[2026-11-25T01:28:44+00:00] started E8_mechc__unit__lgbm__labs__full__B_MICU__s100__test (pid 420, attempt 1)
+[2026-11-25T01:28:49+00:00] done E8_mechc__unit__lgbm__labs__full__A_SICU__s100__test
+[2026-11-25T01:28:49+00:00] started E8_mechc__unit__lgbm__labs__full__B_SICU__s100__test (pid 430, attempt 1)
+[2026-11-25T01:28:59+00:00] done E8_mechc__unit__lgbm__labs__full__B_MICU__s100__test
+[2026-11-25T01:28:59+00:00] started E8_mechc__unit__lgbm__noproc__full__A_MICU__s100__test (pid 441, attempt 1)
+[2026-11-25T01:29:04+00:00] done E8_mechc__unit__lgbm__labs__full__B_SICU__s100__test
+[2026-11-25T01:29:04+00:00] started E8_mechc__unit__lgbm__noproc__full__A_SICU__s100__test (pid 451, attempt 1)
+[2026-11-25T01:29:19+00:00] done E8_mechc__unit__lgbm__noproc__full__A_MICU__s100__test
+[2026-11-25T01:29:19+00:00] started E8_mechc__unit__lgbm__noproc__full__B_MICU__s100__test (pid 464, attempt 1)
+[2026-11-25T01:29:24+00:00] done E8_mechc__unit__lgbm__noproc__full__A_SICU__s100__test
+[2026-11-25T01:29:24+00:00] started E8_mechc__unit__lgbm__noproc__full__B_SICU__s100__test (pid 476, attempt 1)
+[2026-11-25T01:29:45+00:00] done E8_mechc__unit__lgbm__noproc__full__B_MICU__s100__test
+[2026-11-25T01:29:45+00:00] started E8_mechc__unit__lgbm__proc__full__A_MICU__s100__test (pid 490, attempt 1)
+[2026-11-25T01:29:55+00:00] done E8_mechc__unit__lgbm__noproc__full__B_SICU__s100__test
+[2026-11-25T01:29:55+00:00] started E8_mechc__unit__lgbm__proc__full__A_SICU__s100__test (pid 500, attempt 1)
+[2026-11-25T01:30:05+00:00] done E8_mechc__unit__lgbm__proc__full__A_MICU__s100__test
+[2026-11-25T01:30:05+00:00] started E8_mechc__unit__lgbm__proc__full__B_MICU__s100__test (pid 511, attempt 1)
+[2026-11-25T01:30:15+00:00] done E8_mechc__unit__lgbm__proc__full__A_SICU__s100__test
+[2026-11-25T01:30:15+00:00] started E8_mechc__unit__lgbm__proc__full__B_SICU__s100__test (pid 524, attempt 1)
+[2026-11-25T01:30:25+00:00] done E8_mechc__unit__lgbm__proc__full__B_MICU__s100__test
+[2026-11-25T01:30:25+00:00] started E8_mechc__unit__lgbm__vitals__full__A_MICU__s101__test (pid 537, attempt 1)
+[2026-11-25T01:30:40+00:00] done E8_mechc__unit__lgbm__proc__full__B_SICU__s100__test
+[2026-11-25T01:30:40+00:00] started E8_mechc__unit__lgbm__vitals__full__A_SICU__s101__test (pid 547, attempt 1)
+[2026-11-25T01:30:45+00:00] done E8_mechc__unit__lgbm__vitals__full__A_MICU__s101__test
+[2026-11-25T01:30:45+00:00] started E8_mechc__unit__lgbm__vitals__full__B_MICU__s101__test (pid 560, attempt 1)
+[2026-11-25T01:30:55+00:00] done E8_mechc__unit__lgbm__vitals__full__A_SICU__s101__test
+[2026-11-25T01:30:55+00:00] started E8_mechc__unit__lgbm__vitals__full__B_SICU__s101__test (pid 570, attempt 1)
+[2026-11-25T01:31:10+00:00] done E8_mechc__unit__lgbm__vitals__full__B_MICU__s101__test
+[2026-11-25T01:31:10+00:00] started E8_mechc__unit__lgbm__labs__full__A_MICU__s101__test (pid 580, attempt 1)
+[2026-11-25T01:31:20+00:00] done E8_mechc__unit__lgbm__vitals__full__B_SICU__s101__test
+[2026-11-25T01:31:20+00:00] started E8_mechc__unit__lgbm__labs__full__A_SICU__s101__test (pid 594, attempt 1)
+[2026-11-25T01:31:25+00:00] done E8_mechc__unit__lgbm__labs__full__A_MICU__s101__test
+[2026-11-25T01:31:25+00:00] started E8_mechc__unit__lgbm__labs__full__B_MICU__s101__test (pid 606, attempt 1)
+[2026-11-25T01:31:35+00:00] done E8_mechc__unit__lgbm__labs__full__A_SICU__s101__test
+[2026-11-25T01:31:35+00:00] started E8_mechc__unit__lgbm__labs__full__B_SICU__s101__test (pid 616, attempt 1)
+[2026-11-25T01:31:40+00:00] done E8_mechc__unit__lgbm__labs__full__B_MICU__s101__test
+[2026-11-25T01:31:40+00:00] started E8_mechc__unit__lgbm__noproc__full__A_MICU__s101__test (pid 626, attempt 1)
+[2026-11-25T01:31:50+00:00] done E8_mechc__unit__lgbm__labs__full__B_SICU__s101__test
+[2026-11-25T01:31:50+00:00] started E8_mechc__unit__lgbm__noproc__full__A_SICU__s101__test (pid 639, attempt 1)
+[2026-11-25T01:32:00+00:00] done E8_mechc__unit__lgbm__noproc__full__A_MICU__s101__test
+[2026-11-25T01:32:00+00:00] started E8_mechc__unit__lgbm__noproc__full__B_MICU__s101__test (pid 649, attempt 1)
+[2026-11-25T01:32:10+00:00] done E8_mechc__unit__lgbm__noproc__full__A_SICU__s101__test
+[2026-11-25T01:32:10+00:00] started E8_mechc__unit__lgbm__noproc__full__B_SICU__s101__test (pid 659, attempt 1)
+[2026-11-25T01:32:25+00:00] done E8_mechc__unit__lgbm__noproc__full__B_MICU__s101__test
+[2026-11-25T01:32:25+00:00] started E8_mechc__unit__lgbm__proc__full__A_MICU__s101__test (pid 674, attempt 1)
+[2026-11-25T01:32:40+00:00] done E8_mechc__unit__lgbm__noproc__full__B_SICU__s101__test
+[2026-11-25T01:32:40+00:00] started E8_mechc__unit__lgbm__proc__full__A_SICU__s101__test (pid 684, attempt 1)
+[2026-11-25T01:32:45+00:00] done E8_mechc__unit__lgbm__proc__full__A_MICU__s101__test
+[2026-11-25T01:32:45+00:00] started E8_mechc__unit__lgbm__proc__full__B_MICU__s101__test (pid 697, attempt 1)
+[2026-11-25T01:32:56+00:00] done E8_mechc__unit__lgbm__proc__full__A_SICU__s101__test
+[2026-11-25T01:32:56+00:00] started E8_mechc__unit__lgbm__proc__full__B_SICU__s101__test (pid 707, attempt 1)
+[2026-11-25T01:33:06+00:00] done E8_mechc__unit__lgbm__proc__full__B_MICU__s101__test
+[2026-11-25T01:33:06+00:00] started E8_mechc__unit__lgbm__vitals__full__A_MICU__s102__test (pid 718, attempt 1)
+[2026-11-25T01:33:21+00:00] done E8_mechc__unit__lgbm__proc__full__B_SICU__s101__test
+[2026-11-25T01:33:21+00:00] done E8_mechc__unit__lgbm__vitals__full__A_MICU__s102__test
+[2026-11-25T01:33:21+00:00] started E8_mechc__unit__lgbm__vitals__full__A_SICU__s102__test (pid 731, attempt 1)
+[2026-11-25T01:33:21+00:00] started E8_mechc__unit__lgbm__vitals__full__B_MICU__s102__test (pid 732, attempt 1)
+[2026-11-25T01:33:41+00:00] done E8_mechc__unit__lgbm__vitals__full__A_SICU__s102__test
+[2026-11-25T01:33:41+00:00] done E8_mechc__unit__lgbm__vitals__full__B_MICU__s102__test
+[2026-11-25T01:33:41+00:00] started E8_mechc__unit__lgbm__vitals__full__B_SICU__s102__test (pid 755, attempt 1)
+[2026-11-25T01:33:41+00:00] started E8_mechc__unit__lgbm__labs__full__A_MICU__s102__test (pid 757, attempt 1)
+[2026-11-25T01:33:56+00:00] done E8_mechc__unit__lgbm__labs__full__A_MICU__s102__test
+[2026-11-25T01:33:56+00:00] started E8_mechc__unit__lgbm__labs__full__A_SICU__s102__test (pid 779, attempt 1)
+[2026-11-25T01:34:01+00:00] done E8_mechc__unit__lgbm__vitals__full__B_SICU__s102__test
+[2026-11-25T01:34:01+00:00] started E8_mechc__unit__lgbm__labs__full__B_MICU__s102__test (pid 790, attempt 1)
+[2026-11-25T01:34:11+00:00] done E8_mechc__unit__lgbm__labs__full__A_SICU__s102__test
+[2026-11-25T01:34:11+00:00] started E8_mechc__unit__lgbm__labs__full__B_SICU__s102__test (pid 800, attempt 1)
+[2026-11-25T01:34:16+00:00] done E8_mechc__unit__lgbm__labs__full__B_MICU__s102__test
+[2026-11-25T01:34:16+00:00] started E8_mechc__unit__lgbm__noproc__full__A_MICU__s102__test (pid 813, attempt 1)
+[2026-11-25T01:34:26+00:00] done E8_mechc__unit__lgbm__labs__full__B_SICU__s102__test
+[2026-11-25T01:34:26+00:00] started E8_mechc__unit__lgbm__noproc__full__A_SICU__s102__test (pid 827, attempt 1)
+[2026-11-25T01:34:36+00:00] done E8_mechc__unit__lgbm__noproc__full__A_MICU__s102__test
+[2026-11-25T01:34:36+00:00] started E8_mechc__unit__lgbm__noproc__full__B_MICU__s102__test (pid 838, attempt 1)
+[2026-11-25T01:34:46+00:00] done E8_mechc__unit__lgbm__noproc__full__A_SICU__s102__test
+[2026-11-25T01:34:46+00:00] started E8_mechc__unit__lgbm__noproc__full__B_SICU__s102__test (pid 851, attempt 1)
+[2026-11-25T01:35:01+00:00] done E8_mechc__unit__lgbm__noproc__full__B_MICU__s102__test
+[2026-11-25T01:35:01+00:00] started E8_mechc__unit__lgbm__proc__full__A_MICU__s102__test (pid 861, attempt 1)
+[2026-11-25T01:35:16+00:00] done E8_mechc__unit__lgbm__noproc__full__B_SICU__s102__test
+[2026-11-25T01:35:16+00:00] done E8_mechc__unit__lgbm__proc__full__A_MICU__s102__test
+[2026-11-25T01:35:16+00:00] started E8_mechc__unit__lgbm__proc__full__A_SICU__s102__test (pid 875, attempt 1)
+[2026-11-25T01:35:16+00:00] started E8_mechc__unit__lgbm__proc__full__B_MICU__s102__test (pid 876, attempt 1)
+[2026-11-25T01:35:36+00:00] done E8_mechc__unit__lgbm__proc__full__A_SICU__s102__test
+[2026-11-25T01:35:36+00:00] done E8_mechc__unit__lgbm__proc__full__B_MICU__s102__test
+[2026-11-25T01:35:36+00:00] started E8_mechc__unit__lgbm__proc__full__B_SICU__s102__test (pid 899, attempt 1)
+[2026-11-25T01:35:36+00:00] started E8_mechc__unit__lgbm__vitals__full__A_MICU__s103__test (pid 900, attempt 1)
+[2026-11-25T01:35:56+00:00] done E8_mechc__unit__lgbm__proc__full__B_SICU__s102__test
+[2026-11-25T01:35:56+00:00] done E8_mechc__unit__lgbm__vitals__full__A_MICU__s103__test
+[2026-11-25T01:35:56+00:00] started E8_mechc__unit__lgbm__vitals__full__A_SICU__s103__test (pid 923, attempt 1)
+[2026-11-25T01:35:56+00:00] started E8_mechc__unit__lgbm__vitals__full__B_MICU__s103__test (pid 924, attempt 1)
+[2026-11-25T01:36:11+00:00] done E8_mechc__unit__lgbm__vitals__full__A_SICU__s103__test
+[2026-11-25T01:36:11+00:00] started E8_mechc__unit__lgbm__vitals__full__B_SICU__s103__test (pid 944, attempt 1)
+[2026-11-25T01:36:16+00:00] done E8_mechc__unit__lgbm__vitals__full__B_MICU__s103__test
+[2026-11-25T01:36:16+00:00] started E8_mechc__unit__lgbm__labs__full__A_MICU__s103__test (pid 957, attempt 1)
+[2026-11-25T01:36:31+00:00] done E8_mechc__unit__lgbm__vitals__full__B_SICU__s103__test
+[2026-11-25T01:36:31+00:00] done E8_mechc__unit__lgbm__labs__full__A_MICU__s103__test
+[2026-11-25T01:36:31+00:00] started E8_mechc__unit__lgbm__labs__full__A_SICU__s103__test (pid 970, attempt 1)
+[2026-11-25T01:36:31+00:00] started E8_mechc__unit__lgbm__labs__full__B_MICU__s103__test (pid 971, attempt 1)
+[2026-11-25T01:36:46+00:00] done E8_mechc__unit__lgbm__labs__full__A_SICU__s103__test
+[2026-11-25T01:36:47+00:00] done E8_mechc__unit__lgbm__labs__full__B_MICU__s103__test
+[2026-11-25T01:36:47+00:00] started E8_mechc__unit__lgbm__labs__full__B_SICU__s103__test (pid 994, attempt 1)
+[2026-11-25T01:36:47+00:00] started E8_mechc__unit__lgbm__noproc__full__A_MICU__s103__test (pid 995, attempt 1)
+[2026-11-25T01:37:07+00:00] done E8_mechc__unit__lgbm__labs__full__B_SICU__s103__test
+[2026-11-25T01:37:07+00:00] started E8_mechc__unit__lgbm__noproc__full__A_SICU__s103__test (pid 1018, attempt 1)
+[2026-11-25T01:37:12+00:00] done E8_mechc__unit__lgbm__noproc__full__A_MICU__s103__test
+[2026-11-25T01:37:12+00:00] started E8_mechc__unit__lgbm__noproc__full__B_MICU__s103__test (pid 1031, attempt 1)
+[2026-11-25T01:37:27+00:00] done E8_mechc__unit__lgbm__noproc__full__A_SICU__s103__test
+[2026-11-25T01:37:27+00:00] started E8_mechc__unit__lgbm__noproc__full__B_SICU__s103__test (pid 1044, attempt 1)
+[2026-11-25T01:37:37+00:00] done E8_mechc__unit__lgbm__noproc__full__B_MICU__s103__test
+[2026-11-25T01:37:37+00:00] started E8_mechc__unit__lgbm__proc__full__A_MICU__s103__test (pid 1055, attempt 1)
+[2026-11-25T01:37:52+00:00] done E8_mechc__unit__lgbm__noproc__full__B_SICU__s103__test
+[2026-11-25T01:37:52+00:00] started E8_mechc__unit__lgbm__proc__full__A_SICU__s103__test (pid 1069, attempt 1)
+[2026-11-25T01:37:57+00:00] done E8_mechc__unit__lgbm__proc__full__A_MICU__s103__test
+[2026-11-25T01:37:57+00:00] started E8_mechc__unit__lgbm__proc__full__B_MICU__s103__test (pid 1079, attempt 1)
+[2026-11-25T01:38:07+00:00] done E8_mechc__unit__lgbm__proc__full__A_SICU__s103__test
+[2026-11-25T01:38:07+00:00] started E8_mechc__unit__lgbm__proc__full__B_SICU__s103__test (pid 1090, attempt 1)
+[2026-11-25T01:38:17+00:00] done E8_mechc__unit__lgbm__proc__full__B_MICU__s103__test
+[2026-11-25T01:38:17+00:00] started E8_mechc__unit__lgbm__vitals__full__A_MICU__s104__test (pid 1104, attempt 1)
+[2026-11-25T01:38:27+00:00] done E8_mechc__unit__lgbm__proc__full__B_SICU__s103__test
+[2026-11-25T01:38:27+00:00] started E8_mechc__unit__lgbm__vitals__full__A_SICU__s104__test (pid 1116, attempt 1)
+[2026-11-25T01:38:37+00:00] done E8_mechc__unit__lgbm__vitals__full__A_MICU__s104__test
+[2026-11-25T01:38:37+00:00] started E8_mechc__unit__lgbm__vitals__full__B_MICU__s104__test (pid 1126, attempt 1)
+[2026-11-25T01:38:42+00:00] done E8_mechc__unit__lgbm__vitals__full__A_SICU__s104__test
+[2026-11-25T01:38:42+00:00] started E8_mechc__unit__lgbm__vitals__full__B_SICU__s104__test (pid 1140, attempt 1)
+[2026-11-25T01:38:57+00:00] done E8_mechc__unit__lgbm__vitals__full__B_MICU__s104__test
+[2026-11-25T01:38:57+00:00] started E8_mechc__unit__lgbm__labs__full__A_MICU__s104__test (pid 1151, attempt 1)
+[2026-11-25T01:39:02+00:00] done E8_mechc__unit__lgbm__vitals__full__B_SICU__s104__test
+[2026-11-25T01:39:02+00:00] started E8_mechc__unit__lgbm__labs__full__A_SICU__s104__test (pid 1161, attempt 1)
+[2026-11-25T01:39:12+00:00] done E8_mechc__unit__lgbm__labs__full__A_MICU__s104__test
+[2026-11-25T01:39:12+00:00] started E8_mechc__unit__lgbm__labs__full__B_MICU__s104__test (pid 1175, attempt 1)
+[2026-11-25T01:39:17+00:00] done E8_mechc__unit__lgbm__labs__full__A_SICU__s104__test
+[2026-11-25T01:39:17+00:00] started E8_mechc__unit__lgbm__labs__full__B_SICU__s104__test (pid 1185, attempt 1)
+[2026-11-25T01:39:27+00:00] done E8_mechc__unit__lgbm__labs__full__B_MICU__s104__test
+[2026-11-25T01:39:27+00:00] started E8_mechc__unit__lgbm__noproc__full__A_MICU__s104__test (pid 1198, attempt 1)
+[2026-11-25T01:39:32+00:00] done E8_mechc__unit__lgbm__labs__full__B_SICU__s104__test
+[2026-11-25T01:39:32+00:00] started E8_mechc__unit__lgbm__noproc__full__A_SICU__s104__test (pid 1208, attempt 1)
+[2026-11-25T01:39:47+00:00] done E8_mechc__unit__lgbm__noproc__full__A_MICU__s104__test
+[2026-11-25T01:39:47+00:00] started E8_mechc__unit__lgbm__noproc__full__B_MICU__s104__test (pid 1222, attempt 1)
+[2026-11-25T01:39:52+00:00] done E8_mechc__unit__lgbm__noproc__full__A_SICU__s104__test
+[2026-11-25T01:39:52+00:00] started E8_mechc__unit__lgbm__noproc__full__B_SICU__s104__test (pid 1232, attempt 1)
+[2026-11-25T01:40:12+00:00] done E8_mechc__unit__lgbm__noproc__full__B_MICU__s104__test
+[2026-11-25T01:40:12+00:00] started E8_mechc__unit__lgbm__proc__full__A_MICU__s104__test (pid 1247, attempt 1)
+[2026-11-25T01:40:17+00:00] done E8_mechc__unit__lgbm__noproc__full__B_SICU__s104__test
+[2026-11-25T01:40:17+00:00] started E8_mechc__unit__lgbm__proc__full__A_SICU__s104__test (pid 1257, attempt 1)
+[2026-11-25T01:40:32+00:00] done E8_mechc__unit__lgbm__proc__full__A_MICU__s104__test
+[2026-11-25T01:40:32+00:00] started E8_mechc__unit__lgbm__proc__full__B_MICU__s104__test (pid 1270, attempt 1)
+[2026-11-25T01:40:37+00:00] done E8_mechc__unit__lgbm__proc__full__A_SICU__s104__test
+[2026-11-25T01:40:37+00:00] started E8_mechc__unit__lgbm__proc__full__B_SICU__s104__test (pid 1280, attempt 1)
+[2026-11-25T01:40:52+00:00] done E8_mechc__unit__lgbm__proc__full__B_MICU__s104__test
+[2026-11-25T01:40:52+00:00] started E9_sizec__unit__lgbm__all__matched__A_MICU__s100__test (pid 1293, attempt 1)
+[2026-11-25T01:40:57+00:00] done E8_mechc__unit__lgbm__proc__full__B_SICU__s104__test
+[2026-11-25T01:40:57+00:00] started E9_sizec__unit__lgbm__all__matched__A_SICU__s100__test (pid 1303, attempt 1)
+[2026-11-25T01:41:22+00:00] done E9_sizec__unit__lgbm__all__matched__A_MICU__s100__test
+[2026-11-25T01:41:22+00:00] done E9_sizec__unit__lgbm__all__matched__A_SICU__s100__test
+[2026-11-25T01:41:22+00:00] started E9_sizec__unit__lgbm__all__matched__B_MICU__s100__test (pid 1319, attempt 1)
+[2026-11-25T01:41:22+00:00] started E9_sizec__unit__lgbm__all__matched__B_SICU__s100__test (pid 1320, attempt 1)
+[2026-11-25T01:41:53+00:00] done E9_sizec__unit__lgbm__all__matched__B_MICU__s100__test
+[2026-11-25T01:41:53+00:00] done E9_sizec__unit__lgbm__all__matched__B_SICU__s100__test
+[2026-11-25T01:41:53+00:00] started E9_sizec__unit__lgbm__all__matched__A_MICU__s101__test (pid 1346, attempt 1)
+[2026-11-25T01:41:53+00:00] started E9_sizec__unit__lgbm__all__matched__A_SICU__s101__test (pid 1347, attempt 1)
+[2026-11-25T01:42:18+00:00] done E9_sizec__unit__lgbm__all__matched__A_SICU__s101__test
+[2026-11-25T01:42:18+00:00] started E9_sizec__unit__lgbm__all__matched__B_MICU__s101__test (pid 1370, attempt 1)
+[2026-11-25T01:42:23+00:00] done E9_sizec__unit__lgbm__all__matched__A_MICU__s101__test
+[2026-11-25T01:42:23+00:00] started E9_sizec__unit__lgbm__all__matched__B_SICU__s101__test (pid 1381, attempt 1)
+[2026-11-25T01:42:48+00:00] done E9_sizec__unit__lgbm__all__matched__B_MICU__s101__test
+[2026-11-25T01:42:48+00:00] started E9_sizec__unit__lgbm__all__matched__A_MICU__s102__test (pid 1398, attempt 1)
+[2026-11-25T01:42:53+00:00] done E9_sizec__unit__lgbm__all__matched__B_SICU__s101__test
+[2026-11-25T01:42:53+00:00] started E9_sizec__unit__lgbm__all__matched__A_SICU__s102__test (pid 1407, attempt 1)
+[2026-11-25T01:43:18+00:00] done E9_sizec__unit__lgbm__all__matched__A_MICU__s102__test
+[2026-11-25T01:43:18+00:00] done E9_sizec__unit__lgbm__all__matched__A_SICU__s102__test
+[2026-11-25T01:43:18+00:00] started E9_sizec__unit__lgbm__all__matched__B_MICU__s102__test (pid 1424, attempt 1)
+[2026-11-25T01:43:18+00:00] started E9_sizec__unit__lgbm__all__matched__B_SICU__s102__test (pid 1425, attempt 1)
+[2026-11-25T01:43:48+00:00] done E9_sizec__unit__lgbm__all__matched__B_MICU__s102__test
+[2026-11-25T01:43:48+00:00] done E9_sizec__unit__lgbm__all__matched__B_SICU__s102__test
+[2026-11-25T01:43:48+00:00] started E9_sizec__unit__lgbm__all__matched__A_MICU__s103__test (pid 1450, attempt 1)
+[2026-11-25T01:43:48+00:00] started E9_sizec__unit__lgbm__all__matched__A_SICU__s103__test (pid 1451, attempt 1)
+[2026-11-25T01:44:18+00:00] done E9_sizec__unit__lgbm__all__matched__A_MICU__s103__test
+[2026-11-25T01:44:18+00:00] done E9_sizec__unit__lgbm__all__matched__A_SICU__s103__test
+[2026-11-25T01:44:18+00:00] started E9_sizec__unit__lgbm__all__matched__B_MICU__s103__test (pid 1474, attempt 1)
+[2026-11-25T01:44:18+00:00] started E9_sizec__unit__lgbm__all__matched__B_SICU__s103__test (pid 1475, attempt 1)
+[2026-11-25T01:44:48+00:00] done E9_sizec__unit__lgbm__all__matched__B_MICU__s103__test
+[2026-11-25T01:44:48+00:00] done E9_sizec__unit__lgbm__all__matched__B_SICU__s103__test
+[2026-11-25T01:44:48+00:00] started E9_sizec__unit__lgbm__all__matched__A_MICU__s104__test (pid 1502, attempt 1)
+[2026-11-25T01:44:48+00:00] started E9_sizec__unit__lgbm__all__matched__A_SICU__s104__test (pid 1503, attempt 1)
+[2026-11-25T01:45:13+00:00] done E9_sizec__unit__lgbm__all__matched__A_SICU__s104__test
+[2026-11-25T01:45:13+00:00] started E9_sizec__unit__lgbm__all__matched__B_MICU__s104__test (pid 1527, attempt 1)
+[2026-11-25T01:45:18+00:00] done E9_sizec__unit__lgbm__all__matched__A_MICU__s104__test
+[2026-11-25T01:45:18+00:00] started E9_sizec__unit__lgbm__all__matched__B_SICU__s104__test (pid 1536, attempt 1)
+[2026-11-25T01:45:38+00:00] done E9_sizec__unit__lgbm__all__matched__B_MICU__s104__test
+[2026-11-25T01:45:38+00:00] started E9_sizec__unit__lr__all__matched__A_MICU__s100__test (pid 1551, attempt 1)
+[2026-11-25T01:45:48+00:00] done E9_sizec__unit__lgbm__all__matched__B_SICU__s104__test
+[2026-11-25T01:45:48+00:00] started E9_sizec__unit__lr__all__matched__A_SICU__s100__test (pid 1564, attempt 1)
+[2026-11-25T01:45:53+00:00] done E9_sizec__unit__lr__all__matched__A_MICU__s100__test
+[2026-11-25T01:45:53+00:00] started E9_sizec__unit__lr__all__matched__B_MICU__s100__test (pid 1573, attempt 1)
+[2026-11-25T01:46:03+00:00] done E9_sizec__unit__lr__all__matched__A_SICU__s100__test
+[2026-11-25T01:46:03+00:00] started E9_sizec__unit__lr__all__matched__B_SICU__s100__test (pid 1584, attempt 1)
+[2026-11-25T01:46:08+00:00] done E9_sizec__unit__lr__all__matched__B_MICU__s100__test
+[2026-11-25T01:46:08+00:00] started E9_sizec__unit__lr__all__matched__A_MICU__s101__test (pid 1593, attempt 1)
+[2026-11-25T01:46:18+00:00] done E9_sizec__unit__lr__all__matched__B_SICU__s100__test
+[2026-11-25T01:46:18+00:00] started E9_sizec__unit__lr__all__matched__A_SICU__s101__test (pid 1606, attempt 1)
+[2026-11-25T01:46:24+00:00] done E9_sizec__unit__lr__all__matched__A_MICU__s101__test
+[2026-11-25T01:46:24+00:00] started E9_sizec__unit__lr__all__matched__B_MICU__s101__test (pid 1617, attempt 1)
+[2026-11-25T01:46:34+00:00] done E9_sizec__unit__lr__all__matched__A_SICU__s101__test
+[2026-11-25T01:46:34+00:00] started E9_sizec__unit__lr__all__matched__B_SICU__s101__test (pid 1626, attempt 1)
+[2026-11-25T01:46:39+00:00] done E9_sizec__unit__lr__all__matched__B_MICU__s101__test
+[2026-11-25T01:46:39+00:00] started E9_sizec__unit__lr__all__matched__A_MICU__s102__test (pid 1635, attempt 1)
+[2026-11-25T01:46:49+00:00] done E9_sizec__unit__lr__all__matched__B_SICU__s101__test
+[2026-11-25T01:46:49+00:00] started E9_sizec__unit__lr__all__matched__A_SICU__s102__test (pid 1647, attempt 1)
+[2026-11-25T01:46:54+00:00] done E9_sizec__unit__lr__all__matched__A_MICU__s102__test
+[2026-11-25T01:46:54+00:00] started E9_sizec__unit__lr__all__matched__B_MICU__s102__test (pid 1656, attempt 1)
+[2026-11-25T01:47:04+00:00] done E9_sizec__unit__lr__all__matched__A_SICU__s102__test
+[2026-11-25T01:47:04+00:00] started E9_sizec__unit__lr__all__matched__B_SICU__s102__test (pid 1666, attempt 1)
+[2026-11-25T01:47:09+00:00] done E9_sizec__unit__lr__all__matched__B_MICU__s102__test
+[2026-11-25T01:47:09+00:00] started E9_sizec__unit__lr__all__matched__A_MICU__s103__test (pid 1676, attempt 1)
+[2026-11-25T01:47:19+00:00] done E9_sizec__unit__lr__all__matched__B_SICU__s102__test
+[2026-11-25T01:47:19+00:00] started E9_sizec__unit__lr__all__matched__A_SICU__s103__test (pid 1690, attempt 1)
+[2026-11-25T01:47:24+00:00] done E9_sizec__unit__lr__all__matched__A_MICU__s103__test
+[2026-11-25T01:47:24+00:00] started E9_sizec__unit__lr__all__matched__B_MICU__s103__test (pid 1701, attempt 1)
+[2026-11-25T01:47:34+00:00] done E9_sizec__unit__lr__all__matched__A_SICU__s103__test
+[2026-11-25T01:47:34+00:00] started E9_sizec__unit__lr__all__matched__B_SICU__s103__test (pid 1711, attempt 1)
+[2026-11-25T01:47:39+00:00] done E9_sizec__unit__lr__all__matched__B_MICU__s103__test
+[2026-11-25T01:47:39+00:00] started E9_sizec__unit__lr__all__matched__A_MICU__s104__test (pid 1720, attempt 1)
+[2026-11-25T01:47:49+00:00] done E9_sizec__unit__lr__all__matched__B_SICU__s103__test
+[2026-11-25T01:47:49+00:00] started E9_sizec__unit__lr__all__matched__A_SICU__s104__test (pid 1733, attempt 1)
+[2026-11-25T01:47:54+00:00] done E9_sizec__unit__lr__all__matched__A_MICU__s104__test
+[2026-11-25T01:47:54+00:00] started E9_sizec__unit__lr__all__matched__B_MICU__s104__test (pid 1742, attempt 1)
+[2026-11-25T01:48:04+00:00] done E9_sizec__unit__lr__all__matched__A_SICU__s104__test
+[2026-11-25T01:48:04+00:00] started E9_sizec__unit__lr__all__matched__B_SICU__s104__test (pid 1752, attempt 1)
+[2026-11-25T01:48:09+00:00] done E9_sizec__unit__lr__all__matched__B_MICU__s104__test
+[2026-11-25T01:48:09+00:00] started E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s100__test (pid 1762, attempt 1)
+[2026-11-25T01:48:19+00:00] done E9_sizec__unit__lr__all__matched__B_SICU__s104__test
+[2026-11-25T01:48:19+00:00] started E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s100__test (pid 1775, attempt 1)
+[2026-11-25T01:49:09+00:00] done E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s100__test
+[2026-11-25T01:49:09+00:00] started E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s100__test (pid 1791, attempt 1)
+[2026-11-25T01:49:19+00:00] done E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s100__test
+[2026-11-25T01:49:19+00:00] started E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s100__test (pid 1804, attempt 1)
+[2026-11-25T01:50:04+00:00] done E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s100__test
+[2026-11-25T01:50:04+00:00] started E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s101__test (pid 1821, attempt 1)
+[2026-11-25T01:50:14+00:00] done E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s100__test
+[2026-11-25T01:50:14+00:00] started E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s101__test (pid 1834, attempt 1)
+[2026-11-25T01:50:59+00:00] done E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s101__test
+[2026-11-25T01:50:59+00:00] started E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s101__test (pid 1852, attempt 1)
+[2026-11-25T01:51:09+00:00] done E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s101__test
+[2026-11-25T01:51:09+00:00] started E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s101__test (pid 1862, attempt 1)
+[2026-11-25T01:51:54+00:00] done E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s101__test
+[2026-11-25T01:51:54+00:00] started E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s102__test (pid 1884, attempt 1)
+[2026-11-25T01:52:04+00:00] done E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s101__test
+[2026-11-25T01:52:04+00:00] started E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s102__test (pid 1895, attempt 1)
+[2026-11-25T01:52:44+00:00] done E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s102__test
+[2026-11-25T01:52:44+00:00] started E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s102__test (pid 1915, attempt 1)
+[2026-11-25T01:52:59+00:00] done E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s102__test
+[2026-11-25T01:53:00+00:00] started E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s102__test (pid 1926, attempt 1)
+[2026-11-25T01:53:45+00:00] done E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s102__test
+[2026-11-25T01:53:45+00:00] started E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s103__test (pid 1945, attempt 1)
+[2026-11-25T01:53:55+00:00] done E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s102__test
+[2026-11-25T01:53:55+00:00] started E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s103__test (pid 1955, attempt 1)
+[2026-11-25T01:54:40+00:00] done E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s103__test
+[2026-11-25T01:54:40+00:00] started E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s103__test (pid 1972, attempt 1)
+[2026-11-25T01:54:50+00:00] done E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s103__test
+[2026-11-25T01:54:50+00:00] started E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s103__test (pid 1985, attempt 1)
+[2026-11-25T01:55:35+00:00] done E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s103__test
+[2026-11-25T01:55:35+00:00] started E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s104__test (pid 2002, attempt 1)
+[2026-11-25T01:55:50+00:00] done E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s103__test
+[2026-11-25T01:55:50+00:00] started E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s104__test (pid 2015, attempt 1)
+[2026-11-25T01:56:30+00:00] done E10_poolc__unit__lgbm__all__full__A_SICU-B_MICU__s104__test
+[2026-11-25T01:56:30+00:00] started E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s104__test (pid 2032, attempt 1)
+[2026-11-25T01:56:50+00:00] done E10_poolc__unit__lgbm__all__full__A_MICU-B_SICU__s104__test
+[2026-11-25T01:56:50+00:00] started E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s104__test (pid 2047, attempt 1)
+[2026-11-25T01:57:30+00:00] done E10_poolc__unit__lgbm__all__full__B_SICU-A_MICU__s104__test
+[2026-11-25T01:57:45+00:00] done E10_poolc__unit__lgbm__all__full__B_MICU-A_SICU__s104__test
+[2026-11-25T01:57:45+00:00] queue drained: {'done': 512}
+# RESULTS SUMMARY (auto-generated by scripts/final_report.py from result files)
+
+Journal: Critical Care (journal_selection/selected_journal.md). Topic: factorial site × population transport analysis of sepsis early warning on PhysioNet 2019 (topic/selected_topic.md).
+
+## Main confirmation (E6, test, seeds 100–104) — results/analysis/E6_confirm_test.json
+
+| model/level | gap_unit | gap_site | D = site − unit | p (boot) |
+|---|---|---|---|---|
+| lgbm_hour | 0.045 [0.027, 0.061] | 0.071 [0.053, 0.090] | 0.026 [0.005, 0.049] | 0.0180 |
+| lgbm_patient | 0.048 [0.025, 0.072] | 0.087 [0.062, 0.110] | 0.039 [0.010, 0.067] | 0.0150 |
+| lr_hour | 0.052 [0.027, 0.077] | 0.116 [0.087, 0.146] | 0.063 [0.031, 0.098] | 0.0005 |
+| lr_patient | 0.053 [0.025, 0.079] | 0.101 [0.069, 0.132] | 0.048 [0.014, 0.081] | 0.0025 |
+
+Holm family: H1_lgbm_hour p = 0.0180, p_Holm = 0.0180, H1_lr_hour p = 0.0005, p_Holm = 0.0015, H2_reduction p = 0.0050, p_Holm = 0.0100
+
+## Label-free estimators (E5) — tables/E5_E6_confirm_test.md
+
+# E5 (E6_confirm, test) — estimating transported AUROC (hour level)
+
+| model | estimator | MAE | mean error | share |err| > 0.03 | n transfers×seeds |
+|---|---|---|---|---|---|
+| lgbm | internal | 0.072 | +0.072 | 0.80 | 60 |
+| lgbm | implied | 0.064 | +0.045 | 0.77 | 60 |
+| lgbm | iw | 0.067 | +0.003 | 0.77 | 60 |
+| lr | internal | 0.097 | +0.097 | 0.92 | 60 |
+| lr | implied | 0.164 | +0.164 | 1.00 | 60 |
+| lr | iw | 0.138 | -0.086 | 0.92 | 60 |
+
+## Few-label local check (split-half): P(|AUROC on n local patients − AUROC on disjoint half| ≤ 0.03), mean over 12 transfers
+
+| model | n=50 | n=100 | n=200 | n=400 |
+|---|---|---|---|---|
+| lgbm | 0.16 | 0.23 | 0.32 | 0.41 |
+| lr | 0.14 | 0.20 | 0.29 | 0.37 |
+
+## v3 exploration (val) — results/analysis/v3_explore.json
+
+| test | estimate [95% CI] | p (boot) | p (Holm) |
+|---|---|---|---|
+| H4_age_lgbm | 0.063 [0.050, 0.077] | 0.0010 | 0.0070 |
+| H4_age_lr | 0.100 [0.077, 0.122] | 0.0010 | 0.0070 |
+| H4_route_lgbm | 0.036 [0.019, 0.052] | 0.0010 | 0.0070 |
+| H4_route_lr | 0.076 [0.054, 0.102] | 0.0010 | 0.0070 |
+| H5_Dall_minus_Dvitals | 0.023 [0.002, 0.045] | 0.0320 | 0.0320 |
+| H6_matched_lgbm | 0.043 [0.021, 0.064] | 0.0010 | 0.0070 |
+| H6_matched_lr | 0.055 [0.022, 0.091] | 0.0010 | 0.0070 |
+
+## Comparison with published numbers (G4) — results/g4_reproduce.json
+
+Our cohort under the published protocol: 30629 stays, 1837 events (published: 30646, 1843).
+
+| model | source | internal AUROC | external AUROC |
+|---|---|---|---|
+| lgbm | A | 0.773 | AtoB: 0.658 |
+| lgbm | B | 0.723 | BtoA: 0.646 |
+| enet_lr | A | 0.758 | AtoB: 0.694 |
+| enet_lr | B | 0.711 | BtoA: 0.661 |
+| XGBoost (published) | A | 0.725 | AtoB: 0.608 |
+| XGBoost (published) | B | 0.702 | BtoA: 0.636 |
+
+## Leakage check (G8): PASS — results/leakage_check.json
+
+## Compute
+Global 2.58 h of 120 h; per cycle: c1 1.21 h, c2 1.37 h (state/budget.json)
+
+## Gates, novelty score, limitations
+See HANDOFF.md (gate table) and state/novelty_ledger.json (scores); limitations in journal/ENTRIES.
+
