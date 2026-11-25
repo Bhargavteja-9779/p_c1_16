@@ -1,9 +1,9 @@
 {
  "cycle": 3,
- "phase": "CYCLE3_RUN",
- "step": "E12 (v5) + E13/E14 (v6) explore running",
- "status": "RUNNING",
+ "phase": "SUBMISSION_PACKAGE",
+ "step": "manuscript revised after 2 review rounds; awaiting author completion; plan_v7 pending",
+ "status": "PAUSED_FOR_AUTHORS",
  "pivots": 0,
- "last_action": "session 8: took over queue on branch claude/dazzling-albattani-8k4faw (D37)",
+ "last_action": "paper package + SUBMISSION_REPORT (D41-D42)",
  "updated": "2026-11-25"
 }

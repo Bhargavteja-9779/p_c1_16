@@ -1,5 +1,20 @@
 # HANDOFF — read this first
 
+_Last updated: 2026-11-25 ~23:30 UTC (submission package delivered; branch `claude/lucid-bell-7mlvge`, which contains every other branch's work, D40)_
+
+## Where we are (latest)
+- **Phase:** SUBMISSION PACKAGE delivered (user request "give me final submission"). Manuscript revised after two simulated review rounds (round 2: 6/4/6, all major revision; G10 NOT passed). Blind novelty 13/25 (G3 fails).
+- **Package:** `paper/` — manuscript.md/.docx (Figure 1), cover_letter, additional files 1–4, SUBMISSION_REPORT.md (improvements, comparison with papers, honest acceptance assessment, gate table). Review logs: `review/round_1.md`, `review/round_2.md`.
+- **Integrity:** `python3 scripts/audit_numbers.py paper/*.md` → 0 unmatched (whitelist: paper/audit_whitelist.txt).
+- **NEXT ACTION (agent):**
+  1. Optional analyses requested by reviewers (new plan version, validation first where applicable): source-transferred thresholds + lead time; ATC/CBPE label-free estimators; repeated-split uncertainty; CIs for calibration contrasts; flow diagram.
+  2. plan_v7 (few-label repair, SPRU) queue is pending (106 v7 jobs); needs PhysioNet 2012 data + `scripts/prepare_v6.py` in a fresh container; then analyze_v7 explore → freeze → confirm. Not part of the current manuscript.
+  3. plan_v5 (dose–response) and plan_v6 (hypotension × 3 databases) were explored only; confirm phases not run.
+- **NEXT ACTION (authors, cannot be done by the agent):** names/affiliations, ethics, funding, competing interests, contributions, AI-oversight statement, public repository + DOI, complete reference details, official TRIPOD+AI numbering.
+
+## Earlier status (kept)
+
+
 _Last updated: 2026-11-25 15:00 UTC (cycle 3, session 8 — queue taken over on branch `claude/dazzling-albattani-8k4faw`, D37)_
 
 ## Where we are

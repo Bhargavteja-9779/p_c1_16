@@ -2,3 +2,4 @@
 1065 | reference page number (Wong et al., JAMA Intern Med 2021;181:1065)
 102124 | reference article number (Moor et al., EClinicalMedicine 2023;62:102124)
 350 | journal abstract word limit (Critical Care), not a result
+364 | reference article number (Allyn et al., Crit Care 2026;30:364)

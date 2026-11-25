@@ -1,4 +1,4 @@
-# Additional file 3 — TRIPOD+AI checklist (abridged mapping)
+# Additional file 3 — TRIPOD+AI checklist (abridged mapping; item numbers approximate the official checklist and should be aligned to the official TRIPOD+AI numbering with page/line locations before submission)
 
 Status: Reported / Partly reported / Not reported (with reason). Section names refer to the manuscript.
 
@@ -25,8 +25,8 @@ Status: Reported / Partly reported / Not reported (with reason). Section names r
 | 19 | Protocol / registration | Partly reported | Version-controlled staged plans (Additional file 2); no public registry |
 | 20 | Data sharing | Reported | Open data; code repository (URL to be completed) |
 | 21 | Code availability | Reported | Repository; requirements.txt pins package versions |
-| 22 | Patient and public involvement | Not reported | None |
-| 23a–b | Participants: flow, characteristics | Partly reported | Cell sizes and events in Methods; per-cell characteristics table and flow diagram not yet included |
+| 22 | Patient and public involvement | Reported | None (secondary analysis of public data) |
+| 23a–b | Participants: flow, characteristics | Partly reported | Per-cell characteristics incl. excluded stays: Additional file 4; formal flow diagram not included |
 | 24 | Model development details | Reported | Methods; hyperparameter grids |
 | 25 | Model specification | Partly reported | Code released; no single deployable model is proposed |
 | 26 | Performance with CIs | Reported | Tables 1–4, Figure 1 |
