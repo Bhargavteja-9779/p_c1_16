@@ -1,6 +1,6 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-25 13:25 UTC (cycle 3, session 6 — queue relaunched after container restart; branch `claude/modest-clarke-9kl8u1`, D35)_
+_Last updated: 2026-11-25 13:50 UTC (cycle 3, session 7 — queue taken over on branch `claude/pensive-galileo-vgrn1b`, D36)_
 
 ## Where we are
 - **Cycle:** 3 **Phase:** CYCLE3_RUN — session 5 (branch `claude/serene-newton-bylqpn`, fast-forwarded from `claude/lucid-bell-7mlvge`, D31).
@@ -83,7 +83,7 @@ D1 CPU-only; D2 persistence via git branch; D3 Crossref-assertion turnaround; D4
 - Agent supervisor (Layer B): `nohup setsid bash scripts/supervisor.sh >/dev/null 2>&1 &` ; stop: `touch state/STOP_SUPERVISOR`
 
 ## Known problems
-- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/lucid-bell-7mlvge` (D18; earlier: dazzling-albattani-8k4faw).
+- **This container has no crontab and no systemd user bus** → boot autostart and the watchdog cron cannot be installed here. The container is ephemeral anyway. Persistence = git commits pushed to branch `claude/pensive-galileo-vgrn1b` (D18; earlier: dazzling-albattani-8k4faw).
 - **Layer B auto-restart is not active.** The `claude` CLI exists here, but running a nested agent inside this live session would create two agents editing the same repo. On your own machine, run `scripts/supervisor.sh` (it detects the CLI). Otherwise: open a new session on this repo/branch and paste `BOOTSTRAP_PROMPT.txt`.
 - Raw data (`data/`) is git-ignored; after re-download ALWAYS run `python3 scripts/prepare_data.py`. Re-download with `scripts/download_physionet2019.sh` (2019 sepsis, CC BY 4.0); 2012 challenge and eICU demo download commands are in decisions/journal (PhysioNet open files).
 
