@@ -1,8 +1,23 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-25 (cycle 2, v3 confirmation analysed — nothing running)_
+_Last updated: 2026-11-25 (cycle 3, session 5 — jobs running)_
 
 ## Where we are
+- **Cycle:** 3 **Phase:** CYCLE3_RUN — session 5 (branch `claude/serene-newton-bylqpn`, fast-forwarded from `claude/lucid-bell-7mlvge`, D31).
+- **User goal (2026-11-25):** "make it more novel and improved, don't stop until 25/25". Honest blind novelty so far: **13/25** (D28). The score is whatever a blind reviewer gives; never inflated.
+- **NEXT ACTION:**
+  0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy pyyaml`; `bash scripts/download_physionet2019.sh` (repeat until `bad=0`); PhysioNet 2012 (see Data); `python3 scripts/prepare_data.py` (md5 0883ae5b…); `python3 scripts/prepare_v6.py`.
+  1. Queue (plan_v7, CURRENT_PLAN): E12 (plan_v5 dose-response, explore), E13/E14 (plan_v6 T2 hypotension × 3 databases, explore), then v7 SPRU few-label repair (126 explore jobs; auto-relaunch waiter started). `bash scripts/launch.sh --workers 2` resumes.
+  2. When E12 done: `python3 scripts/analyze_v5.py --phase explore` → freeze → plan_v5b (confirm E12).
+  3. When E13/E14 done: `python3 scripts/analyze_v6.py --phase explore` → freeze analyze_v6.py (commit hash in decisions) → plan_v6b (phases: [explore, confirm]) → confirm → `--phase confirm --nboot 2000`.
+  4. When v7 explore done: `python3 scripts/analyze_v7.py --phase explore` (fixes best baseline in results/analysis/v7_best_baseline.json) → freeze → plan_v7b confirm.
+  5. Blind novelty re-score (fresh agent; results + claim tables only), then paper draft + `scripts/audit_numbers.py` (G11).
+- **Prior-art for new claims P5 (3-database factorial) / P6 (SPRU):** independent agent → literature/prior_art_P5_P6.md.
+- **Selected journal:** Critical Care (BMC/Springer Nature, ISSN 1364-8535). Verified median Accepted−Received 66 d; JIF 11.4; JCR quartile UNVERIFIED.
+- **Topic:** site vs population components of ICU early-warning transport loss (factorial site × unit), now on 2 tasks × 3 open databases, plus a diagnosis-driven few-label repair method (SPRU).
+- **Verified site identities:** 2019 A = BIDMC, B = Emory (Reyna 2020 full text, PMC6964870); 2012 = MIMIC-II (Silva 2012 abstract); MIMIC-II = BIDMC is UNVERIFIED in sources opened.
+
+### Earlier status (cycle 2, kept)
 - **Cycle:** 2 **Phase:** v3 confirmation DONE + analysed (journal 015, D26). Nothing running.
 - **NEXT ACTION:**
   0. Fresh container? `pip install lightgbm==4.7.0 pandas==3.0.5 scikit-learn==1.9.1 statsmodels pyarrow scipy`, `bash scripts/download_physionet2019.sh` (repeat until `bad=0`), then `python3 scripts/prepare_data.py` (~4 min; must print md5 0883ae5b4726bdc6fbe0c41bbc4f7d6d — the split is pinned in configs/, D19).

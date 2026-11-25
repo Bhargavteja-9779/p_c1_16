@@ -15524,6 +15524,1778 @@
      "cites": null
     }
    ]
+  },
+  {
+   "claim": "P6",
+   "query": "clinical prediction model updating recalibration revision extension few local patients",
+   "date": "2026-11-25T10:39:40",
+   "openalex_count": 384,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4311668966",
+     "doi": "https://doi.org/10.1186/s12874-022-01801-8",
+     "title": "Methodological guidance for the evaluation and updating of clinical prediction models: a systematic review",
+     "year": 2022,
+     "venue": "BMC Medical Research Methodology",
+     "cites": 320
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4410629471",
+     "doi": "https://doi.org/10.1016/j.mcpdig.2025.100228",
+     "title": "Implementation and Updating of Clinical Prediction Models: A Systematic Review",
+     "year": 2025,
+     "venue": "Mayo Clinic Proceedings Digital Health",
+     "cites": 56
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4405184846",
+     "doi": "https://doi.org/10.1016/j.jclinepi.2024.111636",
+     "title": "Updating methods for artificial intelligence\u2013based clinical prediction models: a scoping review",
+     "year": 2024,
+     "venue": "Journal of Clinical Epidemiology",
+     "cites": 27
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4402396548",
+     "doi": "https://doi.org/10.5204/thesis.eprints.251808",
+     "title": "Clinical Prediction Models to Improve Patient Safety and Value of Care",
+     "year": 2024,
+     "venue": "Queensland University of Technology",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2474667434",
+     "doi": "https://doi.org/10.1136/bmj.i3140",
+     "title": "External validation of clinical prediction models using big datasets from e-health records or IPD meta-analysis: opportunities and challenges",
+     "year": 2016,
+     "venue": "BMJ",
+     "cites": 746
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133000466",
+     "doi": null,
+     "title": "Updating and Developing Risk Prediction Models for Incident Cardiovascular Disease in Ontario, Canada",
+     "year": 2023,
+     "venue": "TSpace (University of Toronto)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7225716052",
+     "doi": "https://doi.org/10.21203/rs.3.rs-11668877/v1",
+     "title": "Recalibration of four cardiovascular risk prediction scores in two Abu Dhabi cohorts",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4281681378",
+     "doi": "https://doi.org/10.1038/s41746-022-00611-y",
+     "title": "Clinical artificial intelligence quality improvement: towards continual monitoring and updating of AI algorithms in healthcare",
+     "year": 2022,
+     "venue": "npj Digital Medicine",
+     "cites": 580
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4280600809",
+     "doi": "https://doi.org/10.3990/1.9789036553940",
+     "title": "Developing, validating, and evaluating clinical prediction models in breast and prostate cancer",
+     "year": 2022,
+     "venue": null,
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2752581928",
+     "doi": "https://doi.org/10.2147/clep.s139748",
+     "title": "Prediction models for the mortality risk in chronic dialysis patients: a systematic review and independent external validation study",
+     "year": 2017,
+     "venue": "Clinical Epidemiology",
+     "cites": 65
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7171556538",
+     "doi": "https://doi.org/10.21037/gs-2026-0217",
+     "title": "Clinical transportability, calibration drift, and local updating of a B-mode ultrasound radiomics-clinical prediction model for occult high-volume central lymph node metastasis in cN0 papillary thyroid carcinoma: development, temporal validation, and external validation",
+     "year": 2026,
+     "venue": "Gland Surgery",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4294167842",
+     "doi": "https://doi.org/10.3389/fdgth.2022.958284",
+     "title": "Open questions and research gaps for monitoring and updating AI-enabled tools in clinical settings",
+     "year": 2022,
+     "venue": "Frontiers in Digital Health",
+     "cites": 43
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2202.13876v4",
+     "doi": null,
+     "title": "PMC-Patients: A Large-scale Dataset of Patient Summaries and Relations for Benchmarking Retrieval-based Clinical Decision Support Systems",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2110.06866v1",
+     "doi": null,
+     "title": "Bayesian logistic regression for online recalibration and revision of risk prediction models with performance guarantees",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.04725v1",
+     "doi": null,
+     "title": "Lightweight Transformers for Clinical Natural Language Processing",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2611.19452v1",
+     "doi": null,
+     "title": "Time-Varying Recalibration of Forecast Distributions",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2011.09625v2",
+     "doi": null,
+     "title": "Exploring Text Specific and Blackbox Fairness Algorithms in Multimodal Clinical NLP",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2305.00260v1",
+     "doi": null,
+     "title": "Dynamic Updating of Clinical Survival Prediction Models in a Rapidly Changing Environment",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.08226v1",
+     "doi": null,
+     "title": "Grounding Clinical AI Competency in Human Cognition Through the Clinical World Model and Skill-Mix Framework",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2010.04757v1",
+     "doi": null,
+     "title": "Predictive Modeling of Anatomy with Genetic and Clinical Data",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "selective re-estimation updating prediction model new setting",
+   "date": "2026-11-25T10:39:43",
+   "openalex_count": 87845,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4236739901",
+     "doi": "https://doi.org/10.1145/307338.300985",
+     "title": "Selective value prediction",
+     "year": 1999,
+     "venue": "ACM SIGARCH Computer Architecture News",
+     "cites": 47
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2913543033",
+     "doi": "https://doi.org/10.1108/jerer-08-2018-0035",
+     "title": "Estimation and updating methods for hedonic valuation",
+     "year": 2019,
+     "venue": "Journal of European real estate research",
+     "cites": 100
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4285298351",
+     "doi": "https://doi.org/10.18653/v1/2022.findings-acl.158",
+     "title": "Investigating Selective Prediction Approaches Across Several Tasks in IID, OOD, and Adversarial Settings",
+     "year": 2022,
+     "venue": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)",
+     "cites": 88
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7167597707",
+     "doi": "https://doi.org/10.48550/arxiv.2607.03528",
+     "title": "Aligning Language Models with Selective Prediction",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2167141246",
+     "doi": null,
+     "title": "Selective Prediction of Financial Trends with Hidden Markov Models",
+     "year": 2011,
+     "venue": "neural information processing systems",
+     "cites": 12
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2057400233",
+     "doi": "https://doi.org/10.1111/j.1541-0420.2010.01431.x",
+     "title": "Clinical Prediction Models: A Practical Approach to Development, Validation and Updating by STEYERBERG, E. W.",
+     "year": 2010,
+     "venue": "Biometrics",
+     "cites": 55
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415559753",
+     "doi": "https://doi.org/10.1016/j.jhep.2025.10.020",
+     "title": "BCLC strategy for prognosis prediction and treatment recommendations: The 2026 update",
+     "year": 2025,
+     "venue": "Journal of Hepatology",
+     "cites": 366
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4404347967",
+     "doi": "https://doi.org/10.48550/arxiv.2410.24029",
+     "title": "Joint Training for Selective Prediction",
+     "year": 2024,
+     "venue": "arXiv",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2145008649",
+     "doi": "https://doi.org/10.1155/2013/309041",
+     "title": "Broadcasting with Prediction and Selective Forwarding in Vehicular Networks",
+     "year": 2013,
+     "venue": "International Journal of Distributed Sensor Networks",
+     "cites": 70
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2788450865",
+     "doi": null,
+     "title": "Validating and Updating Lung Cancer Prediction Models",
+     "year": 2018,
+     "venue": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4281784576",
+     "doi": "https://doi.org/10.48550/arxiv.2205.13532",
+     "title": "Selective Prediction via Training Dynamics",
+     "year": 2025,
+     "venue": "Transactions on machine learning research",
+     "cites": 26
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2146893641",
+     "doi": "https://doi.org/10.1016/j.jclinepi.2013.04.014",
+     "title": "Simple dichotomous updating methods improved the validity of polytomous prediction models",
+     "year": 2013,
+     "venue": "Journal of Clinical Epidemiology",
+     "cites": 12
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2301.00073v2",
+     "doi": null,
+     "title": "Fluid Antenna System: New Insights on Outage Probability and Diversity Gain",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1002.1144v1",
+     "doi": null,
+     "title": "A CHAID Based Performance Prediction Model in Educational Data Mining",
+     "year": "2010",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2105.02868v1",
+     "doi": null,
+     "title": "Updated Standard Model Prediction for $K \\to \u03c0\u03bd\\bar\u03bd$ and $\u03b5_K$",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2508.07617v2",
+     "doi": null,
+     "title": "Selective Prediction Reduces the Negative Effects of Automation Bias Overall but Increases False Negatives",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1104.5355v1",
+     "doi": null,
+     "title": "A new efficient method for determining weighted power spectra: detection of low-frequency solar p-modes by analysis of BiSON data",
+     "year": "2011",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2211.05409v1",
+     "doi": null,
+     "title": "Radiomics-enhanced Deep Multi-task Learning for Outcome Prediction in Head and Neck Cancer",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2003.01224v1",
+     "doi": null,
+     "title": "Photometry of Kuiper Belt Object (486958) Arrokoth from New Horizons LORRI",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.12021v2",
+     "doi": null,
+     "title": "Derivative-Free Optimization with Transformed Objective Functions (DFOTO) and the Algorithm Based on the Least Frobenius Norm Updating Quadratic Model",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "gradient boosting transfer learning init_score base margin source model residual",
+   "date": "2026-11-25T10:39:46",
+   "openalex_count": 0,
+   "hits": [
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.02337v1",
+     "doi": null,
+     "title": "Federated and Transfer Learning: A Survey on Adversaries and Defense Mechanisms",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1911.08967v1",
+     "doi": null,
+     "title": "Transfer Learning Toolkit: Primers and Benchmarks",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.01634v1",
+     "doi": null,
+     "title": "Online Gradient Boosting Decision Tree: In-Place Updates for Efficient Adding/Deleting Data",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2407.08250v3",
+     "doi": null,
+     "title": "Gradient Boosting Reinforcement Learning",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.09855v5",
+     "doi": null,
+     "title": "Wide Boosting",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2204.12833v3",
+     "doi": null,
+     "title": "Transfer Learning with Pre-trained Conditional Generative Models",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2310.13966v3",
+     "doi": null,
+     "title": "Transfer Learning for Kernel-based Regression",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.01654v1",
+     "doi": null,
+     "title": "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "transfer boosting residual learning source model target domain small sample",
+   "date": "2026-11-25T10:39:49",
+   "openalex_count": 58225,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2279034837",
+     "doi": "https://doi.org/10.48550/arxiv.1602.04433",
+     "title": "Unsupervised Domain Adaptation with Residual Transfer Networks",
+     "year": 2016,
+     "venue": "neural information processing systems",
+     "cites": 1418
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4285090306",
+     "doi": "https://doi.org/10.3390/app12147032",
+     "title": "Intra-Domain Transfer Learning for Fault Diagnosis with Small Samples",
+     "year": 2022,
+     "venue": "Applied Sciences",
+     "cites": 12
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4402753671",
+     "doi": "https://doi.org/10.1109/cvpr52733.2024.01585",
+     "title": "Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer",
+     "year": 2024,
+     "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+     "cites": 56
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2798381792",
+     "doi": "https://doi.org/10.1109/cvpr.2018.00432",
+     "title": "Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning",
+     "year": 2018,
+     "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+     "cites": 668
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3124174388",
+     "doi": "https://doi.org/10.1109/jbhi.2021.3051470",
+     "title": "Distant Domain Transfer Learning for Medical Imaging",
+     "year": 2021,
+     "venue": "IEEE Journal of Biomedical and Health Informatics",
+     "cites": 122
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3203048322",
+     "doi": "https://doi.org/10.48550/arxiv.2110.03374",
+     "title": "Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data",
+     "year": 2021,
+     "venue": "neural information processing systems",
+     "cites": 284
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3192693288",
+     "doi": "https://doi.org/10.1109/tpami.2021.3103390",
+     "title": "Source Data-absent Unsupervised Domain Adaptation through Hypothesis Transfer and Labeling Transfer",
+     "year": 2021,
+     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+     "cites": 425
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4385065639",
+     "doi": "https://doi.org/10.1007/s41060-023-00414-8",
+     "title": "Boosting for regression transfer via importance sampling",
+     "year": 2023,
+     "venue": "International Journal of Data Science and Analytics",
+     "cites": 13
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2799084346",
+     "doi": "https://doi.org/10.1109/cvpr.2018.00397",
+     "title": "Boosting Domain Adaptation by Discovering Latent Domains",
+     "year": 2018,
+     "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+     "cites": 181
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3041133507",
+     "doi": "https://doi.org/10.1109/jproc.2020.3004555",
+     "title": "A Comprehensive Survey on Transfer Learning",
+     "year": 2020,
+     "venue": "Proceedings of the IEEE",
+     "cites": 8724
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3007769536",
+     "doi": "https://doi.org/10.48550/arxiv.2002.08546",
+     "title": "Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation",
+     "year": 2020,
+     "venue": "International Conference on Machine Learning",
+     "cites": 1264
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3187437108",
+     "doi": "https://doi.org/10.24963/ijcai.2021/439",
+     "title": "Deep Reinforcement Learning Boosted Partial Domain Adaptation",
+     "year": 2021,
+     "venue": "International Joint Conference on Artificial Intelligence",
+     "cites": 8
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.02337v1",
+     "doi": null,
+     "title": "Federated and Transfer Learning: A Survey on Adversaries and Defense Mechanisms",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1808.04572v3",
+     "doi": null,
+     "title": "Small Sample Learning in Big Data Era",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2301.05897v1",
+     "doi": null,
+     "title": "Model-based Transfer Learning for Automatic Optical Inspection based on domain discrepancy",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2507.20499v2",
+     "doi": null,
+     "title": "DmC: Nearest Neighbor Guidance Diffusion Model for Offline Cross-domain Reinforcement Learning",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2204.12833v3",
+     "doi": null,
+     "title": "Transfer Learning with Pre-trained Conditional Generative Models",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1911.08967v1",
+     "doi": null,
+     "title": "Transfer Learning Toolkit: Primers and Benchmarks",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.20414v1",
+     "doi": null,
+     "title": "Transfer Learning through Enhanced Sufficient Representation: Enriching Source Domain Knowledge with Target Data",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1808.05443v1",
+     "doi": null,
+     "title": "Transfer Learning and Organic Computing for Autonomous Vehicles",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "meta-learning rapid adaptation sepsis prediction models across ICUs",
+   "date": "2026-11-25T10:39:52",
+   "openalex_count": 2026,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7211896334",
+     "doi": "https://doi.org/10.68159/m155506526",
+     "title": "Meta-Learning Framework for Rapid Adaptation of Sepsis Prediction Models across Different Intensive Care Units with Varying Data Availability and Patient Demographics",
+     "year": 2023,
+     "venue": "Journal of Artificial Intelligence for Healthcare Systems",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163033639",
+     "doi": "https://doi.org/10.1117/12.3112012",
+     "title": "A federated learning framework with knowledge graph and temporal transformer for early sepsis prediction in multi-center ICUs",
+     "year": 2026,
+     "venue": "International Conference on Biomedical Engineering and Medical Devices (ICBEMD)",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4411242846",
+     "doi": "https://doi.org/10.3390/biomedicines13061449",
+     "title": "Machine Learning-Augmented Triage for Sepsis: Real-Time ICU Mortality Prediction Using SHAP-Explained Meta-Ensemble Models",
+     "year": 2025,
+     "venue": "Biomedicines",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163665812",
+     "doi": "https://doi.org/10.1186/s12911-026-03610-1",
+     "title": "Early prediction of sepsis in the ICU: a comparative analysis of multiple machine-learning algorithms using the MIMIC-III database",
+     "year": 2026,
+     "venue": "BMC Medical Informatics and Decision Making",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415460890",
+     "doi": "https://doi.org/10.1186/s12879-025-11423-2",
+     "title": "Revolutionizing sepsis diagnosis using machine learning and deep learning models: a systematic literature review",
+     "year": 2025,
+     "venue": "BMC Infectious Diseases",
+     "cites": 49
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7165151091",
+     "doi": "https://doi.org/10.3389/fnetp.2026.1852577",
+     "title": "Combining machine learning and physiological network models for sepsis prediction",
+     "year": 2026,
+     "venue": "Frontiers in Network Physiology",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163914513",
+     "doi": "https://doi.org/10.3390/s26123648",
+     "title": "Early Sepsis Detection Using Heterogeneous Structured ICU Data with Explainable Deep Learning",
+     "year": 2026,
+     "venue": "Sensors",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7164049297",
+     "doi": "https://doi.org/10.17780/ksujes.1898877",
+     "title": "DECISION-AWARE TWO-STAGE CLASSIFICATION FOR EARLY SEPSIS PREDICTION IN IMBALANCED ICU DATA",
+     "year": 2026,
+     "venue": "Kahramanmara\u015f S\u00fct\u00e7\u00fc \u0130mam \u00dcniversitesi M\u00fchendislik Bilimleri Dergisi",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7120025628",
+     "doi": "https://doi.org/10.1016/j.jointm.2025.10.010",
+     "title": "Development and external validation of a machine learning model for predicting the 28-day mortality risk in patients with sepsis complicated by acute respiratory failure in the ICU",
+     "year": 2026,
+     "venue": "Journal of Intensive Medicine",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7128519723",
+     "doi": "https://doi.org/10.3389/fmed.2026.1732164",
+     "title": "Progress in sepsis prediction models: from traditional scoring systems to multimodal intelligence and clinical translation",
+     "year": 2026,
+     "venue": "Frontiers in Medicine",
+     "cites": 20
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4319960975",
+     "doi": "https://doi.org/10.17760/d20474701",
+     "title": "Data-driven modeling and learning approach to solving ICU risk prediction and survival analysis",
+     "year": 2022,
+     "venue": "Digital Repository Service (Northeastern University)",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3203103016",
+     "doi": "https://doi.org/10.1097/ccm.0000000000005337",
+     "title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021",
+     "year": 2021,
+     "venue": "Critical Care Medicine",
+     "cites": 3696
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1812.02159v1",
+     "doi": null,
+     "title": "The effects of negative adaptation in Model-Agnostic Meta-Learning",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2603.15651v1",
+     "doi": null,
+     "title": "A federated learning framework with knowledge graph and temporal transformer for early sepsis prediction in multi-center ICUs",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1905.07435v1",
+     "doi": null,
+     "title": "Alpha MAML: Adaptive Model-Agnostic Meta-Learning",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2410.08355v3",
+     "doi": null,
+     "title": "Metalic: Meta-Learning In-Context with Protein Language Models",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2301.08028v4",
+     "doi": null,
+     "title": "A Tutorial on Meta-Reinforcement Learning",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2009.01672v1",
+     "doi": null,
+     "title": "Yet Meta Learning Can Adapt Fast, It Can Also Break Easily",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1806.06207v1",
+     "doi": null,
+     "title": "Meta-learning: searching in the model space",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2002.00573v1",
+     "doi": null,
+     "title": "Revisiting Meta-Learning as Supervised Learning",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "surgical fine-tuning subset of layers distribution shift",
+   "date": "2026-11-25T10:39:54",
+   "openalex_count": 9687,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4307079438",
+     "doi": "https://doi.org/10.48550/arxiv.2210.11466",
+     "title": "Surgical Fine-Tuning Improves Adaptation to Distribution Shifts",
+     "year": 2022,
+     "venue": "arXiv",
+     "cites": 222
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4389520106",
+     "doi": "https://doi.org/10.18653/v1/2023.findings-emnlp.204",
+     "title": "On Surgical Fine-tuning for Language Encoders",
+     "year": 2023,
+     "venue": "Findings of the Association for Computational Linguistics: EMNLP (Findings of EMNLP)",
+     "cites": 10
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4387995030",
+     "doi": "https://doi.org/10.48550/arxiv.2310.17041",
+     "title": "On Surgical Fine-tuning for Language Encoders",
+     "year": 2023,
+     "venue": "arXiv",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4387090435",
+     "doi": "https://doi.org/10.1109/ecmr59166.2023.10256348",
+     "title": "Surgical Fine-Tuning for Grape Bunch Segmentation Under Visual Domain Shifts",
+     "year": 2023,
+     "venue": "European Conference on Mobile Robots",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4402753613",
+     "doi": "https://doi.org/10.1109/cvpr52733.2024.02264",
+     "title": "FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning",
+     "year": 2024,
+     "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings - IEEE Computer Society Conference on Computer Vision and Pattern Recognition/Proceedings",
+     "cites": 88
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415368417",
+     "doi": "https://doi.org/10.1109/isit63088.2025.11195372",
+     "title": "Exploring Selective Layer Fine-Tuning in Federated Learning",
+     "year": 2025,
+     "venue": "IEEE International Symposium on Information Theory (ISIT)",
+     "cites": 11
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163574623",
+     "doi": "https://doi.org/10.48550/arxiv.2606.04164",
+     "title": "ADAPTOOD: Uncertainty-Aware Fine-Tuning for Out-of-Distribution ECG Time Series Models",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4365460698",
+     "doi": "https://doi.org/10.48550/arxiv.2304.03935",
+     "title": "Last-Layer Fairness Fine-tuning is Simple and Effective for Neural Networks",
+     "year": 2023,
+     "venue": "arXiv",
+     "cites": 35
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415798718",
+     "doi": "https://doi.org/10.52202/079017-0403",
+     "title": "Towards Calibrated Robust Fine-Tuning of Vision-Language Models",
+     "year": 2024,
+     "venue": "neural information processing systems",
+     "cites": 66
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4320855022",
+     "doi": "https://doi.org/10.48550/arxiv.2302.06600",
+     "title": "Task-Specific Skill Localization in Fine-tuned Language Models",
+     "year": 2023,
+     "venue": "International Conference on Machine Learning",
+     "cites": 129
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7172126510",
+     "doi": "https://doi.org/10.1007/978-3-032-31404-8_25",
+     "title": "Layer-Wise LoRA Fine-Tuning: A Similarity Metric Approach",
+     "year": 2026,
+     "venue": "Lecture notes in computer science",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4391047457",
+     "doi": "https://doi.org/10.48550/arxiv.2401.10220",
+     "title": "AutoFT: Learning an Objective for Robust Fine-Tuning",
+     "year": 2024,
+     "venue": "arXiv",
+     "cites": 14
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2210.11466v3",
+     "doi": null,
+     "title": "Surgical Fine-Tuning Improves Adaptation to Distribution Shifts",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.31821v1",
+     "doi": null,
+     "title": "A Surgical Foundation Model Reveals Task-Dependent Label Efficiency",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2102.03983v1",
+     "doi": null,
+     "title": "Partial Is Better Than All: Revisiting Fine-tuning Strategy for Few-shot Learning",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2403.00946v3",
+     "doi": null,
+     "title": "Fine-tuning with Very Large Dropout",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.11486v1",
+     "doi": null,
+     "title": "Time Series Prediction under Distribution Shift using Differentiable Forgetting",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2405.02571v1",
+     "doi": null,
+     "title": "ViTALS: Vision Transformer for Action Localization in Surgical Nephrectomy",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2110.06500v2",
+     "doi": null,
+     "title": "Differentially Private Fine-tuning of Language Models",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1610.04276v1",
+     "doi": null,
+     "title": "Perspectives on Surgical Data Science",
+     "year": "2016",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "robust prediction under missingness shift measurement process",
+   "date": "2026-11-25T10:39:57",
+   "openalex_count": 231144,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3036825277",
+     "doi": "https://doi.org/10.48550/arxiv.2006.10963",
+     "title": "Evaluating Prediction-Time Batch Normalization for Robustness under Covariate Shift",
+     "year": 2020,
+     "venue": "arXiv",
+     "cites": 385
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7225258852",
+     "doi": "https://doi.org/10.5281/zenodo.23963035",
+     "title": "ROBUST REPRESENTATION LEARNING UNDER FEATURE MISSINGNESS AND TEMPORAL DOMAIN SHIFT IN HETEROGENEOUS DATA ENVIRONMENTS",
+     "year": 2026,
+     "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7214286568",
+     "doi": "https://doi.org/10.1007/s12355-026-01820-5",
+     "title": "Shift-Robust Quality Prediction in Sugar Crystallization Using Physics-Guided Gradient Boosting",
+     "year": 2026,
+     "venue": "Sugar Tech",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4390783880",
+     "doi": "https://doi.org/10.48550/arxiv.2401.04144",
+     "title": "Robust Calibration For Improved Weather Prediction Under Distributional Shift",
+     "year": 2024,
+     "venue": "arXiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4411634237",
+     "doi": "https://doi.org/10.1016/j.commtr.2025.100192",
+     "title": "SAFER-predictor: Sparse adversarial training framework for robust traffic prediction under missing and noisy data",
+     "year": 2025,
+     "venue": "Communications in Transportation Research",
+     "cites": 22
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7118571229",
+     "doi": "https://doi.org/10.5705/ss.202025.0156",
+     "title": "Conformal Prediction Under Nonignorable Missingness",
+     "year": 2026,
+     "venue": "Statistica Sinica",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4320561061",
+     "doi": "https://doi.org/10.48550/arxiv.2211.02093",
+     "title": "Domain Adaptation under Missingness Shift",
+     "year": 2023,
+     "venue": "International Conference on Artificial Intelligence and Statistics",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4401024870",
+     "doi": "https://doi.org/10.24963/ijcai.2024/756",
+     "title": "Physics-Informed Trajectory Prediction for Autonomous Driving under Missing Observation",
+     "year": 2024,
+     "venue": "International Joint Conference on Artificial Intelligence",
+     "cites": 39
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4281624795",
+     "doi": "https://doi.org/10.48550/arxiv.2205.13481",
+     "title": "DeepJoint: Robust Survival Modelling Under Clinical Presence Shift",
+     "year": 2022,
+     "venue": "arXiv",
+     "cites": 9
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7167517164",
+     "doi": "https://doi.org/10.64898/2026.07.02.26357089",
+     "title": "Robust Longitudinal Dementia Prediction under Systemic Missingness via Hierarchical Fusion and Test-Time Adaptation",
+     "year": 2026,
+     "venue": "medRxiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4200631471",
+     "doi": "https://doi.org/10.3390/e24030386",
+     "title": "On the Relation between Prediction and Imputation Accuracy under Missing Covariates",
+     "year": 2022,
+     "venue": "Entropy",
+     "cites": 18
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2912788838",
+     "doi": "https://doi.org/10.1177/0049124119826153",
+     "title": "Process Tracing and the Problem of Missing Data",
+     "year": 2019,
+     "venue": "Sociological Methods & Research",
+     "cites": 70
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2406.16484v1",
+     "doi": null,
+     "title": "Robust prediction under missingness shifts",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2507.08280v2",
+     "doi": null,
+     "title": "MIRRAMS: Learning Robust Tabular Models under Unseen Missingness Shifts",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2305.11782v2",
+     "doi": null,
+     "title": "Real-time and Robust Feature Detection of Continuous Marker Pattern for Dense 3-D Deformation Measurement",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.30781v1",
+     "doi": null,
+     "title": "Missingness-Aware Conformal Prediction Under Cross-Hospital Distribution Shift",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.11486v1",
+     "doi": null,
+     "title": "Time Series Prediction under Distribution Shift using Differentiable Forgetting",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2211.02093v3",
+     "doi": null,
+     "title": "Domain Adaptation under Missingness Shift",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.05796v1",
+     "doi": null,
+     "title": "Estimating Test Performance for AI Medical Devices under Distribution Shift with Conformal Prediction",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1911.02899v2",
+     "doi": null,
+     "title": "A robust adaptive model predictive control framework for nonlinear uncertain systems",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "predictor measurement heterogeneity external validation prediction model",
+   "date": "2026-11-25T10:40:00",
+   "openalex_count": 176918,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2963499961",
+     "doi": "https://doi.org/10.1002/sim.8183",
+     "title": "Impact of predictor measurement heterogeneity across settings on the performance of prediction models: A measurement error perspective",
+     "year": 2019,
+     "venue": "Statistics in Medicine",
+     "cites": 154
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4390674087",
+     "doi": "https://doi.org/10.1136/bmj-2023-074819",
+     "title": "Evaluation of clinical prediction models (part 1): from development to external validation",
+     "year": 2024,
+     "venue": "BMJ",
+     "cites": 1152
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4321782827",
+     "doi": "https://doi.org/10.1186/s12916-023-02779-w",
+     "title": "There is no such thing as a validated prediction model",
+     "year": 2023,
+     "venue": "BMC Medicine",
+     "cites": 393
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2156831284",
+     "doi": "https://doi.org/10.1186/1471-2288-14-3",
+     "title": "Developing and validating risk prediction models in an individual participant data meta-analysis",
+     "year": 2014,
+     "venue": "BMC Medical Research Methodology",
+     "cites": 126
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2903856737",
+     "doi": null,
+     "title": "Impact of non-transportable predictor measurements on performance of prediction models: a measurement error perspective",
+     "year": 2018,
+     "venue": "Utrecht University Repository (Utrecht University)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4390876555",
+     "doi": "https://doi.org/10.1136/bmj-2023-074820",
+     "title": "Evaluation of clinical prediction models (part 2): how to undertake an external validation study",
+     "year": 2024,
+     "venue": "BMJ",
+     "cites": 811
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3109609494",
+     "doi": "https://doi.org/10.1093/ckj/sfaa188",
+     "title": "External validation of prognostic models: what, why, how, when and where?",
+     "year": 2020,
+     "venue": "Clinical Kidney Journal",
+     "cites": 1066
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3096077066",
+     "doi": "https://doi.org/10.3390/ijerph17217919",
+     "title": "Risk Prediction Models for Melanoma: A Systematic Review on the Heterogeneity in Model Development and Validation",
+     "year": 2020,
+     "venue": "International Journal of Environmental Research and Public Health",
+     "cites": 47
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3187581061",
+     "doi": "https://doi.org/10.1161/circoutcomes.121.007858",
+     "title": "External Validations of Cardiovascular Clinical Prediction Models: A Large-Scale Review of the Literature",
+     "year": 2021,
+     "venue": "Circulation Cardiovascular Quality and Outcomes",
+     "cites": 101
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3134566315",
+     "doi": "https://doi.org/10.1681/asn.2020071077",
+     "title": "Kidney Failure Prediction Models: A Comprehensive External Validation Study in Patients with Advanced CKD",
+     "year": 2021,
+     "venue": "Journal of the American Society of Nephrology",
+     "cites": 98
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4296774986",
+     "doi": "https://doi.org/10.1016/j.preghy.2022.09.005",
+     "title": "Preeclampsia prediction with blood pressure measurements: A global external validation of the ALSPAC models",
+     "year": 2022,
+     "venue": "Pregnancy Hypertension",
+     "cites": 8
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2740950031",
+     "doi": "https://doi.org/10.1111/jth.13781",
+     "title": "External validation of the DASH prediction rule: a retrospective cohort study",
+     "year": 2017,
+     "venue": "Journal of Thrombosis and Haemostasis",
+     "cites": 95
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1806.10495v3",
+     "doi": null,
+     "title": "Impact of predictor measurement heterogeneity across settings on performance of prediction models: a measurement error perspective",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1002.1144v1",
+     "doi": null,
+     "title": "A CHAID Based Performance Prediction Model in Educational Data Mining",
+     "year": "2010",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.30429v1",
+     "doi": null,
+     "title": "Closing the Loop: Continuous Measurement-Driven Refinement of Offloading Predictions",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2101.07005v2",
+     "doi": null,
+     "title": "Optical Flow Method for Measuring Deformation of Soil Specimen Subjected to Torsional Shearing",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1506.02689v1",
+     "doi": null,
+     "title": "Identification of Error Sources in High Precision Weight Measurements of Gyroscopes",
+     "year": "2015",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2312.12008v2",
+     "doi": null,
+     "title": "How to develop, externally validate, and update multinomial prediction models",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2305.11782v2",
+     "doi": null,
+     "title": "Real-time and Robust Feature Detection of Continuous Marker Pattern for Dense 3-D Deformation Measurement",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2506.00969v1",
+     "doi": null,
+     "title": "Data Heterogeneity Modeling for Trustworthy Machine Learning",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "informative missingness measurement frequency features hospital transfer ICU model",
+   "date": "2026-11-25T10:40:04",
+   "openalex_count": 2529,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4318940495",
+     "doi": "https://doi.org/10.1016/j.jbi.2023.104306",
+     "title": "Informative missingness: What can we learn from patterns in missing laboratory data in the electronic health record?",
+     "year": 2023,
+     "venue": "Journal of Biomedical Informatics",
+     "cites": 69
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1966724379",
+     "doi": "https://doi.org/10.1186/cc13547",
+     "title": "Audit of bacteraemia management in a university hospital ICU",
+     "year": 2014,
+     "venue": "Critical Care",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4407229952",
+     "doi": "https://doi.org/10.1038/s41746-024-01426-9",
+     "title": "Predicting appropriateness of antibiotic treatment among ICU patients with hospital-acquired infection",
+     "year": 2025,
+     "venue": "npj Digital Medicine",
+     "cites": 33
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4390528000",
+     "doi": "https://doi.org/10.48550/arxiv.2312.17624",
+     "title": "XAI for In-hospital Mortality Prediction via Multimodal ICU Data",
+     "year": 2023,
+     "venue": "arXiv",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2786635213",
+     "doi": "https://doi.org/10.1136/bmjopen-2017-017833",
+     "title": "Multicentre validation of a sepsis prediction algorithm using only vital sign data in the emergency department, general ward and ICU",
+     "year": 2018,
+     "venue": "BMJ Open",
+     "cites": 382
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7154855280",
+     "doi": "https://doi.org/10.1038/s41598-026-49311-7",
+     "title": "A federated learning framework for deep imputation of missing data in heterogeneous ICU time series",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 21
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7166843573",
+     "doi": "https://doi.org/10.18653/v1/2026.findings-acl.1313",
+     "title": "Learning Dynamic Representations and Policies from Multimodal Clinical Time-Series with Informative Missingness",
+     "year": 2026,
+     "venue": "Findings of the Association for Computational Linguistics: ACL (Findings of ACL)",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2152804923",
+     "doi": "https://doi.org/10.1186/cc12483",
+     "title": "Family satisfaction with patient care in ICUs of nonacademic Brazilian public hospitals",
+     "year": 2013,
+     "venue": "Critical Care",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2126104119",
+     "doi": "https://doi.org/10.1186/cc12443",
+     "title": "Activity and case-mix changes in a medical ICU after the geographical transfer of a third-level university hospital",
+     "year": 2013,
+     "venue": "Critical Care",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4412540120",
+     "doi": "https://doi.org/10.1186/s12911-025-03031-6",
+     "title": "Early detection of ICU-acquired infections using high-frequency electronic health record data",
+     "year": 2025,
+     "venue": "BMC Medical Informatics and Decision Making",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W145824215",
+     "doi": "https://doi.org/10.1186/cc12333",
+     "title": "Current practices in ICU delirium management: a prospective multicenter study in the Netherlands",
+     "year": 2013,
+     "venue": "Critical Care",
+     "cites": 245
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7225103644",
+     "doi": "https://doi.org/10.48550/arxiv.2610.42126",
+     "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2305.11782v2",
+     "doi": null,
+     "title": "Real-time and Robust Feature Detection of Continuous Marker Pattern for Dense 3-D Deformation Measurement",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.03953v2",
+     "doi": null,
+     "title": "PMU measurements based short-term voltage stability assessment of power systems via deep transfer learning",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2002.06247v2",
+     "doi": null,
+     "title": "Robust Policies For Proactive ICU Transfers",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1604.05076v1",
+     "doi": null,
+     "title": "On temporal correlations in high-resolution frequency counting",
+     "year": "2016",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.06645v1",
+     "doi": null,
+     "title": "A Multimodal Deep Learning Framework for Predicting ICU Deterioration: Integrating ECG Waveforms with Clinical Data and Clinician Benchmarking",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.12696v1",
+     "doi": null,
+     "title": "Global maps of travel time to emergency and tertiary hospitals",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1802.05012v2",
+     "doi": null,
+     "title": "'Getting out of the closet': Scientific authorship of literary fiction and knowledge transfer",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.30781v1",
+     "doi": null,
+     "title": "Missingness-Aware Conformal Prediction Under Cross-Hospital Distribution Shift",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P6",
+   "query": "model updating ICU early warning local data transfer learning gradient boosting",
+   "date": "2026-11-25T10:40:07",
+   "openalex_count": 681,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3189230924",
+     "doi": "https://doi.org/10.48550/arxiv.2111.08536",
+     "title": "HiRID-ICU-Benchmark -- A Comprehensive Machine Learning Benchmark on High-resolution ICU Data",
+     "year": 2021,
+     "venue": "arXiv",
+     "cites": 77
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7225789922",
+     "doi": "https://doi.org/10.48550/arxiv.2611.13661",
+     "title": "SepsisFlow: an event-stream foundation model for continuous risk warning and trajectory modelling in ICU sepsis",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4411477276",
+     "doi": "https://doi.org/10.1101/2025.06.20.25329978",
+     "title": "Early Warning Model for Patient Deterioration: A Machine Learning Approach for Nurse-Led Monitoring",
+     "year": 2025,
+     "venue": "medRxiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7222477827",
+     "doi": "https://doi.org/10.47857/irjms.2026.v07i04.010543",
+     "title": "Multimodal Deep Learning Framework for Early Sepsis Prediction Using ICU Physiological and Clinical Data",
+     "year": 2026,
+     "venue": "International Research Journal of Multidisciplinary Scope",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4319960975",
+     "doi": "https://doi.org/10.17760/d20474701",
+     "title": "Data-driven modeling and learning approach to solving ICU risk prediction and survival analysis",
+     "year": 2022,
+     "venue": "Digital Repository Service (Northeastern University)",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4416999795",
+     "doi": "https://doi.org/10.48047/jocaaa.2024.33.08.329",
+     "title": "Virtual ICU: An AI-Driven, Real-Time Early Warning System for Critical Patient with Integrated Simulation",
+     "year": 2025,
+     "venue": "Journal of Computational Analysis and Applications",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7221921586",
+     "doi": "https://doi.org/10.5445/ir/1000197752",
+     "title": "Machine Learning-Based ICU Stay Prediction",
+     "year": 2026,
+     "venue": "Repository KITopen (Karlsruhe Institute of Technology)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3009583110",
+     "doi": "https://doi.org/10.1038/s41591-020-0789-4",
+     "title": "Early prediction of circulatory failure in the intensive care unit using machine learning",
+     "year": 2020,
+     "venue": "Nature Medicine",
+     "cites": 645
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7213420334",
+     "doi": "https://doi.org/10.1038/s41598-026-71682-0",
+     "title": "Development and internal validation of an EHR machine learning model for clinical deterioration in ICU linked inpatients",
+     "year": 2026,
+     "venue": "Scientific Reports",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7160640454",
+     "doi": "https://doi.org/10.21203/rs.3.rs-9160612/v1",
+     "title": "Machine learning prediction of unplanned ICU transfer using structured and clinical text data from electronic health records",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7164133478",
+     "doi": "https://doi.org/10.1007/s10729-026-09760-y",
+     "title": "Toward generalizable and interpretable machine learning models in healthcare: Insights from ICU outcome predictions",
+     "year": 2026,
+     "venue": "Health Care Management Science",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3107882649",
+     "doi": "https://doi.org/10.1016/j.dt.2020.11.014",
+     "title": "Maneuvering target tracking of UAV based on MN-DDPG and transfer learning",
+     "year": 2020,
+     "venue": "Defence Technology",
+     "cites": 167
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.02337v1",
+     "doi": null,
+     "title": "Federated and Transfer Learning: A Survey on Adversaries and Defense Mechanisms",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.01634v1",
+     "doi": null,
+     "title": "Online Gradient Boosting Decision Tree: In-Place Updates for Efficient Adding/Deleting Data",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2005.07866v1",
+     "doi": null,
+     "title": "Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1204.3055v1",
+     "doi": null,
+     "title": "IVOA Recommendation: Spectrum Data Model 1.1",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1907.02664v2",
+     "doi": null,
+     "title": "Data Encoding for Byzantine-Resilient Distributed Optimization",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1911.08967v1",
+     "doi": null,
+     "title": "Transfer Learning Toolkit: Primers and Benchmarks",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2007.09855v5",
+     "doi": null,
+     "title": "Wide Boosting",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2407.08250v3",
+     "doi": null,
+     "title": "Gradient Boosting Reinforcement Learning",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    }
+   ]
   }
  ],
  "papers_opened": [
