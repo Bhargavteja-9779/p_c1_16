@@ -73,7 +73,7 @@ Our cohort under the published protocol: 30629 stays, 1837 events (published: 30
 ## Leakage check (G8): PASS — results/leakage_check.json
 
 ## Compute
-Global 2.58 h of 120 h; per cycle: c1 1.21 h, c2 1.37 h (state/budget.json)
+Global 5.08 h of 120 h; per cycle: c1 1.21 h, c2 3.87 h (state/budget.json)
 
 ## Gates, novelty score, limitations
 See HANDOFF.md (gate table) and state/novelty_ledger.json (scores); limitations in journal/ENTRIES.
