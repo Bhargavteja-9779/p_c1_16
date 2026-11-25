@@ -1450,3 +1450,7 @@
 [2026-11-25T20:44:24+00:00] mode=full plan=plan_v7.yaml jobs_total=806 added=0
 [2026-11-25T20:44:24+00:00] started v7x__T1__B_SICU__B_MICU__s0__val (pid 278, attempt 2)
 [2026-11-25T20:44:24+00:00] started v7x__T1__A_MICU__A_SICU__s1__val (pid 279, attempt 2)
+[2026-11-25T20:53:20+00:00] done v7x__T1__A_MICU__A_SICU__s1__val
+[2026-11-25T20:53:20+00:00] started v7x__T1__A_MICU__B_MICU__s1__val (pid 607, attempt 1)
+[2026-11-25T20:53:40+00:00] done v7x__T1__B_SICU__B_MICU__s0__val
+[2026-11-25T20:53:40+00:00] started v7x__T1__A_MICU__B_SICU__s1__val (pid 625, attempt 1)
