@@ -1595,3 +1595,11 @@ E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,
 E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_D,A_L,0.70760,0.08568,0.68427
 E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_D,B_D,0.87205,0.14554,0.86474
 E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_D,B_L,0.80750,0.12227,0.82712
+E12_dosex__route6__lgbm__all__full__B_L__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_L,A_D,0.77390,0.08446,0.77921
+E12_dosex__route6__lgbm__all__full__B_L__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_L,A_L,0.77098,0.08856,0.76113
+E12_dosex__route6__lgbm__all__full__B_L__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_L,B_D,0.82349,0.11288,0.84850
+E12_dosex__route6__lgbm__all__full__B_L__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_L,B_L,0.85053,0.12648,0.87852
+E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_S,A_S,0.78992,0.08851,0.77726
+E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_S,A_G,0.70817,0.06748,0.81124
+E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_S,B_S,0.70356,0.04148,0.71850
+E12_dosex__los__lgbm__all__full__A_S__s1__val,E12_dosex,los,lgbm,all,full,1,val,A_S,B_G,0.73469,0.04855,0.80730

@@ -18797,11 +18797,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__route6__lgbm__all__full__B_L__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T10:37:56+00:00"
+      "started": "2026-11-25T10:37:56+00:00",
+      "finished": "2026-11-25T10:38:37+00:00"
     },
     {
       "id": "E12_dosex__los__lgbm__all__full__A_S__s1__val",
@@ -18831,11 +18832,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__los__lgbm__all__full__A_S__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T10:38:12+00:00"
+      "started": "2026-11-25T10:38:12+00:00",
+      "finished": "2026-11-25T10:38:57+00:00"
     },
     {
       "id": "E12_dosex__los__lgbm__all__full__A_G__s1__val",
@@ -18865,10 +18867,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__los__lgbm__all__full__A_G__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T10:38:37+00:00"
     },
     {
       "id": "E12_dosex__los__lgbm__all__full__B_S__s1__val",
@@ -18898,10 +18901,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__los__lgbm__all__full__B_S__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T10:38:57+00:00"
     },
     {
       "id": "E12_dosex__los__lgbm__all__full__B_G__s1__val",
