@@ -1,7 +1,7 @@
 {
- "cycle": 1,
- "phase": "CYCLE1_ANALYSIS",
- "step": "E6 analysed; next G8 leakage check, G4 comparison, plan_v3 (eICU demo breadth)",
+ "cycle": 2,
+ "phase": "CYCLE2_EXPLORE",
+ "step": "plan_v3 exploration (val) running",
  "status": "RUNNING",
  "pivots": 0,
  "last_action": "E6 100/100 done; frozen analysis + E5 run; journal 012; D21",

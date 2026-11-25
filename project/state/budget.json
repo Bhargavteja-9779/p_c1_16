@@ -1,9 +1,10 @@
 {
- "unit": "compute seconds (CPU; no GPU available on this machine)",
- "per_cycle": {
-  "1": 4363.119889259338
- },
- "global_seconds": 4363.119889259338,
- "cycle_ceiling_h": 15,
- "global_ceiling_h": 120
+  "unit": "compute seconds (CPU; no GPU available on this machine)",
+  "per_cycle": {
+    "1": 4363.119889259338,
+    "2": 120.1421000957489
+  },
+  "global_seconds": 4483.261989355087,
+  "cycle_ceiling_h": 15,
+  "global_ceiling_h": 120
 }
