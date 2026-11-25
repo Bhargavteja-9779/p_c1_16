@@ -159,23 +159,21 @@ v7:
   tasks:
     T1: {data: features_v1 (sepsis, hourly), cells: [A_MICU, A_SICU, B_MICU, B_SICU]}
     T2: {data: features_v6 (hypotension), cells: [A_MICU, A_SICU, B_MICU, B_SICU, M_MICU, M_SICU]}
-  transfers: all ordered pairs (s, t) with s != t, labelled W (same site), X (other site, same unit), XX (other site, other unit)
+  transfers: "all ordered pairs (s, t) with s != t, labelled W (same site), X (other site, same unit), XX (other site, other unit)"
   n_local_patients: [50, 100, 200, 400]     # sampled from target-cell TRAIN split, stratified by ever-positive; sample seed = run seed
   primary_n: 100
-  source_model: frozen LightGBM recipe (src/train_eval.fit_lgbm, grid on source val), trained once per (task, source cell, seed)
+  source_model: "frozen LightGBM recipe (src/train_eval.fit_lgbm, grid on source val), trained once per (task, source cell, seed)"
   methods:
-    source: imported model, no update
-    local: LightGBM on the n local patients only (all features)
-    pooled: LightGBM on source train + n local patients (local rows weight = n_source_rows / n_local_rows, capped at 20)
-    resid_all: residual booster, init_score = source logit, ALL features
-    spru: residual booster, init_score = source logit, process + context features only   (PROPOSED)
-    resid_phys: residual booster, init_score = source logit, value + trend features only    (ablation: physiology-restricted)
-    resid_rand: residual booster, init_score = source logit, random feature subset of the same size as spru (ablation; subset seed = run seed)
-  equal_budget: every method that trains on local data picks its number of rounds from {25, 50, 100, 200, 400} by 3-fold
-    patient-level CV inside the n local patients (AUROC); fixed params learning_rate 0.05, num_leaves 7, min_child_samples 20,
-    lambda_l2 10, feature_fraction 1.0. 'pooled' uses the same grid with CV folds over local patients (source rows always in train).
-  evaluation: target-cell val rows (explore, seeds 0-2) / test rows (confirm, seeds 100-104); hour-level AUROC; AUPRC, Brier reported
-  code: scripts/adapt_v7.py (one job = task x source x target x seed x n; all methods), scripts/analyze_v7.py
+    source: "imported model, no update"
+    local: "LightGBM on the n local patients only (all features)"
+    pooled: "LightGBM on source train + n local patients (local rows weight = n_source_rows / n_local_rows, capped at 20)"
+    resid_all: "residual booster, init_score = source logit, ALL features"
+    spru: "residual booster, init_score = source logit, process + context features only   (PROPOSED)"
+    resid_phys: "residual booster, init_score = source logit, value + trend features only    (ablation: physiology-restricted)"
+    resid_rand: "residual booster, init_score = source logit, random feature subset of the same size as spru (ablation; subset seed = run seed)"
+  equal_budget: "every method that trains on local data picks its number of rounds from {25, 50, 100, 200, 400} by 3-fold patient-level CV inside the n local patients (AUROC); fixed params learning_rate 0.05, num_leaves 7, min_child_samples 20, lambda_l2 10, feature_fraction 1.0. 'pooled' uses the same grid with CV folds over local patients (source rows always in train)."
+  evaluation: "target-cell val rows (explore, seeds 0-2) / test rows (confirm, seeds 100-104); hour-level AUROC; AUPRC, Brier reported"
+  code: "scripts/adapt_v7.py (one job = task x source x target x seed x n; all methods), scripts/analyze_v7.py"
   hypotheses:
     H12: "PRIMARY (method). At n = 100 on X transfers, SPRU AUROC minus the best baseline > 0, per task (T1, T2); Holm over
           the 2 tasks. Best baseline per task = the baseline (source, local, pooled, resid_all) with the highest mean

@@ -1591,3 +1591,7 @@ E12_dosex__route6__lgbm__all__full__A_L__s1__val,E12_dosex,route6,lgbm,all,full,
 E12_dosex__route6__lgbm__all__full__A_L__s1__val,E12_dosex,route6,lgbm,all,full,1,val,A_L,A_L,0.81128,0.11907,0.80292
 E12_dosex__route6__lgbm__all__full__A_L__s1__val,E12_dosex,route6,lgbm,all,full,1,val,A_L,B_D,0.79012,0.08466,0.80067
 E12_dosex__route6__lgbm__all__full__A_L__s1__val,E12_dosex,route6,lgbm,all,full,1,val,A_L,B_L,0.77745,0.06349,0.81149
+E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_D,A_D,0.73656,0.06482,0.72564
+E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_D,A_L,0.70760,0.08568,0.68427
+E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_D,B_D,0.87205,0.14554,0.86474
+E12_dosex__route6__lgbm__all__full__B_D__s1__val,E12_dosex,route6,lgbm,all,full,1,val,B_D,B_L,0.80750,0.12227,0.82712
