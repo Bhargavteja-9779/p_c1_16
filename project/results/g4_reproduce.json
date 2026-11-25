@@ -1,0 +1,39 @@
+{
+ "cohort_stays": 30629,
+ "events": 1837,
+ "n_features": 207,
+ "published": {
+  "cohort": 30646,
+  "events": 1843,
+  "xgb_A_int": 0.725,
+  "xgb_AtoB": 0.608,
+  "xgb_B_int": 0.702,
+  "xgb_BtoA": 0.636
+ },
+ "results": {
+  "lgbm_A": {
+   "internal": 0.7729487750285124,
+   "AtoB": 0.6576143067846608,
+   "n_int": 1564,
+   "n_ext": 1436
+  },
+  "lgbm_B": {
+   "internal": 0.7234328908554571,
+   "BtoA": 0.6462555576563005,
+   "n_int": 1436,
+   "n_ext": 1564
+  },
+  "enet_lr_A": {
+   "internal": 0.758256435903222,
+   "AtoB": 0.6937223451327434,
+   "n_int": 1564,
+   "n_ext": 1436
+  },
+  "enet_lr_B": {
+   "internal": 0.7112278761061948,
+   "BtoA": 0.6609539957185463,
+   "n_int": 1436,
+   "n_ext": 1564
+  }
+ }
+}

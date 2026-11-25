@@ -1,0 +1,87 @@
+# plan_v3b (2026-11-25): identical to plan_v3 except phases now include confirm (test, seeds_confirm). scripts/analyze_v3.py frozen at the commit logged in D25.
+# plan_v3 (cycle 2), written 2026-11-25 BEFORE any v3 job ran. plan_v2 and its E6 results are untouched.
+# Reason (decisions D23): G7/breadth failed (one dataset, one control factor); eICU-CRD demo cannot support a
+# factorial (2,520 stays / 186 hospitals, ~220 deaths, journal 013) and no other open multi-site ICU dataset with
+# both site and unit exists. G7 allows ">= 2 shift conditions": we add two more within-hospital control factors,
+# a mechanism experiment (feature groups), a size-matched robustness check and a practical pooled-training question.
+# Model code = frozen src/train_eval.py (fit_lgbm / fit_lr / metrics) via src/train_eval_v3.py.
+version: 3
+date: 2026-11-25
+inherits: plan_v2.yaml
+seeds_explore: [0, 1, 2]
+seeds_confirm: [100, 101, 102, 103, 104]
+# plan_v2 job list, copied verbatim (all done; ids unchanged):
+models:
+  lgbm:
+    grid_num_leaves:
+    - 15
+    - 63
+    - 255
+    early_stopping_on: source-cell val
+  lr:
+    grid_C:
+    - 0.01
+    - 0.1
+    - 1.0
+    selection_on: source-cell val
+cells:
+- A_MICU
+- A_SICU
+- B_MICU
+- B_SICU
+experiments:
+  E1_explore:
+    desc: done under plan_v1
+    train_cells: all
+    models:
+    - lgbm
+    - lr
+    seeds: explore
+    fixes:
+    - none
+    eval_split: val
+  E2_fixes:
+    desc: done under plan_v1
+    train_cells: all
+    models:
+    - lgbm
+    seeds: explore
+    fixes:
+    - harm
+    - harm_noproc
+    - harm_noproc_norm
+    eval_split: val
+  E5_estimate:
+    desc: scripts/e5_estimators.py (split-half few-label check) on E6 test predictions
+  E6_confirm:
+    desc: FROZEN config on TEST with seeds_confirm; analysis = scripts/analyze_transport.py --nboot 2000 and scripts/e5_estimators.py at commit tagged in decisions D17
+    train_cells: all
+    models:
+    - lgbm
+    - lr
+    seeds: confirm
+    fixes:
+    - none
+    - harm
+    - harm_noproc
+    - harm_noproc_norm
+    eval_split: test
+v3:
+  phases: [explore, confirm]   # plan_v3b: ONLY change vs plan_v3 (analysis frozen first, D25)
+  experiments:
+    - {id: E7_factors, factors: [age, route], models: [lgbm, lr]}                       # H4
+    - {id: E8_mech, factors: [unit], featsets: [vitals, labs, noproc, proc], models: [lgbm]}  # H5 (+ 'all' = E1/E6)
+    - {id: E9_size, factors: [unit], size: matched, models: [lgbm, lr]}                 # H6
+    - {id: E10_pool, factors: [unit], pooled: true, models: [lgbm]}                     # estimation only
+hypotheses:
+  H4: "With age band (Y<65/O>=65) and admission route (D: ICU within 24 h of hospital admission / L: later) as the
+       within-hospital control factor, D = gap_site - gap_unit(control) > 0 (LightGBM and LR; 4 tests, Holm within
+       the v3 family). Reported with domain-classifier AUC for each control vs site shift (shift-size context)."
+  H5: "Mechanism: the site excess D (unit factor) is smaller for vitals-only models than for all-feature models
+       (D_all - D_vitals > 0, LightGBM). D for labs-only, process-only and no-process models is estimated."
+  H6: "D > 0 persists when every source cell's training set is subsampled to the same number of patients
+       (LightGBM and LR)."
+  E10: "Estimate: for target t, AUROC of a model trained on (same hospital other unit + other hospital same unit)
+        pooled vs each source alone. No test."
+inference: "Same as plan_v2: patient-cluster bootstrap within target cell, 2000 resamples at confirmation, mean over
+  seeds and 4 target cells, two-sided p, Holm across the v3 confirmatory family {H4 x4, H5, H6 x2}."

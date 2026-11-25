@@ -61,7 +61,9 @@ def holm(ps):
 def domain_auc(factor, pairs):
     import lightgbm as lgb
     from sklearn.metrics import roc_auc_score
-    feat, groups = load(factor); cols = featcols(groups, "all"); res = {}
+    feat, groups = load(factor); res = {}
+    drop = {"age": {"Age"}, "route": {"HospAdmTime"}}.get(factor, set())  # the variable that defines the cells
+    cols = [c for c in featcols(groups, "all") if c not in drop]
     for a, b in pairs:
         d = feat[feat.cell.isin([a, b])]
         tr, va = d[d.split == "train"], d[d.split == "val"]
