@@ -1178,3 +1178,8 @@
 [2026-11-25T10:40:22+00:00] started E12_dosex__rand1__lgbm__all__full__B_R0__s1__val (pid 15368, attempt 1)
 [2026-11-25T10:40:32+00:00] done E12_dosex__rand1__lgbm__all__full__A_R1__s1__val
 [2026-11-25T10:40:32+00:00] started E12_dosex__rand1__lgbm__all__full__B_R1__s1__val (pid 15378, attempt 1)
+[2026-11-25T13:21:52+00:00] recovered interrupted job E12_dosex__rand1__lgbm__all__full__B_R0__s1__val -> pending (resumes from checkpoint)
+[2026-11-25T13:21:52+00:00] recovered interrupted job E12_dosex__rand1__lgbm__all__full__B_R1__s1__val -> pending (resumes from checkpoint)
+[2026-11-25T13:21:52+00:00] mode=full plan=plan_v7.yaml jobs_total=806 added=126
+[2026-11-25T13:21:52+00:00] started E12_dosex__rand1__lgbm__all__full__B_R0__s1__val (pid 7587, attempt 2)
+[2026-11-25T13:21:52+00:00] started E12_dosex__rand1__lgbm__all__full__B_R1__s1__val (pid 7588, attempt 2)

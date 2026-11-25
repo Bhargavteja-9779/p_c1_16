@@ -4,6 +4,6 @@
  "step": "E12 (v5) + E13/E14 (v6) explore running",
  "status": "RUNNING",
  "pivots": 0,
- "last_action": "plan_v6 pre-registered; launched",
+ "last_action": "session 6: queue relaunched after container restart (D35)",
  "updated": "2026-11-25"
 }

@@ -1,6 +1,6 @@
 # HANDOFF — read this first
 
-_Last updated: 2026-11-25 (cycle 3, session 5 — jobs running)_
+_Last updated: 2026-11-25 13:25 UTC (cycle 3, session 6 — queue relaunched after container restart; branch `claude/modest-clarke-9kl8u1`, D35)_
 
 ## Where we are
 - **Cycle:** 3 **Phase:** CYCLE3_RUN — session 5 (branch `claude/serene-newton-bylqpn`, fast-forwarded from `claude/lucid-bell-7mlvge`, D31).
