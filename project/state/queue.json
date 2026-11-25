@@ -23073,11 +23073,12 @@
       ],
       "threads": 2,
       "result": "results/v7/v7x__T1__A_MICU__B_MICU__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v7.yaml",
       "added": "2026-11-25T13:21:52+00:00",
-      "started": "2026-11-25T20:53:20+00:00"
+      "started": "2026-11-25T20:53:20+00:00",
+      "finished": "2026-11-25T21:04:55+00:00"
     },
     {
       "id": "v7x__T1__A_MICU__B_SICU__s1__val",
@@ -23098,11 +23099,12 @@
       ],
       "threads": 2,
       "result": "results/v7/v7x__T1__A_MICU__B_SICU__s1__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v7.yaml",
       "added": "2026-11-25T13:21:52+00:00",
-      "started": "2026-11-25T20:53:40+00:00"
+      "started": "2026-11-25T20:53:40+00:00",
+      "finished": "2026-11-25T21:04:15+00:00"
     },
     {
       "id": "v7x__T1__A_SICU__A_MICU__s1__val",
@@ -23123,10 +23125,11 @@
       ],
       "threads": 2,
       "result": "results/v7/v7x__T1__A_SICU__A_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v7.yaml",
-      "added": "2026-11-25T13:21:52+00:00"
+      "added": "2026-11-25T13:21:52+00:00",
+      "started": "2026-11-25T21:04:15+00:00"
     },
     {
       "id": "v7x__T1__A_SICU__B_MICU__s1__val",
@@ -23147,10 +23150,11 @@
       ],
       "threads": 2,
       "result": "results/v7/v7x__T1__A_SICU__B_MICU__s1__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v7.yaml",
-      "added": "2026-11-25T13:21:52+00:00"
+      "added": "2026-11-25T13:21:52+00:00",
+      "started": "2026-11-25T21:04:55+00:00"
     },
     {
       "id": "v7x__T1__A_SICU__B_SICU__s1__val",
