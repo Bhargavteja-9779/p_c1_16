@@ -17296,6 +17296,1698 @@
      "cites": null
     }
    ]
+  },
+  {
+   "claim": "P5",
+   "query": "PhysioNet 2012 PhysioNet 2019 cross-database external validation",
+   "date": "2026-11-25T10:40:09",
+   "openalex_count": 2068,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4401577131",
+     "doi": "https://doi.org/10.3390/electronics13163222",
+     "title": "Review of Phonocardiogram Signal Analysis: Insights from the PhysioNet/CinC Challenge 2016 Database",
+     "year": 2024,
+     "venue": "Electronics",
+     "cites": 41
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4414825075",
+     "doi": "https://doi.org/10.1088/1361-6579/aead44",
+     "title": "Detection of Chagas disease from the ECG: the George B. Moody PhysioNet Challenge 2025",
+     "year": 2026,
+     "venue": "Physiological Measurement",
+     "cites": 44
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7135056061",
+     "doi": "https://doi.org/10.3390/app16062735",
+     "title": "Leakage-Aware Federated Learning for ICU Sepsis Early Warning: Fixed Alert-Rate Evaluation on PhysioNet/CinC 2019 and MIMIC-IV",
+     "year": 2026,
+     "venue": "Applied Sciences",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7171578756",
+     "doi": "https://doi.org/10.2139/ssrn.7197508",
+     "title": "Leakage-audited subject-independent motor-imagery EEG decoding with label-free test-time alignment: a reproducible nested-LOSO benchmark on BCI-IV-2a and PhysioNet",
+     "year": 2026,
+     "venue": "SSRN Electronic Journal",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7169855444",
+     "doi": "https://doi.org/10.64898/2026.07.19.26358409",
+     "title": "Cross-database validation reveals distinct layers of transportability in ICU delirium prediction",
+     "year": 2026,
+     "venue": "medRxiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4312018544",
+     "doi": "https://doi.org/10.1097/aln.0000000000004478",
+     "title": "Predicting Intensive Care Delirium with Machine Learning: Model Development and External Validation",
+     "year": 2022,
+     "venue": "Anesthesiology",
+     "cites": 63
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406090644",
+     "doi": "https://doi.org/10.1186/s12911-024-02830-7",
+     "title": "External validation of AI-based scoring systems in the ICU: a systematic review and meta-analysis",
+     "year": 2025,
+     "venue": "BMC Medical Informatics and Decision Making",
+     "cites": 92
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7212849432",
+     "doi": "https://doi.org/10.21203/rs.3.rs-10559528/v1",
+     "title": "External validation reveals poor calibration despite preserved discrimination for a vasopressin treatment-signal prediction model across ICU databases",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4386418446",
+     "doi": "https://doi.org/10.3389/fneur.2023.1251570",
+     "title": "Development and external validation of a nomogram for predicting postoperative pneumonia in aneurysmal subarachnoid hemorrhage",
+     "year": 2023,
+     "venue": "Frontiers in Neurology",
+     "cites": 19
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7169838466",
+     "doi": "https://doi.org/10.21203/rs.3.rs-10050782/v1",
+     "title": "Haemodynamic intolerance at the de-resuscitation decision in critically ill adults: development, temporal and external validation of a prediction model across two intensive care databases",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7141340095",
+     "doi": "https://doi.org/10.3390/biomedinformatics6020016",
+     "title": "Prediction of Postoperative Stroke in Elderly Surgical ICU Patients Using Random Forest Model: Development on MIMIC-IV with Cross-Institutional and Temporal External Validation",
+     "year": 2026,
+     "venue": "BioMedInformatics",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7151634620",
+     "doi": "https://doi.org/10.48550/arxiv.2604.04485",
+     "title": "ECG Biometrics with ArcFace-Inception: External Validation on MIMIC and HEEDB",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 3
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2602.15371v2",
+     "doi": null,
+     "title": "From PhysioNet to Foundation Models -- A History and Potential Futures",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1210.0325v1",
+     "doi": null,
+     "title": "World Summary of $\u03b1_s$ (2012)",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1210.2390v1",
+     "doi": null,
+     "title": "Vaxjo Interpretation of Wave Function: 2012",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1909.04938v1",
+     "doi": null,
+     "title": "MAGIC and MWL monitoring of the blazar TXS 0506+056 in the 2018/2019 season",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1907.09854v1",
+     "doi": null,
+     "title": "Overview and Results: CL-SciSumm Shared Task 2019",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1209.1047v1",
+     "doi": null,
+     "title": "Theory summary. Hard Probes 2012",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1611.04872v1",
+     "doi": null,
+     "title": "Topological classifier for detecting the emergence of epileptic seizures",
+     "year": "2016",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1204.4428v1",
+     "doi": null,
+     "title": "EDCC 2012 - Fast Abstracts & Student Forum Proceedings",
+     "year": "2012",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "sepsis prediction external validation across hospitals ICU unit type medical surgical",
+   "date": "2026-11-25T10:40:12",
+   "openalex_count": 7775,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406170188",
+     "doi": "https://doi.org/10.3390/make7010006",
+     "title": "AI Advances in ICU with an Emphasis on Sepsis Prediction: An Overview",
+     "year": 2025,
+     "venue": "Machine Learning and Knowledge Extraction",
+     "cites": 36
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4313242224",
+     "doi": "https://doi.org/10.1186/s12911-022-02090-3",
+     "title": "Transferability and interpretability of the sepsis prediction models in the intensive care unit",
+     "year": 2022,
+     "venue": "BMC Medical Informatics and Decision Making",
+     "cites": 40
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4385762558",
+     "doi": "https://doi.org/10.1016/j.eclinm.2023.102124",
+     "title": "Predicting sepsis using deep learning across international sites: a retrospective development and validation study",
+     "year": 2023,
+     "venue": "EClinicalMedicine",
+     "cites": 165
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2915106240",
+     "doi": "https://doi.org/10.1186/s13613-019-0488-9",
+     "title": "The prognostic accuracy evaluation of SAPS 3, SOFA and APACHE II scores for mortality prediction in the surgical ICU: an external validation study and decision-making analysis",
+     "year": 2019,
+     "venue": "Annals of Intensive Care",
+     "cites": 103
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3193078598",
+     "doi": "https://doi.org/10.2196/28000",
+     "title": "A Machine Learning Sepsis Prediction Algorithm for Intended Intensive Care Unit Use (NAVOY Sepsis): Proof-of-Concept Study",
+     "year": 2021,
+     "venue": "JMIR Formative Research",
+     "cites": 77
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3048587623",
+     "doi": "https://doi.org/10.3389/fmed.2020.00445",
+     "title": "A Machine Learning-Based Prediction of Hospital Mortality in Patients With Postoperative Sepsis",
+     "year": 2020,
+     "venue": "Frontiers in Medicine",
+     "cites": 89
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3196930108",
+     "doi": "https://doi.org/10.1038/s41746-021-00504-6",
+     "title": "Artificial intelligence sepsis prediction algorithm learns to say \u201cI don\u2019t know\u201d",
+     "year": 2021,
+     "venue": "npj Digital Medicine",
+     "cites": 176
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4385567617",
+     "doi": "https://doi.org/10.1038/s41598-023-38650-4",
+     "title": "Development of a machine learning-based prediction model for sepsis-associated delirium in the intensive care unit",
+     "year": 2023,
+     "venue": "Scientific Reports",
+     "cites": 81
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3189055694",
+     "doi": "https://doi.org/10.1186/s12967-021-03005-y",
+     "title": "Development and validation of a score to predict mortality in ICU patients with sepsis: a multicenter retrospective study",
+     "year": 2021,
+     "venue": "Journal of Translational Medicine",
+     "cites": 59
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4388775153",
+     "doi": "https://doi.org/10.3390/jcm12227156",
+     "title": "Development and Validation of Deep-Learning-Based Sepsis and Septic Shock Early Prediction System (DeepSEPS) Using Real-World ICU Data",
+     "year": 2023,
+     "venue": "Journal of Clinical Medicine",
+     "cites": 44
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4205381897",
+     "doi": "https://doi.org/10.1016/j.jcin.2021.09.032",
+     "title": "Resuscitation Using ECPR During In-Hospital Cardiac Arrest (RESCUE-IHCA) Mortality Prediction Score and External Validation",
+     "year": 2022,
+     "venue": "JACC: Cardiovascular Interventions",
+     "cites": 120
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2282181907",
+     "doi": "https://doi.org/10.1001/jama.2016.0288",
+     "title": "Assessment of Clinical Criteria for Sepsis: For the Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)",
+     "year": 2016,
+     "venue": "JAMA",
+     "cites": 4820
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2406.05646v2",
+     "doi": null,
+     "title": "ICU-Sepsis: A Benchmark MDP Built from Real Medical Data",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.05702v1",
+     "doi": null,
+     "title": "Cross-center Early Sepsis Recognition by Medical Knowledge Guided Collaborative Learning for Data-scarce Hospitals",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1912.00672v2",
+     "doi": null,
+     "title": "On Classifying Sepsis Heterogeneity in the ICU: Insight Using Machine Learning",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2505.22840v1",
+     "doi": null,
+     "title": "Development and Validation of SXI++ LNM Algorithm for Sepsis Prediction",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1812.06686v3",
+     "doi": null,
+     "title": "Sepsis Prediction and Vital Signs Ranking in Intensive Care Unit Patients",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.31821v1",
+     "doi": null,
+     "title": "A Surgical Foundation Model Reveals Task-Dependent Label Efficiency",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1908.09038v1",
+     "doi": null,
+     "title": "Identification of Pediatric Sepsis Subphenotypes for Enhanced Machine Learning Predictive Performance: A Latent Profile Analysis",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2608.02663v2",
+     "doi": null,
+     "title": "Variable-aware representation, not relation typing, explains the performance of an event-graph model for ICU mortality prediction: temporal and external validation",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "hypotension early warning external validation eICU MIMIC",
+   "date": "2026-11-25T10:40:15",
+   "openalex_count": 141,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7126065435",
+     "doi": "https://doi.org/10.1016/j.isci.2026.114821",
+     "title": "Stratifying mortality risk in hypotension using outcome-oriented clustering of vital sign trajectories",
+     "year": 2026,
+     "venue": "iScience",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7203953768",
+     "doi": "https://doi.org/10.1136/bmjopen-2026-123424",
+     "title": "Cardiopulmonary instability score and in-hospital mortality in critically ill patients with cardiovascular disease: a retrospective eICU cohort study",
+     "year": 2026,
+     "venue": "BMJ Open",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7125279095",
+     "doi": "https://doi.org/10.1093/ehjdh/ztaf150",
+     "title": "From haemodynamics to kidney risk: AI-based early prediction validated in general and burn ICU populations",
+     "year": 2026,
+     "venue": "European Heart Journal - Digital Health",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7124145135",
+     "doi": "https://doi.org/10.3390/diagnostics16020270",
+     "title": "A Real-Time Dynamic Warning Method for MODS in Trauma Sepsis Patients Based on a Pre-Trained Transfer Learning Algorithm",
+     "year": 2026,
+     "venue": "Diagnostics",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4285388457",
+     "doi": "https://doi.org/10.1186/s13054-022-04088-9",
+     "title": "External validation of a machine learning model to predict hemodynamic instability in intensive care unit",
+     "year": 2022,
+     "venue": "Critical Care",
+     "cites": 29
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4412017072",
+     "doi": "https://doi.org/10.1186/s12911-025-03054-z",
+     "title": "Machine learning-based predictive tools and nomogram for in-hospital mortality in critically ill cancer patients: development and external validation using retrospective cohorts",
+     "year": 2025,
+     "venue": "BMC Medical Informatics and Decision Making",
+     "cites": 12
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7169838466",
+     "doi": "https://doi.org/10.21203/rs.3.rs-10050782/v1",
+     "title": "Haemodynamic intolerance at the de-resuscitation decision in critically ill adults: development, temporal and external validation of a prediction model across two intensive care databases",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4407197117",
+     "doi": "https://doi.org/10.2196/58779",
+     "title": "An Easy and Quick Risk-Stratified Early Forewarning Model for Septic Shock in the Intensive Care Unit: Development, Validation, and Interpretation Study",
+     "year": 2025,
+     "venue": "Journal of Medical Internet Research",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4413398511",
+     "doi": "https://doi.org/10.1016/j.eclinm.2025.103438",
+     "title": "Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study",
+     "year": 2025,
+     "venue": "EClinicalMedicine",
+     "cites": 29
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7221642836",
+     "doi": "https://doi.org/10.2139/ssrn.7590801",
+     "title": "Explainable Machine Learning in Acute Care: A Structured Review of Early Warning Systems for Sepsis, Infection, and Organ Dysfunction",
+     "year": 2026,
+     "venue": "SSRN Electronic Journal",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3120766182",
+     "doi": "https://doi.org/10.1101/2021.01.07.21249121",
+     "title": "Generalized Prediction of Hemodynamic Shock in Intensive Care Units",
+     "year": 2021,
+     "venue": "medRxiv",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4399368396",
+     "doi": "https://doi.org/10.1016/j.heliyon.2024.e32454",
+     "title": "Construction and validation of a nomogram prediction model for the progression to septic shock in elderly patients with urosepsis",
+     "year": 2024,
+     "venue": "Heliyon",
+     "cites": 4
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.24287v1",
+     "doi": null,
+     "title": "Towards actionable hypotension prediction -- predicting catecholamine therapy initiation in the intensive care unit",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1904.03987v1",
+     "doi": null,
+     "title": "Early warning in egg production curves from commercial hens: A SVM approach",
+     "year": "2019",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2502.17978v2",
+     "doi": null,
+     "title": "Machine Learning-Based Prediction of ICU Mortality in Sepsis-Associated Acute Kidney Injury Patients Using MIMIC-IV Database with Validation from eICU Database",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2310.12130v2",
+     "doi": null,
+     "title": "Moduli Space Tilings and Lie-Theoretic Color Factors",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2112.14191v2",
+     "doi": null,
+     "title": "Smoothly Splitting Amplitudes and Semi-Locality",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2204.01743v2",
+     "doi": null,
+     "title": "Biadjoint Scalars and Associahedra from Residues of Generalized Amplitudes",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1810.03246v4",
+     "doi": null,
+     "title": "Honeycomb Tessellations and Graded Permutohedral Blades",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2003.07958v3",
+     "doi": null,
+     "title": "Minimal Kinematics: An All $k$ and $n$ Peek into ${\\rm Trop}^+{\\rm G}(k,n)$",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "factorial design hospital site versus patient population dataset shift",
+   "date": "2026-11-25T10:40:18",
+   "openalex_count": 2817,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7160989604",
+     "doi": "https://doi.org/10.1186/s40814-026-01936-1",
+     "title": "Findings from a randomized pilot of a full factorial trial of ASCENT: acceptability, feasibility, and intervention adherence",
+     "year": 2026,
+     "venue": "Pilot and Feasibility Studies",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2802048259",
+     "doi": null,
+     "title": "Developing a tool to evaluate patient satisfaction in an acute hospital setting.",
+     "year": 2004,
+     "venue": "Research Portal (Queen's University Belfast)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4410905855",
+     "doi": "https://doi.org/10.3389/fmicb.2025.1449642",
+     "title": "On exploring cross-sectional stability and persistence of microbiome in a multiple body site colorectal cancer dataset",
+     "year": 2025,
+     "venue": "Frontiers in Microbiology",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7216516496",
+     "doi": "https://doi.org/10.70082/7bxhf903",
+     "title": "Multidisciplinary Dental Hospital Management Of Nasopharyngeal Cancer Patients Undergoing Chemo-Radiotherapy",
+     "year": 2024,
+     "venue": "The Review of Diabetic Studies",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7225027958",
+     "doi": null,
+     "title": "A Multi-Site Fairness-Aware Machine Learning Framework for Mitigating Racial and Socioeconomic Bias in Clinical AI Across U.S. Hospitals",
+     "year": 2023,
+     "venue": "International Journal of Research & Technology",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2466830482",
+     "doi": "https://doi.org/10.1186/s12889-016-3140-8",
+     "title": "Evaluating the effectiveness of a smartphone app to reduce excessive alcohol consumption: protocol for a factorial randomised control trial",
+     "year": 2016,
+     "venue": "BMC Public Health",
+     "cites": 48
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1541479701",
+     "doi": "https://doi.org/10.82444/warw.33635158",
+     "title": "The transition from hospital to community living from mental health patients and carers",
+     "year": 2026,
+     "venue": "Warwick Research Archive Portal (University of Warwick)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2594716613",
+     "doi": null,
+     "title": "Implementation of Evidence Based Guidelines to Reduce Fall Risk in a Patient Population Vulnerable to Falling",
+     "year": 2016,
+     "venue": "ePublications at Regis University (Regis University)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2104081710",
+     "doi": "https://doi.org/10.1098/rsfs.2010.0048",
+     "title": "euHeart: personalized and integrated cardiac care using patient-specific cardiovascular modelling",
+     "year": 2011,
+     "venue": "Interface Focus",
+     "cites": 158
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2530511155",
+     "doi": "https://doi.org/10.1186/s13012-016-0502-7",
+     "title": "Study protocol for \u201cHealthy Hearts Northwest\u201d: a 2 \u00d7 2 randomized factorial trial to build quality improvement capacity in primary care",
+     "year": 2016,
+     "venue": "Implementation Science",
+     "cites": 26
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7165498984",
+     "doi": null,
+     "title": "Design and Implementation of a Method Estimating the Effectiveness of Radiofrequency Ablation in Patients with Atrial Fibrillation",
+     "year": 2026,
+     "venue": "Brno University of Technology Digital Library (Brno University of Technology)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2968380158",
+     "doi": null,
+     "title": "Multi-factorial forensic age estimation : combining magnetic resonance imaging of the third molars, the left wrist and both clavicles",
+     "year": 2019,
+     "venue": "Ghent University Academic Bibliography (Ghent University)",
+     "cites": 5
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2405.19595v1",
+     "doi": null,
+     "title": "The RSNA Abdominal Traumatic Injury CT (RATIC) Dataset",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2610.01135v2",
+     "doi": null,
+     "title": "The RSNA Intracranial Aneurysm (RSNA-ICA) Dataset",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2506.09162v1",
+     "doi": null,
+     "title": "The RSNA Lumbar Degenerative Imaging Spine Classification (LumbarDISC) Dataset",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2605.19139v2",
+     "doi": null,
+     "title": "Managing Shared Hospital Capacity for Medical Tourism: Patient Behavior and Hybrid Simulation",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.12696v1",
+     "doi": null,
+     "title": "Global maps of travel time to emergency and tertiary hospitals",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.33356v1",
+     "doi": null,
+     "title": "Long-Horizon Analog Design Bench: Benchmarking Agents on Hours-Long Analog and Mixed-Signal Circuit Design Tasks",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2408.12431v1",
+     "doi": null,
+     "title": "The Hybrid Hospital: Balancing On-Site and Remote Hospitalization",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/q-bio/0606037v2",
+     "doi": null,
+     "title": "The propagation of a cultural or biological trait by neutral genetic drift in a subdivided population",
+     "year": "2006",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "decomposing performance drop external validation case-mix versus site effects",
+   "date": "2026-11-25T10:40:21",
+   "openalex_count": 24463,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415800693",
+     "doi": "https://doi.org/10.52202/079017-4082",
+     "title": "A hierarchical decomposition for explaining ML performance discrepancies",
+     "year": 2024,
+     "venue": "neural information processing systems",
+     "cites": 15
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7161047658",
+     "doi": "https://doi.org/10.48550/arxiv.2605.11284",
+     "title": "Rethinking external validation for the target population: Capturing patient-level similarity with a generative model",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2664183426",
+     "doi": "https://doi.org/10.1002/smj.2464",
+     "title": "Mind the gap: The interplay between external and internal actions in the case of corporate social responsibility",
+     "year": 2016,
+     "venue": "Strategic Management Journal",
+     "cites": 999
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W161756584",
+     "doi": null,
+     "title": "ESTIMATING THE FRICTION PERFORMANCE OF HOT MIX ASPHALT PAVEMENTS BASED ON AGGREGATE PROPERTIES AND ROUTE CHARACTERISTICS: ANALYSIS, MODELING AND VALIDATION",
+     "year": 2011,
+     "venue": "University Libraries (University of Maryland)",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1792809699",
+     "doi": null,
+     "title": "Management of a high mix production system with interdependent demands: global and decomposed optimization approaches for inventory control",
+     "year": 2009,
+     "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7154938858",
+     "doi": "https://doi.org/10.3386/w35084",
+     "title": "Gender Mix and Team Performance: Evidence from Obstetrics",
+     "year": 2026,
+     "venue": "National Bureau of Economic Research",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7204106798",
+     "doi": "https://doi.org/10.3389/fmed.2026.1911189",
+     "title": "Preventing relapse in ulcerative colitis remission maintenance: machine learning prediction and reinforcement-learning herbal prescription optimization with external validation",
+     "year": 2026,
+     "venue": "Frontiers in Medicine",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2750753697",
+     "doi": null,
+     "title": "Enhanced Chemical Profiling of Human Decomposition in a Case Study",
+     "year": 2017,
+     "venue": "Forensic Science International",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4394931643",
+     "doi": "https://doi.org/10.1038/s41467-024-47628-3",
+     "title": "Understanding the charge transfer effects of single atoms for boosting the performance of Na-S batteries",
+     "year": 2024,
+     "venue": "Nature Communications",
+     "cites": 128
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1560890687",
+     "doi": null,
+     "title": "Management of a high mix production system with interdependent demands : modeling of stochastic demands and the concept of virtual profit as a decomposition tool",
+     "year": 2009,
+     "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
+     "cites": 3
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2793640327",
+     "doi": "https://doi.org/10.1016/j.asr.2018.03.010",
+     "title": "The THESEUS space mission concept: science case, design and expected performances",
+     "year": 2018,
+     "venue": "Advances in Space Research",
+     "cites": 267
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2754890607",
+     "doi": null,
+     "title": "Hospital Surgical Volume, Surgical Case Mix, and Profitability",
+     "year": 2017,
+     "venue": "OakTrust (Texas A&M University Libraries)",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2308.13875v1",
+     "doi": null,
+     "title": "Performance of Genetic Algorithms in the Context of Software Model Refactoring",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/cs/0012022v1",
+     "doi": null,
+     "title": "Performance and Scalability Models for a Hypergrowth e-Commerce Web Site",
+     "year": "2000",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2602.15214v1",
+     "doi": null,
+     "title": "Decomposing Docker Container Startup Performance: A Three-Tier Measurement Study on Heterogeneous Infrastructure",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2111.10282v3",
+     "doi": null,
+     "title": "Two-sided Bogoliubov inequality to estimate finite size effects in quantum molecular simulations",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1710.04094v1",
+     "doi": null,
+     "title": "Validation of hardware events for successful performance pattern identification in High Performance Computing",
+     "year": "2017",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/cond-mat/0208513v1",
+     "doi": null,
+     "title": "Bader's interatomic surface and Bohmian mechanics",
+     "year": "2002",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1002.1149v1",
+     "doi": null,
+     "title": "A Performance Study of GA and LSH in Multiprocessor Job Scheduling",
+     "year": "2010",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2405.13241v1",
+     "doi": null,
+     "title": "Selecting Experimental Sites for External Validity",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "PhysioNet Computing in Cardiology Challenge 2019 hospital A hospital B transfer generalization",
+   "date": "2026-11-25T10:40:27",
+   "openalex_count": 662,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7130361739",
+     "doi": "https://doi.org/10.1088/1361-6579/ae92e7",
+     "title": "From PhysioNet to foundation models\u2014a history and potential futures",
+     "year": 2026,
+     "venue": "Physiological Measurement",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2905016705",
+     "doi": "https://doi.org/10.1109/rbme.2018.2885714",
+     "title": "Deep Learning in Cardiology",
+     "year": 2018,
+     "venue": "IEEE Reviews in Biomedical Engineering",
+     "cites": 224
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4316013206",
+     "doi": "https://doi.org/10.1088/1361-6579/acb30f",
+     "title": "Improving generalization performance of electrocardiogram classification models",
+     "year": 2023,
+     "venue": "Physiological Measurement",
+     "cites": 16
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4392011036",
+     "doi": "https://doi.org/10.1016/j.engappai.2024.108088",
+     "title": "Length of stay prediction for hospital management using domain adaptation",
+     "year": 2024,
+     "venue": "Engineering Applications of Artificial Intelligence",
+     "cites": 15
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7138862317",
+     "doi": "https://doi.org/10.21203/rs.3.rs-9078142/v1",
+     "title": "Generalist Foundation Models Are Not Clinical Enough for Hospital Operations",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 6
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7164835876",
+     "doi": "https://doi.org/10.1007/978-3-032-28819-6_37",
+     "title": "Artificial Intelligence for Reducing Alarm Fatigue in Hospitals: A Systematic Review",
+     "year": 2026,
+     "venue": "Communications in computer and information science",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4391106879",
+     "doi": "https://doi.org/10.5603/cj.98650",
+     "title": "Advancements in artificial intelligence-driven techniques for interventional cardiology",
+     "year": 2024,
+     "venue": "Cardiology Journal",
+     "cites": 34
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4224443932",
+     "doi": "https://doi.org/10.1186/s12871-022-01625-5",
+     "title": "Learning to predict in-hospital mortality risk in the intensive care unit with attention-based temporal convolution network",
+     "year": 2022,
+     "venue": "BMC Anesthesiology",
+     "cites": 31
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3154562975",
+     "doi": "https://doi.org/10.1016/j.jbi.2021.103778",
+     "title": "A deep attention model to forecast the Length Of Stay and the in-hospital mortality right on admission from ICD codes and demographic data",
+     "year": 2021,
+     "venue": "Journal of Biomedical Informatics",
+     "cites": 65
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7155366356",
+     "doi": "https://doi.org/10.21037/cdt-2025-510",
+     "title": "Artificial intelligence in cardiology in the current era: a narrative review",
+     "year": 2026,
+     "venue": "Cardiovascular Diagnosis and Therapy",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3000445840",
+     "doi": "https://doi.org/10.18725/oparu-23807",
+     "title": "Statistical Computing 2019 : Abstracts der 51. Arbeitstagung",
+     "year": 2020,
+     "venue": "OPen Access Repositorium der Universit\u00e4t Ulm (OPARU) (Ulm University)",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4236124531",
+     "doi": "https://doi.org/10.21203/rs.3.rs-44310/v2",
+     "title": "Learning to Predict in-hospital mortality risk in intensive care unit with attention-based Temporal convolution network",
+     "year": 2020,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1411.4413v2",
+     "doi": null,
+     "title": "Observation of the rare $B^0_s\\to\u03bc^+\u03bc^-$ decay from the combined analysis of CMS and LHCb data",
+     "year": "2014",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/0901.0512v4",
+     "doi": null,
+     "title": "Expected Performance of the ATLAS Experiment - Detector, Trigger and Physics",
+     "year": "2008",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1406.6311v4",
+     "doi": null,
+     "title": "The Physics of the B Factories",
+     "year": "2014",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.05701v1",
+     "doi": null,
+     "title": "Measurement of the CKM angle $\u03b3$ in $B^{\\pm} \\rightarrow D(\\rightarrow K^{0}_{\\rm S} h^{\\prime+}h^{\\prime-})h^{\\pm}$ decays with a novel approach",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2403.03004v1",
+     "doi": null,
+     "title": "Ultralight vector dark matter search using data from the KAGRA O3GK run",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.07595v3",
+     "doi": null,
+     "title": "Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.05712v1",
+     "doi": null,
+     "title": "Precise measurement of the CKM angle $\u03b3$ with a novel approach",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1710.05839v2",
+     "doi": null,
+     "title": "Search for High-energy Neutrinos from Binary Neutron Star Merger GW170817 with ANTARES, IceCube, and the Pierre Auger Observatory",
+     "year": "2017",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "medical ICU surgical ICU model transfer generalization MIMIC",
+   "date": "2026-11-25T10:40:29",
+   "openalex_count": 729,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7211925637",
+     "doi": "https://doi.org/10.3390/jcm15186957",
+     "title": "Generalization, Cross-ICU Transfer, and Explainability of a Mortality and Time-to-Discharge Framework for the Intensive Care Unit",
+     "year": 2026,
+     "venue": "Journal of Clinical Medicine",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4400283511",
+     "doi": "https://doi.org/10.1097/ccm.0000000000006359",
+     "title": "The Impact of Multi-Institution Datasets on the Generalizability of Machine Learning Prediction Models in the ICU",
+     "year": 2024,
+     "venue": "Critical Care Medicine",
+     "cites": 124
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4406133288",
+     "doi": "https://doi.org/10.1101/2025.01.01.25319859",
+     "title": "ICU Readmission Prediction for Intracerebral Hemorrhage Patients using MIMIC III and MIMIC IV Databases",
+     "year": 2025,
+     "venue": "medRxiv",
+     "cites": 9
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7221093648",
+     "doi": "https://doi.org/10.3389/fncom.2026.1900553",
+     "title": "HQML-ICU: hybrid quantum-classical machine learning for ICU mortality prediction using MIMIC-IV electronic health records",
+     "year": 2026,
+     "venue": "Frontiers in Computational Neuroscience",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7141340095",
+     "doi": "https://doi.org/10.3390/biomedinformatics6020016",
+     "title": "Prediction of Postoperative Stroke in Elderly Surgical ICU Patients Using Random Forest Model: Development on MIMIC-IV with Cross-Institutional and Temporal External Validation",
+     "year": 2026,
+     "venue": "BioMedInformatics",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3216387578",
+     "doi": "https://doi.org/10.3390/diagnostics11122242",
+     "title": "Predicting Prolonged Length of ICU Stay through Machine Learning",
+     "year": 2021,
+     "venue": "Diagnostics",
+     "cites": 64
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4308118698",
+     "doi": "https://doi.org/10.3390/jcm11216460",
+     "title": "Applying an Improved Stacking Ensemble Model to Predict the Mortality of ICU Patients with Heart Failure",
+     "year": 2022,
+     "venue": "Journal of Clinical Medicine",
+     "cites": 57
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7126274747",
+     "doi": "https://doi.org/10.3390/healthcare14030356",
+     "title": "Machine Learning Prediction of ICU Mortality and Length of Stay in Atrial Fibrillation: A MIMIC-IV/MIMIC-III Study",
+     "year": 2026,
+     "venue": "Healthcare",
+     "cites": 7
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4367057227",
+     "doi": "https://doi.org/10.1016/j.ijmedinf.2023.105086",
+     "title": "Generalizable calibrated machine learning models for real-time atrial fibrillation risk prediction in ICU patients",
+     "year": 2023,
+     "venue": "International Journal of Medical Informatics",
+     "cites": 34
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7124978981",
+     "doi": "https://doi.org/10.21203/rs.3.rs-8548831/v1",
+     "title": "A Multimodal Rolling-Window Framework for ICU Transfer Prediction in Hospitalized Patients with Comorbid Hypertension",
+     "year": 2026,
+     "venue": "Research Square",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4407229952",
+     "doi": "https://doi.org/10.1038/s41746-024-01426-9",
+     "title": "Predicting appropriateness of antibiotic treatment among ICU patients with hospital-acquired infection",
+     "year": 2025,
+     "venue": "npj Digital Medicine",
+     "cites": 33
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4311662001",
+     "doi": "https://doi.org/10.1097/ccm.0000000000005758",
+     "title": "Predicting Readmission or Death After Discharge From the ICU: External Validation and Retraining of a Machine Learning Model",
+     "year": 2022,
+     "venue": "Critical Care Medicine",
+     "cites": 58
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2601.06645v1",
+     "doi": null,
+     "title": "A Multimodal Deep Learning Framework for Predicting ICU Deterioration: Integrating ECG Waveforms with Clinical Data and Clinician Benchmarking",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2507.13655v1",
+     "doi": null,
+     "title": "CU-ICU: Customizing Unsupervised Instruction-Finetuned Language Models for ICU Datasets via Text-to-Text Transfer Transformer",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2501.01183v1",
+     "doi": null,
+     "title": "Machine Learning-Based Prediction of ICU Readmissions in Intracerebral Hemorrhage Patients: Insights from the MIMIC Databases",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2002.06247v2",
+     "doi": null,
+     "title": "Robust Policies For Proactive ICU Transfers",
+     "year": "2020",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2406.05646v2",
+     "doi": null,
+     "title": "ICU-Sepsis: A Benchmark MDP Built from Real Medical Data",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2510.24500v1",
+     "doi": null,
+     "title": "MIMIC-Sepsis: A Curated Benchmark for Modeling and Learning from Sepsis Trajectories in the ICU",
+     "year": "2025",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1512.05294v2",
+     "doi": null,
+     "title": "Feature Representation for ICU Mortality",
+     "year": "2015",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2609.31821v1",
+     "doi": null,
+     "title": "A Surgical Foundation Model Reveals Task-Dependent Label Efficiency",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "acute hypotensive episode prediction transfer across datasets",
+   "date": "2026-11-25T10:40:31",
+   "openalex_count": 994,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2219945493",
+     "doi": null,
+     "title": "Methods and models for acute hypotensive episode prediction",
+     "year": 2011,
+     "venue": "Oxford University Research Archive (ORA) (University of Oxford)",
+     "cites": 14
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4398158948",
+     "doi": "https://doi.org/10.1088/1361-6579/ad4e92",
+     "title": "LDSG-Net: an efficient lightweight convolutional neural network for acute hypotensive episode prediction during ICU hospitalization",
+     "year": 2024,
+     "venue": "Physiological Measurement",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2078971158",
+     "doi": "https://doi.org/10.1186/cc10806",
+     "title": "What matters during a hypotensive episode: fluids, vasopressors, or both?",
+     "year": 2012,
+     "venue": "Critical Care",
+     "cites": 2
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W159446680",
+     "doi": null,
+     "title": "Predicting hypotensive episodes in the traumatic brain injury domain",
+     "year": 2014,
+     "venue": "Enlighten: Theses (The University of Glasgow)",
+     "cites": 1
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4386945156",
+     "doi": "https://doi.org/10.1186/s12871-023-02283-x",
+     "title": "Prediction of episode of hemodynamic instability using an electrocardiogram based analytic: a retrospective cohort study",
+     "year": 2023,
+     "venue": "BMC Anesthesiology",
+     "cites": 11
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3040868855",
+     "doi": "https://doi.org/10.1109/rbme.2020.3007816",
+     "title": "Machine Learning for Clinical Outcome Prediction",
+     "year": 2020,
+     "venue": "IEEE Reviews in Biomedical Engineering",
+     "cites": 298
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3040788463",
+     "doi": "https://doi.org/10.1038/s41598-020-67952-0",
+     "title": "Generalizable deep temporal models for predicting episodes of sudden hypotension in critically ill patients: a personalized approach",
+     "year": 2020,
+     "venue": "Scientific Reports",
+     "cites": 47
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4390016129",
+     "doi": "https://doi.org/10.36740/wlek202311104",
+     "title": "PREDICTION OF EXTERNAL PANCREATIC FISTULA DEVELOPMENT IN PATIENTS WITH ACUTE INFECTED NECROTISING PANCREATITIS",
+     "year": 2023,
+     "venue": "Wiadomo\u015bci Lekarskie",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2519100293",
+     "doi": "https://doi.org/10.5287/ora-ker5rynpd",
+     "title": "Prediction of mortality in septic patients with hypotension",
+     "year": 2014,
+     "venue": "Oxford University Research Archive (ORA) (University of Oxford)",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7214542277",
+     "doi": "https://doi.org/10.1016/j.autneu.2026.103501",
+     "title": "Differences in cognitive functioning and haemodynamic outcomes between individuals with chronic spinal cord injury and non-injured controls: Hypotensive underpinnings",
+     "year": 2026,
+     "venue": "Autonomic Neuroscience",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W1516253629",
+     "doi": "https://doi.org/10.1186/cc12226",
+     "title": "Feasibility and experience of using exception from informed consent in a pilot study of immediate estrogen infusion for hypotensive trauma patients",
+     "year": 2013,
+     "venue": "Critical Care",
+     "cites": 0
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2026432202",
+     "doi": "https://doi.org/10.1186/cc9528",
+     "title": "Use of Doppler ultrasound renal resistive index and neutrophil gelatinase-associated lipocalin in prediction of acute kidney injury in patients with septic shock",
+     "year": 2011,
+     "venue": "Critical Care",
+     "cites": 5
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2211.04850v1",
+     "doi": null,
+     "title": "Final infarct prediction in acute ischemic stroke",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1811.06106v3",
+     "doi": null,
+     "title": "Multivariate Time-series Similarity Assessment via Unsupervised Representation Learning and Stratified Locality Sensitive Hashing: Application to Early Acute Hypotensive Episode Detection",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2302.07155v1",
+     "doi": null,
+     "title": "EPISODE: Episodic Gradient Clipping with Periodic Resampled Corrections for Federated Learning with Heterogeneous Data",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2112.03914v1",
+     "doi": null,
+     "title": "Synthetic Acute Hypotension and Sepsis Datasets Based on MIMIC-III and Published as Part of the Health Gym Project",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2109.05633v1",
+     "doi": null,
+     "title": "Generating Datasets of 3D Garments with Sewing Patterns",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1802.05012v2",
+     "doi": null,
+     "title": "'Getting out of the closet': Scientific authorship of literary fiction and knowledge transfer",
+     "year": "2018",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2607.09685v1",
+     "doi": null,
+     "title": "Transfer Learning Across Policy Regimes in Adaptive Multi-Agent Systems",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2111.10198v2",
+     "doi": null,
+     "title": "Datasets for Online Controlled Experiments",
+     "year": "2021",
+     "venue": null,
+     "cites": null
+    }
+   ]
+  },
+  {
+   "claim": "P5",
+   "query": "sources of dataset shift clinical prediction model performance decomposition covariate shift",
+   "date": "2026-11-25T10:40:34",
+   "openalex_count": 6878,
+   "hits": [
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4384522057",
+     "doi": "https://doi.org/10.1093/jrsssb/qkad069",
+     "title": "Prediction sets adaptive to unknown covariate shift",
+     "year": 2023,
+     "venue": "Journal of the Royal Statistical Society Series B (Statistical Methodology)",
+     "cites": 65
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4414111455",
+     "doi": "https://doi.org/10.1093/biomet/asaf066",
+     "title": "Model-free selective inference under covariate shift via weighted conformal p -values",
+     "year": 2025,
+     "venue": "Biometrika",
+     "cites": 72
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W2980877143",
+     "doi": "https://doi.org/10.48550/arxiv.1910.06324",
+     "title": "Robust Importance Weighting for Covariate Shift",
+     "year": 2020,
+     "venue": "International Conference on Artificial Intelligence and Statistics",
+     "cites": 5
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4307001602",
+     "doi": "https://doi.org/10.48550/arxiv.2210.10769",
+     "title": "\"Why did the Model Fail?\": Attributing Model Performance Changes to Distribution Shifts",
+     "year": 2023,
+     "venue": "International Conference on Machine Learning",
+     "cites": 37
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7133503785",
+     "doi": "https://doi.org/10.1214/25-aos2566",
+     "title": "Pseudo-Labeling for kernel ridge regression under covariate shift",
+     "year": 2026,
+     "venue": "The Annals of Statistics",
+     "cites": 41
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7163743397",
+     "doi": "https://doi.org/10.1093/biomet/asag033",
+     "title": "Automatic debiased machine learning for covariate shifts",
+     "year": 2026,
+     "venue": "Biometrika",
+     "cites": 30
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3035022348",
+     "doi": "https://doi.org/10.48550/arxiv.2006.14988",
+     "title": "Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift",
+     "year": 2020,
+     "venue": "International Conference on Machine Learning",
+     "cites": 40
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W4415823580",
+     "doi": "https://doi.org/10.1073/pnas.2427181122",
+     "title": "Beyond reweighting: On the predictive role of covariate shift in effect generalization",
+     "year": 2025,
+     "venue": "Proceedings of the National Academy of Sciences",
+     "cites": 14
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7236517778",
+     "doi": null,
+     "title": "CoFact: Conformal Factuality Guarantees for Language Models under Covariate Shift",
+     "year": 2026,
+     "venue": "International Conference on Learning Representations",
+     "cites": 4
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3171613114",
+     "doi": "https://doi.org/10.48550/arxiv.2107.00643",
+     "title": "Mandoline: Model Evaluation under Distribution Shift",
+     "year": 2021,
+     "venue": "International Conference on Machine Learning",
+     "cites": 75
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W3141526526",
+     "doi": "https://doi.org/10.1080/01621459.2021.1909599",
+     "title": "Generalized Bayes Quantification Learning under Dataset Shift",
+     "year": 2021,
+     "venue": "Journal of the American Statistical Association",
+     "cites": 31
+    },
+    {
+     "src": "openalex",
+     "id": "https://openalex.org/W7162469124",
+     "doi": "https://doi.org/10.48550/arxiv.2605.24854",
+     "title": "Deep Regression for Repeated Measurements under Covariate Shift",
+     "year": 2026,
+     "venue": "arXiv",
+     "cites": 2
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2206.02435v2",
+     "doi": null,
+     "title": "Tackling covariate shift with node-based Bayesian neural networks",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.05796v1",
+     "doi": null,
+     "title": "Estimating Test Performance for AI Medical Devices under Distribution Shift with Conformal Prediction",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/1002.1144v1",
+     "doi": null,
+     "title": "A CHAID Based Performance Prediction Model in Educational Data Mining",
+     "year": "2010",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2207.11486v1",
+     "doi": null,
+     "title": "Time Series Prediction under Distribution Shift using Differentiable Forgetting",
+     "year": "2022",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2604.22787v2",
+     "doi": null,
+     "title": "Conformal PM2.5 Mapping Under Spatial Covariate Shift: Satellite-Reanalysis Fusion for Africa's Green Industrial Transition",
+     "year": "2026",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2307.14758v1",
+     "doi": null,
+     "title": "Towards Practicable Sequential Shift Detectors",
+     "year": "2023",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2404.15018v2",
+     "doi": null,
+     "title": "Conformal Predictive Systems Under Covariate Shift",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    },
+    {
+     "src": "arxiv",
+     "id": "http://arxiv.org/abs/2405.19595v1",
+     "doi": null,
+     "title": "The RSNA Abdominal Traumatic Injury CT (RATIC) Dataset",
+     "year": "2024",
+     "venue": null,
+     "cites": null
+    }
+   ]
   }
  ],
  "papers_opened": [

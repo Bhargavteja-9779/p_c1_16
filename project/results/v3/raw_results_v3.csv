@@ -1615,3 +1615,11 @@ E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,
 E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_G,A_G,0.91505,0.16884,0.90331
 E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_G,B_S,0.64195,0.03091,0.51936
 E12_dosex__los__lgbm__all__full__B_G__s1__val,E12_dosex,los,lgbm,all,full,1,val,B_G,B_G,0.94568,0.25128,0.96094
+E12_dosex__rand1__lgbm__all__full__A_R0__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R0,A_R0,0.80790,0.10148,0.81849
+E12_dosex__rand1__lgbm__all__full__A_R0__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R0,A_R1,0.81528,0.11336,0.81904
+E12_dosex__rand1__lgbm__all__full__A_R0__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R0,B_R0,0.76717,0.07893,0.77670
+E12_dosex__rand1__lgbm__all__full__A_R0__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R0,B_R1,0.81607,0.09579,0.81687
+E12_dosex__rand1__lgbm__all__full__A_R1__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R1,A_R0,0.79356,0.11151,0.80864
+E12_dosex__rand1__lgbm__all__full__A_R1__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R1,A_R1,0.80797,0.10779,0.81207
+E12_dosex__rand1__lgbm__all__full__A_R1__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R1,B_R0,0.74899,0.06714,0.77720
+E12_dosex__rand1__lgbm__all__full__A_R1__s1__val,E12_dosex,rand1,lgbm,all,full,1,val,A_R1,B_R1,0.76021,0.07343,0.78549
