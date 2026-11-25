@@ -1,0 +1,22 @@
+{
+ "stays_total": 40336,
+ "stays_A": 20336,
+ "stays_B": 20000,
+ "hourly_rows_total": 1552210,
+ "cell_stays": 24719,
+ "cell_patient_hours": 940250,
+ "cell_septic_stays": 1616,
+ "n_features": 134,
+ "test_patients": {
+  "A_MICU": 1056,
+  "A_SICU": 1088,
+  "B_MICU": 1400,
+  "B_SICU": 1384
+ },
+ "test_septic": {
+  "A_MICU": 115,
+  "A_SICU": 48,
+  "B_MICU": 75,
+  "B_SICU": 85
+ }
+}
