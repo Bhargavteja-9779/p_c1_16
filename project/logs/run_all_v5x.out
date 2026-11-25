@@ -1,3 +1,17 @@
 [2026-11-25T07:59:56+00:00] mode=full plan=plan_v5.yaml jobs_total=608 added=96
 [2026-11-25T07:59:56+00:00] started E12_dosex__sex__lgbm__all__full__A_F__s0__val (pid 302, attempt 1)
 [2026-11-25T07:59:56+00:00] started E12_dosex__sex__lgbm__all__full__A_M__s0__val (pid 303, attempt 1)
+[2026-11-25T08:01:04+00:00] done E12_dosex__sex__lgbm__all__full__A_F__s0__val
+[2026-11-25T08:01:04+00:00] started E12_dosex__sex__lgbm__all__full__B_F__s0__val (pid 418, attempt 1)
+[2026-11-25T08:01:09+00:00] done E12_dosex__sex__lgbm__all__full__A_M__s0__val
+[2026-11-25T08:01:09+00:00] started E12_dosex__sex__lgbm__all__full__B_M__s0__val (pid 427, attempt 1)
+[2026-11-25T08:04:04+00:00] done E12_dosex__sex__lgbm__all__full__B_F__s0__val
+[2026-11-25T08:04:04+00:00] started E12_dosex__age50__lgbm__all__full__A_Y__s0__val (pid 474, attempt 1)
+[2026-11-25T08:04:39+00:00] done E12_dosex__sex__lgbm__all__full__B_M__s0__val
+[2026-11-25T08:04:39+00:00] started E12_dosex__age50__lgbm__all__full__A_O__s0__val (pid 491, attempt 1)
+[2026-11-25T08:05:54+00:00] done E12_dosex__age50__lgbm__all__full__A_Y__s0__val
+[2026-11-25T08:05:54+00:00] started E12_dosex__age50__lgbm__all__full__B_Y__s0__val (pid 516, attempt 1)
+[2026-11-25T08:08:20+00:00] done E12_dosex__age50__lgbm__all__full__B_Y__s0__val
+[2026-11-25T08:08:20+00:00] started E12_dosex__age50__lgbm__all__full__B_O__s0__val (pid 554, attempt 1)
+[2026-11-25T08:09:35+00:00] done E12_dosex__age50__lgbm__all__full__A_O__s0__val
+[2026-11-25T08:09:35+00:00] started E12_dosex__age75__lgbm__all__full__A_Y__s0__val (pid 582, attempt 1)

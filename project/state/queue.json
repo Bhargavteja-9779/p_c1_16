@@ -17152,11 +17152,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__sex__lgbm__all__full__A_F__s0__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T07:59:56+00:00"
+      "started": "2026-11-25T07:59:56+00:00",
+      "finished": "2026-11-25T08:01:04+00:00"
     },
     {
       "id": "E12_dosex__sex__lgbm__all__full__A_M__s0__val",
@@ -17186,11 +17187,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__sex__lgbm__all__full__A_M__s0__val.json",
-      "status": "running",
+      "status": "done",
       "attempts": 1,
       "plan": "plan_v5.yaml",
       "added": "2026-11-25T07:59:56+00:00",
-      "started": "2026-11-25T07:59:56+00:00"
+      "started": "2026-11-25T07:59:56+00:00",
+      "finished": "2026-11-25T08:01:09+00:00"
     },
     {
       "id": "E12_dosex__sex__lgbm__all__full__B_F__s0__val",
@@ -17220,10 +17222,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__sex__lgbm__all__full__B_F__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T08:01:04+00:00",
+      "finished": "2026-11-25T08:04:04+00:00"
     },
     {
       "id": "E12_dosex__sex__lgbm__all__full__B_M__s0__val",
@@ -17253,10 +17257,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__sex__lgbm__all__full__B_M__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T08:01:09+00:00",
+      "finished": "2026-11-25T08:04:39+00:00"
     },
     {
       "id": "E12_dosex__age50__lgbm__all__full__A_Y__s0__val",
@@ -17286,10 +17292,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__age50__lgbm__all__full__A_Y__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T08:04:04+00:00",
+      "finished": "2026-11-25T08:05:54+00:00"
     },
     {
       "id": "E12_dosex__age50__lgbm__all__full__A_O__s0__val",
@@ -17319,10 +17327,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__age50__lgbm__all__full__A_O__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T08:04:39+00:00",
+      "finished": "2026-11-25T08:09:35+00:00"
     },
     {
       "id": "E12_dosex__age50__lgbm__all__full__B_Y__s0__val",
@@ -17352,10 +17362,12 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__age50__lgbm__all__full__B_Y__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "done",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T08:05:54+00:00",
+      "finished": "2026-11-25T08:08:20+00:00"
     },
     {
       "id": "E12_dosex__age50__lgbm__all__full__B_O__s0__val",
@@ -17385,10 +17397,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__age50__lgbm__all__full__B_O__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T08:08:20+00:00"
     },
     {
       "id": "E12_dosex__age75__lgbm__all__full__A_Y__s0__val",
@@ -17418,10 +17431,11 @@
       ],
       "threads": 2,
       "result": "results/v3/E12_dosex__age75__lgbm__all__full__A_Y__s0__val.json",
-      "status": "pending",
-      "attempts": 0,
+      "status": "running",
+      "attempts": 1,
       "plan": "plan_v5.yaml",
-      "added": "2026-11-25T07:59:56+00:00"
+      "added": "2026-11-25T07:59:56+00:00",
+      "started": "2026-11-25T08:09:35+00:00"
     },
     {
       "id": "E12_dosex__age75__lgbm__all__full__A_O__s0__val",
