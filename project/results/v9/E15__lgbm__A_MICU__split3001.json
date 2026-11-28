@@ -1,0 +1,16 @@
+{
+ "model": "lgbm",
+ "train_cell": "A_MICU",
+ "split_seed": 3001,
+ "selection": {
+  "num_leaves": 15,
+  "best_iter": 100,
+  "val_auroc": 0.7889239161272241
+ },
+ "auroc": {
+  "A_MICU": 0.7950256154848385,
+  "A_SICU": 0.8378009199803861,
+  "B_MICU": 0.7644577011086929,
+  "B_SICU": 0.7977374382464785
+ }
+}
