@@ -1466,3 +1466,12 @@
 [2026-11-25T21:25:17+00:00] started v7x__T1__B_MICU__A_SICU__s1__val (pid 1270, attempt 1)
 [2026-11-25T21:28:22+00:00] done v7x__T1__B_MICU__A_MICU__s1__val
 [2026-11-25T21:28:22+00:00] started v7x__T1__B_MICU__B_SICU__s1__val (pid 1332, attempt 1)
+[2026-11-28T03:34:35+00:00] recovered interrupted job v7x__T1__B_MICU__A_SICU__s1__val -> pending (resumes from checkpoint)
+[2026-11-28T03:34:35+00:00] recovered interrupted job v7x__T1__B_MICU__B_SICU__s1__val -> pending (resumes from checkpoint)
+[2026-11-28T03:34:35+00:00] mode=full plan=plan_v8.yaml jobs_total=1086 added=280
+[2026-11-28T03:34:35+00:00] started v7x__T1__B_MICU__A_SICU__s1__val (pid 375, attempt 2)
+[2026-11-28T03:34:35+00:00] started v7x__T1__B_MICU__B_SICU__s1__val (pid 376, attempt 2)
+[2026-11-28T03:36:40+00:00] done v7x__T1__B_MICU__A_SICU__s1__val
+[2026-11-28T03:36:40+00:00] done v7x__T1__B_MICU__B_SICU__s1__val
+[2026-11-28T03:36:40+00:00] started v7x__T1__B_SICU__A_MICU__s1__val (pid 434, attempt 1)
+[2026-11-28T03:36:40+00:00] started v7x__T1__B_SICU__A_SICU__s1__val (pid 435, attempt 1)

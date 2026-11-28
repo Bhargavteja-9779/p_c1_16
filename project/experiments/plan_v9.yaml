@@ -1,0 +1,17 @@
+# plan_v9 (2026-11-28), written BEFORE any resplit result. Reason (D44): reviewers (rounds 1-2) noted that all
+# intervals condition on one fixed split/training set. E15 estimates the between-split variability of the site excess.
+version: 9
+date: 2026-11-28
+inherits: plan_v8.yaml
+E15_resplit:
+  script: scripts/resplit_factorial.py
+  splits: 10 alternative patient splits, split seeds 3001-3010; within each hospital 60/20/20 stratified by
+          ever-septic (same rule as src/splits.py, different seed), applied to the 4 unit cells
+  models: [lgbm, lr]      # frozen fit_lgbm / fit_lr (same grids, selection on source-cell val of that split)
+  model_seed: 0
+  evaluation: each split's own test stays, hour-level AUROC
+  statistic: D(split) = mean over 4 target cells of [AUROC(population source) - AUROC(site source)]
+  H15: "Across the 10 splits, mean D > 0 for each model (one-sample t-interval over splits, two models, Holm);
+        we also report the between-split SD and the number of splits with D > 0. Note: alternative test sets contain
+        stays that were training/validation stays in the original split; this experiment estimates variability of
+        an already-confirmed effect and is not a fresh confirmation."

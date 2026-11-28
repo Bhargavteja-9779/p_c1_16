@@ -1,0 +1,63 @@
+{
+ "definition": "Threshold transfer: for each source model, the alert threshold is fixed at 90% patient-level specificity on the\nSOURCE cell's own held-out test stays (the source model's local predictions; no target labels), then applied\nunchanged in the target. Patient-level outcomes in the target:\n  specificity_real  = share of non-septic stays that never alert\n  timely_sensitivity = share of septic stays with a first alert at or before onset (onset = first positive\n                       SepsisLabel hour + 6 h, the Challenge definition)\n  lead_h            = median hours from first alert to onset among timely-detected stays\n  alerts_per_100    = alerting stays per 100 stays\nAlso: calibration-slope contrast with CI (site vs population transfer), patient-cluster bootstrap (300 reps),\nslope fitted by 1-D logistic regression of y on logit(p) per seed, averaged over seeds.\nWrites results/analysis/clinical_transfer_E6.json, tables/clinical_transfer_E6.md.",
+ "models": {
+  "lgbm": {
+   "local": {
+    "specificity_real": 0.8999129822852432,
+    "timely_sensitivity": 0.5435831202046036,
+    "lead_h": 22.7,
+    "alerts_per_100": 13.175351598206282
+   },
+   "unit": {
+    "specificity_real": 0.8614349103901027,
+    "timely_sensitivity": 0.5096748721227622,
+    "lead_h": 31.8,
+    "alerts_per_100": 16.47751750332293
+   },
+   "site": {
+    "specificity_real": 0.83062233763209,
+    "timely_sensitivity": 0.49787510656436484,
+    "lead_h": 32.65,
+    "alerts_per_100": 19.145822827291713
+   },
+   "calslope_unit_minus_site": {
+    "estimate": 0.10269824662150662,
+    "ci95": [
+     0.05226882080028162,
+     0.18998736925053653
+    ],
+    "slope_unit": 0.8157033721144762,
+    "slope_site": 0.7130051254929696
+   }
+  },
+  "lr": {
+   "local": {
+    "specificity_real": 0.8999129822852432,
+    "timely_sensitivity": 0.4804726129582268,
+    "lead_h": 20.125,
+    "alerts_per_100": 12.654594631467928
+   },
+   "unit": {
+    "specificity_real": 0.8749956752026146,
+    "timely_sensitivity": 0.4517726982097187,
+    "lead_h": 42.375,
+    "alerts_per_100": 14.779938699731076
+   },
+   "site": {
+    "specificity_real": 0.6961872807290261,
+    "timely_sensitivity": 0.5265702259164535,
+    "lead_h": 37.5,
+    "alerts_per_100": 31.979683620032354
+   },
+   "calslope_unit_minus_site": {
+    "estimate": 0.19458635295714433,
+    "ci95": [
+     0.13344390641548975,
+     0.29540988878728164
+    ],
+    "slope_unit": 0.6027382425341286,
+    "slope_site": 0.40815188957698423
+   }
+  }
+ }
+}
